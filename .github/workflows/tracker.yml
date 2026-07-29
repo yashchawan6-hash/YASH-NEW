@@ -5,6 +5,8 @@ on:
     # Run every 5 minutes
     - cron: '*/5 * * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [run-tracker]
 
 permissions:
   contents: write
