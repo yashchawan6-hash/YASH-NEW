@@ -10256,19 +10256,6 @@
     "url": "https://www.dulhanjewels.com/products/phool-design-jadau-kundan-jhumka-earrings-with-green-beads?variant=gid://shopify/ProductVariant/51501268173106",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/51501269844274": {
-    "product_title": "Classic Pink Kundan Flower Stud Earrings",
-    "product_handle": "classic-pink-kundan-flower-stud-earrings",
-    "variant_id": "gid://shopify/ProductVariant/51501269844274",
-    "global_id": "gid://shopify/ProductVariant/51501269844274",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 1000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9194.jpg?v=1784804195",
-    "url": "https://www.dulhanjewels.com/products/classic-pink-kundan-flower-stud-earrings?variant=gid://shopify/ProductVariant/51501269844274",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/51501271679282": {
     "product_title": "Ethnic Jadau Kundan Chandbali Earrings With Pearl Drops",
     "product_handle": "ethnic-jadau-kundan-chandbali-earrings-with-pearl-drops",
@@ -10501,6 +10488,32 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B24E985F-4571-459A-A8C3-86B192A09470.jpg?v=1785228929",
     "url": "https://www.dulhanjewels.com/products/regal-jadau-kundan-peacock-design-necklace-with-emerald-beads?variant=gid://shopify/ProductVariant/51515408974130",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/51517874340146": {
+    "product_title": "Designer Ruby Jadau Kundan Jhumki Earrings",
+    "product_handle": "designer-ruby-jadau-kundan-jhumki-earrings",
+    "variant_id": "gid://shopify/ProductVariant/51517874340146",
+    "global_id": "gid://shopify/ProductVariant/51517874340146",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9426.jpg?v=1785309003",
+    "url": "https://www.dulhanjewels.com/products/designer-ruby-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/51517874340146",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/51517913006386": {
+    "product_title": "Royal Jadau Kundan Chandbali Earrings With Pearl Tassels",
+    "product_handle": "royal-jadau-kundan-chandbali-earrings-with-pearl-tassels",
+    "variant_id": "gid://shopify/ProductVariant/51517913006386",
+    "global_id": "gid://shopify/ProductVariant/51517913006386",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/BC4E3B30-39AD-4CE6-9C0A-D0724EC600F2.jpg?v=1785308679",
+    "url": "https://www.dulhanjewels.com/products/royal-jadau-kundan-chandbali-earrings-with-pearl-tassels?variant=gid://shopify/ProductVariant/51517913006386",
     "stock": 1
   }
 }

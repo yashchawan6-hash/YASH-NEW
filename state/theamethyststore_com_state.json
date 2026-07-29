@@ -81184,19 +81184,6 @@
     "url": "https://www.theamethyststore.com/products/majestic-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/47850420928739",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/47850423025891": {
-    "product_title": "Statement Short Necklace Set",
-    "product_handle": "statement-short-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/47850423025891",
-    "global_id": "gid://shopify/ProductVariant/47850423025891",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14043",
-    "price": 58080.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14043.jpg?v=1768723353",
-    "url": "https://www.theamethyststore.com/products/statement-short-necklace-set?variant=gid://shopify/ProductVariant/47850423025891",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47850681204963": {
     "product_title": "Elisha Nagas Short Necklace",
     "product_handle": "elisha-nagas-short-necklace",
@@ -138669,5 +138656,44 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1432.jpg?v=1785072058",
     "url": "https://www.theamethyststore.com/products/gorgeous-look-avikam-bracelet?variant=gid://shopify/ProductVariant/49448304247011",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49472038142179": {
+    "product_title": "Cute Floral Kundan Studs",
+    "product_handle": "kundan-studs-25",
+    "variant_id": "gid://shopify/ProductVariant/49472038142179",
+    "global_id": "gid://shopify/ProductVariant/49472038142179",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15115",
+    "price": 5800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15115.jpg?v=1785304732",
+    "url": "https://www.theamethyststore.com/products/kundan-studs-25?variant=gid://shopify/ProductVariant/49472038142179",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49472042041571": {
+    "product_title": "Mango Design Kundan Studs",
+    "product_handle": "kundan-studs-26",
+    "variant_id": "gid://shopify/ProductVariant/49472042041571",
+    "global_id": "gid://shopify/ProductVariant/49472042041571",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15117",
+    "price": 6050.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15117.jpg?v=1785304962",
+    "url": "https://www.theamethyststore.com/products/kundan-studs-26?variant=gid://shopify/ProductVariant/49472042041571",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49472059605219": {
+    "product_title": "Floral Kundan Studs",
+    "product_handle": "floral-kundan-studs-4",
+    "variant_id": "gid://shopify/ProductVariant/49472059605219",
+    "global_id": "gid://shopify/ProductVariant/49472059605219",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15119",
+    "price": 5900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15119.jpg?v=1785305179",
+    "url": "https://www.theamethyststore.com/products/floral-kundan-studs-4?variant=gid://shopify/ProductVariant/49472059605219",
+    "stock": 1
   }
 }
