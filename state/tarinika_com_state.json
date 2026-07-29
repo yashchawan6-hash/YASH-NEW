@@ -13154,7 +13154,8 @@
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0112XW5.jpg?v=1725353552",
     "url": "https://www.tarinika.com/products/luna-nakshatra-cz-gold-plated-bracelet?variant=gid://shopify/ProductVariant/41607078412354",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/41607092633666": {
     "product_title": "Astra Nakshatra CZ Red Bracelet",
