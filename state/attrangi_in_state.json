@@ -5251,19 +5251,6 @@
     "url": "https://www.attrangi.in/products/aleem-oversized-jadaau-statement-earrings?variant=gid://shopify/ProductVariant/46018041184468",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/43459422191828": {
-    "product_title": "Zeenia Diamond Chandelier Earrings",
-    "product_handle": "zeenia-diamond-chandelier-earrings",
-    "variant_id": "gid://shopify/ProductVariant/43459422191828",
-    "global_id": "gid://shopify/ProductVariant/43459422191828",
-    "variant_title": "Default Title",
-    "sku": "CB1310",
-    "price": 2950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeenia-diamond-chandelier-earrings-attrangi-1.jpg?v=1739814327",
-    "url": "https://www.attrangi.in/products/zeenia-diamond-chandelier-earrings?variant=gid://shopify/ProductVariant/43459422191828",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/43459426025684": {
     "product_title": "Tiny Diamond Bali\u2019s | Daily Wear | Limited Edition",
     "product_handle": "tiny-diamond-bali-s-daily-wear-limited-edition",
@@ -5393,6 +5380,19 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/dual-piroi-pumpkin-beaded-mala-attrangi-1.jpg?v=1739814409",
     "url": "https://www.attrangi.in/products/dual-piroi-pumpkin-beaded-mala?variant=gid://shopify/ProductVariant/43587724083412",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/43587732144340": {
+    "product_title": "Fulkaari Polki Necklace Set",
+    "product_handle": "fulkaari-polki-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/43587732144340",
+    "global_id": "gid://shopify/ProductVariant/43587732144340",
+    "variant_title": "Default Title",
+    "sku": "SM3517",
+    "price": 3850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulkaari-polki-necklace-set-attrangi-1.jpg?v=1739814413",
+    "url": "https://www.attrangi.in/products/fulkaari-polki-necklace-set?variant=gid://shopify/ProductVariant/43587732144340",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45271201382612": {
     "product_title": "Diamond Nose Pin",
