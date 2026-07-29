@@ -11585,7 +11585,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/shambhavi-potta-meenakari-bangles-attrangi-2.jpg?v=1739816611",
     "url": "https://www.attrangi.in/products/shambhavi-potta-meenakari-bangles?variant=gid://shopify/ProductVariant/45557174173908",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45333309817044": {
     "product_title": "Alison Mid Sized Diamond Earrings",
@@ -25990,19 +25991,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770982612",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/47027771015380": {
-    "product_title": "Rosy Moissanite Pacheli Style Thin Polki Bangle | Openable",
-    "product_handle": "rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable",
-    "variant_id": "gid://shopify/ProductVariant/47027771015380",
-    "global_id": "gid://shopify/ProductVariant/47027771015380",
-    "variant_title": "Pair / 2.6",
-    "sku": "RC41018Z6X2-BN",
-    "price": 5650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027771015380",
     "stock": 1
   },
   "gid://shopify/ProductVariant/47045697175764": {
