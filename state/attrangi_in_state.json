@@ -2844,7 +2844,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/multi-gem-stone-navratna-bracelet-attrangi-1.jpg?v=1739813338",
     "url": "https://www.attrangi.in/products/multi-gem-stone-navratna-bracelet?variant=gid://shopify/ProductVariant/43596338004180",
-    "stock": 4
+    "stock": 3
   },
   "gid://shopify/ProductVariant/41124626301097": {
     "product_title": "Real Looking 90 Cents Round Pendant",
@@ -3819,7 +3819,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/3-carat-classic-round-solitaire-ring-attrangi-9.jpg?v=1739813910",
     "url": "https://www.attrangi.in/products/3-carat-classic-round-solitaire-ring?variant=gid://shopify/ProductVariant/42829291487444",
-    "stock": 4
+    "stock": 3
   },
   "gid://shopify/ProductVariant/42829314457812": {
     "product_title": "90 cents Classic Round Solitaire Daily Wear Ring",
@@ -20914,7 +20914,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-06-13at9.56.54PM.jpg?v=1750784182",
     "url": "https://www.attrangi.in/products/gracy-small-diamond-nath-with-pearl-drop?variant=gid://shopify/ProductVariant/46382109294804",
-    "stock": 5
+    "stock": 3
   },
   "gid://shopify/ProductVariant/46382196687060": {
     "product_title": "Tri Polish Rose Diamond Choker | Necklace Set",
@@ -25465,6 +25465,19 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-10-07_at_2.37.03_PM_1.jpg?v=1769844939",
     "url": "https://www.attrangi.in/products/mira-polki-moissanite-floral-uncut-diamond-ring-adjustable?variant=gid://shopify/ProductVariant/47011642671316",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/48386370601172": {
+    "product_title": "Mira Polki Moissanite Floral Uncut Diamond Ring | Adjustable",
+    "product_handle": "mira-polki-moissanite-floral-uncut-diamond-ring-adjustable",
+    "variant_id": "gid://shopify/ProductVariant/48386370601172",
+    "global_id": "gid://shopify/ProductVariant/48386370601172",
+    "variant_title": "Adjustable / MintGreen",
+    "sku": "NP24276MI-RI",
+    "price": 2650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-10-07_at_2.37.02_PM_9dbd2d41-1000-4637-af2a-a73447bb6061.jpg?v=1785324282",
+    "url": "https://www.attrangi.in/products/mira-polki-moissanite-floral-uncut-diamond-ring-adjustable?variant=gid://shopify/ProductVariant/48386370601172",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46993967022292": {
     "product_title": "Mona Lisa Diamond Dangling Earcuff Earring",
