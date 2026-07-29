@@ -5,6 +5,7 @@ import time
 import re
 import base64
 from urllib.parse import urlparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
 def clean_string(val):
@@ -235,7 +236,7 @@ def check_stock_in_batches(domain, token, active_variants):
     """
     
     results = {}
-    batch_size = 90
+    batch_size = 200
     total_variants = len(active_variants)
     
     for i in range(0, total_variants, batch_size):
@@ -266,7 +267,7 @@ def check_stock_in_batches(domain, token, active_variants):
                 results[v['variant_id']] = 0
                 
         if i + batch_size < total_variants:
-            time.sleep(1.5)
+            time.sleep(0.6)
             
     return results
 
@@ -433,13 +434,22 @@ def main():
     stores = config.get('stores', [])
     enabled_stores = [s for s in stores if s.get('enabled', True)]
     
-    print(f"Starting Shopify Multi-Store Sales Tracker. Processing {len(enabled_stores)} enabled stores...", flush=True)
+    print(f"Starting Shopify Multi-Store Sales Tracker. Concurrently scanning {len(enabled_stores)} enabled stores in parallel...", flush=True)
+    start_time = time.time()
     
-    for store in enabled_stores:
-        try:
-            process_store(store, bot_token, state_dir)
-        except Exception as e:
-            print(f"Unhandled error processing store {store.get('domain')}: {e}", flush=True)
+    max_workers = min(len(enabled_stores), 15)
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(process_store, store, bot_token, state_dir): store for store in enabled_stores}
+        for future in as_completed(futures):
+            store = futures[future]
+            domain = store.get('domain', 'Unknown')
+            try:
+                future.result()
+            except Exception as e:
+                print(f"[{domain}] Unhandled error during store scan: {e}", flush=True)
+                
+    elapsed = time.time() - start_time
+    print(f"All {len(enabled_stores)} store scans completed in {elapsed:.2f} seconds!", flush=True)
 
 if __name__ == '__main__':
     main()
