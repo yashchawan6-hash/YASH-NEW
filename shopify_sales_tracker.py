@@ -247,7 +247,7 @@ def check_stock_in_batches(domain, token, active_variants):
         data = post_graphql_query(url, headers, {'query': mutation, 'variables': variables})
         if not data:
             for v in batch:
-                results[v['variant_id']] = 0
+                results[v['variant_id']] = -1
             continue
             
         cart_data = data.get('data', {}).get('cartCreate', {}).get('cart', {})
@@ -260,11 +260,11 @@ def check_stock_in_batches(domain, token, active_variants):
                 quantities[g_id] = qty
                 
             for v in batch:
-                stock = quantities.get(v['global_id'], 0)
+                stock = quantities.get(v['global_id'], -1)
                 results[v['variant_id']] = stock
         else:
             for v in batch:
-                results[v['variant_id']] = 0
+                results[v['variant_id']] = -1
                 
         if i + batch_size < total_variants:
             time.sleep(0.6)
@@ -376,15 +376,29 @@ def process_store(store_config, global_bot_token, state_dir):
     
     for v in active_variants:
         v_id = v['variant_id']
-        curr_stock = stock_results.get(v_id, 0)
-        v['stock'] = curr_stock
-        current_state[v_id] = v
+        curr_stock = stock_results.get(v_id, -1)
         
-        if previous_state and v_id in previous_state:
+        # If API fetch failed for this variant (-1), retain previous stock level
+        if curr_stock == -1 and previous_state and v_id in previous_state:
+            curr_stock = previous_state[v_id].get('stock', -1)
+            
+        v['stock'] = curr_stock
+        
+        # Preserve previous last_alerted_stock memory if present
+        prev_alerted = previous_state.get(v_id, {}).get('last_alerted_stock', None) if previous_state else None
+        if prev_alerted is not None:
+            v['last_alerted_stock'] = prev_alerted
+
+        if previous_state and v_id in previous_state and curr_stock >= 0:
             prev_stock = previous_state[v_id].get('stock', 0)
-            if prev_stock > curr_stock and curr_stock >= 0 and prev_stock < 9000:
+            
+            # Memory Guard: Never alert again for the exact same stock level
+            if prev_alerted is not None and curr_stock == prev_alerted:
+                current_state[v_id] = v
+                continue
+                
+            if prev_stock > curr_stock and prev_stock < 9000:
                 qty_sold = prev_stock - curr_stock
-                # Filter out abnormal jump glitches (e.g. max batch quantity anomalies)
                 if 0 < qty_sold < 500:
                     sales_detected.append({
                         'item': v,
@@ -392,12 +406,14 @@ def process_store(store_config, global_bot_token, state_dir):
                         'curr_stock': curr_stock,
                         'qty_sold': qty_sold
                     })
+                    v['last_alerted_stock'] = curr_stock
+                    
+        current_state[v_id] = v
 
     if not previous_state:
         print(f"[{domain}] Initial baseline run. Saved {len(current_state)} variant stock levels to state file (No alerts on baseline).", flush=True)
     else:
         print(f"[{domain}] Scan complete. Sales detected: {len(sales_detected)}", flush=True)
-        # Cap max alerts to 15 per scan to respect Telegram API rate limits and avoid spam
         for sale in sales_detected[:15]:
             send_telegram_alert(
                 bot_token=store_bot_token,
@@ -408,7 +424,7 @@ def process_store(store_config, global_bot_token, state_dir):
                 curr_stock=sale['curr_stock'],
                 qty_sold=sale['qty_sold']
             )
-            time.sleep(2.5) # Respect Telegram rate limit (max 20 msgs/min per channel)
+            time.sleep(2.5)
 
     # Save new state snapshot
     os.makedirs(state_dir, exist_ok=True)
