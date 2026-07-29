@@ -11281,7 +11281,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Bugadi600_1.jpg?v=1741684753",
     "url": "https://www.kanshijewels.com/products/bugadi-3?variant=gid://shopify/ProductVariant/50724518396204",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50724521705772": {
     "product_title": "Bugadi",
