@@ -2285,7 +2285,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-ruby-emerald-studs-attrangi-1.jpg?v=1739813171",
     "url": "https://www.attrangi.in/products/rudra-ruby-emerald-studs?variant=gid://shopify/ProductVariant/40838553927849",
-    "stock": 5
+    "stock": 1
   },
   "gid://shopify/ProductVariant/40846418411689": {
     "product_title": "1 Carat Princess Cut Daily Wear Ring",
@@ -2949,6 +2949,19 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-choker-attrangi-1.jpg?v=1739813411",
     "url": "https://www.attrangi.in/products/rudra-choker?variant=gid://shopify/ProductVariant/41366109028521",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/42224696393940": {
+    "product_title": "Rudra Choker Set",
+    "product_handle": "rudra-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/42224696393940",
+    "global_id": "gid://shopify/ProductVariant/42224696393940",
+    "variant_title": "White",
+    "sku": "SM2016W",
+    "price": 4850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-choker-set-attrangi-1.jpg?v=1739813413",
+    "url": "https://www.attrangi.in/products/rudra-choker-set?variant=gid://shopify/ProductVariant/42224696393940",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42224696426708": {
     "product_title": "Rudra Choker Set",
