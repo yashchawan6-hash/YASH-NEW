@@ -6,6 +6,7 @@ import re
 import base64
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone, timedelta
 import requests
 
 def clean_string(val):
@@ -271,6 +272,123 @@ def check_stock_in_batches(domain, token, active_variants):
             
     return results
 
+def get_ist_now():
+    return datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)
+
+def record_daily_sales(clean_domain, sales_detected, daily_dir):
+    if not sales_detected:
+        return
+        
+    os.makedirs(daily_dir, exist_ok=True)
+    ist_now = get_ist_now()
+    date_str = ist_now.strftime('%Y-%m-%d')
+    daily_file = os.path.join(daily_dir, f"{clean_domain}_{date_str}.json")
+    
+    existing = []
+    if os.path.exists(daily_file):
+        try:
+            with open(daily_file, 'r', encoding='utf-8') as f:
+                existing = json.load(f)
+        except Exception:
+            existing = []
+            
+    for sale in sales_detected:
+        item = sale['item']
+        record = {
+            'timestamp': ist_now.strftime('%Y-%m-%dT%H:%M:%S+05:30'),
+            'product_title': item.get('product_title', ''),
+            'variant_title': item.get('variant_title', ''),
+            'price': item.get('price', 0.0),
+            'currency': item.get('currency', 'INR'),
+            'qty_sold': sale.get('qty_sold', 1),
+            'total_value': item.get('price', 0.0) * sale.get('qty_sold', 1),
+            'url': item.get('url', '')
+        }
+        existing.append(record)
+        
+    with open(daily_file, 'w', encoding='utf-8') as f:
+        json.dump(existing, f, indent=2)
+
+def generate_daily_sales_report(clean_domain, store_name, daily_dir):
+    ist_now = get_ist_now()
+    date_str = ist_now.strftime('%Y-%m-%d')
+    display_date = ist_now.strftime('%d %B %Y')
+    time_str = ist_now.strftime('%I:%M %p IST')
+    
+    daily_file = os.path.join(daily_dir, f"{clean_domain}_{date_str}.json")
+    
+    sales = []
+    if os.path.exists(daily_file):
+        try:
+            with open(daily_file, 'r', encoding='utf-8') as f:
+                sales = json.load(f)
+        except Exception:
+            sales = []
+            
+    if not sales:
+        return (
+            f"📊 <b>DAILY SALES REPORT - {store_name.upper()}</b>\n"
+            f"📅 <b>Date:</b> {display_date} (12:00 AM IST ➔ Present)\n\n"
+            f"ℹ️ No sales recorded yet for today.\n\n"
+            f"⏰ <i>Generated live at {time_str}</i>"
+        )
+        
+    total_qty = sum(item.get('qty_sold', 0) for item in sales)
+    total_revenue = sum(item.get('total_value', 0.0) for item in sales)
+    currency_symbol = '₹' if sales[0].get('currency') == 'INR' else '$'
+    
+    grouped = {}
+    for item in sales:
+        key = (item['product_title'], item['variant_title'], item['price'])
+        if key not in grouped:
+            grouped[key] = {'qty': 0, 'revenue': 0.0}
+        grouped[key]['qty'] += item['qty_sold']
+        grouped[key]['revenue'] += item['total_value']
+        
+    items_lines = []
+    for (p_title, v_title, price), stats in grouped.items():
+        v_str = f" ({v_title})" if v_title and v_title.lower() != 'default title' else ""
+        items_lines.append(f"• <b>{p_title}{v_str}</b> — <code>{stats['qty']} sold</code> ({currency_symbol}{stats['revenue']:,.2f})")
+        
+    items_text = "\n".join(items_lines[:25])
+    if len(items_lines) > 25:
+        items_text += f"\n<i>...and {len(items_lines) - 25} more items.</i>"
+        
+    report = (
+        f"📊 <b>DAILY SALES REPORT - {store_name.upper()}</b>\n"
+        f"📅 <b>Date:</b> {display_date} (12:00 AM IST ➔ Present)\n\n"
+        f"🔥 <b>Total Units Sold Today:</b> <code>{total_qty} units</code>\n"
+        f"💰 <b>Total Sales Revenue:</b> <code>{currency_symbol}{total_revenue:,.2f}</code>\n\n"
+        f"🛍️ <b>Items Sold Today:</b>\n"
+        f"{items_text}\n\n"
+        f"⏰ <i>Generated live at {time_str}</i>"
+    )
+    return report
+
+def check_and_handle_telegram_commands(bot_token, chat_id, store_name, clean_domain, daily_dir):
+    try:
+        url = f"https://api.telegram.org/bot{bot_token}/getUpdates"
+        r = requests.get(url, timeout=10)
+        res = r.json()
+        if not res.get('ok'):
+            return
+            
+        updates = res.get('result', [])
+        for update in updates:
+            msg = update.get('message', {}) or update.get('channel_post', {})
+            text = (msg.get('text') or '').strip().lower()
+            
+            if '/sale' in text or '/sales' in text:
+                report_msg = generate_daily_sales_report(clean_domain, store_name, daily_dir)
+                send_msg_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+                requests.post(send_msg_url, json={
+                    'chat_id': chat_id,
+                    'text': report_msg,
+                    'parse_mode': 'HTML'
+                }, timeout=10)
+    except Exception as e:
+        print(f"[{clean_domain}] Error checking Telegram command: {e}", flush=True)
+
 def send_telegram_alert(bot_token, chat_id, store_name, item, prev_stock, curr_stock, qty_sold):
     print(f"[{store_name}] Sending Telegram Alert for product: {item['product_title']} (Sold: {qty_sold})", flush=True)
     
@@ -325,7 +443,7 @@ def send_telegram_alert(bot_token, chat_id, store_name, item, prev_stock, curr_s
         print(f"Exception sending message to Telegram: {e}", flush=True)
         return False
 
-def process_store(store_config, global_bot_token, state_dir):
+def process_store(store_config, global_bot_token, state_dir, daily_dir):
     store_name = store_config.get('name', 'Shopify Store')
     raw_domain = store_config.get('domain', '')
     chat_id = store_config.get('telegram_chat_id', '')
@@ -349,6 +467,9 @@ def process_store(store_config, global_bot_token, state_dir):
     clean_domain = domain.replace('.', '_')
     state_file = os.path.join(state_dir, f"{clean_domain}_state.json")
     
+    # Listen for Telegram commands like /sale or /sales
+    check_and_handle_telegram_commands(store_bot_token, chat_id, store_name, clean_domain, daily_dir)
+
     # Load previous state snapshot
     previous_state = {}
     if os.path.exists(state_file):
@@ -414,6 +535,10 @@ def process_store(store_config, global_bot_token, state_dir):
         print(f"[{domain}] Initial baseline run. Saved {len(current_state)} variant stock levels to state file (No alerts on baseline).", flush=True)
     else:
         print(f"[{domain}] Scan complete. Sales detected: {len(sales_detected)}", flush=True)
+        if sales_detected:
+            # Record detected sales to daily accounting file
+            record_daily_sales(clean_domain, sales_detected, daily_dir)
+
         for sale in sales_detected[:15]:
             send_telegram_alert(
                 bot_token=store_bot_token,
@@ -436,6 +561,7 @@ def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     config_path = os.path.join(base_dir, 'config.json')
     state_dir = os.path.join(base_dir, 'state')
+    daily_dir = os.path.join(base_dir, 'daily_sales')
     
     if not os.path.exists(config_path):
         print(f"Error: Config file not found at {config_path}", flush=True)
@@ -458,7 +584,7 @@ def main():
     
     max_workers = min(len(enabled_stores), 15)
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(process_store, store, bot_token, state_dir): store for store in enabled_stores}
+        futures = {executor.submit(process_store, store, bot_token, state_dir, daily_dir): store for store in enabled_stores}
         for future in as_completed(futures):
             store = futures[future]
             domain = store.get('domain', 'Unknown')
