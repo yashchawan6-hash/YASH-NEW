@@ -36,6 +36,7 @@ def set_webhooks(alwaysdata_domain):
             print(f"✅ [{store.get('name')}] Webhook set successfully to {webhook_url}", flush=True)
         else:
             print(f"❌ [{store.get('name')}] Webhook set failed: {res.get('description')}", flush=True)
+        time.sleep(1.0)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Register AlwaysData Telegram Webhooks for all bots")
