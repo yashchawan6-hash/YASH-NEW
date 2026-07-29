@@ -128346,7 +128346,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16613.jpg?v=1783683293",
     "url": "https://www.theamethyststore.com/products/maisha-hasli-with-pendant-set?variant=gid://shopify/ProductVariant/49390413807843",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49390414659811": {
     "product_title": "Glittering Hasli with Pendant Set",
