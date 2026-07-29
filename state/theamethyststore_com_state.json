@@ -2456,19 +2456,6 @@
     "url": "https://www.theamethyststore.com/products/tejas-bead-necklace?variant=gid://shopify/ProductVariant/42935674732771",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/42935790764259": {
-    "product_title": "Adhanika Bead Long Necklace",
-    "product_handle": "adhanika-bead-necklace",
-    "variant_id": "gid://shopify/ProductVariant/42935790764259",
-    "global_id": "gid://shopify/ProductVariant/42935790764259",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-2707",
-    "price": 69054.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-2707.jpg?v=1756528175",
-    "url": "https://www.theamethyststore.com/products/adhanika-bead-necklace?variant=gid://shopify/ProductVariant/42935790764259",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/42935810293987": {
     "product_title": "Sakshi Long Necklace",
     "product_handle": "sakshi-long-necklace",
@@ -6980,19 +6967,6 @@
     "url": "https://www.theamethyststore.com/products/malini-stone-necklace?variant=gid://shopify/ProductVariant/43827044647139",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/43847993327843": {
-    "product_title": "Aarvika Nagas Long Necklace",
-    "product_handle": "aarvika-nagas-long-necklace",
-    "variant_id": "gid://shopify/ProductVariant/43847993327843",
-    "global_id": "gid://shopify/ProductVariant/43847993327843",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-4346",
-    "price": 205023.86,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4346.jpg?v=1684137768",
-    "url": "https://www.theamethyststore.com/products/aarvika-nagas-long-necklace?variant=gid://shopify/ProductVariant/43847993327843",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/43848132559075": {
     "product_title": "Yashodha Nagas Necklace",
     "product_handle": "yashodha-nagas-necklace",
@@ -9333,19 +9307,6 @@
     "url": "https://www.theamethyststore.com/products/abija-stone-short-necklace?variant=gid://shopify/ProductVariant/44071391625443",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/44071529611491": {
-    "product_title": "Lithinan Nagas Necklace",
-    "product_handle": "lithinan-nagas-necklace",
-    "variant_id": "gid://shopify/ProductVariant/44071529611491",
-    "global_id": "gid://shopify/ProductVariant/44071529611491",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-5112",
-    "price": 80400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5112.jpg?v=1697960874",
-    "url": "https://www.theamethyststore.com/products/lithinan-nagas-necklace?variant=gid://shopify/ProductVariant/44071529611491",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/44071540588771": {
     "product_title": "Manasi Nagas Nakshi Necklace",
     "product_handle": "manasi-nagas-nakshi-necklace-1",
@@ -11437,19 +11398,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5574.jpg?v=1707644371",
     "url": "https://www.theamethyststore.com/products/layra-guttapusalu-necklace?variant=gid://shopify/ProductVariant/44386963587299",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/44387004547299": {
-    "product_title": "Darsh Long Necklace",
-    "product_handle": "darsh-long-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/44387004547299",
-    "global_id": "gid://shopify/ProductVariant/44387004547299",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-5569",
-    "price": 89571.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5569.jpg?v=1707645880",
-    "url": "https://www.theamethyststore.com/products/darsh-long-necklace-set?variant=gid://shopify/ProductVariant/44387004547299",
     "stock": 1
   },
   "gid://shopify/ProductVariant/44387007594723": {
@@ -15415,7 +15363,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC04387.jpg?v=1728644287",
     "url": "https://www.theamethyststore.com/products/victorian-necklace-set?variant=gid://shopify/ProductVariant/45312066060515",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/45312552992995": {
     "product_title": "Vidmaya Stone Oddiyanam",
@@ -15532,7 +15480,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6560.jpg?v=1721987493",
     "url": "https://www.theamethyststore.com/products/janisa-oxidised-necklace-set?variant=gid://shopify/ProductVariant/45327273001187",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/45327353774307": {
     "product_title": "Sophin Oxidised Necklace Set",
@@ -15714,19 +15662,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1290.jpg?v=1722162816",
     "url": "https://www.theamethyststore.com/products/dhitika-nagas-pair-bangle?variant=gid://shopify/ProductVariant/45340028469475",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/45342731075811": {
-    "product_title": "Dekshita Nagas Long Necklace",
-    "product_handle": "dekshita-nagas-long-necklace",
-    "variant_id": "gid://shopify/ProductVariant/45342731075811",
-    "global_id": "gid://shopify/ProductVariant/45342731075811",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-6775",
-    "price": 97575.3,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6775.jpg?v=1722228129",
-    "url": "https://www.theamethyststore.com/products/dekshita-nagas-long-necklace?variant=gid://shopify/ProductVariant/45342731075811",
     "stock": 1
   },
   "gid://shopify/ProductVariant/45343495717091": {
@@ -18810,19 +18745,6 @@
     "url": "https://www.theamethyststore.com/products/vanya-short-necklace?variant=gid://shopify/ProductVariant/45570149515491",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/45573755371747": {
-    "product_title": "Athidhan Nagas Long Necklace",
-    "product_handle": "athidhan-nagas-long-necklace",
-    "variant_id": "gid://shopify/ProductVariant/45573755371747",
-    "global_id": "gid://shopify/ProductVariant/45573755371747",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7310",
-    "price": 134600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7310.jpg?v=1727867367",
-    "url": "https://www.theamethyststore.com/products/athidhan-nagas-long-necklace?variant=gid://shopify/ProductVariant/45573755371747",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/45573765169379": {
     "product_title": "Adhiya Nagas Long Necklace",
     "product_handle": "adhiya-nagas-long-necklace",
@@ -18847,19 +18769,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7315_0b6b4ef7-d98a-40aa-af41-771740badf05.jpg?v=1735470602",
     "url": "https://www.theamethyststore.com/products/aishina-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/45576037302499",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/45576111030499": {
-    "product_title": "Bavisha Nagas Long Necklace",
-    "product_handle": "bavisha-nagas-long-necklace",
-    "variant_id": "gid://shopify/ProductVariant/45576111030499",
-    "global_id": "gid://shopify/ProductVariant/45576111030499",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-7337",
-    "price": 78213.6,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7337_3.jpg?v=1727936039",
-    "url": "https://www.theamethyststore.com/products/bavisha-nagas-long-necklace?variant=gid://shopify/ProductVariant/45576111030499",
     "stock": 1
   },
   "gid://shopify/ProductVariant/45576116142307": {
@@ -24632,19 +24541,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8616.jpg?v=1739701675",
     "url": "https://www.theamethyststore.com/products/sabintha-nagas-long-necklace?variant=gid://shopify/ProductVariant/46020621336803",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/46020626940131": {
-    "product_title": "Karishma Long Necklace",
-    "product_handle": "karishma-long-necklace",
-    "variant_id": "gid://shopify/ProductVariant/46020626940131",
-    "global_id": "gid://shopify/ProductVariant/46020626940131",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-8617",
-    "price": 113869.8,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8617.jpg?v=1739701741",
-    "url": "https://www.theamethyststore.com/products/karishma-long-necklace?variant=gid://shopify/ProductVariant/46020626940131",
     "stock": 1
   },
   "gid://shopify/ProductVariant/46020749918435": {
@@ -38295,7 +38191,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10249_1.jpg?v=1752910500",
     "url": "https://www.theamethyststore.com/products/aura-long-necklace-set?variant=gid://shopify/ProductVariant/46902222029027",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/46902262661347": {
     "product_title": "Sable Boho Bracelet",
@@ -83067,7 +82963,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12889_44c75898-011e-452e-b7fe-fd2fb196ad99.jpg?v=1768997875",
     "url": "https://www.theamethyststore.com/products/celestia-boho-long-earrings?variant=gid://shopify/ProductVariant/47858884182243",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47858887622883": {
     "product_title": "Lunisha Boho Long Earrings",
@@ -83093,7 +82989,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12887_62e4c598-45e0-468d-ac21-869696578830.jpg?v=1768997811",
     "url": "https://www.theamethyststore.com/products/aashraya-boho-long-earrings?variant=gid://shopify/ProductVariant/47858888671459",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47858894930147": {
     "product_title": "Ethereal Glow Long Earrings",
@@ -92364,19 +92260,6 @@
     "url": "https://www.theamethyststore.com/products/ganesha-on-lotus-3d-idol?variant=gid://shopify/ProductVariant/48279123722467",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/48279192797411": {
-    "product_title": "Heritage Nagas Long Necklace",
-    "product_handle": "heritage-nagas-long-necklace-2",
-    "variant_id": "gid://shopify/ProductVariant/48279192797411",
-    "global_id": "gid://shopify/ProductVariant/48279192797411",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-14757",
-    "price": 126700.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14757.jpg?v=1771238675",
-    "url": "https://www.theamethyststore.com/products/heritage-nagas-long-necklace-2?variant=gid://shopify/ProductVariant/48279192797411",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48279205380323": {
     "product_title": "Golden Nagas Kaasu Maalai Necklace",
     "product_handle": "golden-nagas-kaasu-maalai-necklace",
@@ -98251,19 +98134,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13376.png?v=1775129721",
     "url": "https://www.theamethyststore.com/products/trendy-glow-earrings?variant=gid://shopify/ProductVariant/48632149442787",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/48632170840291": {
-    "product_title": "Chic & Trendy Earrings",
-    "product_handle": "chic-trendy-earrings",
-    "variant_id": "gid://shopify/ProductVariant/48632170840291",
-    "global_id": "gid://shopify/ProductVariant/48632170840291",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13366",
-    "price": 26100.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13366.png?v=1775130141",
-    "url": "https://www.theamethyststore.com/products/chic-trendy-earrings?variant=gid://shopify/ProductVariant/48632170840291",
     "stock": 1
   },
   "gid://shopify/ProductVariant/48632179032291": {
