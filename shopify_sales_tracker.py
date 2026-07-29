@@ -382,14 +382,16 @@ def process_store(store_config, global_bot_token, state_dir):
         
         if previous_state and v_id in previous_state:
             prev_stock = previous_state[v_id].get('stock', 0)
-            if prev_stock > curr_stock and curr_stock >= 0:
+            if prev_stock > curr_stock and curr_stock >= 0 and prev_stock < 9000:
                 qty_sold = prev_stock - curr_stock
-                sales_detected.append({
-                    'item': v,
-                    'prev_stock': prev_stock,
-                    'curr_stock': curr_stock,
-                    'qty_sold': qty_sold
-                })
+                # Filter out abnormal jump glitches (e.g. max batch quantity anomalies)
+                if 0 < qty_sold < 500:
+                    sales_detected.append({
+                        'item': v,
+                        'prev_stock': prev_stock,
+                        'curr_stock': curr_stock,
+                        'qty_sold': qty_sold
+                    })
 
     if not previous_state:
         print(f"[{domain}] Initial baseline run. Saved {len(current_state)} variant stock levels to state file (No alerts on baseline).", flush=True)
