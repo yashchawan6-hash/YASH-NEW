@@ -24268,7 +24268,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00065copy_resized.jpg?v=1772456770",
     "url": "https://www.rasasilver.com/products/plumage-phool-kundan-necklace?variant=gid://shopify/ProductVariant/52780724388137",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/52797624975657": {
     "product_title": "Swarna Peacock Kundan Oddiyanam",
@@ -24515,6 +24515,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0976_resized.jpg?v=1773829149",
     "url": "https://www.rasasilver.com/products/gajraj-mahalakshmi-earring-copy?variant=gid://shopify/ProductVariant/52804783833385",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/52847371977001": {
+    "product_title": "Gajeshwar Temple Jhumki",
+    "product_handle": "gajraj-mahalakshmi-earring-copy",
+    "variant_id": "gid://shopify/ProductVariant/52847371977001",
+    "global_id": "gid://shopify/ProductVariant/52847371977001",
+    "variant_title": "GREEN",
+    "sku": "R26460",
+    "price": 17000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0981_resized.jpg?v=1773829149",
+    "url": "https://www.rasasilver.com/products/gajraj-mahalakshmi-earring-copy?variant=gid://shopify/ProductVariant/52847371977001",
     "stock": 1
   },
   "gid://shopify/ProductVariant/52804807590185": {
@@ -35435,6 +35448,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0727_resized.jpg?v=1784119228",
     "url": "https://www.rasasilver.com/products/pear-floral-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53329660674345",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/53329663263017": {
+    "product_title": "Meher Kundan Septum Ring",
+    "product_handle": "meher-kundan-septum-ring-1",
+    "variant_id": "gid://shopify/ProductVariant/53329663263017",
+    "global_id": "gid://shopify/ProductVariant/53329663263017",
+    "variant_title": "Default Title",
+    "sku": "R25282",
+    "price": 900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0095_copy_1.jpg?v=1771185315",
+    "url": "https://www.rasasilver.com/products/meher-kundan-septum-ring-1?variant=gid://shopify/ProductVariant/53329663263017",
     "stock": 1
   },
   "gid://shopify/ProductVariant/53329663787305": {
