@@ -11,12 +11,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sales-tracker-group
+  cancel-in-progress: false
+
 jobs:
   track-sales:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,5 +49,6 @@ jobs:
             echo "No stock inventory state changes to commit."
           else
             git commit -m "Automated update: Stock state inventory snapshot [skip ci]"
-            git push
+            git pull origin main --rebase || true
+            git push origin main
           fi
