@@ -10671,5 +10671,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/8947222D-F37B-4BA7-A07B-FBFBB678FF17.jpg?v=1785314589",
     "url": "https://www.dulhanjewels.com/products/designer-jadau-kundan-peacock-bracelet-watch?variant=gid://shopify/ProductVariant/51518158242098",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/51518163714354": {
+    "product_title": "Classic Polki Locket With Green Beads",
+    "product_handle": "classic-polki-locket-with-green-beads",
+    "variant_id": "gid://shopify/ProductVariant/51518163714354",
+    "global_id": "gid://shopify/ProductVariant/51518163714354",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/576D3744-2D54-4663-A6C9-55BCCBCCD166.jpg?v=1785314866",
+    "url": "https://www.dulhanjewels.com/products/classic-polki-locket-with-green-beads?variant=gid://shopify/ProductVariant/51518163714354",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/51518173249842": {
+    "product_title": "Traditional Jadau Kundan Chandbali Earrings With Ricepearl Hangings",
+    "product_handle": "traditional-jadau-kundan-chandbali-earrings-with-ricepearl-hangings",
+    "variant_id": "gid://shopify/ProductVariant/51518173249842",
+    "global_id": "gid://shopify/ProductVariant/51518173249842",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/B4DC4DBB-3D8D-4378-B715-8F7FC95E4DC8.jpg?v=1785315143",
+    "url": "https://www.dulhanjewels.com/products/traditional-jadau-kundan-chandbali-earrings-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/51518173249842",
+    "stock": 1
   }
 }
