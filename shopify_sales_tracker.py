@@ -397,7 +397,8 @@ def process_store(store_config, global_bot_token, state_dir):
         print(f"[{domain}] Initial baseline run. Saved {len(current_state)} variant stock levels to state file (No alerts on baseline).", flush=True)
     else:
         print(f"[{domain}] Scan complete. Sales detected: {len(sales_detected)}", flush=True)
-        for sale in sales_detected:
+        # Cap max alerts to 15 per scan to respect Telegram API rate limits and avoid spam
+        for sale in sales_detected[:15]:
             send_telegram_alert(
                 bot_token=store_bot_token,
                 chat_id=chat_id,
@@ -407,7 +408,7 @@ def process_store(store_config, global_bot_token, state_dir):
                 curr_stock=sale['curr_stock'],
                 qty_sold=sale['qty_sold']
             )
-            time.sleep(1) # Prevent hit hitting Telegram rate limits
+            time.sleep(2.5) # Respect Telegram rate limit (max 20 msgs/min per channel)
 
     # Save new state snapshot
     os.makedirs(state_dir, exist_ok=True)
