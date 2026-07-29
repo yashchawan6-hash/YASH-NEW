@@ -155,6 +155,45 @@
     "url": "https://www.attrangi.in/products/emaairah-bridal-set?variant=gid://shopify/ProductVariant/40411660058793",
     "stock": 2
   },
+  "gid://shopify/ProductVariant/40411661238441": {
+    "product_title": "Double Solitaire Earrings",
+    "product_handle": "double-solitaire-earrings",
+    "variant_id": "gid://shopify/ProductVariant/40411661238441",
+    "global_id": "gid://shopify/ProductVariant/40411661238441",
+    "variant_title": "Gold / Diamond",
+    "sku": "SS01149G",
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-1.jpg?v=1739812489",
+    "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661238441",
+    "stock": 5
+  },
+  "gid://shopify/ProductVariant/40411661172905": {
+    "product_title": "Double Solitaire Earrings",
+    "product_handle": "double-solitaire-earrings",
+    "variant_id": "gid://shopify/ProductVariant/40411661172905",
+    "global_id": "gid://shopify/ProductVariant/40411661172905",
+    "variant_title": "Rose Gold / Diamond",
+    "sku": "SS01149RG",
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-6.jpg?v=1739812494",
+    "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661172905",
+    "stock": 5
+  },
+  "gid://shopify/ProductVariant/40411661205673": {
+    "product_title": "Double Solitaire Earrings",
+    "product_handle": "double-solitaire-earrings",
+    "variant_id": "gid://shopify/ProductVariant/40411661205673",
+    "global_id": "gid://shopify/ProductVariant/40411661205673",
+    "variant_title": "Silver / Diamond",
+    "sku": "SS01149S",
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-2.jpg?v=1739812490",
+    "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661205673",
+    "stock": 5
+  },
   "gid://shopify/ProductVariant/40411661566121": {
     "product_title": "Flower Pearl Drop Diamond Stud",
     "product_handle": "flower-pearl-drop-diamond-stud",
@@ -2377,19 +2416,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-05-16_at_6.50.20_PM.jpg?v=1779885445",
     "url": "https://www.attrangi.in/products/charming-lara-solitaire-set?variant=gid://shopify/ProductVariant/47992215896276",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/40880201236649": {
-    "product_title": "Attrangi Box with Roli chawal",
-    "product_handle": "attrangi-box-with-roli-chawal",
-    "variant_id": "gid://shopify/ProductVariant/40880201236649",
-    "global_id": "gid://shopify/ProductVariant/40880201236649",
-    "variant_title": "Default Title",
-    "sku": "AT108",
-    "price": 100.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/attrangi-box-with-roli-chawal-attrangi-31818029564116.jpg?v=1694856188",
-    "url": "https://www.attrangi.in/products/attrangi-box-with-roli-chawal?variant=gid://shopify/ProductVariant/40880201236649",
-    "stock": 15
   },
   "gid://shopify/ProductVariant/40888155865257": {
     "product_title": "Neelam Polki Pastel Maangtika",
