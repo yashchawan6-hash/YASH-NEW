@@ -365,29 +365,6 @@ def generate_daily_sales_report(clean_domain, store_name, daily_dir):
     )
     return report
 
-def check_and_handle_telegram_commands(bot_token, chat_id, store_name, clean_domain, daily_dir):
-    try:
-        url = f"https://api.telegram.org/bot{bot_token}/getUpdates"
-        r = requests.get(url, timeout=10)
-        res = r.json()
-        if not res.get('ok'):
-            return
-            
-        updates = res.get('result', [])
-        for update in updates:
-            msg = update.get('message', {}) or update.get('channel_post', {})
-            text = (msg.get('text') or '').strip().lower()
-            
-            if '/sale' in text or '/sales' in text:
-                report_msg = generate_daily_sales_report(clean_domain, store_name, daily_dir)
-                send_msg_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-                requests.post(send_msg_url, json={
-                    'chat_id': chat_id,
-                    'text': report_msg,
-                    'parse_mode': 'HTML'
-                }, timeout=10)
-    except Exception as e:
-        print(f"[{clean_domain}] Error checking Telegram command: {e}", flush=True)
 
 def send_telegram_alert(bot_token, chat_id, store_name, item, prev_stock, curr_stock, qty_sold):
     print(f"[{store_name}] Sending Telegram Alert for product: {item['product_title']} (Sold: {qty_sold})", flush=True)
@@ -466,9 +443,6 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
     domain = get_store_domain(raw_domain)
     clean_domain = domain.replace('.', '_')
     state_file = os.path.join(state_dir, f"{clean_domain}_state.json")
-    
-    # Listen for Telegram commands like /sale or /sales
-    check_and_handle_telegram_commands(store_bot_token, chat_id, store_name, clean_domain, daily_dir)
 
     # Load previous state snapshot
     previous_state = {}
