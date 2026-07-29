@@ -764,7 +764,7 @@
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A6194_copy_copy.jpg?v=1762530974",
     "url": "https://www.tarinika.com/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/40805494095938",
-    "stock": 7
+    "stock": 9
   },
   "gid://shopify/ProductVariant/13845814214722": {
     "product_title": "Ojal Nakshatra CZ Bracelet",
@@ -11802,6 +11802,19 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0096X.jpg?v=1697628461",
     "url": "https://www.tarinika.com/products/floral-blush-cz-bracelet?variant=gid://shopify/ProductVariant/40491567546434",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/40491580751938": {
+    "product_title": "Floral Blush CZ Choker Set",
+    "product_handle": "floral-blush-cz-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/40491580751938",
+    "global_id": "gid://shopify/ProductVariant/40491580751938",
+    "variant_title": "Mint",
+    "sku": "ZNX3437XZD",
+    "price": 67.5,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ZNX3437X.jpg?v=1697630058",
+    "url": "https://www.tarinika.com/products/floral-blush-cz-choker-set?variant=gid://shopify/ProductVariant/40491580751938",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/41537220509762": {
     "product_title": "Jelena Nakshatra CZ Necklace Set",
