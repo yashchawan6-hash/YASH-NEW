@@ -10983,5 +10983,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/44F7AE59-9B26-4F11-907E-8E213EB2849E.jpg?v=1785330623",
     "url": "https://www.dulhanjewels.com/products/multicolour-jadau-kundan-jhumki-earrings-with-ricepearl-hangings?variant=gid://shopify/ProductVariant/51519080497458",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/51519083381042": {
+    "product_title": "Jadau Kundan Jhumki Earrings With Pearl Drops",
+    "product_handle": "jadau-kundan-jhumki-earrings-with-pearl-drops",
+    "variant_id": "gid://shopify/ProductVariant/51519083381042",
+    "global_id": "gid://shopify/ProductVariant/51519083381042",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9460.jpg?v=1785330857",
+    "url": "https://www.dulhanjewels.com/products/jadau-kundan-jhumki-earrings-with-pearl-drops?variant=gid://shopify/ProductVariant/51519083381042",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/51519086854450": {
+    "product_title": "Ethnic Jadau Kundan Jhumki Earrings With Emerald Drops",
+    "product_handle": "ethnic-jadau-kundan-jhumki-earrings-with-emerald-drops",
+    "variant_id": "gid://shopify/ProductVariant/51519086854450",
+    "global_id": "gid://shopify/ProductVariant/51519086854450",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/IMG-9458.jpg?v=1785331043",
+    "url": "https://www.dulhanjewels.com/products/ethnic-jadau-kundan-jhumki-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51519086854450",
+    "stock": 1
   }
 }
