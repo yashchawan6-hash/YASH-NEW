@@ -25620,7 +25620,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01801_resized.jpg?v=1774595479",
     "url": "https://www.rasasilver.com/products/shriprada-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828252963113",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52828264104233": {
     "product_title": "Indurikaa Gutta Pasalu Necklace",
@@ -25659,7 +25659,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01761_resized.jpg?v=1774595248",
     "url": "https://www.rasasilver.com/products/vrittangi-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828296741161",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52828368896297": {
     "product_title": "Ratvini Temple Necklace",
@@ -27726,7 +27726,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186",
     "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/52889966149929": {
     "product_title": "Shreeka Temple Necklace",
@@ -27739,7 +27739,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0133_resized.jpg?v=1775209332",
     "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-1?variant=gid://shopify/ProductVariant/52889966149929",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/52889981387049": {
     "product_title": "Sreya Temple Necklace",
@@ -31028,7 +31028,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262146_resized.jpg?v=1781526163",
     "url": "https://www.rasasilver.com/products/kalasha-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53266747162921",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/53266808471849": {
     "product_title": "Chakra-Floral Nakshi Studs",
@@ -32068,6 +32068,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1836_resized.jpg?v=1782135288",
     "url": "https://www.rasasilver.com/products/bloom-line-cz-danglers?variant=gid://shopify/ProductVariant/53283009986857",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/53283014672681": {
+    "product_title": "Pear-Line CZ Danglers",
+    "product_handle": "pear-line-cz-danglers",
+    "variant_id": "gid://shopify/ProductVariant/53283014672681",
+    "global_id": "gid://shopify/ProductVariant/53283014672681",
+    "variant_title": "Default Title",
+    "sku": "R29569",
+    "price": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1798_resized.jpg?v=1782135713",
+    "url": "https://www.rasasilver.com/products/pear-line-cz-danglers?variant=gid://shopify/ProductVariant/53283014672681",
     "stock": 1
   },
   "gid://shopify/ProductVariant/53283020046633": {
@@ -35422,7 +35435,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0841_resized.jpg?v=1784115244",
     "url": "https://www.rasasilver.com/products/minimal-plain-chain?variant=gid://shopify/ProductVariant/53329485431081",
-    "stock": 12
+    "stock": 13
   },
   "gid://shopify/ProductVariant/53329512595753": {
     "product_title": "Parrot-Phool Kundan Choker Set",
