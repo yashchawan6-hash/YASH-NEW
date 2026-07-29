@@ -88,5 +88,55 @@
     "qty_sold": 1,
     "total_value": 1399.0,
     "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190"
+  },
+  {
+    "timestamp": "2026-07-29T23:21:45+05:30",
+    "product_title": "Peacock Kemp Earcuffs",
+    "variant_title": "Default Title",
+    "price": 1299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1299.0,
+    "url": "https://www.daivik.in/products/peacock-kemp-earcuffs?variant=gid://shopify/ProductVariant/40886249291929"
+  },
+  {
+    "timestamp": "2026-07-29T23:21:45+05:30",
+    "product_title": "Temple Teeka in 4 variants",
+    "variant_title": "1.",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 999.0,
+    "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094"
+  },
+  {
+    "timestamp": "2026-07-29T23:21:45+05:30",
+    "product_title": "AD Flower Hipchain in 4 Colors (Price for Each)",
+    "variant_title": "Green",
+    "price": 1699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1699.0,
+    "url": "https://www.daivik.in/products/ad-flower-hipchain-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/47088042836190"
+  },
+  {
+    "timestamp": "2026-07-29T23:21:45+05:30",
+    "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
+    "variant_title": "2.6",
+    "price": 2299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 2299.0,
+    "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142"
+  },
+  {
+    "timestamp": "2026-07-29T23:21:45+05:30",
+    "product_title": "Victorian Flower Pendant Necklace with Earrings",
+    "variant_title": "Default Title",
+    "price": 3499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 3499.0,
+    "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702"
   }
 ]

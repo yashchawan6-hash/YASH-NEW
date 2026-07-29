@@ -1740,7 +1740,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1eecba09-fcd4-4213-8e6f-4fc0be7b593a.jpg?v=1629554787",
     "url": "https://www.daivik.in/products/peacock-kemp-earcuffs?variant=gid://shopify/ProductVariant/40886249291929",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/40886454059161": {
     "product_title": "Kemp Statement Balis",
@@ -5367,7 +5368,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3afeda71-4d33-4f8d-bb7c-5fa3ee7341cd.heic?v=1680874634",
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
-    "stock": 50
+    "stock": 49,
+    "last_alerted_stock": 49
   },
   "gid://shopify/ProductVariant/44131779543262": {
     "product_title": "Temple Teeka in 4 variants",
@@ -19047,7 +19049,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4634CE82-09C8-4263-B83B-572078760513.jpg?v=1752775999",
     "url": "https://www.daivik.in/products/ad-flower-hipchain-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/47088042836190",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47088044998878": {
     "product_title": "Simple AD Flower Teeka in 4 Colors (Price for Each)",
@@ -26966,20 +26969,6 @@
     "url": "https://www.daivik.in/products/ad-flower-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/47942757548254",
     "stock": 56
   },
-  "gid://shopify/ProductVariant/47950387085534": {
-    "product_title": "Lakshmi Pendant Beads Choker with Earrings",
-    "product_handle": "lakshmi-pendant-beads-choker-with-earrings",
-    "variant_id": "gid://shopify/ProductVariant/47950387085534",
-    "global_id": "gid://shopify/ProductVariant/47950387085534",
-    "variant_title": "Default Title",
-    "sku": "571",
-    "price": 1299.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689",
-    "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/47960555389150": {
     "product_title": "AD Pendant Droplet Necklace with Earrings in 2 Colors (Price for Each)",
     "product_handle": "ad-pendant-droplet-necklace-with-earrings-in-2-colors-price-for-each",
@@ -30687,7 +30676,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450",
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48422119538910": {
     "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
@@ -30726,7 +30716,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787",
     "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48424071037150": {
     "product_title": "Victorian Bridal Short and Long Combo Necklace with Earrings",
