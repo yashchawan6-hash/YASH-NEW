@@ -5418,7 +5418,8 @@
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0108XTE.jpg?v=1741696994",
     "url": "https://www.tarinika.com/products/jalaja-lotus-motifs-layered-pearl-necklace?variant=gid://shopify/ProductVariant/39613737730114",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40722131353666": {
     "product_title": "Ainara Delicate CZ Earrings",
@@ -8435,19 +8436,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A0010.jpg?v=1663608408",
     "url": "https://www.tarinika.com/products/nakshi-floral-antique-maang-tikka?variant=gid://shopify/ProductVariant/39960023138370",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/39960456003650": {
-    "product_title": "Floral Bloom Antique Kempu Maang Tikka",
-    "product_handle": "floral-bloom-antique-kempu-maang-tikka",
-    "variant_id": "gid://shopify/ProductVariant/39960456003650",
-    "global_id": "gid://shopify/ProductVariant/39960456003650",
-    "variant_title": "Red Green",
-    "sku": "US-TTX0020XHC",
-    "price": 25.49,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A0363.jpg?v=1669451401",
-    "url": "https://www.tarinika.com/products/floral-bloom-antique-kempu-maang-tikka?variant=gid://shopify/ProductVariant/39960456003650",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/39961177948226": {
     "product_title": "Glory Antique CZ Premium Choker Set",

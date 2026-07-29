@@ -1012,7 +1012,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/blooming-ring-attrangi-1.jpg?v=1739812694",
     "url": "https://www.attrangi.in/products/blooming-rose-ring?variant=gid://shopify/ProductVariant/40411688501417",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43756007424212": {
     "product_title": "Blooming  Ring",
