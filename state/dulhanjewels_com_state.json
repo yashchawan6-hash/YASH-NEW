@@ -5095,19 +5095,6 @@
     "url": "https://www.dulhanjewels.com/products/unique-jadau-kundan-choker-with-guttapusalu-hangings?variant=gid://shopify/ProductVariant/50785997455666",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/50786013282610": {
-    "product_title": "Simple Sleek Jadau Kundan Necklace With Beads Hangings",
-    "product_handle": "simple-sleek-jadau-kundan-necklace-with-beads-hangings",
-    "variant_id": "gid://shopify/ProductVariant/50786013282610",
-    "global_id": "gid://shopify/ProductVariant/50786013282610",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/6B16AFF5-A600-44C6-88D3-8F7A4F445EF8.jpg?v=1785147599",
-    "url": "https://www.dulhanjewels.com/products/simple-sleek-jadau-kundan-necklace-with-beads-hangings?variant=gid://shopify/ProductVariant/50786013282610",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50799357133106": {
     "product_title": "Delicate Victorian Kanti Style Necklace Set",
     "product_handle": "delicate-victorian-kanti-style-necklace-set",
@@ -10878,6 +10865,45 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/9780FA1C-30E5-402A-A02C-C5B466D0F66F.jpg?v=1785328946",
     "url": "https://www.dulhanjewels.com/products/mini-floral-design-jadau-kundan-jhumki-earrings?variant=gid://shopify/ProductVariant/51519041536306",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/51519042126130": {
+    "product_title": "Floral Studded Jadau Kundan Jhumki Earrings With Green Beads",
+    "product_handle": "floral-studded-jadau-kundan-jhumki-earrings-with-green-beads-1",
+    "variant_id": "gid://shopify/ProductVariant/51519042126130",
+    "global_id": "gid://shopify/ProductVariant/51519042126130",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/969D7812-6C9B-4F57-BC3A-6A7708FDAB52.jpg?v=1785329083",
+    "url": "https://www.dulhanjewels.com/products/floral-studded-jadau-kundan-jhumki-earrings-with-green-beads-1?variant=gid://shopify/ProductVariant/51519042126130",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/51519049662770": {
+    "product_title": "Elegant Jadau Kundan Chandbali Earrings With Emerald Drops",
+    "product_handle": "elegant-jadau-kundan-chandbali-earrings-with-emerald-drops",
+    "variant_id": "gid://shopify/ProductVariant/51519049662770",
+    "global_id": "gid://shopify/ProductVariant/51519049662770",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/C4EEA1F5-9D58-4308-BEE8-105DF390F64B.jpg?v=1785329209",
+    "url": "https://www.dulhanjewels.com/products/elegant-jadau-kundan-chandbali-earrings-with-emerald-drops?variant=gid://shopify/ProductVariant/51519049662770",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/51519051170098": {
+    "product_title": "Chand Studded Jadau Kundan Jhumki Earrings",
+    "product_handle": "chand-studded-jadau-kundan-jhumki-earrings-2",
+    "variant_id": "gid://shopify/ProductVariant/51519051170098",
+    "global_id": "gid://shopify/ProductVariant/51519051170098",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0819/2953/5794/files/43174957-F9E1-4F7A-9498-7E31C156F0AB.jpg?v=1785329322",
+    "url": "https://www.dulhanjewels.com/products/chand-studded-jadau-kundan-jhumki-earrings-2?variant=gid://shopify/ProductVariant/51519051170098",
     "stock": 1
   }
 }

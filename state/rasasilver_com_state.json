@@ -35696,5 +35696,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0834_resized.jpg?v=1784187782",
     "url": "https://www.rasasilver.com/products/pearl-garden-stone-matil?variant=gid://shopify/ProductVariant/53336939462953",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/53346750398761": {
+    "product_title": "Ivy-Grace Moissanite Bracelet",
+    "product_handle": "ivy-grace-moissanite-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/53346750398761",
+    "global_id": "gid://shopify/ProductVariant/53346750398761",
+    "variant_title": "Default Title",
+    "sku": "R30884",
+    "price": 44200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2641_resized.jpg?v=1785241528",
+    "url": "https://www.rasasilver.com/products/ivy-grace-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346750398761",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/53365619491113": {
+    "product_title": "Peacock Charm CZ Kada",
+    "product_handle": "peacock-charm-cz-kada",
+    "variant_id": "gid://shopify/ProductVariant/53365619491113",
+    "global_id": "gid://shopify/ProductVariant/53365619491113",
+    "variant_title": "Default Title",
+    "sku": "R32819",
+    "price": 44100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2579Fa_resized.jpg?v=1785243789",
+    "url": "https://www.rasasilver.com/products/peacock-charm-cz-kada?variant=gid://shopify/ProductVariant/53365619491113",
+    "stock": 1
   }
 }
