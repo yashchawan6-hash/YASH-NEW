@@ -3369,9 +3369,10 @@
     "price": 77926.76,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-2710.jpg?v=1654350396",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/sakshi-long-necklace?variant=gid://shopify/ProductVariant/42935810293987",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42937166856419": {
     "product_title": "Mathithri  Long Earrings",
@@ -49486,9 +49487,10 @@
     "price": 41598.9,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9655.jpg?v=1753351140",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/zirca-kundan-jhumkhas?variant=gid://shopify/ProductVariant/46931874840803",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46931905544419": {
     "product_title": "Preethika Kundan Jhumkhas",
@@ -64301,7 +64303,7 @@
     "price": 4600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9760_1.jpg?v=1756985022",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/vishlina-stone-studs?variant=gid://shopify/ProductVariant/47102670668003",
     "stock": 0,
     "last_alerted_stock": 0
@@ -100646,7 +100648,7 @@
     "price": 6248.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12080.jpg?v=1768741567",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/athiraa-avikam-earrings?variant=gid://shopify/ProductVariant/47850857201891",
     "stock": 0,
     "last_alerted_stock": 0
