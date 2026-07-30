@@ -1048,5 +1048,35 @@
     "qty_sold": 1,
     "total_value": 1750.0,
     "url": "https://www.attrangi.in/products/tri-solitaire-diamond-studs?variant=gid://shopify/ProductVariant/46470509002964"
+  },
+  {
+    "timestamp": "2026-07-30T22:11:59+05:30",
+    "product_title": "2 Carat Round Solitaire Earring | 8mm",
+    "variant_title": "Gold / Diamond",
+    "price": 1550.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1550.0,
+    "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659501737"
+  },
+  {
+    "timestamp": "2026-07-30T22:11:59+05:30",
+    "product_title": "Sabhya Bijooriya Multicolour Gemstone Kada | GemZ",
+    "variant_title": "2.6 / Single",
+    "price": 6450.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "total_value": 12900.0,
+    "url": "https://www.attrangi.in/products/sabhya-bijooriya-multicolour-gemstone-kada-gemz?variant=gid://shopify/ProductVariant/47368749580500"
+  },
+  {
+    "timestamp": "2026-07-30T22:11:59+05:30",
+    "product_title": "Jagmata Multicoloured Sabhya Gemstone Necklace Set | GemZ",
+    "variant_title": "Default Title",
+    "price": 9850.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 9850.0,
+    "url": "https://www.attrangi.in/products/jagmata-multicoloured-sabhya-gemstone-necklace-set-gemz?variant=gid://shopify/ProductVariant/47369072967892"
   }
 ]
