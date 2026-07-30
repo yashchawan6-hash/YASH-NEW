@@ -13650,7 +13650,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E7DC80CC-B691-47DA-BB27-8C71F9BADB1A.jpg?v=1729698852",
     "url": "https://www.daivik.in/products/simple-ruby-green-flower-anklet?variant=gid://shopify/ProductVariant/45977990037726",
-    "stock": 21
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/45980765520094": {
     "product_title": "Premium Two Layered AD Necklace with Earrings in Five Colors",
