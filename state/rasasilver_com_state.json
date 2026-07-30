@@ -6952,7 +6952,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2512.jpg?v=1756538126",
     "url": "https://www.rasasilver.com/products/olivora-glow-studs?variant=gid://shopify/ProductVariant/50809320636713",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/50809355796777": {
     "product_title": "Emerael Halo Stud Earrings",
@@ -21864,7 +21864,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/5_2.jpg?v=1743056786",
     "url": "https://www.rasasilver.com/products/dvi-mukha-pakshi-pendant-copy?variant=gid://shopify/ProductVariant/52565266432297",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/52603184021801": {
     "product_title": "Rajvalli Kundan Danglers",
@@ -23801,6 +23801,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5353_resized.jpg?v=1772534171",
     "url": "https://www.rasasilver.com/products/kundan-necklace?variant=gid://shopify/ProductVariant/52741751439657",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/52741761401129": {
+    "product_title": "Amrakshi Kundan Necklace",
+    "product_handle": "kundan-necklace-1",
+    "variant_id": "gid://shopify/ProductVariant/52741761401129",
+    "global_id": "gid://shopify/ProductVariant/52741761401129",
+    "variant_title": "Default Title",
+    "sku": "R25854",
+    "price": 113850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838",
+    "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
     "stock": 1
   },
   "gid://shopify/ProductVariant/52741814944041": {
