@@ -138427,5 +138427,44 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15110.jpg?v=1785409086",
     "url": "https://www.theamethyststore.com/products/miraya-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476110188771",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476111958243": {
+    "product_title": "Lunara Chandhubaali Earrings",
+    "product_handle": "lunara-chandhubaali-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49476111958243",
+    "global_id": "gid://shopify/ProductVariant/49476111958243",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15111",
+    "price": 36990.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15111.jpg?v=1785409303",
+    "url": "https://www.theamethyststore.com/products/lunara-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476111958243",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476112056547": {
+    "product_title": "Traditional Varalakshmi Face",
+    "product_handle": "amman-face-3",
+    "variant_id": "gid://shopify/ProductVariant/49476112056547",
+    "global_id": "gid://shopify/ProductVariant/49476112056547",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0032",
+    "price": 61212.9,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC01130.jpg?v=1785409316",
+    "url": "https://www.theamethyststore.com/products/amman-face-3?variant=gid://shopify/ProductVariant/49476112056547",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476114383075": {
+    "product_title": "Nihashi Chandhubaali Earrings",
+    "product_handle": "nihashi-chandhubaali-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49476114383075",
+    "global_id": "gid://shopify/ProductVariant/49476114383075",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15114",
+    "price": 19120.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15114.jpg?v=1785409447",
+    "url": "https://www.theamethyststore.com/products/nihashi-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476114383075",
+    "stock": 1
   }
 }
