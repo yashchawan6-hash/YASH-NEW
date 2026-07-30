@@ -138310,5 +138310,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0028.jpg?v=1785407268",
     "url": "https://www.theamethyststore.com/products/varalakshmi-face-8?variant=gid://shopify/ProductVariant/49476088004835",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476091117795": {
+    "product_title": "Divine Amman Face",
+    "product_handle": "amman-face",
+    "variant_id": "gid://shopify/ProductVariant/49476091117795",
+    "global_id": "gid://shopify/ProductVariant/49476091117795",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0029",
+    "price": 22314.95,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0029.jpg?v=1785407418",
+    "url": "https://www.theamethyststore.com/products/amman-face?variant=gid://shopify/ProductVariant/49476091117795",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476094623971": {
+    "product_title": "Aarnaa Chandhubaali Earrings",
+    "product_handle": "chandhubaali-earrings-4",
+    "variant_id": "gid://shopify/ProductVariant/49476094623971",
+    "global_id": "gid://shopify/ProductVariant/49476094623971",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15105",
+    "price": 36110.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15105.jpg?v=1785407637",
+    "url": "https://www.theamethyststore.com/products/chandhubaali-earrings-4?variant=gid://shopify/ProductVariant/49476094623971",
+    "stock": 1
   }
 }
