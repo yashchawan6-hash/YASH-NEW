@@ -23931,7 +23931,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.17.55_PM_4.jpg?v=1764922499",
     "url": "https://www.attrangi.in/products/sonam-moissanite-polki-indian-ring-adjustable?variant=gid://shopify/ProductVariant/46984444248276",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46916648173780": {
     "product_title": "Preeti Classic Uncut Moissanite Polki Set",
@@ -24568,7 +24569,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at2.18.44PM.jpg?v=1759558565",
     "url": "https://www.attrangi.in/products/mini-phool-polki-moissanite-uncut-diamond-ring-adjustable?variant=gid://shopify/ProductVariant/46960751673556",
-    "stock": 3
+    "stock": 6
   },
   "gid://shopify/ProductVariant/46960756555988": {
     "product_title": "Naina Polki Moissanite Statement Uncut Diamond Ring | Adjustable",
@@ -36870,19 +36871,6 @@
     "url": "https://www.attrangi.in/products/arora-delicate-pearl-polki-necklace-choker-set?variant=gid://shopify/ProductVariant/48044822233300",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/48049609801940": {
-    "product_title": "Jayapradha Polki Moissanite simple Necklace Set",
-    "product_handle": "jayapradha-polki-moissanite-simple-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/48049609801940",
-    "global_id": "gid://shopify/ProductVariant/48049609801940",
-    "variant_title": "Default Title",
-    "sku": "RP002321GR-JS",
-    "price": 5250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-06-04at3.48.30PM.jpg?v=1780568363",
-    "url": "https://www.attrangi.in/products/jayapradha-polki-moissanite-simple-necklace-set?variant=gid://shopify/ProductVariant/48049609801940",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48049677467860": {
     "product_title": "Suno Chanda 2 Layered Polki Moissanite Designer Set",
     "product_handle": "suno-chanda-2-layered-polki-moissanite-designer-set",
@@ -37687,7 +37675,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-18at2.02.21PM_1800x1800_591b08b8-4a42-407e-a8b1-cf261f821282.jpg?v=1783592468",
     "url": "https://www.attrangi.in/products/richie-polki-moissanite-uncut-diamond-indian-bangle-kada-1?variant=gid://shopify/ProductVariant/48234972020948",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48234972053716": {
     "product_title": "Richie Polki Moissanite Uncut Diamond Indian Bangle | Kada(GREEN)",
