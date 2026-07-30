@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: sales-tracker-group
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   track-sales:
@@ -44,11 +44,31 @@ jobs:
         run: |
           git config --global user.name "Shopify Sales Tracker Bot"
           git config --global user.email "bot@github-actions.local"
+          
+          # Fetch latest remote state before staging
+          git fetch origin main
+          
           git add state/ daily_sales/
           if git diff --staged --quiet; then
             echo "No stock inventory state changes to commit."
           else
             git commit -m "Automated update: Stock state inventory snapshot [skip ci]"
-            git pull origin main --rebase || true
-            git push origin main
+            
+            pushed=0
+            for i in 1 2 3 4 5; do
+              if git push origin main; then
+                echo "Successfully pushed state updates to main!"
+                pushed=1
+                break
+              fi
+              echo "Push failed. Merging remote changes with -X ours strategy..."
+              git fetch origin main
+              git merge -X ours origin/main --no-edit -m "Merge remote changes [skip ci]" || (git merge --abort && git reset --soft origin/main && git add state/ daily_sales/ && git commit -m "Automated update: Stock state inventory snapshot [skip ci]")
+              sleep 2
+            done
+            
+            if [ $pushed -eq 0 ]; then
+              echo "Failed to push state updates after 5 attempts."
+              exit 1
+            fi
           fi
