@@ -15122,19 +15122,6 @@
     "url": "https://www.daivik.in/products/pearl-beads-jada-billai-price-for-each?variant=gid://shopify/ProductVariant/46202273792222",
     "stock": 36
   },
-  "gid://shopify/ProductVariant/46205549347038": {
-    "product_title": "Simple Ruby Ghungroo Chain",
-    "product_handle": "simple-ruby-ball-chain",
-    "variant_id": "gid://shopify/ProductVariant/46205549347038",
-    "global_id": "gid://shopify/ProductVariant/46205549347038",
-    "variant_title": "Default Title",
-    "sku": "498",
-    "price": 799.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B5C3B8C8-A388-4645-9408-1802CC101931.jpg?v=1736430879",
-    "url": "https://www.daivik.in/products/simple-ruby-ball-chain?variant=gid://shopify/ProductVariant/46205549347038",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/46207536431326": {
     "product_title": "Bridal Brass Kemp Mango short and Long Haram with Jhumkas",
     "product_handle": "bridal-brass-kemp-mango-short-and-long-haram-with-jhumkas",
@@ -15850,7 +15837,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/10457CD3-2E1C-4489-AF32-5AAA8F3667C5.jpg?v=1740053009",
     "url": "https://www.daivik.in/products/simple-two-line-chain?variant=gid://shopify/ProductVariant/46301650485470",
-    "stock": 43
+    "stock": 42,
+    "last_alerted_stock": 42
   },
   "gid://shopify/ProductVariant/46302297489630": {
     "product_title": "Designer AD Pearl Pastel Necklace with Earrings",
@@ -30514,20 +30502,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422",
     "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
     "stock": 19
-  },
-  "gid://shopify/ProductVariant/48403799408862": {
-    "product_title": "Elakkathali Ruby Choker with Earrings",
-    "product_handle": "elakkathali-ruby-choker-with-earrings",
-    "variant_id": "gid://shopify/ProductVariant/48403799408862",
-    "global_id": "gid://shopify/ProductVariant/48403799408862",
-    "variant_title": "Default Title",
-    "sku": "485",
-    "price": 899.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326",
-    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48404578631902": {
     "product_title": "CZ Kids/Adult Floral Earcuff Earrings",

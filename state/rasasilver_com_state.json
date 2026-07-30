@@ -12360,7 +12360,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK1326copy_resized.jpg?v=1762936418",
     "url": "https://www.rasasilver.com/products/arvaya-buggadi?variant=gid://shopify/ProductVariant/51494664110377",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51494679675177": {
     "product_title": "Florenza Oval Danglers",
