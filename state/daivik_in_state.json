@@ -167,7 +167,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_7793.jpg?v=1583856367",
     "url": "https://www.daivik.in/products/84?variant=gid://shopify/ProductVariant/32623635398715",
-    "stock": 34
+    "stock": 33,
+    "last_alerted_stock": 33
   },
   "gid://shopify/ProductVariant/32623656271931": {
     "product_title": "Antique Polish Temple Jhumkas",
@@ -779,7 +780,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/small-tribal-bali-jhumka-earrings-745.jpg?v=1601913641",
     "url": "https://www.daivik.in/products/small-tribal-bali-jhumka?variant=gid://shopify/ProductVariant/36547713302681",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/36578934849689": {
     "product_title": "Navratna Choker With Earrings",
