@@ -100761,7 +100761,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15334_2.jpg?v=1776690833",
     "url": "https://www.theamethyststore.com/products/kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48842774708451",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48842794729699": {
     "product_title": "Kavishka Kaasu Malai Necklace",
@@ -128737,7 +128738,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16526.jpg?v=1783750583",
     "url": "https://www.theamethyststore.com/products/hasli-necklace-42?variant=gid://shopify/ProductVariant/49393850417379",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49393858642147": {
     "product_title": "Thivanlikaa Hasli Necklace",
@@ -137983,6 +137985,19 @@
     "url": "https://www.theamethyststore.com/products/kundan-studs-27?variant=gid://shopify/ProductVariant/49472064028899",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/49475815637219": {
+    "product_title": "Divine Varalakshmi Face",
+    "product_handle": "varalakshmi-face",
+    "variant_id": "gid://shopify/ProductVariant/49475815637219",
+    "global_id": "gid://shopify/ProductVariant/49475815637219",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0020",
+    "price": 53354.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0020.jpg?v=1785398916",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face?variant=gid://shopify/ProductVariant/49475815637219",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/49475816259811": {
     "product_title": "Cute Floral Kundan Studs",
     "product_handle": "cute-floral-kundan-studs",
@@ -138125,5 +138140,18 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15118.jpg?v=1785398770",
     "url": "https://www.theamethyststore.com/products/little-cute-kundan-studs-6?variant=gid://shopify/ProductVariant/49475840999651",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49475880059107": {
+    "product_title": "Sherina Kundan Studs",
+    "product_handle": "kundan-studs-29",
+    "variant_id": "gid://shopify/ProductVariant/49475880059107",
+    "global_id": "gid://shopify/ProductVariant/49475880059107",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15116",
+    "price": 9900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15116.jpg?v=1785399849",
+    "url": "https://www.theamethyststore.com/products/kundan-studs-29?variant=gid://shopify/ProductVariant/49475880059107",
+    "stock": 2
   }
 }
