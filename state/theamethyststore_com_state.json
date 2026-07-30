@@ -171855,5 +171855,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/stone-bracelet-24?variant=gid://shopify/ProductVariant/49476233724131",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49476465197283": {
+    "product_title": "Vesnitha Kundan Pendant",
+    "product_handle": "kundan-pendant-95",
+    "variant_id": "gid://shopify/ProductVariant/49476465197283",
+    "global_id": "gid://shopify/ProductVariant/49476465197283",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4752",
+    "price": 17520.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4752.jpg?v=1785416695",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-95?variant=gid://shopify/ProductVariant/49476465197283",
+    "stock": 1
   }
 }
