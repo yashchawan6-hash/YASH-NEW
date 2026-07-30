@@ -9554,19 +9554,6 @@
     "url": "https://www.rasasilver.com/products/studs-24?variant=gid://shopify/ProductVariant/51350134784297",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/52291047686441": {
-    "product_title": "Glimvya Stone Ring",
-    "product_handle": "ring-20",
-    "variant_id": "gid://shopify/ProductVariant/52291047686441",
-    "global_id": "gid://shopify/ProductVariant/52291047686441",
-    "variant_title": "6",
-    "sku": "R17385",
-    "price": 1700.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0064_copy.jpg?v=1761283330",
-    "url": "https://www.rasasilver.com/products/ring-20?variant=gid://shopify/ProductVariant/52291047686441",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/51350170468649": {
     "product_title": "Ruvanya Stone Ring",
     "product_handle": "ring-22",
@@ -23009,6 +22996,19 @@
     "url": "https://www.rasasilver.com/products/swarnika-cz-necklace-set?variant=gid://shopify/ProductVariant/52682129768745",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/52682136355113": {
+    "product_title": "Kanakprabha Short Necklace",
+    "product_handle": "kanakprabha-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/52682136355113",
+    "global_id": "gid://shopify/ProductVariant/52682136355113",
+    "variant_title": "Default Title",
+    "sku": "R24646",
+    "price": 41500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4173.jpg?v=1771090902",
+    "url": "https://www.rasasilver.com/products/kanakprabha-short-necklace?variant=gid://shopify/ProductVariant/52682136355113",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/52682145431849": {
     "product_title": "Manimala Kasu Temple Necklace",
     "product_handle": "manimala-kasu-short-necklace",
@@ -34486,19 +34486,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2114_resized.jpg?v=1782825543",
     "url": "https://www.rasasilver.com/products/mango-flora-stone-studs?variant=gid://shopify/ProductVariant/53296605528361",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/53296605593897": {
-    "product_title": "Siri Vaibhava Temple Studs",
-    "product_handle": "siri-vaibhava-temple-studs",
-    "variant_id": "gid://shopify/ProductVariant/53296605593897",
-    "global_id": "gid://shopify/ProductVariant/53296605593897",
-    "variant_title": "Default Title",
-    "sku": "R31962",
-    "price": 2900.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2331_resized.jpg?v=1784355178",
-    "url": "https://www.rasasilver.com/products/siri-vaibhava-temple-studs?variant=gid://shopify/ProductVariant/53296605593897",
     "stock": 1
   },
   "gid://shopify/ProductVariant/53296644522281": {
