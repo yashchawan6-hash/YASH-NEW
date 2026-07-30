@@ -238,7 +238,7 @@ def check_stock_in_batches(domain, token, active_variants):
     """
     
     results = {}
-    batch_size = 150
+    batch_size = 250
     total_variants = len(active_variants)
     batches = [active_variants[i:i+batch_size] for i in range(0, total_variants, batch_size)]
     
@@ -271,8 +271,8 @@ def check_stock_in_batches(domain, token, active_variants):
                 
         return batch_res
 
-    # Use multi-threaded parallel batch execution for lightning-fast scanning
-    batch_workers = min(len(batches), 4) if batches else 1
+    # Use max 2 parallel batch workers per store to maintain optimal GraphQL rate limits
+    batch_workers = min(len(batches), 2) if batches else 1
     if batch_workers > 1:
         with ThreadPoolExecutor(max_workers=batch_workers) as b_executor:
             futures = [b_executor.submit(process_batch, b) for b in batches]
