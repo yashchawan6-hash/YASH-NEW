@@ -1292,6 +1292,19 @@
     "url": "https://www.attrangi.in/products/falak?variant=gid://shopify/ProductVariant/48234112909524",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/47992166711508": {
+    "product_title": "4 Carat Round Solitaires | 10mm",
+    "product_handle": "3-carat-round-solitaires",
+    "variant_id": "gid://shopify/ProductVariant/47992166711508",
+    "global_id": "gid://shopify/ProductVariant/47992166711508",
+    "variant_title": "Silver",
+    "sku": "WG002S",
+    "price": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002S_101900_2026031640119.jpg?v=1779884845",
+    "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992166711508",
+    "stock": 3
+  },
   "gid://shopify/ProductVariant/47992150261972": {
     "product_title": "4 Carat Round Solitaires | 10mm",
     "product_handle": "3-carat-round-solitaires",
@@ -27282,7 +27295,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-01-31_at_12.47.06_PM.jpg?v=1769850096",
     "url": "https://www.attrangi.in/products/sushmi-big-polki-moissanite-uncut-maangtika?variant=gid://shopify/ProductVariant/47495390920916",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47923889897684": {
     "product_title": "Sushmi Big Polki Moissanite uncut Maangtika",
