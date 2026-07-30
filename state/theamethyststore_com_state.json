@@ -47800,19 +47800,6 @@
     "url": "https://www.theamethyststore.com/products/traditional-nagas-pair-bangle?variant=gid://shopify/ProductVariant/47067515027683",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/47067530526947": {
-    "product_title": "Elegance Nagas Pair Bangle",
-    "product_handle": "elegance-nagas-pair-bangle",
-    "variant_id": "gid://shopify/ProductVariant/47067530526947",
-    "global_id": "gid://shopify/ProductVariant/47067530526947",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-2520-2.6\"",
-    "price": 28400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2520.jpg?v=1756189507",
-    "url": "https://www.theamethyststore.com/products/elegance-nagas-pair-bangle?variant=gid://shopify/ProductVariant/47067530526947",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47067530559715": {
     "product_title": "Elegance Nagas Pair Bangle",
     "product_handle": "elegance-nagas-pair-bangle",
@@ -137333,7 +137320,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4783.jpg?v=1785050110",
     "url": "https://www.theamethyststore.com/products/divine-3d-spl-pendant-2?variant=gid://shopify/ProductVariant/49447992819939",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/49447993475299": {
     "product_title": "Ahaana Victorian Maangtikka",
@@ -138291,10 +138279,36 @@
     "global_id": "gid://shopify/ProductVariant/49476086137059",
     "variant_title": "Default Title",
     "sku": "SV-508-0027",
-    "price": 92936.9,
+    "price": 92940.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0027.jpg?v=1785407078",
     "url": "https://www.theamethyststore.com/products/varalakshmi-face-7?variant=gid://shopify/ProductVariant/49476086137059",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476086628579": {
+    "product_title": "Magizhini Kundan Short Necklace",
+    "product_handle": "magizhini-kundan-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49476086628579",
+    "global_id": "gid://shopify/ProductVariant/49476086628579",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17148",
+    "price": 32850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17148.jpg?v=1785407158",
+    "url": "https://www.theamethyststore.com/products/magizhini-kundan-short-necklace?variant=gid://shopify/ProductVariant/49476086628579",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476088004835": {
+    "product_title": "Pooja Amman Face",
+    "product_handle": "varalakshmi-face-8",
+    "variant_id": "gid://shopify/ProductVariant/49476088004835",
+    "global_id": "gid://shopify/ProductVariant/49476088004835",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0028",
+    "price": 36013.95,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0028.jpg?v=1785407268",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-8?variant=gid://shopify/ProductVariant/49476088004835",
     "stock": 1
   }
 }
