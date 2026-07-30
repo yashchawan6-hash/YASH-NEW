@@ -83,6 +83,13 @@
       "telegram_bot_token": "8991167752:AAFA1CCfPIDEIWV6CIWJimyi_CLh3mti0to",
       "telegram_chat_id": "-1003983522807",
       "enabled": true
+    },
+    {
+      "name": "Preeti Mohan",
+      "domain": "preetimohan.com",
+      "telegram_bot_token": "8657115595:AAH0JRblOIF4VwX9iBra7mwRC7ir1_S9Oao",
+      "telegram_chat_id": "-1004486560788",
+      "enabled": true
     }
   ]
 }
