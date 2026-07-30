@@ -108081,6 +108081,19 @@
     "url": "https://www.theamethyststore.com/products/denisha-diamond-design-studs?variant=gid://shopify/ProductVariant/48945153442019",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/48945198170339": {
+    "product_title": "Yahibha Diamond Design Studs",
+    "product_handle": "yahibha-diamond-design-studs",
+    "variant_id": "gid://shopify/ProductVariant/48945198170339",
+    "global_id": "gid://shopify/ProductVariant/48945198170339",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13877",
+    "price": 3300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13877.jpg?v=1778676123",
+    "url": "https://www.theamethyststore.com/products/yahibha-diamond-design-studs?variant=gid://shopify/ProductVariant/48945198170339",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/48945241751779": {
     "product_title": "Nidhra Diamond Design Studs",
     "product_handle": "nidhra-diamond-design-studs",
@@ -108088,10 +108101,23 @@
     "global_id": "gid://shopify/ProductVariant/48945241751779",
     "variant_title": "Default Title",
     "sku": "AMS-106-13876",
-    "price": 4664.0,
+    "price": 4700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13876.jpg?v=1778676281",
     "url": "https://www.theamethyststore.com/products/nidhra-diamond-design-studs?variant=gid://shopify/ProductVariant/48945241751779",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/48945363517667": {
+    "product_title": "Tanisha Diamond Design Studs",
+    "product_handle": "tanisha-diamond-design-studs-1",
+    "variant_id": "gid://shopify/ProductVariant/48945363517667",
+    "global_id": "gid://shopify/ProductVariant/48945363517667",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-13872",
+    "price": 5900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13872.jpg?v=1778676736",
+    "url": "https://www.theamethyststore.com/products/tanisha-diamond-design-studs-1?variant=gid://shopify/ProductVariant/48945363517667",
     "stock": 1
   },
   "gid://shopify/ProductVariant/48945529815267": {
