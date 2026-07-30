@@ -1516,7 +1516,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002S_101900_2026031640119.jpg?v=1779884845",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992166711508",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47992150261972": {
@@ -9944,9 +9944,10 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-10-16_at_1.22.48_AM.jpg?v=1750781593",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/diamond-round-pear-solitaire-drop-earrings-daily-wear?variant=gid://shopify/ProductVariant/44898859385044",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44464415834324": {
     "product_title": "Drizzle Indo Western Studs | GemZ Collection",
@@ -12859,7 +12860,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_6.19.55_PM.jpg?v=1750781861",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/5-claw-small-diamond-bali?variant=gid://shopify/ProductVariant/45200988307668",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44904639693012": {
     "product_title": "Diana Band Ring with Diamond Floral Motif",
@@ -30401,7 +30403,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-10-22_at_12.48.03_PM.jpg?v=1761209046",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sarita-polki-moissanite-coloured-stone-indian-studs?variant=gid://shopify/ProductVariant/47148898418900",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47010950447316": {
     "product_title": "Aarna Moissanite Polki Uncut Diamond Classic Studs",
@@ -36798,9 +36801,9 @@
     "price": 4650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at12.11.45PM.jpg?v=1772015067",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shailaja-polki-moissanite-mid-sized-kada-bangle?variant=gid://shopify/ProductVariant/47593080520916",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47688470397140": {
@@ -44325,7 +44328,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-princess-cut-daily-wear-ring-attrangi-1_1800x1800_4c6b9145-27fc-401b-85f4-5759b7022465.webp?v=1783599826",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-princess-cut-daily-wear-ring-2?variant=gid://shopify/ProductVariant/48235081597140",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48235081629908": {
     "product_title": "1 Carat Princess Cut Daily Wear Ring(SILVER)",
@@ -46385,9 +46389,9 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-24_at_4.35.47_PM.jpg?v=1784892829",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhaalar-indian-bracelet-with-latkans-bhaabhi-kada-rakhi?variant=gid://shopify/ProductVariant/48355561013460",
-    "stock": 0
+    "stock": 4
   },
   "gid://shopify/ProductVariant/48355738714324": {
     "product_title": "Nazar Suraksha Pearl Evil Eye Rakhi Bracelet",

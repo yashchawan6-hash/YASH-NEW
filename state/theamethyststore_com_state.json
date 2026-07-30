@@ -120078,9 +120078,10 @@
     "price": 7800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13138.jpg?v=1773743611",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nagas-drops-earrings?variant=gid://shopify/ProductVariant/48469967601891",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48469997453539": {
     "product_title": "Pranitha Nagas Drops Earrings",
@@ -171929,6 +171930,76 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4756.jpg?v=1785417758",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-99?variant=gid://shopify/ProductVariant/49476500619491",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476501176547": {
+    "product_title": "Charming Kundan Jhumkas",
+    "product_handle": "charming-kundan-jhumkas",
+    "variant_id": "gid://shopify/ProductVariant/49476501176547",
+    "global_id": "gid://shopify/ProductVariant/49476501176547",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15017",
+    "price": 34200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15017.jpg?v=1785418061",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/charming-kundan-jhumkas?variant=gid://shopify/ProductVariant/49476501176547",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476530176227": {
+    "product_title": "Shivya Kundan Pendant",
+    "product_handle": "kundan-pendant-100",
+    "variant_id": "gid://shopify/ProductVariant/49476530176227",
+    "global_id": "gid://shopify/ProductVariant/49476530176227",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4757",
+    "price": 13200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4757.jpg?v=1785418809",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-100?variant=gid://shopify/ProductVariant/49476530176227",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476536140003": {
+    "product_title": "Yalisha Kundan Pendant",
+    "product_handle": "kundan-pendant-101",
+    "variant_id": "gid://shopify/ProductVariant/49476536140003",
+    "global_id": "gid://shopify/ProductVariant/49476536140003",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4758",
+    "price": 13610.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4758.jpg?v=1785419154",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-101?variant=gid://shopify/ProductVariant/49476536140003",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476536467683": {
+    "product_title": "Nivetha Kundan Pendant",
+    "product_handle": "kundan-pendant-102",
+    "variant_id": "gid://shopify/ProductVariant/49476536467683",
+    "global_id": "gid://shopify/ProductVariant/49476536467683",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4759",
+    "price": 14300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4759.jpg?v=1785419285",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-102?variant=gid://shopify/ProductVariant/49476536467683",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476537811171": {
+    "product_title": "Cute Kundan Pendant",
+    "product_handle": "kundan-pendant-103",
+    "variant_id": "gid://shopify/ProductVariant/49476537811171",
+    "global_id": "gid://shopify/ProductVariant/49476537811171",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4760",
+    "price": 7700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4760.jpg?v=1785419413",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-103?variant=gid://shopify/ProductVariant/49476537811171",
     "stock": 1
   }
 }
