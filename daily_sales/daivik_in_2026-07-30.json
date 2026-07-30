@@ -778,5 +778,25 @@
     "qty_sold": 1,
     "total_value": 999.0,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702"
+  },
+  {
+    "timestamp": "2026-07-30T17:01:46+05:30",
+    "product_title": "Kids Flower Jhumkas",
+    "variant_title": "Default Title",
+    "price": 699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 699.0,
+    "url": "https://www.daivik.in/products/kids-flower-jhumkas?variant=gid://shopify/ProductVariant/47673188483294"
+  },
+  {
+    "timestamp": "2026-07-30T17:01:46+05:30",
+    "product_title": "Elakkathali Ruby Choker with Earrings",
+    "variant_title": "Default Title",
+    "price": 899.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "total_value": 1798.0,
+    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862"
   }
 ]

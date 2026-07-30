@@ -103,6 +103,19 @@
     "url": "https://www.tarinika.in/products/premal-antique-necklace-set?variant=gid://shopify/ProductVariant/32531040337956",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/7460431003684": {
+    "product_title": "Rushil Nakshatra CZ Ear Chain",
+    "product_handle": "rushil-nakshatra-cz-ear-chain",
+    "variant_id": "gid://shopify/ProductVariant/7460431003684",
+    "global_id": "gid://shopify/ProductVariant/7460431003684",
+    "variant_title": "White Red",
+    "sku": "ZEI0887DC2",
+    "price": 1711.2,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ZEI0887DC817_98205862-7d01-4783-b432-e219736175a1.jpg?v=1581589784",
+    "url": "https://www.tarinika.in/products/rushil-nakshatra-cz-ear-chain?variant=gid://shopify/ProductVariant/7460431003684",
+    "stock": 9
+  },
   "gid://shopify/ProductVariant/32531039944740": {
     "product_title": "Rushil Nakshatra CZ Ear Chain",
     "product_handle": "rushil-nakshatra-cz-ear-chain",
@@ -712,7 +725,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A6194_copy_copy.jpg?v=1581683490",
     "url": "https://www.tarinika.in/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/32531033653284",
-    "stock": 9
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/32531033718820": {
     "product_title": "Sira Antique Bangles",
@@ -10826,7 +10840,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/ATX2588B.jpg?v=1696829232",
     "url": "https://www.tarinika.in/products/sristi-antique-nakshi-damini?variant=gid://shopify/ProductVariant/40752211361828",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/40755806470180": {
     "product_title": "Aashni Antique Temple Bridal Set",
@@ -11503,19 +11518,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TBX0096X_c0e1dd76-df32-431c-a1e5-d609e4284168.jpg?v=1697628196",
     "url": "https://www.tarinika.in/products/floral-blush-cz-bracelet?variant=gid://shopify/ProductVariant/40789532377124",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/40789597028388": {
-    "product_title": "Floral Blush CZ Choker Set",
-    "product_handle": "floral-blush-cz-choker-set",
-    "variant_id": "gid://shopify/ProductVariant/40789597028388",
-    "global_id": "gid://shopify/ProductVariant/40789597028388",
-    "variant_title": "Mint",
-    "sku": "ZNX3437XZD",
-    "price": 2899.5,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/ZNX3437X.jpg?v=1697629914",
-    "url": "https://www.tarinika.in/products/floral-blush-cz-choker-set?variant=gid://shopify/ProductVariant/40789597028388",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/40878595309604": {
     "product_title": "Aatreyi Nakshatra CZ Jhumka Earrings",
@@ -19355,7 +19357,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/MXX0007X.jpg?v=1779964321",
     "url": "https://www.tarinika.in/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/53636899471728",
-    "stock": 2,
+    "stock": 4,
     "last_alerted_stock": 2
   }
 }
