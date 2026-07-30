@@ -27288,7 +27288,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-05-11_at_5.26.09_PM.jpg?v=1778500899",
     "url": "https://www.attrangi.in/products/sushmi-big-polki-moissanite-uncut-maangtika?variant=gid://shopify/ProductVariant/47923889897684",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47272687829204": {
     "product_title": "Neela Polki Moissanite uncut Hathpan | Hand harness",
@@ -37461,6 +37462,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-06at2.04.14PM_1.jpg?v=1783329203",
     "url": "https://www.attrangi.in/products/heart-round-oval-diamond-tri-solitaire-pendant-with-chain-daily-wear?variant=gid://shopify/ProductVariant/48216535400660",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48216635637972": {
+    "product_title": "Eva Big Diamond Multi Solitaire Diamond Dangling Necklace",
+    "product_handle": "eva-big-diamond-multi-solitaire-diamond-dangling-necklace",
+    "variant_id": "gid://shopify/ProductVariant/48216635637972",
+    "global_id": "gid://shopify/ProductVariant/48216635637972",
+    "variant_title": "Default Title",
+    "sku": "NPJ10012S-NC",
+    "price": 3450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-06at2.33.24PM.jpg?v=1783330695",
+    "url": "https://www.attrangi.in/products/eva-big-diamond-multi-solitaire-diamond-dangling-necklace?variant=gid://shopify/ProductVariant/48216635637972",
     "stock": 3
   },
   "gid://shopify/ProductVariant/48216687739092": {

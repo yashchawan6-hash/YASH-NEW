@@ -1985,7 +1985,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054",
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52263721697577",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50282935583017": {
     "product_title": "Mangai Ratna Addige Necklace",
@@ -10498,19 +10499,6 @@
     "url": "https://www.rasasilver.com/products/floric-zara-hip-belt?variant=gid://shopify/ProductVariant/51412391756073",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/52263740440873": {
-    "product_title": "Ovalmera Stone Bangles",
-    "product_handle": "ovalmera-bangles",
-    "variant_id": "gid://shopify/ProductVariant/52263740440873",
-    "global_id": "gid://shopify/ProductVariant/52263740440873",
-    "variant_title": "2.4",
-    "sku": "R2874",
-    "price": 23400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2249_resized.jpg?v=1769154660",
-    "url": "https://www.rasasilver.com/products/ovalmera-bangles?variant=gid://shopify/ProductVariant/52263740440873",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/52290947580201": {
     "product_title": "Ovalira Victorian Bangles",
     "product_handle": "ovalira-bangles",
@@ -14624,7 +14612,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0163_resized.jpg?v=1769154203",
     "url": "https://www.rasasilver.com/products/dhanika-bangles?variant=gid://shopify/ProductVariant/52273420075305",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52273497309481": {
     "product_title": "Dhanika Bangles",
@@ -14637,7 +14626,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0163_resized.jpg?v=1769154203",
     "url": "https://www.rasasilver.com/products/dhanika-bangles?variant=gid://shopify/ProductVariant/52273497309481",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52274222432553": {
     "product_title": "Dhanika Bangles",
@@ -14650,7 +14640,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0163_resized.jpg?v=1769154203",
     "url": "https://www.rasasilver.com/products/dhanika-bangles?variant=gid://shopify/ProductVariant/52274222432553",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51527415234857": {
     "product_title": "Roja Harini Bangles",
@@ -16424,19 +16415,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5543_resized.jpg?v=1772691372",
     "url": "https://www.rasasilver.com/products/hamsa-morika-choker?variant=gid://shopify/ProductVariant/52795442102569",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/52279481794857": {
-    "product_title": "Florya Victorian Bangles",
-    "product_handle": "florya-bangles",
-    "variant_id": "gid://shopify/ProductVariant/52279481794857",
-    "global_id": "gid://shopify/ProductVariant/52279481794857",
-    "variant_title": "2.8",
-    "sku": "R20213",
-    "price": 49200.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36283.jpg?v=1766127746",
-    "url": "https://www.rasasilver.com/products/florya-bangles?variant=gid://shopify/ProductVariant/52279481794857",
     "stock": 1
   },
   "gid://shopify/ProductVariant/52279496343849": {
@@ -20485,7 +20463,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970",
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424123177",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52535424155945": {
     "product_title": "Garden Pear Victorian Bangles",
@@ -20498,7 +20477,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970",
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424155945",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52535462461737": {
     "product_title": "Duchess Oval Victorian Bangles",
@@ -30957,19 +30937,6 @@
     "url": "https://www.rasasilver.com/products/oval-pannara-cz-bangles?variant=gid://shopify/ProductVariant/53163682038057",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/53173673656617": {
-    "product_title": "Blossira Antique Bangles",
-    "product_handle": "blossira-antique-bangles",
-    "variant_id": "gid://shopify/ProductVariant/53173673656617",
-    "global_id": "gid://shopify/ProductVariant/53173673656617",
-    "variant_title": "Default Title",
-    "sku": "R28293",
-    "price": 50500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11583_resized.jpg?v=1780841791",
-    "url": "https://www.rasasilver.com/products/blossira-antique-bangles?variant=gid://shopify/ProductVariant/53173673656617",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/53173678375209": {
     "product_title": "Fleurika Antique Bangles",
     "product_handle": "fleurika-antique-bangles",
@@ -31020,7 +30987,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11555_resized.jpg?v=1780843452",
     "url": "https://www.rasasilver.com/products/antique-bangles?variant=gid://shopify/ProductVariant/53173801976105",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53194854007081": {
     "product_title": "Vintage Green Victorian Set",
@@ -32393,7 +32361,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1650_resized.jpg?v=1782201399",
     "url": "https://www.rasasilver.com/products/lustrelle-stone-bangles?variant=gid://shopify/ProductVariant/53283968745769",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53283971465513": {
     "product_title": "Stone Florelle Bangles",
@@ -35184,7 +35153,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41420_resized.jpg?v=1783749015",
     "url": "https://www.rasasilver.com/products/square-greena-stone-bangles?variant=gid://shopify/ProductVariant/53315097428265",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53315401220393": {
     "product_title": "Blossom Grace Stone Bangles",
@@ -35419,7 +35389,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41424_resized.jpg?v=1783753120",
     "url": "https://www.rasasilver.com/products/oval-pushp-stone-bangles?variant=gid://shopify/ProductVariant/53324650414377",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53324652478761": {
     "product_title": "Pachha Flora Stone Bangles",
@@ -35485,7 +35456,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41380_resized.jpg?v=1783758031",
     "url": "https://www.rasasilver.com/products/h-1?variant=gid://shopify/ProductVariant/53324727058729",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53324715819305": {
     "product_title": "Navaratna Shine Bangles",

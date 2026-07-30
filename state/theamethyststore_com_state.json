@@ -95315,19 +95315,6 @@
     "url": "https://www.theamethyststore.com/products/prayagi-bugadi-earrings?variant=gid://shopify/ProductVariant/48346398720227",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/48346827358435": {
-    "product_title": "Cutest Bugadi Earrings",
-    "product_handle": "bugadi-earrings-2",
-    "variant_id": "gid://shopify/ProductVariant/48346827358435",
-    "global_id": "gid://shopify/ProductVariant/48346827358435",
-    "variant_title": "Default Title",
-    "sku": "AMS-106-13107",
-    "price": 7170.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13107.jpg?v=1772454578",
-    "url": "https://www.theamethyststore.com/products/bugadi-earrings-2?variant=gid://shopify/ProductVariant/48346827358435",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48347613298915": {
     "product_title": "Lakshmi Kundan Pendant",
     "product_handle": "lakshmi-kundan-pendant",
@@ -99291,7 +99278,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13220.jpg?v=1775906959",
     "url": "https://www.theamethyststore.com/products/aashrita-hook-drops-earrings?variant=gid://shopify/ProductVariant/48773117018339",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48773120164067": {
     "product_title": "Saahitya Hook Drops Earrings",
@@ -120392,19 +120380,6 @@
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-46?variant=gid://shopify/ProductVariant/49320502821091",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/49320504262883": {
-    "product_title": "Mathisha Nagas Pair Bangles",
-    "product_handle": "nagas-pair-bangles-48",
-    "variant_id": "gid://shopify/ProductVariant/49320504262883",
-    "global_id": "gid://shopify/ProductVariant/49320504262883",
-    "variant_title": "2.6\"",
-    "sku": "AMS-107-3292-2.6\"",
-    "price": 31300.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3292.jpg?v=1782567196",
-    "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-48?variant=gid://shopify/ProductVariant/49320504262883",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49320508522723": {
     "product_title": "Vivera Nagas Pair Bangles",
     "product_handle": "nagas-pair-bangles-49",
@@ -129659,7 +129634,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16566.jpg?v=1783853526",
     "url": "https://www.theamethyststore.com/products/hasli-necklace-101?variant=gid://shopify/ProductVariant/49396916224227",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49396940800227": {
     "product_title": "Monica Hasli Necklace",
@@ -138136,6 +138112,32 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15125.jpg?v=1785398646",
     "url": "https://www.theamethyststore.com/products/nithisha-kundan-studs?variant=gid://shopify/ProductVariant/49475840573667",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49475840901347": {
+    "product_title": "Bindhu Moissanite Bracelet",
+    "product_handle": "moissanite-bracelet-1",
+    "variant_id": "gid://shopify/ProductVariant/49475840901347",
+    "global_id": "gid://shopify/ProductVariant/49475840901347",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1328",
+    "price": 29900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1328.jpg?v=1785398746",
+    "url": "https://www.theamethyststore.com/products/moissanite-bracelet-1?variant=gid://shopify/ProductVariant/49475840901347",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49475840999651": {
+    "product_title": "Little Cute Kundan Studs",
+    "product_handle": "little-cute-kundan-studs-6",
+    "variant_id": "gid://shopify/ProductVariant/49475840999651",
+    "global_id": "gid://shopify/ProductVariant/49475840999651",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15118",
+    "price": 5700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15118.jpg?v=1785398770",
+    "url": "https://www.theamethyststore.com/products/little-cute-kundan-studs-6?variant=gid://shopify/ProductVariant/49475840999651",
     "stock": 1
   }
 }
