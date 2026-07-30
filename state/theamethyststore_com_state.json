@@ -68522,6 +68522,19 @@
     "url": "https://www.theamethyststore.com/products/nagas-long-earrings-1?variant=gid://shopify/ProductVariant/47471493972195",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/47486904500451": {
+    "product_title": "Virushka Kundan Jhumkas",
+    "product_handle": "virushka-kundan-jhumkas",
+    "variant_id": "gid://shopify/ProductVariant/47486904500451",
+    "global_id": "gid://shopify/ProductVariant/47486904500451",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11052",
+    "price": 38180.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11052.jpg?v=1762584296",
+    "url": "https://www.theamethyststore.com/products/virushka-kundan-jhumkas?variant=gid://shopify/ProductVariant/47486904500451",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/47486909219043": {
     "product_title": "Aakshika Kundan Jhumkas",
     "product_handle": "aakshika-kundan-jhumkas",
@@ -71831,11 +71844,11 @@
     "global_id": "gid://shopify/ProductVariant/47696765518051",
     "variant_title": "Default Title",
     "sku": "AMS-106-11378",
-    "price": 15534.0,
+    "price": 15500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11378.jpg?v=1764753343",
     "url": "https://www.theamethyststore.com/products/dazzling-victorian-studs?variant=gid://shopify/ProductVariant/47696765518051",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/47696768598243": {
     "product_title": "Dazzle Victorian Studs",
@@ -71844,11 +71857,24 @@
     "global_id": "gid://shopify/ProductVariant/47696768598243",
     "variant_title": "Default Title",
     "sku": "AMS-106-11430",
-    "price": 17500.0,
+    "price": 18700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11430.jpg?v=1764753581",
     "url": "https://www.theamethyststore.com/products/dazzle-victorian-studs?variant=gid://shopify/ProductVariant/47696768598243",
-    "stock": 6
+    "stock": 7
+  },
+  "gid://shopify/ProductVariant/47696771809507": {
+    "product_title": "Dazzle Victorian Studs",
+    "product_handle": "dazzle-victorian-studs-1",
+    "variant_id": "gid://shopify/ProductVariant/47696771809507",
+    "global_id": "gid://shopify/ProductVariant/47696771809507",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-11431",
+    "price": 16600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11431.jpg?v=1764753898",
+    "url": "https://www.theamethyststore.com/products/dazzle-victorian-studs-1?variant=gid://shopify/ProductVariant/47696771809507",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47696796254435": {
     "product_title": "Gleaming Charm Victorian Studs",
