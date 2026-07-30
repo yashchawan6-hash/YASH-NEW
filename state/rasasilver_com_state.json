@@ -51,19 +51,6 @@
     "url": "https://www.rasasilver.com/products/gajamukha-lakshmi-pendant?variant=gid://shopify/ProductVariant/49809691246889",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/49809904075049": {
-    "product_title": "Lakshmi Kasu Pendant",
-    "product_handle": "lakshmi-kasu-pendant",
-    "variant_id": "gid://shopify/ProductVariant/49809904075049",
-    "global_id": "gid://shopify/ProductVariant/49809904075049",
-    "variant_title": "Default Title",
-    "sku": "R1748",
-    "price": 6400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-9_c1352de7-3b3d-4be6-8581-3b15af6918f6.jpg?v=1740807958",
-    "url": "https://www.rasasilver.com/products/lakshmi-kasu-pendant?variant=gid://shopify/ProductVariant/49809904075049",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49836042322217": {
     "product_title": "Emerald Kundan Studs",
     "product_handle": "emerald-kundan-studs",
@@ -179,7 +166,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458",
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
-    "stock": 11
+    "stock": 12
   },
   "gid://shopify/ProductVariant/49856597590313": {
     "product_title": "Mirnali Victorian Danglers",
@@ -478,7 +465,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_fee503d0-caeb-4357-86dc-f97a41eba675.jpg?v=1741164932",
     "url": "https://www.rasasilver.com/products/phool-shringar-short-necklace?variant=gid://shopify/ProductVariant/49967315583273",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49967793275177": {
     "product_title": "Regal Radiance Ring",
@@ -1116,7 +1104,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/22_26864588-0f79-45e3-9e00-abb12fcedf8b.jpg?v=1743842365",
     "url": "https://www.rasasilver.com/products/stellar-nine-short-necklace?variant=gid://shopify/ProductVariant/50083435872553",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50087147995433": {
     "product_title": "Kasumala Dharini Lakshmi",
@@ -1220,7 +1209,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08110_copy.jpg?v=1744463196",
     "url": "https://www.rasasilver.com/products/saubhagya-lakshmi-pendant?variant=gid://shopify/ProductVariant/50108983607593",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50133672263977": {
     "product_title": "Vishwa Ratna Earrings",
@@ -4705,7 +4695,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2491.jpg?v=1762342792",
     "url": "https://www.rasasilver.com/products/octa-scroll-shine-necklace-set?variant=gid://shopify/ProductVariant/50568825405737",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50568878326057": {
     "product_title": "Kumbha Roopini Long Necklace",
@@ -5797,7 +5788,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_8c18266c-8a8c-4409-adf6-1445f4b3a6b0.jpg?v=1754911795",
     "url": "https://www.rasasilver.com/products/anvitha-anuraag-studs?variant=gid://shopify/ProductVariant/50716648210729",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50717141303593": {
     "product_title": "Florakanti Gems Necklace",
@@ -7059,19 +7050,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45873.jpg?v=1756964733",
     "url": "https://www.rasasilver.com/products/rose-vaibhavam-short-necklace?variant=gid://shopify/ProductVariant/50809739837737",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/50817561526569": {
-    "product_title": "Rose Vaibhavam Short Necklace",
-    "product_handle": "rose-vaibhavam-short-necklace",
-    "variant_id": "gid://shopify/ProductVariant/50817561526569",
-    "global_id": "gid://shopify/ProductVariant/50817561526569",
-    "variant_title": "Navaratna Colour",
-    "sku": "R11702",
-    "price": 23400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45885.jpg?v=1756964733",
-    "url": "https://www.rasasilver.com/products/rose-vaibhavam-short-necklace?variant=gid://shopify/ProductVariant/50817561526569",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/50810064896297": {
     "product_title": "Shree Chaturbhuj Short Necklace",
@@ -11543,7 +11521,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0141_resized_473b6854-0638-400b-a398-0e1d087e227a.jpg?v=1767762319",
     "url": "https://www.rasasilver.com/products/mani-sita-necklace?variant=gid://shopify/ProductVariant/52398120665385",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52398120698153": {
     "product_title": "Mani Sita Navaratna Necklace",
@@ -13351,7 +13330,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0304.jpg?v=1763448240",
     "url": "https://www.rasasilver.com/products/crystisq-necklace?variant=gid://shopify/ProductVariant/51509624766761",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51509629976873": {
     "product_title": "Aar Morika Nakshi Jhumki",
@@ -19502,7 +19482,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0625_resized.jpg?v=1769084015",
     "url": "https://www.rasasilver.com/products/narashima-temple-pendant?variant=gid://shopify/ProductVariant/52469599174953",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52469599338793": {
     "product_title": "Shridevi Temple Pendant",
@@ -20114,6 +20094,19 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0140copy_resized_aa8beda6-b6b2-4e69-84fb-94e81dc6ddc0.jpg?v=1769608938",
     "url": "https://www.rasasilver.com/products/loin-chain-pendant?variant=gid://shopify/ProductVariant/52520495841577",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/52524922831145": {
+    "product_title": "Navara Bloom Earrings",
+    "product_handle": "navara-bloom-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52524922831145",
+    "global_id": "gid://shopify/ProductVariant/52524922831145",
+    "variant_title": "Default Title",
+    "sku": "R25101",
+    "price": 4400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0149_copy.jpg?v=1761373192",
+    "url": "https://www.rasasilver.com/products/navara-bloom-earrings?variant=gid://shopify/ProductVariant/52524922831145",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52526677295401": {
     "product_title": "Veralune Jadau Danglers",
@@ -23132,19 +23125,6 @@
     "url": "https://www.rasasilver.com/products/swarnika-cz-necklace-set?variant=gid://shopify/ProductVariant/52682129768745",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/52682136355113": {
-    "product_title": "Kanakprabha Short Necklace",
-    "product_handle": "kanakprabha-short-necklace",
-    "variant_id": "gid://shopify/ProductVariant/52682136355113",
-    "global_id": "gid://shopify/ProductVariant/52682136355113",
-    "variant_title": "Default Title",
-    "sku": "R24646",
-    "price": 41500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4173.jpg?v=1771090902",
-    "url": "https://www.rasasilver.com/products/kanakprabha-short-necklace?variant=gid://shopify/ProductVariant/52682136355113",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/52682145431849": {
     "product_title": "Manimala Kasu Temple Necklace",
     "product_handle": "manimala-kasu-short-necklace",
@@ -23442,7 +23422,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00204copy_resized.jpg?v=1772196280",
     "url": "https://www.rasasilver.com/products/ivory-spark-cz-necklace?variant=gid://shopify/ProductVariant/52712569962793",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52712691761449": {
     "product_title": "Ember CZ Necklace Set",
@@ -27578,6 +27559,19 @@
     "url": "https://www.rasasilver.com/products/avenra-stone-pendant?variant=gid://shopify/ProductVariant/52881847484713",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/52881919541545": {
+    "product_title": "Neeraja Stone Pendant",
+    "product_handle": "neeraja-stone-pendant",
+    "variant_id": "gid://shopify/ProductVariant/52881919541545",
+    "global_id": "gid://shopify/ProductVariant/52881919541545",
+    "variant_title": "Default Title",
+    "sku": "R26198",
+    "price": 11900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37074_resized.jpg?v=1775128543",
+    "url": "https://www.rasasilver.com/products/neeraja-stone-pendant?variant=gid://shopify/ProductVariant/52881919541545",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/52881956602153": {
     "product_title": "Amaya Pear CZ Necklace Set",
     "product_handle": "amaya-tear-cz-necklace-set",
@@ -29800,6 +29794,19 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11864_resized.jpg?v=1781159435",
     "url": "https://www.rasasilver.com/products/multimuse-stone-bracelet?variant=gid://shopify/ProductVariant/53133321437481",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/53133631947049": {
+    "product_title": "Kshira Temple Studs",
+    "product_handle": "kshira-temple-studs",
+    "variant_id": "gid://shopify/ProductVariant/53133631947049",
+    "global_id": "gid://shopify/ProductVariant/53133631947049",
+    "variant_title": "Default Title",
+    "sku": "R28255",
+    "price": 3300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0133_resized.jpg?v=1781256131",
+    "url": "https://www.rasasilver.com/products/kshira-temple-studs?variant=gid://shopify/ProductVariant/53133631947049",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/53133895467305": {
     "product_title": "Viona Toe Ring",
@@ -32217,7 +32224,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1418_resized.jpg?v=1782111476",
     "url": "https://www.rasasilver.com/products/blue-floriya-cz-necklace?variant=gid://shopify/ProductVariant/53282524692777",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53282526593321": {
     "product_title": "Blue-Floriya CZ Necklace",
@@ -32438,19 +32446,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May15311_resized.jpg?v=1782121456",
     "url": "https://www.rasasilver.com/products/ivy-glow-cz-necklace?variant=gid://shopify/ProductVariant/53282812887337",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/53282819277097": {
-    "product_title": "Bloom Aura Stone Necklace",
-    "product_handle": "bloom-aura-stone-necklace",
-    "variant_id": "gid://shopify/ProductVariant/53282819277097",
-    "global_id": "gid://shopify/ProductVariant/53282819277097",
-    "variant_title": "Default Title",
-    "sku": "R29469",
-    "price": 18700.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1552_resized.jpg?v=1782123243",
-    "url": "https://www.rasasilver.com/products/bloom-aura-stone-necklace?variant=gid://shopify/ProductVariant/53282819277097",
     "stock": 1
   },
   "gid://shopify/ProductVariant/53284573741353": {
@@ -32724,6 +32719,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1727_resized.jpg?v=1782194206",
     "url": "https://www.rasasilver.com/products/srija-cz-bangles?variant=gid://shopify/ProductVariant/53283847274793",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/53283846488361": {
+    "product_title": "Viridia CZ Kada",
+    "product_handle": "viridia-cz-kada",
+    "variant_id": "gid://shopify/ProductVariant/53283846488361",
+    "global_id": "gid://shopify/ProductVariant/53283846488361",
+    "variant_title": "Default Title",
+    "sku": "R29498",
+    "price": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1746_resized.jpg?v=1782196430",
+    "url": "https://www.rasasilver.com/products/viridia-cz-kada?variant=gid://shopify/ProductVariant/53283846488361",
     "stock": 1
   },
   "gid://shopify/ProductVariant/53283855073577": {

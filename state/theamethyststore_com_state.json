@@ -133442,7 +133442,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4711.jpg?v=1784522177",
     "url": "https://www.theamethyststore.com/products/victorian-pendant-set-7?variant=gid://shopify/ProductVariant/49429735538915",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/49429746581731": {
     "product_title": "Tanisha Victorian Pendant set",
@@ -138005,6 +138006,32 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15119.jpg?v=1785305179",
     "url": "https://www.theamethyststore.com/products/floral-kundan-studs-4?variant=gid://shopify/ProductVariant/49472059605219",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49472064028899": {
+    "product_title": "Mango Design Kundan Studs",
+    "product_handle": "kundan-studs-27",
+    "variant_id": "gid://shopify/ProductVariant/49472064028899",
+    "global_id": "gid://shopify/ProductVariant/49472064028899",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15120",
+    "price": 6030.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15120.jpg?v=1785306039",
+    "url": "https://www.theamethyststore.com/products/kundan-studs-27?variant=gid://shopify/ProductVariant/49472064028899",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49475816259811": {
+    "product_title": "Cute Floral Kundan Studs",
+    "product_handle": "cute-floral-kundan-studs",
+    "variant_id": "gid://shopify/ProductVariant/49475816259811",
+    "global_id": "gid://shopify/ProductVariant/49475816259811",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15122",
+    "price": 9600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15122.jpg?v=1785396850",
+    "url": "https://www.theamethyststore.com/products/cute-floral-kundan-studs?variant=gid://shopify/ProductVariant/49475816259811",
     "stock": 1
   }
 }
