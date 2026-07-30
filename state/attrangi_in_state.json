@@ -18820,7 +18820,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-29at5.33.08PM.jpg?v=1744969053",
     "url": "https://www.attrangi.in/products/antique-gold-polki-hathpan-hand-harness-copy?variant=gid://shopify/ProductVariant/46189460586708",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46189460619476": {
     "product_title": "Antique Gold Polki Hathpan | Hand Harness",
@@ -28667,6 +28668,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-22at12.25.43AM.jpg?v=1766395620",
     "url": "https://www.attrangi.in/products/malia-diamond-horse-brooch-men-women?variant=gid://shopify/ProductVariant/47384422908116",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/47384946802900": {
+    "product_title": "Shershaah Diamond King Brooch | Men & Women",
+    "product_handle": "shershaah-diamond-king-brooch-men-women",
+    "variant_id": "gid://shopify/ProductVariant/47384946802900",
+    "global_id": "gid://shopify/ProductVariant/47384946802900",
+    "variant_title": "Default Title",
+    "sku": "RP5493GR-BR",
+    "price": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-22at12.27.31AM.jpg?v=1766396245",
+    "url": "https://www.attrangi.in/products/shershaah-diamond-king-brooch-men-women?variant=gid://shopify/ProductVariant/47384946802900",
     "stock": 3
   },
   "gid://shopify/ProductVariant/47384979407060": {

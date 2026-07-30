@@ -138244,5 +138244,57 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0025.jpg?v=1785406682",
     "url": "https://www.theamethyststore.com/products/varalakshmi-face-5?variant=gid://shopify/ProductVariant/49476072800483",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476082958563": {
+    "product_title": "Grand Varalakshmi Face",
+    "product_handle": "varalakshmi-face-6",
+    "variant_id": "gid://shopify/ProductVariant/49476082958563",
+    "global_id": "gid://shopify/ProductVariant/49476082958563",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0026",
+    "price": 57969.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0026.jpg?v=1785406862",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-6?variant=gid://shopify/ProductVariant/49476082958563",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476083351779": {
+    "product_title": "Aurelia Kundan Short Necklace",
+    "product_handle": "aurelia-kundan-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49476083351779",
+    "global_id": "gid://shopify/ProductVariant/49476083351779",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17146",
+    "price": 27100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17146.jpg?v=1785406910",
+    "url": "https://www.theamethyststore.com/products/aurelia-kundan-short-necklace?variant=gid://shopify/ProductVariant/49476083351779",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476085940451": {
+    "product_title": "Heshikha Kundan Short Necklace",
+    "product_handle": "heshikha-kundan-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49476085940451",
+    "global_id": "gid://shopify/ProductVariant/49476085940451",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17147",
+    "price": 24980.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17147.jpg?v=1785407046",
+    "url": "https://www.theamethyststore.com/products/heshikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49476085940451",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476086137059": {
+    "product_title": "Pooja Varalakshmi Face",
+    "product_handle": "varalakshmi-face-7",
+    "variant_id": "gid://shopify/ProductVariant/49476086137059",
+    "global_id": "gid://shopify/ProductVariant/49476086137059",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0027",
+    "price": 92936.9,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0027.jpg?v=1785407078",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-7?variant=gid://shopify/ProductVariant/49476086137059",
+    "stock": 1
   }
 }
