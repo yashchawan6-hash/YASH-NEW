@@ -76,6 +76,13 @@
       "telegram_bot_token": "8970206913:AAHkV4MmPmrONxr8nW4BmkBdplqbH8rZ_cQ",
       "telegram_chat_id": "-1004457299456",
       "enabled": true
+    },
+    {
+      "name": "Violet & Purple",
+      "domain": "violetandpurple.com",
+      "telegram_bot_token": "8991167752:AAFA1CCfPIDEIWV6CIWJimyi_CLh3mti0to",
+      "telegram_chat_id": "-1003983522807",
+      "enabled": true
     }
   ]
 }
