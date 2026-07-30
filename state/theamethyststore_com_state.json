@@ -172001,5 +172001,61 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-103?variant=gid://shopify/ProductVariant/49476537811171",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476538138851": {
+    "product_title": "Isha Kundan Pendant",
+    "product_handle": "kundan-pendant-104",
+    "variant_id": "gid://shopify/ProductVariant/49476538138851",
+    "global_id": "gid://shopify/ProductVariant/49476538138851",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4761",
+    "price": 16950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4761.jpg?v=1785419737",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-104?variant=gid://shopify/ProductVariant/49476538138851",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476541415651": {
+    "product_title": "Unique Kundan Pendant",
+    "product_handle": "kundan-pendant-105",
+    "variant_id": "gid://shopify/ProductVariant/49476541415651",
+    "global_id": "gid://shopify/ProductVariant/49476541415651",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4762",
+    "price": 12850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4762.jpg?v=1785419911",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-105?variant=gid://shopify/ProductVariant/49476541415651",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476542202083": {
+    "product_title": "Kanisha Kundan Pendant",
+    "product_handle": "kundan-pendant-106",
+    "variant_id": "gid://shopify/ProductVariant/49476542202083",
+    "global_id": "gid://shopify/ProductVariant/49476542202083",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4763",
+    "price": 12080.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4763.jpg?v=1785420045",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-106?variant=gid://shopify/ProductVariant/49476542202083",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476544364771": {
+    "product_title": "Nithra Kundan Pendant",
+    "product_handle": "kundan-pendant-107",
+    "variant_id": "gid://shopify/ProductVariant/49476544364771",
+    "global_id": "gid://shopify/ProductVariant/49476544364771",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4764",
+    "price": 17350.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4764.jpg?v=1785420335",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-107?variant=gid://shopify/ProductVariant/49476544364771",
+    "stock": 1
   }
 }
