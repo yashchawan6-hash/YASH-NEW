@@ -138388,5 +138388,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15108.jpg?v=1785408143",
     "url": "https://www.theamethyststore.com/products/viyona-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476102029539",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476108910819": {
+    "product_title": "Vedhika Amman Face",
+    "product_handle": "amman-face-2",
+    "variant_id": "gid://shopify/ProductVariant/49476108910819",
+    "global_id": "gid://shopify/ProductVariant/49476108910819",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0031",
+    "price": 73073.35,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0031.jpg?v=1785408851",
+    "url": "https://www.theamethyststore.com/products/amman-face-2?variant=gid://shopify/ProductVariant/49476108910819",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476108943587": {
+    "product_title": "Ahaana Chandhubaali Earrings",
+    "product_handle": "ahaana-chandhubaali-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49476108943587",
+    "global_id": "gid://shopify/ProductVariant/49476108943587",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15109",
+    "price": 32800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15109.jpg?v=1785408859",
+    "url": "https://www.theamethyststore.com/products/ahaana-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476108943587",
+    "stock": 1
   }
 }
