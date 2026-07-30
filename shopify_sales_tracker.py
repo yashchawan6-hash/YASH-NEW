@@ -240,17 +240,18 @@ def check_stock_in_batches(domain, token, active_variants):
     results = {}
     batch_size = 150
     total_variants = len(active_variants)
+    batches = [active_variants[i:i+batch_size] for i in range(0, total_variants, batch_size)]
     
-    for i in range(0, total_variants, batch_size):
-        batch = active_variants[i:i+batch_size]
+    def process_batch(batch):
+        batch_res = {}
         lines = [{'merchandiseId': v['global_id'], 'quantity': 9999} for v in batch]
         variables = {"input": {"lines": lines}}
         
         data = post_graphql_query(url, headers, {'query': mutation, 'variables': variables})
         if not data:
             for v in batch:
-                results[v['variant_id']] = -1
-            continue
+                batch_res[v['variant_id']] = -1
+            return batch_res
             
         cart_data = data.get('data', {}).get('cartCreate', {}).get('cart', {})
         if cart_data and 'lines' in cart_data:
@@ -262,16 +263,28 @@ def check_stock_in_batches(domain, token, active_variants):
                 quantities[g_id] = qty
                 
             for v in batch:
-                # If cart returned successfully, items omitted by Shopify have 0 stock (sold out)
                 stock = quantities.get(v['global_id'], 0)
-                results[v['variant_id']] = stock
+                batch_res[v['variant_id']] = stock
         else:
-            # Only mark -1 if the entire GraphQL request/cart creation failed
             for v in batch:
-                results[v['variant_id']] = -1
+                batch_res[v['variant_id']] = -1
                 
-        if i + batch_size < total_variants:
-            time.sleep(0.8)
+        return batch_res
+
+    # Use multi-threaded parallel batch execution for lightning-fast scanning
+    batch_workers = min(len(batches), 4) if batches else 1
+    if batch_workers > 1:
+        with ThreadPoolExecutor(max_workers=batch_workers) as b_executor:
+            futures = [b_executor.submit(process_batch, b) for b in batches]
+            for future in as_completed(futures):
+                try:
+                    res = future.result()
+                    results.update(res)
+                except Exception as e:
+                    print(f"[{domain}] Batch thread error: {e}", flush=True)
+    else:
+        for b in batches:
+            results.update(process_batch(b))
             
     return results
 
@@ -582,7 +595,7 @@ def main():
     print(f"Starting Shopify Multi-Store Sales Tracker. Concurrently scanning {len(enabled_stores)} enabled stores in parallel...", flush=True)
     start_time = time.time()
     
-    max_workers = min(len(enabled_stores), 15)
+    max_workers = min(len(enabled_stores), 30)
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(process_store, store, bot_token, state_dir, daily_dir): store for store in enabled_stores}
         for future in as_completed(futures):
