@@ -14702,6 +14702,19 @@
     "url": "https://www.theamethyststore.com/products/jorved-diamond-like-necklace-set?variant=gid://shopify/ProductVariant/45281612792035",
     "stock": 2
   },
+  "gid://shopify/ProductVariant/45281661157603": {
+    "product_title": "Mohita Victorian Ring",
+    "product_handle": "mohita-victorian-ring",
+    "variant_id": "gid://shopify/ProductVariant/45281661157603",
+    "global_id": "gid://shopify/ProductVariant/45281661157603",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0579",
+    "price": 3300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC04455.jpg?v=1728633720",
+    "url": "https://www.theamethyststore.com/products/mohita-victorian-ring?variant=gid://shopify/ProductVariant/45281661157603",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/45281733411043": {
     "product_title": "Enrich Oxidised Studs",
     "product_handle": "enrich-oxidised-studs",
@@ -16503,10 +16516,23 @@
     "global_id": "gid://shopify/ProductVariant/45435806515427",
     "variant_title": "Default Title",
     "sku": "AMS-101-0593",
-    "price": 8435.0,
+    "price": 7400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0593.jpg?v=1724409461",
     "url": "https://www.theamethyststore.com/products/heriya-stone-ring?variant=gid://shopify/ProductVariant/45435806515427",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/45435828338915": {
+    "product_title": "Abina Stone Ring",
+    "product_handle": "abina-stone-ring",
+    "variant_id": "gid://shopify/ProductVariant/45435828338915",
+    "global_id": "gid://shopify/ProductVariant/45435828338915",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0600",
+    "price": 7000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0600.jpg?v=1724410226",
+    "url": "https://www.theamethyststore.com/products/abina-stone-ring?variant=gid://shopify/ProductVariant/45435828338915",
     "stock": 1
   },
   "gid://shopify/ProductVariant/45439603343587": {
@@ -25074,6 +25100,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0727.jpg?v=1741356416",
     "url": "https://www.theamethyststore.com/products/rithikha-ring?variant=gid://shopify/ProductVariant/46097424285923",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/46100217364707": {
+    "product_title": "Square Designed Victorian Ring",
+    "product_handle": "square-designed-victorian-ring",
+    "variant_id": "gid://shopify/ProductVariant/46100217364707",
+    "global_id": "gid://shopify/ProductVariant/46100217364707",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0765",
+    "price": 9900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0765.jpg?v=1741411867",
+    "url": "https://www.theamethyststore.com/products/square-designed-victorian-ring?variant=gid://shopify/ProductVariant/46100217364707",
     "stock": 1
   },
   "gid://shopify/ProductVariant/46100827832547": {
