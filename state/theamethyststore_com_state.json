@@ -138466,5 +138466,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15114.jpg?v=1785409447",
     "url": "https://www.theamethyststore.com/products/nihashi-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476114383075",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476115300579": {
+    "product_title": "Divine Charm Varalakshmi Face",
+    "product_handle": "varalakshmi-face-9",
+    "variant_id": "gid://shopify/ProductVariant/49476115300579",
+    "global_id": "gid://shopify/ProductVariant/49476115300579",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0033",
+    "price": 22495.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0033.jpg?v=1785409579",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-9?variant=gid://shopify/ProductVariant/49476115300579",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476115726563": {
+    "product_title": "Little Cute Kundan Studs",
+    "product_handle": "little-cute-kundan-studs-7",
+    "variant_id": "gid://shopify/ProductVariant/49476115726563",
+    "global_id": "gid://shopify/ProductVariant/49476115726563",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15113",
+    "price": 5600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15113.jpg?v=1785409638",
+    "url": "https://www.theamethyststore.com/products/little-cute-kundan-studs-7?variant=gid://shopify/ProductVariant/49476115726563",
+    "stock": 1
   }
 }
