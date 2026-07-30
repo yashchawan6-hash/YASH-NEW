@@ -70108,6 +70108,19 @@
     "url": "https://www.theamethyststore.com/products/yuthikha-pachi-short-necklace-set?variant=gid://shopify/ProductVariant/47570704531683",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/47570707874019": {
+    "product_title": "Yashika Victorian Choker",
+    "product_handle": "yashika-victorian-choker",
+    "variant_id": "gid://shopify/ProductVariant/47570707874019",
+    "global_id": "gid://shopify/ProductVariant/47570707874019",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-12397",
+    "price": 78700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12397_7bbb8ff4-84f4-4a38-8651-303d3f891eec.jpg?v=1763465713",
+    "url": "https://www.theamethyststore.com/products/yashika-victorian-choker?variant=gid://shopify/ProductVariant/47570707874019",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/47570730909923": {
     "product_title": "Amaira Short Necklace",
     "product_handle": "amaira-short-necklace",
@@ -91422,7 +91435,7 @@
     "global_id": "gid://shopify/ProductVariant/48276906279139",
     "variant_title": "Default Title",
     "sku": "AMS-102-13772",
-    "price": 74100.0,
+    "price": 84500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13772.jpg?v=1771155829",
     "url": "https://www.theamethyststore.com/products/short-necklace-set-34?variant=gid://shopify/ProductVariant/48276906279139",
@@ -95049,11 +95062,11 @@
     "global_id": "gid://shopify/ProductVariant/48342055059683",
     "variant_title": "Default Title",
     "sku": "AMS-101-2004",
-    "price": 8272.0,
+    "price": 8300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2004.jpg?v=1772448663",
     "url": "https://www.theamethyststore.com/products/rudra-diamond-design-ring?variant=gid://shopify/ProductVariant/48342055059683",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48342293774563": {
     "product_title": "Admirable Kundan Jada Billa",

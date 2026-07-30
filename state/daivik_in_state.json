@@ -14467,7 +14467,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E26FAB2D-6FB8-4034-8581-070F37D9395C.jpg?v=1733199831",
     "url": "https://www.daivik.in/products/ruby-green-antique-simple-necklace-set?variant=gid://shopify/ProductVariant/46121897361630",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/46122755915998": {
     "product_title": "AD Purple Bangles",
