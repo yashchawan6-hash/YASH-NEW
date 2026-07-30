@@ -40782,7 +40782,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4F2694EF-73AE-44F3-8030-0E1268B2B9C6.jpg?v=1771241123",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kids-adult-kemp-jhumkas?variant=gid://shopify/ProductVariant/47821038485726",
-    "stock": 13
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47821116735710": {
     "product_title": "Kemp Ruby Green Saree Pin",
@@ -47922,5 +47923,19 @@
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/circular-lotus-hanging-pearl-earrings?variant=gid://shopify/ProductVariant/48524779716830",
     "stock": 11
+  },
+  "gid://shopify/ProductVariant/48525556285662": {
+    "product_title": "Victorian Moissanite Flower Necklace with Earrings",
+    "product_handle": "victorian-moissanite-flower-necklace-with-earrings",
+    "variant_id": "gid://shopify/ProductVariant/48525556285662",
+    "global_id": "gid://shopify/ProductVariant/48525556285662",
+    "variant_title": "Default Title",
+    "sku": "1236",
+    "price": 4299.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0864_93ef71ad-40e1-413f-856b-8167e70a9c61.jpg?v=1785427090",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/victorian-moissanite-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48525556285662",
+    "stock": 2
   }
 }
