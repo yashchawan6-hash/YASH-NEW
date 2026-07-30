@@ -166,8 +166,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458",
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/49856597590313": {
     "product_title": "Mirnali Victorian Danglers",
@@ -5307,7 +5307,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot_2025-11-04_at_12.38.37_PM_e50c5348-a1a4-4aed-9415-cbbae481ad08.png?v=1769155216",
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916826921",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50635383046441": {
     "product_title": "Phool Patra Ring",
@@ -8090,7 +8091,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0355copy_resized_c261d6e8-7acb-4591-9091-023ac3d41a9f.jpg?v=1769512582",
     "url": "https://www.rasasilver.com/products/zephyra-kada?variant=gid://shopify/ProductVariant/51198012883241",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51198052598057": {
     "product_title": "Whisper of Ruby Kada",
@@ -12296,7 +12298,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0196copySmall.jpg?v=1775890864",
     "url": "https://www.rasasilver.com/products/aaryushi-payal?variant=gid://shopify/ProductVariant/51495379304745",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51495544324393": {
     "product_title": "Eshara Oxidised Pair Payal",
@@ -12387,7 +12390,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0233_copy_2.jpg?v=1763463227",
     "url": "https://www.rasasilver.com/products/anzuri-rose-payal?variant=gid://shopify/ProductVariant/51495597441321",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51495597474089": {
     "product_title": "Anzuri Rose Payal",
@@ -19386,19 +19390,6 @@
     "url": "https://www.rasasilver.com/products/flame-of-heart-studs?variant=gid://shopify/ProductVariant/52486971851049",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/52494047871273": {
-    "product_title": "Half Crystal Studs",
-    "product_handle": "half-crystal-studs",
-    "variant_id": "gid://shopify/ProductVariant/52494047871273",
-    "global_id": "gid://shopify/ProductVariant/52494047871273",
-    "variant_title": "Default Title",
-    "sku": "R20613",
-    "price": 2800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0219copy_resized_983d612d-682b-4e22-aa9a-a8b4332cf75d.jpg?v=1769235783",
-    "url": "https://www.rasasilver.com/products/half-crystal-studs?variant=gid://shopify/ProductVariant/52494047871273",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/52494087225641": {
     "product_title": "Starlit Arc Hoops",
     "product_handle": "starlit-arc-hoops",
@@ -19488,19 +19479,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0088copy_resized_c39efe91-0c35-4099-8b12-cb4d55c26eb4.jpg?v=1769490479",
     "url": "https://www.rasasilver.com/products/cz-ring?variant=gid://shopify/ProductVariant/52495156019497",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/52511333613865": {
-    "product_title": "Pearl Butterflies Ring",
-    "product_handle": "pearl-butterflies-ring",
-    "variant_id": "gid://shopify/ProductVariant/52511333613865",
-    "global_id": "gid://shopify/ProductVariant/52511333613865",
-    "variant_title": "Default Title",
-    "sku": "R8634",
-    "price": 1260.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0035copy_resized_07a56495-4b14-41b8-9ec9-07142f91e03a.jpg?v=1769495803",
-    "url": "https://www.rasasilver.com/products/pearl-butterflies-ring?variant=gid://shopify/ProductVariant/52511333613865",
     "stock": 1
   },
   "gid://shopify/ProductVariant/52511412977961": {
@@ -29387,19 +29365,6 @@
     "url": "https://www.rasasilver.com/products/myra-emerald-cz-studs?variant=gid://shopify/ProductVariant/53131822563625",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/53131822596393": {
-    "product_title": "Radiance Studs",
-    "product_handle": "myra-emerald-cz-studs",
-    "variant_id": "gid://shopify/ProductVariant/53131822596393",
-    "global_id": "gid://shopify/ProductVariant/53131822596393",
-    "variant_title": "Purple",
-    "sku": "R28372",
-    "price": 4600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0286_resized.jpg?v=1781245008",
-    "url": "https://www.rasasilver.com/products/myra-emerald-cz-studs?variant=gid://shopify/ProductVariant/53131822596393",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/53132249923881": {
     "product_title": "Ziva Moissanite Studs",
     "product_handle": "ziva-moissanite-studs",
@@ -29528,19 +29493,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11852_resized.jpg?v=1781160010",
     "url": "https://www.rasasilver.com/products/multimuse-stone-bracelet-copy-1?variant=gid://shopify/ProductVariant/53138071388457",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/53263394701609": {
-    "product_title": "Saisha Toe Ring",
-    "product_handle": "saisha-toe-ring",
-    "variant_id": "gid://shopify/ProductVariant/53263394701609",
-    "global_id": "gid://shopify/ProductVariant/53263394701609",
-    "variant_title": "GREEN",
-    "sku": "R13090",
-    "price": 1800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11745_resized.jpg?v=1781332619",
-    "url": "https://www.rasasilver.com/products/saisha-toe-ring?variant=gid://shopify/ProductVariant/53263394701609",
     "stock": 1
   },
   "gid://shopify/ProductVariant/53138163368233": {
@@ -30051,19 +30003,6 @@
     "url": "https://www.rasasilver.com/products/orlina-luxe-hoops-copy?variant=gid://shopify/ProductVariant/53149745643817",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/53149746102569": {
-    "product_title": "Evil-Eye Oxidised Payal",
-    "product_handle": "evil-eye-oxidized-payal",
-    "variant_id": "gid://shopify/ProductVariant/53149746102569",
-    "global_id": "gid://shopify/ProductVariant/53149746102569",
-    "variant_title": "Default Title",
-    "sku": "R14079",
-    "price": 7200.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0724_resized.jpg?v=1780936865",
-    "url": "https://www.rasasilver.com/products/evil-eye-oxidized-payal?variant=gid://shopify/ProductVariant/53149746102569",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/53149815832873": {
     "product_title": "Rajwada Antique Choker Set",
     "product_handle": "rajwada-jadau-choker-set",
@@ -30259,19 +30198,6 @@
     "url": "https://www.rasasilver.com/products/morika-nakshi-jhumki?variant=gid://shopify/ProductVariant/53150110810409",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/53150141710633": {
-    "product_title": "Gulnaar Oxidised Jhumki",
-    "product_handle": "rajputi-oxidised-danglers-copy",
-    "variant_id": "gid://shopify/ProductVariant/53150141710633",
-    "global_id": "gid://shopify/ProductVariant/53150141710633",
-    "variant_title": "Default Title",
-    "sku": "R12991",
-    "price": 5700.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11661_resized_1.jpg?v=1780725790",
-    "url": "https://www.rasasilver.com/products/rajputi-oxidised-danglers-copy?variant=gid://shopify/ProductVariant/53150141710633",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/53158352617769": {
     "product_title": "Vionna Spark CZ Pendant",
     "product_handle": "vionna-spark-cz-pendant",
@@ -30348,7 +30274,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May116261_resized.jpg?v=1780831587",
     "url": "https://www.rasasilver.com/products/adiva-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150291099945",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53150295097641": {
     "product_title": "Orlina Oxidised Jhumki",
@@ -30517,7 +30444,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11650_resized.jpg?v=1780835344",
     "url": "https://www.rasasilver.com/products/vruksha-oxidised-jhumki-copy?variant=gid://shopify/ProductVariant/53160158036265",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53160236843305": {
     "product_title": "Opaline Moissanite Pendant Set",
@@ -31444,7 +31372,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261974_resized.jpg?v=1781594395",
     "url": "https://www.rasasilver.com/products/suhasini-temple-maang-tikka?variant=gid://shopify/ProductVariant/53269237727529",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53269237760297": {
     "product_title": "Suhasini Temple Maang Tikka",
@@ -35351,19 +35280,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41417_resized.jpg?v=1783752047",
     "url": "https://www.rasasilver.com/products/recta-orange-stone-bangles?variant=gid://shopify/ProductVariant/53324632260905",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/53324630065449": {
-    "product_title": "Recta-Orange Stone Bangles",
-    "product_handle": "recta-orange-stone-bangles",
-    "variant_id": "gid://shopify/ProductVariant/53324630065449",
-    "global_id": "gid://shopify/ProductVariant/53324630065449",
-    "variant_title": "Navaratna Colour / 2.6",
-    "sku": "R31246",
-    "price": 11800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41433_resized.jpg?v=1783752047",
-    "url": "https://www.rasasilver.com/products/recta-orange-stone-bangles?variant=gid://shopify/ProductVariant/53324630065449",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/53324642615593": {
     "product_title": "Vana Glow Stone Bangles",
