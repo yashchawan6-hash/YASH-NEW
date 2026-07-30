@@ -138166,5 +138166,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0021.jpg?v=1785405570",
     "url": "https://www.theamethyststore.com/products/varalakshmi-face-1?variant=gid://shopify/ProductVariant/49476020666595",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476036624611": {
+    "product_title": "Nithisha Kundan Drops",
+    "product_handle": "kundan-drops-18",
+    "variant_id": "gid://shopify/ProductVariant/49476036624611",
+    "global_id": "gid://shopify/ProductVariant/49476036624611",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15121",
+    "price": 14100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15121.jpg?v=1785406002",
+    "url": "https://www.theamethyststore.com/products/kundan-drops-18?variant=gid://shopify/ProductVariant/49476036624611",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476049273059": {
+    "product_title": "Attractive Varalakshmi Face",
+    "product_handle": "varalakshmi-face-2",
+    "variant_id": "gid://shopify/ProductVariant/49476049273059",
+    "global_id": "gid://shopify/ProductVariant/49476049273059",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0022",
+    "price": 35992.32,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0022.jpg?v=1785406129",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-2?variant=gid://shopify/ProductVariant/49476049273059",
+    "stock": 1
   }
 }
