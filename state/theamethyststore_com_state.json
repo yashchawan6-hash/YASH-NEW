@@ -131829,7 +131829,7 @@
     "global_id": "gid://shopify/ProductVariant/49421181649123",
     "variant_title": "Default Title",
     "sku": "AMS-102-16775",
-    "price": 28600.0,
+    "price": 28800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16775.jpg?v=1784283170",
     "url": "https://www.theamethyststore.com/products/mesmerizing-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49421181649123",
@@ -138413,6 +138413,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15109.jpg?v=1785408859",
     "url": "https://www.theamethyststore.com/products/ahaana-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476108943587",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476110188771": {
+    "product_title": "Miraya Chandhubaali Earrings",
+    "product_handle": "miraya-chandhubaali-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49476110188771",
+    "global_id": "gid://shopify/ProductVariant/49476110188771",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15110",
+    "price": 31380.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15110.jpg?v=1785409086",
+    "url": "https://www.theamethyststore.com/products/miraya-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476110188771",
     "stock": 1
   }
 }
