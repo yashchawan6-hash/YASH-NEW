@@ -10913,8 +10913,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_3a9dae1b-f5a8-4565-bc8e-a18274b6c0a4.heic?v=1686396576",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-gold-finish-bangles?variant=gid://shopify/ProductVariant/44223373410526",
-    "stock": 50,
-    "last_alerted_stock": 50
+    "stock": 49,
+    "last_alerted_stock": 49
   },
   "gid://shopify/ProductVariant/44223374328030": {
     "product_title": "AD Gold finish Bangles",
@@ -18113,7 +18113,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CE0ED1E9-7549-41F6-BA6F-AD9721B31DDC.jpg?v=1717512521",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kemp-peacock-ad-flower-pendant-chain-with-jhumkas?variant=gid://shopify/ProductVariant/45488983998686",
-    "stock": 39
+    "stock": 38,
+    "last_alerted_stock": 38
   },
   "gid://shopify/ProductVariant/45493469806814": {
     "product_title": "Kemp Jadau Lotus Earrings with Kemp Mattals combo",
@@ -30228,7 +30229,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0E475015-F86F-46F0-96FB-AB4D57EC6DE1.jpg?v=1751382255",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/antique-jadau-green-beads-long-chain-with-earrings?variant=gid://shopify/ProductVariant/47047999455454",
-    "stock": 30
+    "stock": 29,
+    "last_alerted_stock": 29
   },
   "gid://shopify/ProductVariant/47049841049822": {
     "product_title": "Simple AD Round Pendant Mangalsutra With Studs",
@@ -36646,9 +36648,10 @@
     "price": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6837.jpg?v=1758141411",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/diwali-sale-bangles-d25727?variant=gid://shopify/ProductVariant/47542915989726",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47542916022494": {
     "product_title": "Diwali Sale Bangles D25727",
