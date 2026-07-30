@@ -138336,5 +138336,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15105.jpg?v=1785407637",
     "url": "https://www.theamethyststore.com/products/chandhubaali-earrings-4?variant=gid://shopify/ProductVariant/49476094623971",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476098851043": {
+    "product_title": "Arshiya Chandhubaali Earrings",
+    "product_handle": "arshiya-chandhubaali-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49476098851043",
+    "global_id": "gid://shopify/ProductVariant/49476098851043",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15106",
+    "price": 24300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15106.jpg?v=1785407834",
+    "url": "https://www.theamethyststore.com/products/arshiya-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476098851043",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476100620515": {
+    "product_title": "Samyra Chandhubaali Earrings",
+    "product_handle": "samyra-chandhubaali-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49476100620515",
+    "global_id": "gid://shopify/ProductVariant/49476100620515",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15107",
+    "price": 27130.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15107.jpg?v=1785407998",
+    "url": "https://www.theamethyststore.com/products/samyra-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49476100620515",
+    "stock": 1
   }
 }
