@@ -701,7 +701,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/staple-tennis-bracelet-attrangi-2.jpg?v=1739812570",
     "url": "https://www.attrangi.in/products/staple-tennis-bracelet?variant=gid://shopify/ProductVariant/40411672740009",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43105495384276": {
     "product_title": "10 Cent Staple Diamond Tennis Bracelet | 3mm",
