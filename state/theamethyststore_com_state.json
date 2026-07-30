@@ -171888,5 +171888,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-96?variant=gid://shopify/ProductVariant/49476466082019",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476484333795": {
+    "product_title": "Finrikaa Kundan Pendant",
+    "product_handle": "kundan-pendant-97",
+    "variant_id": "gid://shopify/ProductVariant/49476484333795",
+    "global_id": "gid://shopify/ProductVariant/49476484333795",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4754",
+    "price": 15100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4754.jpg?v=1785417429",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-97?variant=gid://shopify/ProductVariant/49476484333795",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476495966435": {
+    "product_title": "Tanujaa Kundan Pendant",
+    "product_handle": "kundan-pendant-98",
+    "variant_id": "gid://shopify/ProductVariant/49476495966435",
+    "global_id": "gid://shopify/ProductVariant/49476495966435",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4755",
+    "price": 16500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4755.jpg?v=1785417597",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-98?variant=gid://shopify/ProductVariant/49476495966435",
+    "stock": 1
   }
 }
