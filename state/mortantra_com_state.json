@@ -1524,7 +1524,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/MKS25.jpg?v=1640856756",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mks25-jadau-kundan-earchains?variant=gid://shopify/ProductVariant/42362261766367",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/42362278346975": {
     "product_title": "White Pearl Gold-Plated Temple Ear Chains - MKS26",
@@ -13840,7 +13841,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC50M.jpg?v=1757925279",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac50m?variant=gid://shopify/ProductVariant/45900385911007",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/45900543983839": {
     "product_title": "Gold-Plated Polki-Style Kundan Cocktail Ring with Deep Pink Accent Stones - PK-R8WP",
@@ -85579,20 +85581,6 @@
     "url": "https://www.mortantra.com/products/multicolor-dual-tone-mishr-tribal-mens-necklace-mr-n48?variant=gid://shopify/ProductVariant/49643926159583",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/49644754403551": {
-    "product_title": "Multicolor Dual Tone Mishr Tribal Men's Necklace - MR-N58M",
-    "product_handle": "multicolor-dual-tone-mishr-tribal-mens-necklace-mr-n58m",
-    "variant_id": "gid://shopify/ProductVariant/49644754403551",
-    "global_id": "gid://shopify/ProductVariant/49644754403551",
-    "variant_title": "Default Title",
-    "sku": "MR-N58M",
-    "price": 3150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N58M_5219d8ec-967f-49ea-a428-049ad21917f9.jpg?v=1780035622",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-dual-tone-mishr-tribal-mens-necklace-mr-n58m?variant=gid://shopify/ProductVariant/49644754403551",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49644958548191": {
     "product_title": "Multicolor Gold Plated Mishr Tribal Men's Necklace - MR-N60",
     "product_handle": "multicolor-gold-plated-mishr-tribal-mens-necklace-mr-n60",
@@ -99906,6 +99894,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/49644754403551": {
+    "product_title": "Multicolor Dual Tone Mishr Tribal Men's Necklace - MR-N58M",
+    "product_handle": "multicolor-dual-tone-mishr-tribal-mens-necklace-mr-n58m",
+    "variant_id": "gid://shopify/ProductVariant/49644754403551",
+    "global_id": "gid://shopify/ProductVariant/49644754403551",
+    "variant_title": "Default Title",
+    "sku": "MR-N58M",
+    "price": 3150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N58M_5219d8ec-967f-49ea-a428-049ad21917f9.jpg?v=1780035622",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-dual-tone-mishr-tribal-mens-necklace-mr-n58m?variant=gid://shopify/ProductVariant/49644754403551",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48508775563487": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff Kanphool with Kundan Stone Setting - ME1709",
