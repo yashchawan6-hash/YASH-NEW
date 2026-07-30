@@ -27570,7 +27570,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0806.jpg?v=1749195108",
     "url": "https://www.theamethyststore.com/products/gorgeous-mangalsutra-chain-with-earrings?variant=gid://shopify/ProductVariant/46240573358307",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46240613368035": {
     "product_title": "Yashi Mangalsutra Chain With Earrings",
@@ -107693,19 +107694,6 @@
     "url": "https://www.theamethyststore.com/products/kundan-bracelet-39?variant=gid://shopify/ProductVariant/48929539424483",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/48929589592291": {
-    "product_title": "Shankaratmaja Kundan Bracelet",
-    "product_handle": "kundan-bracelet-40",
-    "variant_id": "gid://shopify/ProductVariant/48929589592291",
-    "global_id": "gid://shopify/ProductVariant/48929589592291",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1296",
-    "price": 5049.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1296_2.jpg?v=1778414608",
-    "url": "https://www.theamethyststore.com/products/kundan-bracelet-40?variant=gid://shopify/ProductVariant/48929589592291",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48929976090851": {
     "product_title": "shikha Kundan Bracelet",
     "product_handle": "shikha-kundan-bracelet",
@@ -138530,6 +138518,19 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17178.jpg?v=1785410969",
     "url": "https://www.theamethyststore.com/products/stunning-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49476125720803",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476132962531": {
+    "product_title": "Samyra Kundan Short Necklace",
+    "product_handle": "samyra-kundan-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49476132962531",
+    "global_id": "gid://shopify/ProductVariant/49476132962531",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17179",
+    "price": 22740.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17179.jpg?v=1785411175",
+    "url": "https://www.theamethyststore.com/products/samyra-kundan-short-necklace?variant=gid://shopify/ProductVariant/49476132962531",
     "stock": 1
   }
 }
