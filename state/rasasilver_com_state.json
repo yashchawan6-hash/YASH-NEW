@@ -6854,7 +6854,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-3_f478139a-0244-4978-b152-93784f4cb5cd.jpg?v=1754029643",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kamala-ranjani-pendant?variant=gid://shopify/ProductVariant/50649020530985",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50649046614313": {
     "product_title": "Shringaara Nilaya Short Necklace",
@@ -53503,9 +53504,9 @@
     "price": 22150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb0023_resized.jpg?v=1772547497",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/phoolangi-kundan-jhumki?variant=gid://shopify/ProductVariant/52741209456937",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52741210046761": {
     "product_title": "Hamsira Kundan Jhumki",
