@@ -65,14 +65,12 @@ def harvest_storefront_token(domain):
 
     return None
 
-def post_graphql_query(url, headers, payload, max_retries=5):
+def post_graphql_query(url, headers, payload, max_retries=6):
     for attempt in range(1, max_retries + 1):
         try:
             r = requests.post(url, headers=headers, json=payload, timeout=25)
             if r.status_code == 429:
-                sleep_time = 3
-                print(f"[GraphQL Throttle] HTTP 429. Sleeping {sleep_time}s...", flush=True)
-                time.sleep(sleep_time)
+                time.sleep(2.5)
                 continue
                 
             if r.status_code == 200:
@@ -87,18 +85,14 @@ def post_graphql_query(url, headers, payload, max_retries=5):
                         break
                         
                 if throttled:
-                    sleep_time = 3
-                    print(f"[GraphQL Throttle] Throttled response. Sleeping {sleep_time}s...", flush=True)
-                    time.sleep(sleep_time)
+                    time.sleep(2.5)
                     continue
                     
                 return data
             else:
-                print(f"[GraphQL Error] HTTP {r.status_code}: {r.text[:200]}", flush=True)
-                time.sleep(2)
-        except Exception as e:
-            print(f"[GraphQL Exception] {e}", flush=True)
-            time.sleep(2)
+                time.sleep(1.5)
+        except Exception:
+            time.sleep(1.5)
     return None
 
 def fetch_catalog(domain, token):
@@ -155,7 +149,6 @@ def fetch_catalog(domain, token):
         payload = {'query': query, 'variables': {"cursor": cursor}}
         data = post_graphql_query(url, headers, payload)
         if not data:
-            print(f"[{domain}] Page {page_num}: No GraphQL response", flush=True)
             break
             
         products_conn = data.get('data', {}).get('products', {})
@@ -196,7 +189,6 @@ def fetch_catalog(domain, token):
                     'url': f"https://www.{domain}/products/{p_handle}?variant={variant_id}"
                 }
                 
-                # Always track all variants (both in-stock and newly sold-out)
                 active_variants.append(v_info)
                     
         page_info = products_conn.get('pageInfo', {})
@@ -240,18 +232,17 @@ def check_stock_in_batches(domain, token, active_variants):
     results = {}
     batch_size = 250
     total_variants = len(active_variants)
-    batches = [active_variants[i:i+batch_size] for i in range(0, total_variants, batch_size)]
     
-    def process_batch(batch):
-        batch_res = {}
+    for i in range(0, total_variants, batch_size):
+        batch = active_variants[i:i+batch_size]
         lines = [{'merchandiseId': v['global_id'], 'quantity': 9999} for v in batch]
         variables = {"input": {"lines": lines}}
         
         data = post_graphql_query(url, headers, {'query': mutation, 'variables': variables})
         if not data:
             for v in batch:
-                batch_res[v['variant_id']] = -1
-            return batch_res
+                results[v['variant_id']] = -1
+            continue
             
         cart_data = data.get('data', {}).get('cartCreate', {}).get('cart', {})
         if cart_data and 'lines' in cart_data:
@@ -264,27 +255,13 @@ def check_stock_in_batches(domain, token, active_variants):
                 
             for v in batch:
                 stock = quantities.get(v['global_id'], 0)
-                batch_res[v['variant_id']] = stock
+                results[v['variant_id']] = stock
         else:
             for v in batch:
-                batch_res[v['variant_id']] = -1
+                results[v['variant_id']] = -1
                 
-        return batch_res
-
-    # Use max 2 parallel batch workers per store to maintain optimal GraphQL rate limits
-    batch_workers = min(len(batches), 2) if batches else 1
-    if batch_workers > 1:
-        with ThreadPoolExecutor(max_workers=batch_workers) as b_executor:
-            futures = [b_executor.submit(process_batch, b) for b in batches]
-            for future in as_completed(futures):
-                try:
-                    res = future.result()
-                    results.update(res)
-                except Exception as e:
-                    print(f"[{domain}] Batch thread error: {e}", flush=True)
-    else:
-        for b in batches:
-            results.update(process_batch(b))
+        if i + batch_size < total_variants:
+            time.sleep(0.4)
             
     return results
 
