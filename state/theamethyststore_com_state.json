@@ -47681,9 +47681,10 @@
     "price": 7418.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9184.jpg?v=1752728178",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/saithanyasri-stone-studs?variant=gid://shopify/ProductVariant/46884019962083",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46884021829859": {
     "product_title": "Herithasri Stone Studs",
@@ -110475,7 +110476,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14255.jpg?v=1770705371",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/ridhi-attigai-necklace?variant=gid://shopify/ProductVariant/48095321882851",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48096292831459": {
     "product_title": "Visaka Attigai Necklace",
@@ -116102,9 +116104,10 @@
     "price": 48561.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1784.jpg?v=1771744574",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/ganisha-nagas-chain-set?variant=gid://shopify/ProductVariant/48298586505443",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48298604822755": {
     "product_title": "Yalini Nagas Chain Set",
@@ -130121,7 +130124,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3106.jpg?v=1777904515",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-69?variant=gid://shopify/ProductVariant/48909199507683",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48911914959075": {
     "product_title": "Dynamic Stone Ring",
@@ -139964,7 +139968,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14025.jpg?v=1780646684",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/akshata-nagas-jhumkas?variant=gid://shopify/ProductVariant/49158875054307",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49159199916259": {
     "product_title": "Vanya Nagas Drops Earrings",
@@ -172056,6 +172061,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4764.jpg?v=1785420335",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-107?variant=gid://shopify/ProductVariant/49476544364771",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476545347811": {
+    "product_title": "Grace Kundan Pendant",
+    "product_handle": "kundan-pendant-108",
+    "variant_id": "gid://shopify/ProductVariant/49476545347811",
+    "global_id": "gid://shopify/ProductVariant/49476545347811",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4765",
+    "price": 18300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4765.jpg?v=1785420498",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-108?variant=gid://shopify/ProductVariant/49476545347811",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476547608803": {
+    "product_title": "Harishka Kundan Pendant",
+    "product_handle": "kundan-pendant-109",
+    "variant_id": "gid://shopify/ProductVariant/49476547608803",
+    "global_id": "gid://shopify/ProductVariant/49476547608803",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4766",
+    "price": 15070.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4766.jpg?v=1785420745",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-109?variant=gid://shopify/ProductVariant/49476547608803",
     "stock": 1
   }
 }
