@@ -41701,7 +41701,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E136.jpg?v=1748258585",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pink-color-gold-plated-thappa-jadau-kundan-earrings-tj-e136?variant=gid://shopify/ProductVariant/47011308470495",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47024774414559": {
     "product_title": "Gold-Plated Thappa Jadau Dangler Earrings with Faux Polki Stones - TJ-E140",
@@ -79282,7 +79283,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC203WGR.jpg?v=1775647200",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-mishr-bracelet-1-piece-mr-brac203?variant=gid://shopify/ProductVariant/48832202703071",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/48832216367327": {
     "product_title": "Multicolor Gold-Plated Mishr Gold Belt Bracelet with Kundan Setting - MR-BRAC204",
@@ -98721,20 +98723,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms3052m?variant=gid://shopify/ProductVariant/50594336178399",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/50597339889887": {
-    "product_title": "Multicolor Dual-Tone Tribal Choker Necklace Set with Kundan, Elephant and Peacock Motifs - EK-SFSET281MA",
-    "product_handle": "multicolor-dual-tone-tribal-choker-necklace-set-with-kundan-elephant-and-peacock-motifs-ek-sfset281ma",
-    "variant_id": "gid://shopify/ProductVariant/50597339889887",
-    "global_id": "gid://shopify/ProductVariant/50597339889887",
-    "variant_title": "Default Title",
-    "sku": "EK-SFSET281MA",
-    "price": 12600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET281MA-2.jpg?v=1784862721",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-dual-tone-tribal-choker-necklace-set-with-kundan-elephant-and-peacock-motifs-ek-sfset281ma?variant=gid://shopify/ProductVariant/50597339889887",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50597357158623": {
     "product_title": "Multicolor Tribal Necklace Set - EK-SFSET28M",
     "product_handle": "multicolor-tribal-necklace-set-ek-sfset28m",
@@ -99940,6 +99928,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/50597339889887": {
+    "product_title": "Multicolor Dual-Tone Tribal Choker Necklace Set with Kundan, Elephant and Peacock Motifs - EK-SFSET281MA",
+    "product_handle": "multicolor-dual-tone-tribal-choker-necklace-set-with-kundan-elephant-and-peacock-motifs-ek-sfset281ma",
+    "variant_id": "gid://shopify/ProductVariant/50597339889887",
+    "global_id": "gid://shopify/ProductVariant/50597339889887",
+    "variant_title": "Default Title",
+    "sku": "EK-SFSET281MA",
+    "price": 12600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET281MA-2.jpg?v=1784862721",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-dual-tone-tribal-choker-necklace-set-with-kundan-elephant-and-peacock-motifs-ek-sfset281ma?variant=gid://shopify/ProductVariant/50597339889887",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48379930575071": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Oversized Maang Teeka with Floral Motif - MT564M",
