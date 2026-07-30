@@ -192,6 +192,7 @@ def fetch_catalog(domain, token):
                     'price': float(v_node.get('price', {}).get('amount', 0)),
                     'currency': currency_code,
                     'image_url': v_img,
+                    'available_for_sale': v_node.get('availableForSale', False),
                     'url': f"https://www.{domain}/products/{p_handle}?variant={variant_id}"
                 }
                 
@@ -461,26 +462,42 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
         print(f"[{domain}] Could not harvest token. Skipping store run.", flush=True)
         return
 
-    active_variants = fetch_catalog(domain, token)
-    if not active_variants:
+    all_catalog_variants = fetch_catalog(domain, token)
+    if not all_catalog_variants:
         print(f"[{domain}] No active variants found.", flush=True)
         return
 
-    # Preserve any variant previously tracked in state to ensure 100% complete coverage
+    # Smart Filtering: Only query Cart API for items that are availableForSale OR had stock > 0 in previous_state
+    variants_to_check = []
+    known_v_ids = set()
+
+    for v in all_catalog_variants:
+        v_id = v['variant_id']
+        known_v_ids.add(v_id)
+        prev_stock = previous_state.get(v_id, {}).get('stock', 0) if previous_state else 0
+        is_available = v.get('available_for_sale', True)
+        
+        # Check stock via Cart API if item is available OR was previously in stock > 0
+        if is_available or prev_stock > 0 or not previous_state:
+            variants_to_check.append(v)
+
+    # Preserve any variant previously tracked in state
     if previous_state:
-        known_v_ids = {v['variant_id'] for v in active_variants}
         for prev_id, prev_data in previous_state.items():
             if prev_id not in known_v_ids and isinstance(prev_data, dict):
-                active_variants.append(prev_data)
+                if prev_data.get('stock', 0) > 0:
+                    variants_to_check.append(prev_data)
+                    all_catalog_variants.append(prev_data)
 
-    stock_results = check_stock_in_batches(domain, token, active_variants)
+    print(f"[{domain}] Querying Cart API for {len(variants_to_check)} active/in-stock variants out of {len(all_catalog_variants)} total.", flush=True)
+    stock_results = check_stock_in_batches(domain, token, variants_to_check)
     
     current_state = {}
     sales_detected = []
     
-    for v in active_variants:
+    for v in all_catalog_variants:
         v_id = v['variant_id']
-        curr_stock = stock_results.get(v_id, -1)
+        curr_stock = stock_results.get(v_id, 0 if not v.get('available_for_sale', True) else -1)
         
         # If API fetch failed for this variant (-1), retain previous stock level
         if curr_stock == -1 and previous_state and v_id in previous_state:
