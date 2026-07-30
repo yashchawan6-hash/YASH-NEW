@@ -2457,7 +2457,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/attrangi-box-with-roli-chawal-attrangi-31818029564116.jpg?v=1694856188",
     "url": "https://www.attrangi.in/products/attrangi-box-with-roli-chawal?variant=gid://shopify/ProductVariant/40880201236649",
-    "stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/40888155865257": {
     "product_title": "Neelam Polki Pastel Maangtika",
@@ -39978,19 +39979,6 @@
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712274644",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/48379712307412": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379712307412",
-    "global_id": "gid://shopify/ProductVariant/48379712307412",
-    "variant_title": "Blue / O",
-    "sku": "NPJ7823B-O-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712307412",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/48379712340180": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
     "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
@@ -40081,45 +40069,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712536788",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379712569556": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379712569556",
-    "global_id": "gid://shopify/ProductVariant/48379712569556",
-    "variant_title": "Blue / W",
-    "sku": "NPJ7823B-W-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712569556",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379712602324": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379712602324",
-    "global_id": "gid://shopify/ProductVariant/48379712602324",
-    "variant_title": "Blue / X",
-    "sku": "NPJ7823B-X-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712602324",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379712635092": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379712635092",
-    "global_id": "gid://shopify/ProductVariant/48379712635092",
-    "variant_title": "Blue / Y",
-    "sku": "NPJ7823B-Y-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712635092",
     "stock": 3
   },
   "gid://shopify/ProductVariant/48379712667860": {
@@ -40317,19 +40266,6 @@
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713093844",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/48379713126612": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379713126612",
-    "global_id": "gid://shopify/ProductVariant/48379713126612",
-    "variant_title": "Red / O",
-    "sku": "NPJ7823R-O-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713126612",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/48379713159380": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
     "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
@@ -40421,45 +40357,6 @@
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713355988",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/48379713388756": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379713388756",
-    "global_id": "gid://shopify/ProductVariant/48379713388756",
-    "variant_title": "Red / W",
-    "sku": "NPJ7823R-W-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713388756",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379713421524": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379713421524",
-    "global_id": "gid://shopify/ProductVariant/48379713421524",
-    "variant_title": "Red / X",
-    "sku": "NPJ7823R-X-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713421524",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379713454292": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379713454292",
-    "global_id": "gid://shopify/ProductVariant/48379713454292",
-    "variant_title": "Red / Y",
-    "sku": "NPJ7823R-Y-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713454292",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/48379713487060": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
     "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
@@ -40484,7 +40381,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379703328980",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48379713519828": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
@@ -40655,19 +40553,6 @@
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713913044",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/48379713945812": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379713945812",
-    "global_id": "gid://shopify/ProductVariant/48379713945812",
-    "variant_title": "Pink / O",
-    "sku": "NPJ7823PI-O-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713945812",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/48379713978580": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
     "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
@@ -40757,45 +40642,6 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714175188",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379714207956": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379714207956",
-    "global_id": "gid://shopify/ProductVariant/48379714207956",
-    "variant_title": "Pink / W",
-    "sku": "NPJ7823PI-W-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714207956",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379714240724": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379714240724",
-    "global_id": "gid://shopify/ProductVariant/48379714240724",
-    "variant_title": "Pink / X",
-    "sku": "NPJ7823PI-X-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714240724",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48379714273492": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379714273492",
-    "global_id": "gid://shopify/ProductVariant/48379714273492",
-    "variant_title": "Pink / Y",
-    "sku": "NPJ7823PI-Y-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714273492",
     "stock": 3
   },
   "gid://shopify/ProductVariant/48379714306260": {
@@ -40995,19 +40841,6 @@
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714732244",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/48379714765012": {
-    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
-    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
-    "variant_id": "gid://shopify/ProductVariant/48379714765012",
-    "global_id": "gid://shopify/ProductVariant/48379714765012",
-    "variant_title": "Grey / O",
-    "sku": "NPJ7823GR-O-RA",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
-    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714765012",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/48379714797780": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
     "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
@@ -41099,6 +40932,175 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714994388",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715125460": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715125460",
+    "global_id": "gid://shopify/ProductVariant/48379715125460",
+    "variant_title": "Grey / Z",
+    "sku": "NPJ7823GR-Z-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715125460",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379709882580": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379709882580",
+    "global_id": "gid://shopify/ProductVariant/48379709882580",
+    "variant_title": "Deep Red / A",
+    "sku": "NPJ7823DR-A-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379709882580",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715158228": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715158228",
+    "global_id": "gid://shopify/ProductVariant/48379715158228",
+    "variant_title": "Deep Red / B",
+    "sku": "NPJ7823DR-B-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715158228",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715190996": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715190996",
+    "global_id": "gid://shopify/ProductVariant/48379715190996",
+    "variant_title": "Deep Red / C",
+    "sku": "NPJ7823DR-C-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715190996",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715223764": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715223764",
+    "global_id": "gid://shopify/ProductVariant/48379715223764",
+    "variant_title": "Deep Red / D",
+    "sku": "NPJ7823DR-D-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715223764",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715256532": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715256532",
+    "global_id": "gid://shopify/ProductVariant/48379715256532",
+    "variant_title": "Deep Red / E",
+    "sku": "NPJ7823DR-E-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715256532",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715289300": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715289300",
+    "global_id": "gid://shopify/ProductVariant/48379715289300",
+    "variant_title": "Deep Red / F",
+    "sku": "NPJ7823DR-F-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715289300",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715322068": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715322068",
+    "global_id": "gid://shopify/ProductVariant/48379715322068",
+    "variant_title": "Deep Red / G",
+    "sku": "NPJ7823DR-G-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715322068",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715354836": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715354836",
+    "global_id": "gid://shopify/ProductVariant/48379715354836",
+    "variant_title": "Deep Red / H",
+    "sku": "NPJ7823DR-H-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715354836",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715387604": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715387604",
+    "global_id": "gid://shopify/ProductVariant/48379715387604",
+    "variant_title": "Deep Red / I",
+    "sku": "NPJ7823DR-I-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715387604",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715420372": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715420372",
+    "global_id": "gid://shopify/ProductVariant/48379715420372",
+    "variant_title": "Deep Red / J",
+    "sku": "NPJ7823DR-J-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715420372",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715453140": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715453140",
+    "global_id": "gid://shopify/ProductVariant/48379715453140",
+    "variant_title": "Deep Red / K",
+    "sku": "NPJ7823DR-K-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715453140",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48379715485908": {
+    "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
+    "product_handle": "colour-burst-daily-wear-rakhi-bracelet-alphabet-customised",
+    "variant_id": "gid://shopify/ProductVariant/48379715485908",
+    "global_id": "gid://shopify/ProductVariant/48379715485908",
+    "variant_title": "Deep Red / L",
+    "sku": "NPJ7823DR-L-RA",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
+    "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715485908",
     "stock": 3
   }
 }
