@@ -70,7 +70,7 @@ def post_graphql_query(url, headers, payload, max_retries=5):
         try:
             r = requests.post(url, headers=headers, json=payload, timeout=25)
             if r.status_code == 429:
-                sleep_time = 5 * attempt
+                sleep_time = 3
                 print(f"[GraphQL Throttle] HTTP 429. Sleeping {sleep_time}s...", flush=True)
                 time.sleep(sleep_time)
                 continue
@@ -87,7 +87,7 @@ def post_graphql_query(url, headers, payload, max_retries=5):
                         break
                         
                 if throttled:
-                    sleep_time = 6 * attempt
+                    sleep_time = 3
                     print(f"[GraphQL Throttle] Throttled response. Sleeping {sleep_time}s...", flush=True)
                     time.sleep(sleep_time)
                     continue
@@ -237,7 +237,7 @@ def check_stock_in_batches(domain, token, active_variants):
     """
     
     results = {}
-    batch_size = 200
+    batch_size = 150
     total_variants = len(active_variants)
     
     for i in range(0, total_variants, batch_size):
@@ -270,7 +270,7 @@ def check_stock_in_batches(domain, token, active_variants):
                 results[v['variant_id']] = -1
                 
         if i + batch_size < total_variants:
-            time.sleep(0.6)
+            time.sleep(0.8)
             
     return results
 
