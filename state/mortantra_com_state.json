@@ -13007,20 +13007,6 @@
     "url": "https://www.mortantra.com/products/czrng105gr-green-color-silver-plated-faux-diamond-ring?variant=gid://shopify/ProductVariant/45791487295711",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/45791777128671": {
-    "product_title": "Deep Red Silver-Plated Faux Diamond Adjustable Ring - CZRNG107P",
-    "product_handle": "czrng107p-pink-color-silver-plated-faux-diamond-ring",
-    "variant_id": "gid://shopify/ProductVariant/45791777128671",
-    "global_id": "gid://shopify/ProductVariant/45791777128671",
-    "variant_title": "Default Title",
-    "sku": "CZRNG107P",
-    "price": 1750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG107P.jpg?v=1716379603",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/czrng107p-pink-color-silver-plated-faux-diamond-ring?variant=gid://shopify/ProductVariant/45791777128671",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/45792220283103": {
     "product_title": "Dark Pink Gold-Plated Mishr Adjustable Ring with Floral Kundan Motif - MR-RNG34WP",
     "product_handle": "mr-rng34wp-pink-color-gold-plated-mishr-ring",
@@ -18341,7 +18327,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2257MA-2.jpg?v=1765623794",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ms2257m-multicolor-gold-plated-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46398067245279",
-    "stock": 3627
+    "stock": 3619,
+    "last_alerted_stock": 3619
   },
   "gid://shopify/ProductVariant/46094874018015": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Necklace Set with Floral and Crescent Motifs - MS2258M",
@@ -23087,8 +23074,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S110WP_ff7d958c-9031-44b8-b682-0a838f176415.jpg?v=1751705040",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/aishwarya-majmudar-in-mortantra-necklace-set-multicolor?variant=gid://shopify/ProductVariant/46325884289247",
-    "stock": 1858,
-    "last_alerted_stock": 1858
+    "stock": 1783,
+    "last_alerted_stock": 1783
   },
   "gid://shopify/ProductVariant/46334139171039": {
     "product_title": "Multicolor Dual-Tone Tribal Jadau Kundan Jhumki with Peacock Motif - EK-SFEAR414",
@@ -29906,8 +29893,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BAN16N.jpg?v=1739538091",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-bangles-pk-ban16?variant=gid://shopify/ProductVariant/46768844472543",
-    "stock": 361,
-    "last_alerted_stock": 361
+    "stock": 359,
+    "last_alerted_stock": 359
   },
   "gid://shopify/ProductVariant/46768844505311": {
     "product_title": "Gold-Plated Faux Polki Kundan Bangles (One Pair) - PK-BAN16",
@@ -47830,7 +47817,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2473-2.jpg?v=1750411675",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-necklace-set-ms2473?variant=gid://shopify/ProductVariant/47073260404959",
-    "stock": 3959,
+    "stock": 6040,
     "last_alerted_stock": 3959
   },
   "gid://shopify/ProductVariant/47073264173279": {
@@ -50296,7 +50283,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1487YR.jpg?v=1751458875",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1487?variant=gid://shopify/ProductVariant/47099121172703",
-    "stock": 2346
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/47099129463007": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Haath Phool (1 Piece) - MHP282M",
@@ -50492,7 +50479,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2592-2.jpg?v=1751527457",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-necklace-set-ms2592?variant=gid://shopify/ProductVariant/47102727553247",
-    "stock": 9999
+    "stock": 3256
   },
   "gid://shopify/ProductVariant/47102848991455": {
     "product_title": "Deep Green Gold-Plated Jadau Kundan Princess Necklace Set with Floral Motif - MS2601",
@@ -60377,7 +60364,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-BAN24WP.jpg?v=1772022160",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/victorian-bangles-1-piece-vc-ban24?variant=gid://shopify/ProductVariant/48546040479967",
-    "stock": 6212
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50513244160223": {
     "product_title": "Victorian Bangles (1 Piece) with Kundan - VC-BAN24",
@@ -60419,7 +60406,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-BAN26GR.jpg?v=1764852740",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/victorian-bangles-1-piece-vc-ban26?variant=gid://shopify/ProductVariant/47897833308383",
-    "stock": 9999
+    "stock": 8139
   },
   "gid://shopify/ProductVariant/47898000228575": {
     "product_title": "Victorian Bangles (1 Piece) with Kundan - VC-BAN26",
@@ -71258,7 +71245,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB247.jpg?v=1772538874",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-bangles-one-pair-mb247?variant=gid://shopify/ProductVariant/48562314215647",
-    "stock": 1768,
+    "stock": 9999,
     "last_alerted_stock": 1768
   },
   "gid://shopify/ProductVariant/48562315985119": {
@@ -71273,7 +71260,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB247.jpg?v=1772538874",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-bangles-one-pair-mb247?variant=gid://shopify/ProductVariant/48562315985119",
-    "stock": 9999
+    "stock": 6767
   },
   "gid://shopify/ProductVariant/48562317230303": {
     "product_title": "Deep Green Gold-Plated Jadau Kundan Gajra Gokhru Bangle (1 Piece) - MB256",
@@ -84282,7 +84269,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MWB17Y_b0e312e3-87dd-4c01-aa48-bfb8a654f7d7.jpg?v=1784267206",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-waist-belt-kamarbandh-mwb17y?variant=gid://shopify/ProductVariant/49176800854239",
-    "stock": 1179
+    "stock": 1646
   },
   "gid://shopify/ProductVariant/49176801575135": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Kamarbandh with Pearl Drops - MWB29",
@@ -100052,6 +100039,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/45791777128671": {
+    "product_title": "Deep Red Silver-Plated Faux Diamond Adjustable Ring - CZRNG107P",
+    "product_handle": "czrng107p-pink-color-silver-plated-faux-diamond-ring",
+    "variant_id": "gid://shopify/ProductVariant/45791777128671",
+    "global_id": "gid://shopify/ProductVariant/45791777128671",
+    "variant_title": "Default Title",
+    "sku": "CZRNG107P",
+    "price": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG107P.jpg?v=1716379603",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/czrng107p-pink-color-silver-plated-faux-diamond-ring?variant=gid://shopify/ProductVariant/45791777128671",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42547748962527": {
     "product_title": "Pink & Multicolor Gold-Plated Jadau Kundan Adjustable Ring with Floral Motif - MRNG118M",
