@@ -69158,7 +69158,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0467.jpg?v=1758621809",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/blanca-toe-ring?variant=gid://shopify/ProductVariant/47198306992355",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47198346576099": {
     "product_title": "Drusilla Toe Ring",
@@ -110556,7 +110557,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14679.jpg?v=1770708573",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/lakshmikha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48098599403747",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48099457237219": {
     "product_title": "Trishya Nagas Short Necklace Set",
@@ -134904,7 +134906,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4045.jpg?v=1778654241",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-8?variant=gid://shopify/ProductVariant/48944192094435",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48944194912483": {
     "product_title": "Pakshati Pendant Set",
@@ -171868,6 +171871,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4752.jpg?v=1785416695",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-95?variant=gid://shopify/ProductVariant/49476465197283",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476466082019": {
+    "product_title": "Vedhikaa Kundan Pendant",
+    "product_handle": "kundan-pendant-96",
+    "variant_id": "gid://shopify/ProductVariant/49476466082019",
+    "global_id": "gid://shopify/ProductVariant/49476466082019",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4753",
+    "price": 14300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4753.jpg?v=1785416939",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-96?variant=gid://shopify/ProductVariant/49476466082019",
     "stock": 1
   }
 }
