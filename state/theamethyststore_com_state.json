@@ -138059,5 +138059,31 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15124.jpg?v=1785397259",
     "url": "https://www.theamethyststore.com/products/shine-charm-kundan-studs-1?variant=gid://shopify/ProductVariant/49475818717411",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49475824812259": {
+    "product_title": "Little Cute Kundan Studs",
+    "product_handle": "little-cute-kundan-studs-5",
+    "variant_id": "gid://shopify/ProductVariant/49475824812259",
+    "global_id": "gid://shopify/ProductVariant/49475824812259",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15395",
+    "price": 5550.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15395.jpg?v=1785397565",
+    "url": "https://www.theamethyststore.com/products/little-cute-kundan-studs-5?variant=gid://shopify/ProductVariant/49475824812259",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49475832447203": {
+    "product_title": "Charm Kundan Studs",
+    "product_handle": "charm-kundan-studs",
+    "variant_id": "gid://shopify/ProductVariant/49475832447203",
+    "global_id": "gid://shopify/ProductVariant/49475832447203",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15128",
+    "price": 8560.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15128.jpg?v=1785397833",
+    "url": "https://www.theamethyststore.com/products/charm-kundan-studs?variant=gid://shopify/ProductVariant/49475832447203",
+    "stock": 1
   }
 }
