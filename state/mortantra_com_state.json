@@ -15003,7 +15003,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MN644N_1.jpg?v=1758190502",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/navratna-gold-plated-jadau-kundan-necklace-mn644n?variant=gid://shopify/ProductVariant/45963234377951",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45963293294815": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Long Necklace Set with Coloured Kundan Pendant - MS2696",
@@ -69506,20 +69507,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1707?variant=gid://shopify/ProductVariant/48508526166239",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/48508775563487": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff Kanphool with Kundan Stone Setting - ME1709",
-    "product_handle": "gold-plated-jadau-kundan-earrings-me1709",
-    "variant_id": "gid://shopify/ProductVariant/48508775563487",
-    "global_id": "gid://shopify/ProductVariant/48508775563487",
-    "variant_title": "Multicolor",
-    "sku": "ME1709M",
-    "price": 840.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1709M.jpg?v=1771935653",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1709?variant=gid://shopify/ProductVariant/48508775563487",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48508861120735": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff Kanphool with Floral Kundan Setting - ME1710",
     "product_handle": "gold-plated-jadau-kundan-earrings-me1710",
@@ -71326,7 +71313,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2590-2.jpg?v=1772543743",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-necklace-set-ms2590?variant=gid://shopify/ProductVariant/48562349048031",
-    "stock": 2387
+    "stock": 1946,
+    "last_alerted_stock": 1946
   },
   "gid://shopify/ProductVariant/48562349539551": {
     "product_title": "Light Green Gold-Plated Jadau Kundan Choker Necklace Set with Floral and Crescent Motifs - MS2644",
@@ -78768,7 +78756,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S219GR-2.jpg?v=1775557811",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s219?variant=gid://shopify/ProductVariant/48826903691487",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/48826909819103": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Passa with Floral and Lotus Motifs - MP226M",
@@ -84215,8 +84204,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MWB30MA.jpg?v=1778827591",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-waist-belt-kamarbandh-mwb30?variant=gid://shopify/ProductVariant/49236827275487",
-    "stock": 6367,
-    "last_alerted_stock": 6367
+    "stock": 6366,
+    "last_alerted_stock": 6366
   },
   "gid://shopify/ProductVariant/49236833829087": {
     "product_title": "Gold-Plated Jadau Kundan Waist Belt / Kamarbandh with Peacock and Flower Motifs - MWB30",
@@ -99917,6 +99906,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48508775563487": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff Kanphool with Kundan Stone Setting - ME1709",
+    "product_handle": "gold-plated-jadau-kundan-earrings-me1709",
+    "variant_id": "gid://shopify/ProductVariant/48508775563487",
+    "global_id": "gid://shopify/ProductVariant/48508775563487",
+    "variant_title": "Multicolor",
+    "sku": "ME1709M",
+    "price": 840.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1709M.jpg?v=1771935653",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1709?variant=gid://shopify/ProductVariant/48508775563487",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47103464603871": {
     "product_title": "Light Green Gold-Plated Jadau Kundan Pearl Belt Necklace Set - MS2607",
