@@ -548,5 +548,25 @@
     "qty_sold": 1,
     "total_value": 799.0,
     "url": "https://www.daivik.in/products/ad-lakshmi-jhumkas?variant=gid://shopify/ProductVariant/44262122389726"
+  },
+  {
+    "timestamp": "2026-07-30T12:01:53+05:30",
+    "product_title": "Lakshmi Nagasi teeka",
+    "variant_title": "Default Title",
+    "price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1099.0,
+    "url": "https://www.daivik.in/products/lakshmi-nagasi-teeka?variant=gid://shopify/ProductVariant/37826167636121"
+  },
+  {
+    "timestamp": "2026-07-30T12:01:53+05:30",
+    "product_title": "Heritage Watch Bracelet",
+    "variant_title": "Default Title",
+    "price": 1699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1699.0,
+    "url": "https://www.daivik.in/products/heritage-watch-bracelet-8?variant=gid://shopify/ProductVariant/48128940736734"
   }
 ]
