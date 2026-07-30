@@ -26,7 +26,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG-6786.jpg?v=1583735555",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/29?variant=gid://shopify/ProductVariant/32600664506427",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/32600742723643": {
     "product_title": "Matte Gold Finish Uncut Long Haram with Earrings",
@@ -195,7 +196,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/antique-polish-temple-jhumkas-earrings-444.jpg?v=1594319693",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/86?variant=gid://shopify/ProductVariant/32623656271931",
-    "stock": 42
+    "stock": 41,
+    "last_alerted_stock": 41
   },
   "gid://shopify/ProductVariant/32623756542011": {
     "product_title": "Lakshmi Short Haram With Earrings",
@@ -321,7 +323,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/regular-use-stone-set-of-four-bangles-879.png?v=1594319536",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/199?variant=gid://shopify/ProductVariant/34430554505369",
-    "stock": 19
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/34430554538137": {
     "product_title": "Regular Use Stone Set Of Four Bangles",
@@ -475,7 +478,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_4187.jpg?v=1590674028",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/regular-use-kemp-stone-bangles?variant=gid://shopify/ProductVariant/34489888637081",
-    "stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/34489888669849": {
     "product_title": "Regular Use Kemp Stone Bangles",
@@ -4926,9 +4930,10 @@
     "price": 8999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3968fdb5-f776-47f2-940e-6daf19f30205.jpg?v=1645358982",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/pure-kemp-brass-lakshmi-bridal-hipbelt?variant=gid://shopify/ProductVariant/42484457537758",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42494426382558": {
     "product_title": "Long Pearl Pure kemp brass pendant with Earrings",
@@ -17716,7 +17721,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3DF6E6AF-2D3C-44C8-8AC2-FD37770A7F84.jpg?v=1715354017",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/lakshmi-rubygreen-bangles-set-of-4?variant=gid://shopify/ProductVariant/45355639931102",
-    "stock": 12
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/45355639963870": {
     "product_title": "Lakshmi Ruby Green bangles (Set of 4)",
@@ -29584,9 +29590,10 @@
     "price": 12499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A2B4A17E-6AA3-4665-A549-6507D19BB809.jpg?v=1749193841",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/nita-ambani-mam-inspired-balaji-pure-kemp-brass-guttapusalu-necklace-with-jhumkas-seprate-price-for-short-long-and-combo?variant=gid://shopify/ProductVariant/46996613333214",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46996613365982": {
     "product_title": "Nita Ambani Mam Inspired Balaji Pure Kemp Brass Guttapusalu Necklace with Jhumkas (Seprate price for Short, Long and Combo)",
