@@ -608,7 +608,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/pure-kemp-peacock-jhumkas-with-mattals-earrings-705.jpg?v=1596474687",
     "url": "https://www.daivik.in/products/pure-kemp-peacock-jhumkas-with-mattals?variant=gid://shopify/ProductVariant/35380334592153",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/35573943206041": {
     "product_title": "Gold Finish AD Peacock Choker",
@@ -1063,7 +1064,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_93adf55e-51ba-4f64-9ca2-fcade8ca86a5.jpg?v=1610893048",
     "url": "https://www.daivik.in/products/lakshmi-nagasi-teeka?variant=gid://shopify/ProductVariant/37826167636121",
-    "stock": 17
+    "stock": 16,
+    "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/43923929923806": {
     "product_title": "Screw openable Coin Lakshmi kada",
@@ -1897,7 +1899,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_163af6c2-7c8e-4cca-95b9-e4f4443efe8e.jpg?v=1631458684",
     "url": "https://www.daivik.in/products/kemp-medium-sized-studs?variant=gid://shopify/ProductVariant/41081654018201",
-    "stock": 24
+    "stock": 23,
+    "last_alerted_stock": 23
   },
   "gid://shopify/ProductVariant/41081659818137": {
     "product_title": "Long kemp jhumkas",
@@ -2573,7 +2576,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256",
     "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314249076958",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/42314254418142": {
     "product_title": "Set of 6 Kemp AD bangles",
@@ -7776,7 +7780,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E3D36B20-6DEA-499C-98C3-F132B1E57C0E.jpg?v=1697558833",
     "url": "https://www.daivik.in/products/antique-lakshmi-choker-with-earrings?variant=gid://shopify/ProductVariant/44418498101470",
-    "stock": 30
+    "stock": 29,
+    "last_alerted_stock": 29
   },
   "gid://shopify/ProductVariant/44430148927710": {
     "product_title": "Mossanite stones Necklace with earrings",
@@ -10079,7 +10084,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE914FE7-C858-449F-842B-F29124E5954E.jpg?v=1715608816",
     "url": "https://www.daivik.in/products/ad-rubygreen-jhumkas-with-attached-mattel-s?variant=gid://shopify/ProductVariant/45363709771998",
-    "stock": 24
+    "stock": 23,
+    "last_alerted_stock": 23
   },
   "gid://shopify/ProductVariant/45367734436062": {
     "product_title": "Short and Long Guttapusalu Combo",
@@ -30441,20 +30447,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_83502.jpg?v=1782925422",
     "url": "https://www.daivik.in/products/pachi-pearl-jali-necklace?variant=gid://shopify/ProductVariant/48400077258974",
     "stock": 19
-  },
-  "gid://shopify/ProductVariant/48403799408862": {
-    "product_title": "Elakkathali Ruby Choker with Earrings",
-    "product_handle": "elakkathali-ruby-choker-with-earrings",
-    "variant_id": "gid://shopify/ProductVariant/48403799408862",
-    "global_id": "gid://shopify/ProductVariant/48403799408862",
-    "variant_title": "Default Title",
-    "sku": "485",
-    "price": 899.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326",
-    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48404578631902": {
     "product_title": "CZ Kids/Adult Floral Earcuff Earrings",
