@@ -138205,5 +138205,44 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17144.jpg?v=1785406315",
     "url": "https://www.theamethyststore.com/products/niharikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49476057956579",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476066377955": {
+    "product_title": "Divine Varalakshmi Face",
+    "product_handle": "varalakshmi-face-4",
+    "variant_id": "gid://shopify/ProductVariant/49476066377955",
+    "global_id": "gid://shopify/ProductVariant/49476066377955",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0024",
+    "price": 72750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0024.jpg?v=1785406510",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-4?variant=gid://shopify/ProductVariant/49476066377955",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476067786979": {
+    "product_title": "Lunara Kundan Short Necklace",
+    "product_handle": "kundan-short-necklace-39",
+    "variant_id": "gid://shopify/ProductVariant/49476067786979",
+    "global_id": "gid://shopify/ProductVariant/49476067786979",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17145",
+    "price": 66040.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17145.jpg?v=1785406673",
+    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-39?variant=gid://shopify/ProductVariant/49476067786979",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476072800483": {
+    "product_title": "Pooja Varalakshmi Face",
+    "product_handle": "varalakshmi-face-5",
+    "variant_id": "gid://shopify/ProductVariant/49476072800483",
+    "global_id": "gid://shopify/ProductVariant/49476072800483",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0025",
+    "price": 35150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0025.jpg?v=1785406682",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-5?variant=gid://shopify/ProductVariant/49476072800483",
+    "stock": 1
   }
 }
