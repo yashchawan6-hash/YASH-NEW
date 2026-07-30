@@ -7641,7 +7641,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0414.jpg?v=1713790396",
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-156?variant=gid://shopify/ProductVariant/48667766554924",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48974823063852": {
     "product_title": "Jadau Kundan Choker",
