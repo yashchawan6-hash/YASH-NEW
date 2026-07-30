@@ -171812,5 +171812,47 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/stone-bracelet-22?variant=gid://shopify/ProductVariant/49476231954659",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476232478947": {
+    "product_title": "Yashikaa Stone Bracelet",
+    "product_handle": "stone-bracelet-23",
+    "variant_id": "gid://shopify/ProductVariant/49476232478947",
+    "global_id": "gid://shopify/ProductVariant/49476232478947",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1376",
+    "price": 9700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1376.jpg?v=1785415894",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stone-bracelet-23?variant=gid://shopify/ProductVariant/49476232478947",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476233691363": {
+    "product_title": "Traditional Kundan Short Necklace",
+    "product_handle": "traditional-kundan-short-necklace-1",
+    "variant_id": "gid://shopify/ProductVariant/49476233691363",
+    "global_id": "gid://shopify/ProductVariant/49476233691363",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17139",
+    "price": 56400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17139.jpg?v=1785416006",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/traditional-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/49476233691363",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49476233724131": {
+    "product_title": "Vinthira Stone Bracelet",
+    "product_handle": "stone-bracelet-24",
+    "variant_id": "gid://shopify/ProductVariant/49476233724131",
+    "global_id": "gid://shopify/ProductVariant/49476233724131",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1379",
+    "price": 9700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1379.jpg?v=1785416019",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stone-bracelet-24?variant=gid://shopify/ProductVariant/49476233724131",
+    "stock": 3
   }
 }
