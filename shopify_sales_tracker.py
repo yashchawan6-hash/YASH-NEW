@@ -582,7 +582,7 @@ def main():
     print(f"Starting Shopify Multi-Store Sales Tracker. Concurrently scanning {len(enabled_stores)} enabled stores in parallel...", flush=True)
     start_time = time.time()
     
-    max_workers = min(len(enabled_stores), 5)
+    max_workers = min(len(enabled_stores), 8)
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(process_store, store, bot_token, state_dir, daily_dir): store for store in enabled_stores}
         for future in as_completed(futures):
