@@ -23,7 +23,7 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/50-cent-round-solitaire-attrangi-1.jpg?v=1739812441",
     "url": "https://www.attrangi.in/products/50-cent-round-solitaire?variant=gid://shopify/ProductVariant/40411658879145",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411658813609": {
@@ -31333,7 +31333,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.42.13_PM_2.jpg?v=1774269249",
     "url": "https://www.attrangi.in/products/kashmiri-daali-kannauti-indian-delicate-long-earrings?variant=gid://shopify/ProductVariant/47587776331988",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47587802972372": {
     "product_title": "Garuda Designer Polki Indo western Necklace Set",
@@ -39045,19 +39046,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-17_at_7.15.01_PM_1.jpg?v=1784355863",
     "url": "https://www.attrangi.in/products/aarti-vijay-big-polki-traditional-clip-hair-accessory?variant=gid://shopify/ProductVariant/48323512762580",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/48323598123220": {
-    "product_title": "Bhakti Polki Red Green Mid Sized Clip | Hair Accessory",
-    "product_handle": "bhakti-polki-red-green-mid-sized-clip-hair-accessory",
-    "variant_id": "gid://shopify/ProductVariant/48323598123220",
-    "global_id": "gid://shopify/ProductVariant/48323598123220",
-    "variant_title": "Default Title",
-    "sku": "SM6079",
-    "price": 2650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at7.09.34PM_2.jpg?v=1784356271",
-    "url": "https://www.attrangi.in/products/bhakti-polki-red-green-mid-sized-clip-hair-accessory?variant=gid://shopify/ProductVariant/48323598123220",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/48323750920404": {
     "product_title": "Huzoor Designer Moissanite Indian Polki Ring | Adjustable",
