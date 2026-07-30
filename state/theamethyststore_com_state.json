@@ -18503,9 +18503,10 @@
     "price": 41200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6414_3.jpg?v=1720874707",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/mrudula-oxidized-choker?variant=gid://shopify/ProductVariant/45266961989859",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45267189039331": {
     "product_title": "Avighna Nagas Necklace",
@@ -19009,7 +19010,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1159.jpg?v=1721301790",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/dymtrus-avikam-hair-maatal?variant=gid://shopify/ProductVariant/45281421754595",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45281426637027": {
     "product_title": "Klarysa Avikam Hair Maatal",
@@ -19667,7 +19669,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0583.jpg?v=1721910569",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/anniki-victorian-ring?variant=gid://shopify/ProductVariant/45303971315939",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45303989534947": {
     "product_title": "Vikata Victorian Necklace Set",
@@ -23013,7 +23016,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1396.jpg?v=1726312622",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vikshi-kundan-pair-bangle?variant=gid://shopify/ProductVariant/45514132619491",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45514247799011": {
     "product_title": "Kavinka Kundan Pair Bangle",
@@ -24285,9 +24289,10 @@
     "price": 87031.8,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1439.jpg?v=1728208803",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/athesha-kundan-pair-bangle?variant=gid://shopify/ProductVariant/45589978022115",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49425871110371": {
     "product_title": "Abina Kundan Pair Bangle",
@@ -34926,9 +34931,10 @@
     "price": 146267.1,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC03086.jpg?v=1754308194",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/bridal-look-kundan-oddiyanam?variant=gid://shopify/ProductVariant/46240656359651",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46240716161251": {
     "product_title": "Aahana Avikam Oddiyanam",
@@ -62441,7 +62447,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1847.jpg?v=1756712593",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/viveka-kundan-maangtikka?variant=gid://shopify/ProductVariant/47081009873123",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47081155264739": {
     "product_title": "Vithusa Kundan Maangtikka",
@@ -63937,9 +63944,10 @@
     "price": 105507.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11280.jpg?v=1756901781",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/hanshitha-nagas-short-necklace?variant=gid://shopify/ProductVariant/47089324228835",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47089352343779": {
     "product_title": "Iniyani Nagas Oddiyanam",
@@ -64385,9 +64393,10 @@
     "price": 14567.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1764_2.jpg?v=1756995909",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/samaira-avikam-maangtikka?variant=gid://shopify/ProductVariant/47103778652387",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47111602077923": {
     "product_title": "Little Charm Kundan Studs",
@@ -71332,7 +71341,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2552.jpg?v=1758807436",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/sakthi-stone-pair-bangle?variant=gid://shopify/ProductVariant/47206105415907",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49396530741475": {
     "product_title": "Sakthi Stone Pair Bangle",
@@ -76356,9 +76366,10 @@
     "price": 82047.6,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12187.jpg?v=1759835553",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/krithiga-kundan-necklace?variant=gid://shopify/ProductVariant/47251852787939",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47251881230563": {
     "product_title": "Olivin Kundan Long Necklace",
@@ -83790,9 +83801,10 @@
     "price": 110541.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12612.jpg?v=1762169814",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/eternal-beauty-long-necklace-set?variant=gid://shopify/ProductVariant/47442315870435",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47442397659363": {
     "product_title": "Hritha Avikam Pendant Set",
@@ -85316,9 +85328,10 @@
     "price": 43395.2,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11065.jpg?v=1762586310",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/prishnavya-kundan-earrings?variant=gid://shopify/ProductVariant/47486918754531",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47486922293475": {
     "product_title": "Ineshka Kundan Pendant",
@@ -87584,9 +87597,10 @@
     "price": 20788.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11207.jpg?v=1763538899",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/tharika-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47581351706851",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47581363831011": {
     "product_title": "Luxe Charm Nagas Jhumkas",
@@ -91168,9 +91182,10 @@
     "price": 112200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2895-_2.jpg?v=1765605553",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/victorian-pair-bangles-4?variant=gid://shopify/ProductVariant/47732178518243",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47732251066595": {
     "product_title": "Aadhinika Nagas Long Necklace",
@@ -100368,7 +100383,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14063.jpg?v=1768732857",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nithika-short-necklace-set?variant=gid://shopify/ProductVariant/47850703225059",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47850703290595": {
     "product_title": "Sarvin Nagas Short Necklace",
@@ -114454,7 +114470,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10848.jpg?v=1771416476",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/tribal-aura-boho-jhumkas?variant=gid://shopify/ProductVariant/48285934158051",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48285935993059": {
     "product_title": "Mawrina Long Necklace",
@@ -115238,7 +115255,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14401.jpg?v=1771507426",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/advika-kundan-choker?variant=gid://shopify/ProductVariant/48289156104419",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48289166098659": {
     "product_title": "Traditional Kundan Maangtikka",
@@ -117283,7 +117301,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13056.jpg?v=1772259397",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/viveka-nagas-drops-earrings?variant=gid://shopify/ProductVariant/48321621885155",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48321625293027": {
     "product_title": "Yadavi Stone Short Necklace",
@@ -117479,7 +117498,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15029.jpg?v=1772273699",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/aishvika-nagas-short-necklace?variant=gid://shopify/ProductVariant/48322080866531",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48322081292515": {
     "product_title": "Nithishka Nagas Drops Earrings",
@@ -122828,7 +122848,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1862.jpg?v=1775452330",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shivra-nagas-chain?variant=gid://shopify/ProductVariant/48731035893987",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48731111653603": {
     "product_title": "Arysha Nagas Chain",
@@ -128052,7 +128073,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4033.jpg?v=1777553734",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/lakshmi-3d-spl-pendant-1?variant=gid://shopify/ProductVariant/48891237236963",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48891257159907": {
     "product_title": "Nethraya Kundan Chain",
@@ -130122,7 +130144,7 @@
     "price": 23680.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3106.jpg?v=1777904515",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/stone-pair-bangle-69?variant=gid://shopify/ProductVariant/48909199507683",
     "stock": 0,
     "last_alerted_stock": 0
@@ -136426,7 +136448,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3196.jpg?v=1778853083",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-16?variant=gid://shopify/ProductVariant/48966164447459",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48966221725923": {
     "product_title": "Shervin Nagas Pair Bangles",
@@ -139966,7 +139989,7 @@
     "price": 6800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14025.jpg?v=1780646684",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/akshata-nagas-jhumkas?variant=gid://shopify/ProductVariant/49158875054307",
     "stock": 0,
     "last_alerted_stock": 0
@@ -141831,7 +141854,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0900.jpg?v=1781608128",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bridal-nagas-oddiyanam-8?variant=gid://shopify/ProductVariant/49267990331619",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49267990495459": {
     "product_title": "Naomi Short Necklace Set",
@@ -149811,7 +149835,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0917.jpg?v=1782540703",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-oddiyanam-6?variant=gid://shopify/ProductVariant/49320081686755",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49320089026787": {
     "product_title": "Iconic Spark Kundan Long Necklace",
