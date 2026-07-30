@@ -34986,7 +34986,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKS77.jpg?v=1742029427",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-temple-earchains-mks77?variant=gid://shopify/ProductVariant/46834619678943",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/46834621710559": {
     "product_title": "Dark Green Gold-Plated Jadau Kundan Ear Chain - MKS85",
@@ -91123,20 +91124,6 @@
     "url": "https://www.mortantra.com/products/firoza-color-gold-plated-necklace-mn670f?variant=gid://shopify/ProductVariant/50123117428959",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/50123126341855": {
-    "product_title": "Red Gold-Plated Jadau Kundan Nosering with Set Stone - MNTH26R",
-    "product_handle": "red-color-gold-plated-jadau-kundan-nosering-mnth26r",
-    "variant_id": "gid://shopify/ProductVariant/50123126341855",
-    "global_id": "gid://shopify/ProductVariant/50123126341855",
-    "variant_title": "Default Title",
-    "sku": "MNTH26R",
-    "price": 1750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MNTH26R-2.jpg?v=1781683137",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/red-color-gold-plated-jadau-kundan-nosering-mnth26r?variant=gid://shopify/ProductVariant/50123126341855",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50123141152991": {
     "product_title": "Multicolor Gold Plated Mishr Bracelet (1 Piece) with Kundan - MR-BRAC213M",
     "product_handle": "multicolor-gold-plated-mishr-bracelet-1-piece-mr-brac213m",
@@ -100071,5 +100058,19 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/50123126341855": {
+    "product_title": "Red Gold-Plated Jadau Kundan Nosering with Set Stone - MNTH26R",
+    "product_handle": "red-color-gold-plated-jadau-kundan-nosering-mnth26r",
+    "variant_id": "gid://shopify/ProductVariant/50123126341855",
+    "global_id": "gid://shopify/ProductVariant/50123126341855",
+    "variant_title": "Default Title",
+    "sku": "MNTH26R",
+    "price": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MNTH26R-2.jpg?v=1781683137",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/red-color-gold-plated-jadau-kundan-nosering-mnth26r?variant=gid://shopify/ProductVariant/50123126341855",
+    "stock": 1
   }
 }
