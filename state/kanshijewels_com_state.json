@@ -11452,7 +11452,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_1125_c1b23381-62ee-4178-b5fd-d224453a03f6.jpg?v=1747982528",
     "url": "https://www.kanshijewels.com/products/jadau-chain-necklace?variant=gid://shopify/ProductVariant/51119233794348",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/51119259451692": {
     "product_title": "Jadau Chokar",
