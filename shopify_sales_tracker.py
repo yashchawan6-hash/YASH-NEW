@@ -195,15 +195,15 @@ def fetch_catalog(domain, token):
                     'url': f"https://www.{domain}/products/{p_handle}?variant={variant_id}"
                 }
                 
-                if v_node.get('availableForSale', False):
-                    active_variants.append(v_info)
+                # Always track all variants (both in-stock and newly sold-out)
+                active_variants.append(v_info)
                     
         page_info = products_conn.get('pageInfo', {})
         has_next = page_info.get('hasNextPage', False)
         cursor = page_info.get('endCursor', None)
         page_num += 1
         
-    print(f"[{domain}] Active variants loaded: {len(active_variants)}", flush=True)
+    print(f"[{domain}] Total variants loaded from catalog: {len(active_variants)}", flush=True)
     return active_variants
 
 def check_stock_in_batches(domain, token, active_variants):
@@ -252,7 +252,7 @@ def check_stock_in_batches(domain, token, active_variants):
             continue
             
         cart_data = data.get('data', {}).get('cartCreate', {}).get('cart', {})
-        if cart_data:
+        if cart_data and 'lines' in cart_data:
             quantities = {}
             for edge in cart_data.get('lines', {}).get('edges', []):
                 node = edge['node']
@@ -261,9 +261,11 @@ def check_stock_in_batches(domain, token, active_variants):
                 quantities[g_id] = qty
                 
             for v in batch:
-                stock = quantities.get(v['global_id'], -1)
+                # If cart returned successfully, items omitted by Shopify have 0 stock (sold out)
+                stock = quantities.get(v['global_id'], 0)
                 results[v['variant_id']] = stock
         else:
+            # Only mark -1 if the entire GraphQL request/cart creation failed
             for v in batch:
                 results[v['variant_id']] = -1
                 
@@ -463,6 +465,13 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
     if not active_variants:
         print(f"[{domain}] No active variants found.", flush=True)
         return
+
+    # Preserve any variant previously tracked in state to ensure 100% complete coverage
+    if previous_state:
+        known_v_ids = {v['variant_id'] for v in active_variants}
+        for prev_id, prev_data in previous_state.items():
+            if prev_id not in known_v_ids and isinstance(prev_data, dict):
+                active_variants.append(prev_data)
 
     stock_results = check_stock_in_batches(domain, token, active_variants)
     
