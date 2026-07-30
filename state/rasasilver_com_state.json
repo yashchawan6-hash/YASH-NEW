@@ -3034,9 +3034,9 @@
     "price": 10800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08196copy2_1.jpg?v=1747921521",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vivaahgleam-manglsutra-set?variant=gid://shopify/ProductVariant/50313215541545",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50313438396713": {
     "product_title": "Tri-Gleam Manglsutra Set",
@@ -14599,9 +14599,9 @@
     "price": 12500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0253.jpg?v=1759149724",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/hangings?variant=gid://shopify/ProductVariant/51221401567529",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51221418115369": {
     "product_title": "Parrot Vilasini Choker",
@@ -34353,9 +34353,9 @@
     "price": 12100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0100_resized.jpg?v=1763373872",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rectarya-nine-gems-bangles?variant=gid://shopify/ProductVariant/52273350213929",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52263503528233": {
     "product_title": "Ruby Dewline Bangles",
@@ -40932,7 +40932,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0289copy_resized.jpg?v=1767700496",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gutta-pasalu-necklace-set?variant=gid://shopify/ProductVariant/52399453438249",
-    "stock": 5,
+    "stock": 6,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52399536734505": {
@@ -61502,9 +61502,9 @@
     "price": 9800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37003_resized.jpg?v=1775209253",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy?variant=gid://shopify/ProductVariant/52889937477929",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52889966149929": {
     "product_title": "Shreeka Temple Necklace",
@@ -71999,7 +71999,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2349_resized.jpg?v=1784370649",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/shree-siri-temple-studs?variant=gid://shopify/ProductVariant/53296590094633",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53296590127401": {
     "product_title": "Shree Siri Temple Studs",
