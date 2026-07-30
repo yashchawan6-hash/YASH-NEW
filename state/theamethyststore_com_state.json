@@ -132128,7 +132128,7 @@
     "global_id": "gid://shopify/ProductVariant/49421301973219",
     "variant_title": "Default Title",
     "sku": "AMS-102-16805",
-    "price": 33400.0,
+    "price": 33800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16805.jpg?v=1784291150",
     "url": "https://www.theamethyststore.com/products/glittering-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49421301973219",
@@ -135691,7 +135691,7 @@
     "global_id": "gid://shopify/ProductVariant/49442677391587",
     "variant_title": "Default Title",
     "sku": "AMS-102-17072",
-    "price": 93900.0,
+    "price": 101900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17072.jpg?v=1784890007",
     "url": "https://www.theamethyststore.com/products/amazing-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442677391587",
@@ -138153,5 +138153,18 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15116.jpg?v=1785399849",
     "url": "https://www.theamethyststore.com/products/kundan-studs-29?variant=gid://shopify/ProductVariant/49475880059107",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/49476020666595": {
+    "product_title": "Vedha Varalakshmi Face",
+    "product_handle": "varalakshmi-face-1",
+    "variant_id": "gid://shopify/ProductVariant/49476020666595",
+    "global_id": "gid://shopify/ProductVariant/49476020666595",
+    "variant_title": "Default Title",
+    "sku": "SV-508-0021",
+    "price": 29995.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/SV-508-0021.jpg?v=1785405570",
+    "url": "https://www.theamethyststore.com/products/varalakshmi-face-1?variant=gid://shopify/ProductVariant/49476020666595",
+    "stock": 1
   }
 }
