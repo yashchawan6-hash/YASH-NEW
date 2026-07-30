@@ -138098,5 +138098,44 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15127.jpg?v=1785398074",
     "url": "https://www.theamethyststore.com/products/kundan-studs-28?variant=gid://shopify/ProductVariant/49475832840419",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49475840049379": {
+    "product_title": "Liyasri Kundan Studs",
+    "product_handle": "liyasri-kundan-studs",
+    "variant_id": "gid://shopify/ProductVariant/49475840049379",
+    "global_id": "gid://shopify/ProductVariant/49475840049379",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15126",
+    "price": 6600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15126.jpg?v=1785398485",
+    "url": "https://www.theamethyststore.com/products/liyasri-kundan-studs?variant=gid://shopify/ProductVariant/49475840049379",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/49475840245987": {
+    "product_title": "Vinthikaa Moissanite Bracelet",
+    "product_handle": "moissanite-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/49475840245987",
+    "global_id": "gid://shopify/ProductVariant/49475840245987",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1327",
+    "price": 24400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1327.jpg?v=1785398535",
+    "url": "https://www.theamethyststore.com/products/moissanite-bracelet?variant=gid://shopify/ProductVariant/49475840245987",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49475840573667": {
+    "product_title": "Nithisha Kundan Studs",
+    "product_handle": "nithisha-kundan-studs",
+    "variant_id": "gid://shopify/ProductVariant/49475840573667",
+    "global_id": "gid://shopify/ProductVariant/49475840573667",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15125",
+    "price": 11370.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15125.jpg?v=1785398646",
+    "url": "https://www.theamethyststore.com/products/nithisha-kundan-studs?variant=gid://shopify/ProductVariant/49475840573667",
+    "stock": 1
   }
 }
