@@ -1528,5 +1528,25 @@
     "qty_sold": 1,
     "total_value": 499.0,
     "url": "https://www.daivik.in/products/ad-designer-openable-kada?variant=gid://shopify/ProductVariant/47564482576606"
+  },
+  {
+    "timestamp": "2026-07-30T23:41:43+05:30",
+    "product_title": "Lakshmi Antique Choker with Studs",
+    "variant_title": "Default Title",
+    "price": 1299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1299.0,
+    "url": "https://www.daivik.in/products/lakshmi-antique-choker-with-studs?variant=gid://shopify/ProductVariant/47461641388254"
+  },
+  {
+    "timestamp": "2026-07-30T23:41:43+05:30",
+    "product_title": "Elakkathali Ruby Choker with Earrings",
+    "variant_title": "Default Title",
+    "price": 899.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 899.0,
+    "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862"
   }
 ]
