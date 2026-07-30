@@ -69,6 +69,13 @@
       "telegram_bot_token": "8937795867:AAE_NFdXCx3FbEFYtuZgq5fFpo8Iqco2180",
       "telegram_chat_id": "-1003926767154",
       "enabled": true
+    },
+    {
+      "name": "Muskan Jewels",
+      "domain": "muskanjewel.com",
+      "telegram_bot_token": "8970206913:AAHkV4MmPmrONxr8nW4BmkBdplqbH8rZ_cQ",
+      "telegram_chat_id": "-1004457299456",
+      "enabled": true
     }
   ]
 }
