@@ -29575,7 +29575,8 @@
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-0961.jpg?v=1780140135",
     "url": "https://www.daivik.in/products/ad-leaf-pattern-small-earcuff?variant=gid://shopify/ProductVariant/48292120756446",
-    "stock": 17
+    "stock": 16,
+    "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/48292121084126": {
     "product_title": "AD Temple Style Lakshmi Earrings",
