@@ -73440,34 +73440,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-maangteeka-mt550m?variant=gid://shopify/ProductVariant/48679483080927",
     "stock": 6
   },
-  "gid://shopify/ProductVariant/48679489896671": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Medium Maang Teeka with Floral Motif - MT583",
-    "product_handle": "gold-plated-jadau-kundan-maangteeka-mt583",
-    "variant_id": "gid://shopify/ProductVariant/48679489896671",
-    "global_id": "gid://shopify/ProductVariant/48679489896671",
-    "variant_title": "Multicolor A",
-    "sku": "MT583M",
-    "price": 3150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT583M.jpg?v=1774422215",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt583?variant=gid://shopify/ProductVariant/48679489896671",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/48679490552031": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Medium Maang Teeka with Floral Motif - MT583",
-    "product_handle": "gold-plated-jadau-kundan-maangteeka-mt583",
-    "variant_id": "gid://shopify/ProductVariant/48679490552031",
-    "global_id": "gid://shopify/ProductVariant/48679490552031",
-    "variant_title": "Multicolor B",
-    "sku": "MT583MA",
-    "price": 3150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT583MA.jpg?v=1774422215",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt583?variant=gid://shopify/ProductVariant/48679490552031",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48679490912479": {
     "product_title": "Green Gold-Plated Meenakari Faux Polki Bangle with Kundan Setting - PK-BAN36",
     "product_handle": "green-color-gold-plated-faux-polki-bangle-1-piece-pk-ban36",
@@ -84883,7 +84855,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S199GR.jpg?v=1779351231",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-bridal-necklace-set-mo-s199?variant=gid://shopify/ProductVariant/49286553370847",
-    "stock": 3582
+    "stock": 6418
   },
   "gid://shopify/ProductVariant/49286549569759": {
     "product_title": "Gold-Plated Moissanite and Kundan Bridal Necklace Set with Peacock Motif - MO-S199",
@@ -99648,6 +99620,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48679490552031": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Medium Maang Teeka with Floral Motif - MT583",
+    "product_handle": "gold-plated-jadau-kundan-maangteeka-mt583",
+    "variant_id": "gid://shopify/ProductVariant/48679490552031",
+    "global_id": "gid://shopify/ProductVariant/48679490552031",
+    "variant_title": "Multicolor B",
+    "sku": "MT583MA",
+    "price": 3150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT583MA.jpg?v=1774422215",
+    "available_for_sale": false,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt583?variant=gid://shopify/ProductVariant/48679490552031",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49712019538143": {
     "product_title": "Gold Plated Contemporary Necklace Set with Kundan - CC-S62",
