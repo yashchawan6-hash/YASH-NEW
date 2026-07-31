@@ -345,9 +345,10 @@
     "price": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2f52a31d-8be4-40d3-bc52-effd6c96046f.webp?v=1768466552",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-double-layer-bangles?variant=gid://shopify/ProductVariant/52878921335100",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52878921367868": {
     "product_title": "Jadau kundan Double layer bangles",
