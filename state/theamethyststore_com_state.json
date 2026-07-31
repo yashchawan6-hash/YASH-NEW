@@ -163299,7 +163299,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0924.jpg?v=1784112859",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-like-oddiyanam-6?variant=gid://shopify/ProductVariant/49410606530787",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49410607153379": {
     "product_title": "Stunning Avikam Choker Set",
@@ -172167,6 +172167,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3411_4c03a87e-52a2-4c27-9121-d48dd66dfd58.jpg?v=1785473066",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vintage-kundan-pair-bangle-copy?variant=gid://shopify/ProductVariant/49478945308899",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479124812003": {
+    "product_title": "Vedhikaa Kundan Pair Bangle",
+    "product_handle": "kundan-pair-bangle-22",
+    "variant_id": "gid://shopify/ProductVariant/49479124812003",
+    "global_id": "gid://shopify/ProductVariant/49479124812003",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3412-2.6\"",
+    "price": 116400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3412.jpg?v=1785473342",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-22?variant=gid://shopify/ProductVariant/49479124812003",
     "stock": 1
   }
 }
