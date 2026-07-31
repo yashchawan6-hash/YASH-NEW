@@ -164448,7 +164448,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16775.jpg?v=1784283170",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mesmerizing-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49421181649123",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49421186662627": {
     "product_title": "Gorgeous Avikam Necklace Set",
@@ -168663,9 +168663,10 @@
     "price": 73200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17072_2.jpg?v=1784890007",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/amazing-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442677391587",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49442683715811": {
     "product_title": "Hrithika Moissanite Short Necklace Set",

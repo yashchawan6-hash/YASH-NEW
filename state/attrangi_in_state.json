@@ -126,7 +126,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-solitaire-attrangi-1.jpg?v=1739812459",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659501737",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411659567273": {
@@ -1534,8 +1534,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002G_101900_2026031640115.jpg?v=1779884617",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992150261972",
-    "stock": 4,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43098510754004": {
     "product_title": "4 Carat Round Solitaires | 10mm",
@@ -22118,7 +22118,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-03-07_at_1.21.44_PM_1.jpg?v=1744969037",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/aahana-diamond-bangles-with-coloured-crystals-copy?variant=gid://shopify/ProductVariant/46189326926036",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46189326958804": {
     "product_title": "Aahana Diamond Bangles With Coloured Crystals",
@@ -28907,7 +28908,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at2.17.29PM.jpg?v=1758528817",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/selvi-coloured-stone-indo-western-ring-adjustable?variant=gid://shopify/ProductVariant/46960302096596",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46984449949908": {
     "product_title": "Selvi Coloured Stone Indo Western Ring | Adjustable",
@@ -35719,10 +35721,10 @@
     "price": 9250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-29at12.03.49AM.jpg?v=1769668520",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/laila-polki-moissanite-pearl-pendant-style-set-with-jhumka?variant=gid://shopify/ProductVariant/47490159804628",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47490159870164": {
     "product_title": "Laila Polki Moissanite Pearl Pendant Style Set with Jhumka",
