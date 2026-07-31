@@ -6358,7 +6358,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mini-diamond-nath-attrangi-2.jpg?v=1775804445",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mini-diamond-nath-1?variant=gid://shopify/ProductVariant/43752992964820",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43752992997588": {
     "product_title": "Mini Diamond Nath",
@@ -24645,7 +24646,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/simple-gold-polki-haar-attrangi-3_1700a410-35d5-4328-bbc7-5bcbc224c048.jpg?v=1749411391",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/simple-gold-polki-haar-1?variant=gid://shopify/ProductVariant/46351845327060",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46351890120916": {
@@ -41447,7 +41448,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-09at1.06.22PM.jpg?v=1775737959",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-coloured-multi-solitaire-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47777202503892",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47780186325204": {
@@ -48233,6 +48234,62 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.39.29PM.jpg?v=1785503726",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/haathi-saathi-gold-rajwada-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401058234580",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401061052628": {
+    "product_title": "Lopamudra Gold Mint Ruby Traditional Bangle Set | Sone Pe Suhaga",
+    "product_handle": "lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401061052628",
+    "global_id": "gid://shopify/ProductVariant/48401061052628",
+    "variant_title": "2.2",
+    "sku": "ST42551Z2-BN",
+    "price": 2650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.50.20PM.jpg?v=1785504262",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401061052628",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401061085396": {
+    "product_title": "Lopamudra Gold Mint Ruby Traditional Bangle Set | Sone Pe Suhaga",
+    "product_handle": "lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401061085396",
+    "global_id": "gid://shopify/ProductVariant/48401061085396",
+    "variant_title": "2.4",
+    "sku": "ST42551Z4-BN",
+    "price": 2650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.50.20PM.jpg?v=1785504262",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401061085396",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401061118164": {
+    "product_title": "Lopamudra Gold Mint Ruby Traditional Bangle Set | Sone Pe Suhaga",
+    "product_handle": "lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401061118164",
+    "global_id": "gid://shopify/ProductVariant/48401061118164",
+    "variant_title": "2.6",
+    "sku": "ST42551Z6-BN",
+    "price": 2650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.50.20PM.jpg?v=1785504262",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401061118164",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401061150932": {
+    "product_title": "Lopamudra Gold Mint Ruby Traditional Bangle Set | Sone Pe Suhaga",
+    "product_handle": "lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401061150932",
+    "global_id": "gid://shopify/ProductVariant/48401061150932",
+    "variant_title": "2.8",
+    "sku": "ST42551Z8-BN",
+    "price": 2650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.50.20PM.jpg?v=1785504262",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401061150932",
     "stock": 0
   },
   "gid://shopify/ProductVariant/48006745030868": {
