@@ -60447,9 +60447,10 @@
     "price": 2100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1662.jpg?v=1765269732",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1662?variant=gid://shopify/ProductVariant/48067686367455",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48067686334687": {
     "product_title": "Gold-Plated Jadau Kundan Stud Earrings in Firoza and Multicolor - ME1662",
@@ -85683,20 +85684,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-mishr-mens-necklace-mr-n108?variant=gid://shopify/ProductVariant/49651341885663",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/49651504644319": {
-    "product_title": "Gold Plated Mishr Men's Necklace - MR-N126",
-    "product_handle": "gold-plated-mishr-mens-necklace-mr-n126",
-    "variant_id": "gid://shopify/ProductVariant/49651504644319",
-    "global_id": "gid://shopify/ProductVariant/49651504644319",
-    "variant_title": "Maroon",
-    "sku": "MR-N126P",
-    "price": 1750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N126P.jpg?v=1780043577",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-mishr-mens-necklace-mr-n126?variant=gid://shopify/ProductVariant/49651504644319",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49651641090271": {
     "product_title": "Gold Plated Mishr Men's Necklace - MR-N130",
     "product_handle": "gold-plated-mishr-mens-necklace-mr-n130",
@@ -99792,6 +99779,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/49651504644319": {
+    "product_title": "Gold Plated Mishr Men's Necklace - MR-N126",
+    "product_handle": "gold-plated-mishr-mens-necklace-mr-n126",
+    "variant_id": "gid://shopify/ProductVariant/49651504644319",
+    "global_id": "gid://shopify/ProductVariant/49651504644319",
+    "variant_title": "Maroon",
+    "sku": "MR-N126P",
+    "price": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N126P.jpg?v=1780043577",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-mishr-mens-necklace-mr-n126?variant=gid://shopify/ProductVariant/49651504644319",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46109034381535": {
     "product_title": "Multicolor Gold Plated Temple Necklace Set with Flower Motif - TMPSET218",

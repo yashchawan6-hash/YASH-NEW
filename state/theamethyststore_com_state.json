@@ -172673,5 +172673,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/amazing-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479312015587",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479316832483": {
+    "product_title": "Trendy Charm Avikam Necklace Set",
+    "product_handle": "trendy-charm-avikam-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49479316832483",
+    "global_id": "gid://shopify/ProductVariant/49479316832483",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17200",
+    "price": 59000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17200.jpg?v=1785482235",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/trendy-charm-avikam-necklace-set?variant=gid://shopify/ProductVariant/49479316832483",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479322796259": {
+    "product_title": "Trendy Glow Avikam Necklace Set",
+    "product_handle": "trendy-glow-avikam-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49479322796259",
+    "global_id": "gid://shopify/ProductVariant/49479322796259",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17168",
+    "price": 36700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17168.jpg?v=1785482401",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/trendy-glow-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49479322796259",
+    "stock": 3
   }
 }
