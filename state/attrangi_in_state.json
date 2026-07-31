@@ -157,7 +157,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-06-25_at_6.27.28_PM.jpg?v=1782393597",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/48172004442324",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411659632809": {
     "product_title": "Nadia Jadaau Choker Set | Ruby & Emerald",
@@ -3627,9 +3628,10 @@
     "price": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/real-looking-90-cents-round-pendant-attrangi-3.jpg?v=1739813350",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/real-looking-90-cents-round-pendant?variant=gid://shopify/ProductVariant/41124626268329",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42137043960020": {
     "product_title": "Real Looking 90 Cents Round Pendant",
@@ -44549,9 +44551,10 @@
     "price": 5850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-11at3.18.02PM_2.jpg?v=1783768638",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rajwada-indian-gold-watch-bracelet-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48255764496596",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48256054067412": {
     "product_title": "Diamond Peary Designer Cocktail  Ring | Daily Wear Bling",
