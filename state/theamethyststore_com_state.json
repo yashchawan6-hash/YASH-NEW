@@ -172603,5 +172603,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/stunning-look-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49479200571619",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49479214924003": {
+    "product_title": "Gorgeous Avikam Necklace Set",
+    "product_handle": "gorgeous-avikam-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49479214924003",
+    "global_id": "gid://shopify/ProductVariant/49479214924003",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17162",
+    "price": 61600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17162.jpg?v=1785480943",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/gorgeous-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479214924003",
+    "stock": 0
   }
 }
