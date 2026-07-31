@@ -12631,7 +12631,7 @@
     "global_id": "gid://shopify/ProductVariant/44754372657364",
     "variant_title": "2.2 / Pair",
     "sku": "NP0119G",
-    "price": 2950.0,
+    "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/geeta-diamond-studded-cnc-gold-plated-bangle-attrangi.jpg?v=1739816124",
     "available_for_sale": true,
@@ -12645,7 +12645,7 @@
     "global_id": "gid://shopify/ProductVariant/44754376425684",
     "variant_title": "2.4 / Pair",
     "sku": "NP0119GZ4",
-    "price": 2950.0,
+    "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/geeta-diamond-studded-cnc-gold-plated-bangle-attrangi.jpg?v=1739816124",
     "available_for_sale": true,
@@ -12659,7 +12659,7 @@
     "global_id": "gid://shopify/ProductVariant/44754376458452",
     "variant_title": "2.6 / Pair",
     "sku": "NP0119GZ6",
-    "price": 2950.0,
+    "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/geeta-diamond-studded-cnc-gold-plated-bangle-attrangi.jpg?v=1739816124",
     "available_for_sale": true,
@@ -12674,7 +12674,7 @@
     "global_id": "gid://shopify/ProductVariant/44754376491220",
     "variant_title": "2.8 / Pair",
     "sku": "NP0119GZ8",
-    "price": 2950.0,
+    "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/geeta-diamond-studded-cnc-gold-plated-bangle-attrangi.jpg?v=1739816124",
     "available_for_sale": true,
@@ -24865,7 +24865,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-06-13at9.56.54PM.jpg?v=1750784182",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gracy-small-diamond-nath-with-pearl-drop?variant=gid://shopify/ProductVariant/46382109294804",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46382196687060": {
@@ -27804,7 +27804,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-13at9.49.42PM.jpg?v=1757924293",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/guddi-classic-uncut-diamond-polki-moissanite-necklace-set?variant=gid://shopify/ProductVariant/46909130408148",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46909150494932": {
     "product_title": "Bani Polki Moissanite Big Indian Jhumka",
@@ -48065,7 +48066,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.24.45PM.jpg?v=1785501835",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ghungroo-gold-traditonal-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401010393300",
     "stock": 0
   },

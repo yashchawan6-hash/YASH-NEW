@@ -1482,7 +1482,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/ME1424M.jpg?v=1748432827",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/me1424m-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/42129523900639",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/42129604575455": {
     "product_title": "Multicolor Gold-Plated Meenakari Kundan Dangler Earrings with Flower and Lotus Motif - ME908A",
@@ -43474,7 +43475,7 @@
     "price": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPBAN115P.jpg?v=1749548612",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-temple-bangles-set-of-4-tmpban115?variant=gid://shopify/ProductVariant/47037507895519",
     "stock": 0,
     "last_alerted_stock": 0
@@ -48177,7 +48178,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S347.jpg?v=1750670735",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-bridal-necklace-set-pk-s347?variant=gid://shopify/ProductVariant/47079793033439",
-    "stock": 3921,
+    "stock": 9999,
     "last_alerted_stock": 8584
   },
   "gid://shopify/ProductVariant/47079795917023": {
@@ -48206,7 +48207,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S350M-2.jpg?v=1750671447",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s350?variant=gid://shopify/ProductVariant/47079835369695",
-    "stock": 9999
+    "stock": 8462
   },
   "gid://shopify/ProductVariant/48545952792799": {
     "product_title": "Multicolor Gold-Plated Faux Polki Layered Necklace Set with Peacock Motif - PK-S350",
@@ -50703,8 +50704,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2612M-2.jpg?v=1751542746",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2612?variant=gid://shopify/ProductVariant/47103599247583",
-    "stock": 4989,
-    "last_alerted_stock": 4989
+    "stock": 4987,
+    "last_alerted_stock": 4987
   },
   "gid://shopify/ProductVariant/47103612911839": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Bridal Necklace Set with Pearl Belt and Maang Teeka - MS2616",
@@ -60593,7 +60594,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S156LGR-2.jpg?v=1765275340",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s156?variant=gid://shopify/ProductVariant/48069781356767",
-    "stock": 9639
+    "stock": 9636
   },
   "gid://shopify/ProductVariant/48069942149343": {
     "product_title": "Gold-Plated Moissanite Kundan Choker Necklace Set - MO-S156",
@@ -84847,7 +84848,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S199GR.jpg?v=1779351231",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-bridal-necklace-set-mo-s199?variant=gid://shopify/ProductVariant/49286553370847",
-    "stock": 2794
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/49286549569759": {
     "product_title": "Gold-Plated Moissanite and Kundan Bridal Necklace Set with Peacock Motif - MO-S199",
@@ -84861,7 +84862,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S199LP.jpg?v=1779351232",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-bridal-necklace-set-mo-s199?variant=gid://shopify/ProductVariant/49286549569759",
-    "stock": 9999
+    "stock": 4276
   },
   "gid://shopify/ProductVariant/49286555271391": {
     "product_title": "White Gold-Plated Mishr Kundan Bracelet with Floral Motif - MR-BRAC201",

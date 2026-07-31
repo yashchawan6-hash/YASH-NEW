@@ -1817,7 +1817,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/42073113264355": {
     "product_title": "Grandeur Choker Set",
@@ -173494,6 +173495,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1434.jpg?v=1785501945",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-24?variant=gid://shopify/ProductVariant/49480769011939",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480780218595": {
+    "product_title": "Amara Avikam Bracelet",
+    "product_handle": "avikam-bracelet-25",
+    "variant_id": "gid://shopify/ProductVariant/49480780218595",
+    "global_id": "gid://shopify/ProductVariant/49480780218595",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1435",
+    "price": 13200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1435.jpg?v=1785502228",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-25?variant=gid://shopify/ProductVariant/49480780218595",
     "stock": 1
   }
 }
