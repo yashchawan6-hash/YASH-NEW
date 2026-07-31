@@ -173367,5 +173367,47 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-24?variant=gid://shopify/ProductVariant/49480596357347",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480693285091": {
+    "product_title": "Kenisha Kundan Short Necklace",
+    "product_handle": "kenisha-kundan-short-necklace-3",
+    "variant_id": "gid://shopify/ProductVariant/49480693285091",
+    "global_id": "gid://shopify/ProductVariant/49480693285091",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17205",
+    "price": 87900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17205.jpg?v=1785499956",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kenisha-kundan-short-necklace-3?variant=gid://shopify/ProductVariant/49480693285091",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49480722546915": {
+    "product_title": "Vinthra Avikam Bracelet",
+    "product_handle": "avikam-bracelet-21",
+    "variant_id": "gid://shopify/ProductVariant/49480722546915",
+    "global_id": "gid://shopify/ProductVariant/49480722546915",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1408",
+    "price": 16000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1408.jpg?v=1785500889",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-21?variant=gid://shopify/ProductVariant/49480722546915",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/49480728445155": {
+    "product_title": "Mesmerizing Kundan Short Necklace",
+    "product_handle": "mesmerizing-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49480728445155",
+    "global_id": "gid://shopify/ProductVariant/49480728445155",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17156",
+    "price": 27200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17156.jpg?v=1785500970",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49480728445155",
+    "stock": 1
   }
 }
