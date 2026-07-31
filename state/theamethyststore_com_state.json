@@ -173027,5 +173027,47 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-maatal-2?variant=gid://shopify/ProductVariant/49480336146659",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480338211043": {
+    "product_title": "Mesmerizing Moissanite Long Necklace Set",
+    "product_handle": "mesmerizing-moissanite-long-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49480338211043",
+    "global_id": "gid://shopify/ProductVariant/49480338211043",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17106",
+    "price": 184000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17106.jpg?v=1785493975",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-long-necklace-set?variant=gid://shopify/ProductVariant/49480338211043",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480349778147": {
+    "product_title": "Vihana Kundan Maatal",
+    "product_handle": "kundan-maatal-3",
+    "variant_id": "gid://shopify/ProductVariant/49480349778147",
+    "global_id": "gid://shopify/ProductVariant/49480349778147",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2412",
+    "price": 25600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2412.jpg?v=1785494212",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-maatal-3?variant=gid://shopify/ProductVariant/49480349778147",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480358330595": {
+    "product_title": "Aarika Kundan Maatal",
+    "product_handle": "kundan-maatal-4",
+    "variant_id": "gid://shopify/ProductVariant/49480358330595",
+    "global_id": "gid://shopify/ProductVariant/49480358330595",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2413",
+    "price": 27600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2413.jpg?v=1785494364",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-maatal-4?variant=gid://shopify/ProductVariant/49480358330595",
+    "stock": 1
   }
 }
