@@ -64334,7 +64334,7 @@
     "sku": "R16092",
     "price": 4400.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0931_resized.jpg?v=1781869404",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0931_resized.jpg?v=1785483617",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shobita-stone-studs?variant=gid://shopify/ProductVariant/53108716110121",
     "stock": 0
@@ -70588,7 +70588,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5692_resized.jpg?v=1782369187",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/leaflet-ring?variant=gid://shopify/ProductVariant/53288198373673",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53288201224489": {
     "product_title": "Floral-Set Ring",
