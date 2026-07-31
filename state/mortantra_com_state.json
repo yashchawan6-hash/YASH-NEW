@@ -2044,7 +2044,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/CZBANGLE40SL.jpg?v=1648708779",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/czbangle40sl-faux-diamond-bangles?variant=gid://shopify/ProductVariant/43949340098783",
-    "stock": 4042,
+    "stock": 8265,
     "last_alerted_stock": 4042
   },
   "gid://shopify/ProductVariant/42824585707743": {
@@ -2087,7 +2087,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/PK-S11.jpg?v=1750508823",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-s11-faux-diamond-necklace-set?variant=gid://shopify/ProductVariant/42855315079391",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/42855343653087": {
     "product_title": "Red & Dark Pink Victorian-Finish Faux Polki Choker Necklace Set - PK-S13R",
@@ -5927,9 +5927,9 @@
     "price": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS1891M-3.jpg?v=1690010452",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/ms1891m-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/44277950382303",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/44278837215455": {
     "product_title": "Multicolor Gold Plated Temple Necklace Set - TMPSET186M",
@@ -21000,7 +21000,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFRNG153.jpg?v=1724502875",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfrng153-multicolor-tribal-ring?variant=gid://shopify/ProductVariant/46260396916959",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46260399833311": {
     "product_title": "Multicolor Dual-Tone Tribal Kundan Necklace Set with Peacock Motif - EK-SFSET308M",
@@ -32589,7 +32590,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC70Y-2.jpg?v=1771666917",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bracelet-mbrac70?variant=gid://shopify/ProductVariant/47070031085791",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/46791430832351": {
     "product_title": "Multicolor Dual-Tone Tribal Long Necklace with Kundan Setting, Elephant and Peacock Motifs - MR-N77M",
@@ -53722,7 +53724,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S987M-2.jpg?v=1754996172",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-mishr-necklace-set-mr-s987m?variant=gid://shopify/ProductVariant/47230312186079",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47230321262815": {
     "product_title": "Dark Green Gold-Plated Mishr Choker Necklace Set with Jadau Kundan - MR-S988WGR",
@@ -54494,7 +54496,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET402M.jpg?v=1755605603",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-set-ek-sfset402m?variant=gid://shopify/ProductVariant/47249419305183",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47249450303711": {
     "product_title": "Dual-Tone Gold and Silver Plated Tribal Necklace Set with Kundan - EK-SFSET407",
@@ -54564,7 +54567,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-BRAC52A-2.jpg?v=1755842718",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-tribal-bracelet-1-piece-ek-brac52a?variant=gid://shopify/ProductVariant/47256216830175",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47256221778143": {
     "product_title": "Multicolor Dual-Tone Tribal Bracelet with Kundan Setting and Moon Motif - EK-BRAC55A",
@@ -55406,7 +55409,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK583A.jpg?v=1756984175",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-ek-sfneck583a?variant=gid://shopify/ProductVariant/47388177531103",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47388181233887": {
     "product_title": "Multicolor Dual-Tone Tribal Adjustable Ring with Jadau Kundan and Flower Motif - EK-SFRNG199A",
@@ -63511,7 +63515,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TN-BRAC2A.jpg?v=1769085215",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-pichwai-inspired-bangles-1-piece-tn-brac2?variant=gid://shopify/ProductVariant/48385090257119",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/48385096581343": {
     "product_title": "Pichwai Inspired Bangle with Ganesha and Deity Panels - TN-BRAC3",
@@ -64254,34 +64259,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-pichwai-inspired-ring-tn-rng1?variant=gid://shopify/ProductVariant/48386483454175",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/48386485059807": {
-    "product_title": "Pichwai Inspired Miniature Ring - TN-RNG5",
-    "product_handle": "gold-plated-pichwai-inspired-ring-tn-rng5",
-    "variant_id": "gid://shopify/ProductVariant/48386485059807",
-    "global_id": "gid://shopify/ProductVariant/48386485059807",
-    "variant_title": "Multicolor A",
-    "sku": "TN-RNG5",
-    "price": 1750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TN-RNG5.jpg?v=1769173173",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-pichwai-inspired-ring-tn-rng5?variant=gid://shopify/ProductVariant/48386485059807",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/48386485944543": {
-    "product_title": "Pichwai Inspired Miniature Ring - TN-RNG5",
-    "product_handle": "gold-plated-pichwai-inspired-ring-tn-rng5",
-    "variant_id": "gid://shopify/ProductVariant/48386485944543",
-    "global_id": "gid://shopify/ProductVariant/48386485944543",
-    "variant_title": "Multicolor B",
-    "sku": "TN-RNG5A",
-    "price": 1750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TN-RNG5A.jpg?v=1769173435",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-pichwai-inspired-ring-tn-rng5?variant=gid://shopify/ProductVariant/48386485944543",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/48401643798751": {
     "product_title": "Multicolor Gold-Plated Pichwai Jadau Kundan Peacock Pendant Necklace - TN-N21",
@@ -67192,9 +67169,9 @@
     "price": 2800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1688Y.jpg?v=1771234950",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1688?variant=gid://shopify/ProductVariant/48452675600607",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48454895763679": {
     "product_title": "Gold-Plated Jadau Kundan Kanphool Earrings with Floral Motif - ME1688",
@@ -68284,9 +68261,9 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BAN29GR-2_3415aa31-746b-47f0-9c72-6c1fd5655e39.jpg?v=1771407069",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-faux-polki-bangles-1-piece-pk-ban29gr?variant=gid://shopify/ProductVariant/48457499443423",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48457515827423": {
     "product_title": "Multicolor Gold-Plated Faux Polki Kundan Bracelet with Zircon Accents - PK-BRAC24LGR",
@@ -70684,7 +70661,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-EAR12.jpg?v=1772026705",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/victorian-earrings-vc-ear12?variant=gid://shopify/ProductVariant/48546123710687",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48547144761567": {
     "product_title": "Pichwai Inspired Layered Charm Necklace with Radha Krishna Miniature - TN-N30",
@@ -71246,7 +71223,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2864M-2.jpg?v=1772544626",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2864?variant=gid://shopify/ProductVariant/48562353537247",
-    "stock": 1448,
+    "stock": 8552,
     "last_alerted_stock": 8554
   },
   "gid://shopify/ProductVariant/48562354127071": {
@@ -72283,9 +72260,9 @@
     "price": 4200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N28LGR.jpg?v=1774248614",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-mo-n28?variant=gid://shopify/ProductVariant/48674734735583",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48674734833887": {
     "product_title": "Gold-Plated Moissanite Mala Ranihaar Necklace with Zircon Accents - MO-N28",
@@ -73616,9 +73593,9 @@
     "price": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BAN32M-2.jpg?v=1774428551",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-bangle-1-piece-pk-ban32?variant=gid://shopify/ProductVariant/48679560282335",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48679570014431": {
     "product_title": "Gold-Plated Faux Polki Kundan Bracelet in Four Colourways - PK-BRAC25",
@@ -75299,9 +75276,9 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKS113WP.jpg?v=1774946598",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earchains-mks113?variant=gid://shopify/ProductVariant/48739574743263",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48739586244831": {
     "product_title": "White Gold-Plated Moissanite & Kundan Princess Necklace Set - MO-S204",
@@ -79197,9 +79174,9 @@
     "price": 6650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N63MB.jpg?v=1775648588",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-mishr-tribal-necklace-mr-n63mb?variant=gid://shopify/ProductVariant/48832226459871",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48832269451487": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Adjustable Ring - MRNG250",
@@ -79295,9 +79272,9 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZEAR628.jpg?v=1776145192",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-earrings-czear628?variant=gid://shopify/ProductVariant/48905728065759",
-    "stock": 0
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/48905822437599": {
     "product_title": "Pink Gold-Plated Jadau Kundan Passa with Floral and Moon Motif - MP30WPB",
@@ -84915,9 +84892,9 @@
     "price": 8050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1321M.jpg?v=1779346074",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1321m?variant=gid://shopify/ProductVariant/49286451691743",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49286468501727": {
     "product_title": "White Gold-Plated Jadau Kundan Dangler Earrings with Floral Kundan Setting - ME1697",
@@ -85405,9 +85382,9 @@
     "price": 4200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N28LGR_c0804fe7-4689-4505-af40-58b931fdaf00.jpg?v=1780031761",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-mens-necklace-mala-mo-n28?variant=gid://shopify/ProductVariant/49641455452383",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49641455485151": {
     "product_title": "Gold Plated Moissanite Men's Necklace/Mala - MO-N28",
@@ -85489,9 +85466,9 @@
     "price": 6650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N63MB_d46fd4ab-6d1b-4e30-910b-e1362675eda6.jpg?v=1780037012",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-mishr-tribal-mens-necklace-mr-n63mb?variant=gid://shopify/ProductVariant/49645842792671",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49646065647839": {
     "product_title": "Multicolor Gold Plated Mishr Tribal Men's Necklace - MR-N68M",
@@ -95479,9 +95456,9 @@
     "price": 3150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3010M-2.jpg?v=1784190950",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms3010?variant=gid://shopify/ProductVariant/50573479968991",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50573480788191": {
     "product_title": "Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motif - MS3010",
@@ -98323,7 +98300,7 @@
     "price": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3035M-2.jpg?v=1784803284",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms3035m?variant=gid://shopify/ProductVariant/50594227060959",
     "stock": 9999
   },
@@ -99771,6 +99748,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48386485059807": {
+    "product_title": "Pichwai Inspired Miniature Ring - TN-RNG5",
+    "product_handle": "gold-plated-pichwai-inspired-ring-tn-rng5",
+    "variant_id": "gid://shopify/ProductVariant/48386485059807",
+    "global_id": "gid://shopify/ProductVariant/48386485059807",
+    "variant_title": "Multicolor A",
+    "sku": "TN-RNG5",
+    "price": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TN-RNG5.jpg?v=1769173173",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-pichwai-inspired-ring-tn-rng5?variant=gid://shopify/ProductVariant/48386485059807",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/44849340383455": {
     "product_title": "Black Color Gold Plated Contemporary Necklace Set with Kundan - TCZ-S1BK",
