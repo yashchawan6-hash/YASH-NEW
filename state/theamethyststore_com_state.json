@@ -173479,5 +173479,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/sparkling-avikam-jhumkas-2?variant=gid://shopify/ProductVariant/49480760066275",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49480769011939": {
+    "product_title": "Sishkaa Avikam Bracelet",
+    "product_handle": "avikam-bracelet-24",
+    "variant_id": "gid://shopify/ProductVariant/49480769011939",
+    "global_id": "gid://shopify/ProductVariant/49480769011939",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1434",
+    "price": 14200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1434.jpg?v=1785501945",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-24?variant=gid://shopify/ProductVariant/49480769011939",
+    "stock": 0
   }
 }

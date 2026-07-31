@@ -57002,9 +57002,9 @@
     "price": 10000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16418_resized.jpg?v=1774272173",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/moissanite-pear-matil?variant=gid://shopify/ProductVariant/52824205590825",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52824205918505": {
     "product_title": "Savitri Temple Kaankarela",
@@ -59844,9 +59844,9 @@
     "price": 6700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20422_resized.jpg?v=1775485249",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/saugandhya-kundan-matil?variant=gid://shopify/ProductVariant/52871693762857",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52871699923241": {
     "product_title": "Madhulika Temple Jhumki",
@@ -72539,9 +72539,9 @@
     "price": 13000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40267_resized.jpg?v=1783604616",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kusum-gutta-pasalu-danglers?variant=gid://shopify/ProductVariant/53302646997289",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/53302649618729": {
     "product_title": "Bloom Pear Stone Danglers",
