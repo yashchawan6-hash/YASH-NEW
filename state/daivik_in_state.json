@@ -20281,7 +20281,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a65ea7d9-3428-4630-ac3c-113d8e2c52c3.jpg?v=1727018763",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/c?variant=gid://shopify/ProductVariant/45908646822110",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45908646854878": {
     "product_title": "Lakshmi Coral Red Set of 6 Bangles",
@@ -45208,9 +45209,10 @@
     "price": 2599.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A4B79477-1E05-489D-BF83-848ADAF50502.jpg?v=1776786791",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/manga-kemp-bridal-combo?variant=gid://shopify/ProductVariant/48135850655966",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48135850688734": {
     "product_title": "Manga Kemp Bridal Combo",
