@@ -44523,9 +44523,9 @@
     "price": 5850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-11at3.18.02PM_2.jpg?v=1783768638",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rajwada-indian-gold-watch-bracelet-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48255764496596",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48256054067412": {
     "product_title": "Diamond Peary Designer Cocktail  Ring | Daily Wear Bling",
