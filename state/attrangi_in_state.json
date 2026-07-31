@@ -1551,7 +1551,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002G_101900_2026031640115.jpg?v=1779884617",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992150261972",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43098510754004": {
@@ -3085,7 +3085,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/charming-lara-solitaire-set-attrangi-3.jpg?v=1739813239",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/charming-lara-solitaire-set?variant=gid://shopify/ProductVariant/40980463059113",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/47992208457940": {
     "product_title": "Charming Lara Solitaire Set",
@@ -15511,9 +15511,9 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-03-07_at_5.42.10_PM.jpg?v=1744967854",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gloria-fused-diamond-coloured-stone-studs?variant=gid://shopify/ProductVariant/46130306711764",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45678667333844": {
     "product_title": "Aloha Diamond Statement Studs",
