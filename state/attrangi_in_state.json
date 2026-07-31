@@ -9966,9 +9966,9 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-10-16_at_1.22.48_AM.jpg?v=1750781593",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-round-pear-solitaire-drop-earrings-daily-wear?variant=gid://shopify/ProductVariant/44898859385044",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44464415834324": {

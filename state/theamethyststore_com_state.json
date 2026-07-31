@@ -173266,5 +173266,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-long-necklace-13?variant=gid://shopify/ProductVariant/49480492286179",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480516796643": {
+    "product_title": "Radhae Krishna Nagas Oddiyanam",
+    "product_handle": "nagas-oddiyanam-10",
+    "variant_id": "gid://shopify/ProductVariant/49480516796643",
+    "global_id": "gid://shopify/ProductVariant/49480516796643",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0932",
+    "price": 170500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0932.jpg?v=1785496287",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/nagas-oddiyanam-10?variant=gid://shopify/ProductVariant/49480516796643",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480532426979": {
+    "product_title": "Reyanshi Nagas Oddiyanam",
+    "product_handle": "nagas-oddiyanam-11",
+    "variant_id": "gid://shopify/ProductVariant/49480532426979",
+    "global_id": "gid://shopify/ProductVariant/49480532426979",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0933",
+    "price": 146900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0933.jpg?v=1785496556",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/nagas-oddiyanam-11?variant=gid://shopify/ProductVariant/49480532426979",
+    "stock": 0
   }
 }
