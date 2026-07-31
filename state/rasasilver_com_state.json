@@ -70584,9 +70584,10 @@
     "price": 1400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5714_resized.jpg?v=1782368636",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rose-prestige-ring?variant=gid://shopify/ProductVariant/53288195916073",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53288198373673": {
     "product_title": "Leaflet Ring",

@@ -173098,5 +173098,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-20?variant=gid://shopify/ProductVariant/49480374649059",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480384544995": {
+    "product_title": "Ivaana Kundan Maatal",
+    "product_handle": "kundan-maatal-6",
+    "variant_id": "gid://shopify/ProductVariant/49480384544995",
+    "global_id": "gid://shopify/ProductVariant/49480384544995",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2415",
+    "price": 24810.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2415.jpg?v=1785494761",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-maatal-6?variant=gid://shopify/ProductVariant/49480384544995",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480389296355": {
+    "product_title": "Tanirika Kundan Maatal",
+    "product_handle": "kundan-maatal-7",
+    "variant_id": "gid://shopify/ProductVariant/49480389296355",
+    "global_id": "gid://shopify/ProductVariant/49480389296355",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2416",
+    "price": 27400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2416.jpg?v=1785494927",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-maatal-7?variant=gid://shopify/ProductVariant/49480389296355",
+    "stock": 1
   }
 }
