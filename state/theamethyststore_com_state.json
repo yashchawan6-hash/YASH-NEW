@@ -173451,5 +173451,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/inisha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49480755445987",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480756592867": {
+    "product_title": "Airaka Avikam Bracelet",
+    "product_handle": "avikam-bracelet-23",
+    "variant_id": "gid://shopify/ProductVariant/49480756592867",
+    "global_id": "gid://shopify/ProductVariant/49480756592867",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1433",
+    "price": 12500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1433.jpg?v=1785501437",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-23?variant=gid://shopify/ProductVariant/49480756592867",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49480760066275": {
+    "product_title": "Sparkling Avikam Jhumkas",
+    "product_handle": "sparkling-avikam-jhumkas-2",
+    "variant_id": "gid://shopify/ProductVariant/49480760066275",
+    "global_id": "gid://shopify/ProductVariant/49480760066275",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15068",
+    "price": 18200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15068.jpg?v=1785501534",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/sparkling-avikam-jhumkas-2?variant=gid://shopify/ProductVariant/49480760066275",
+    "stock": 3
   }
 }
