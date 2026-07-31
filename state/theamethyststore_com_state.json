@@ -172786,5 +172786,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-choker-set-3?variant=gid://shopify/ProductVariant/49479427653859",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49479491092707": {
+    "product_title": "Giriza Kundan Choker",
+    "product_handle": "giriza-kundan-choker",
+    "variant_id": "gid://shopify/ProductVariant/49479491092707",
+    "global_id": "gid://shopify/ProductVariant/49479491092707",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17137",
+    "price": 35500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17137.jpg?v=1785485817",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/giriza-kundan-choker?variant=gid://shopify/ProductVariant/49479491092707",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479495909603": {
+    "product_title": "Grandeur Kundan Choker",
+    "product_handle": "grandeur-kundan-choker-1",
+    "variant_id": "gid://shopify/ProductVariant/49479495909603",
+    "global_id": "gid://shopify/ProductVariant/49479495909603",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17138",
+    "price": 52660.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17138.jpg?v=1785485973",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/grandeur-kundan-choker-1?variant=gid://shopify/ProductVariant/49479495909603",
+    "stock": 1
   }
 }
