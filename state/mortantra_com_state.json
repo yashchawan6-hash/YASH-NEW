@@ -47903,9 +47903,10 @@
     "price": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N107P.jpg?v=1750490409",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-mishr-necklace-mr-n107?variant=gid://shopify/ProductVariant/47075432464607",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47075432497375": {
     "product_title": "Gold-Plated Mishr Long Pendant Necklace with Jadau Kundan and Floral Motifs - MR-N107",
@@ -79183,7 +79184,7 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZEAR628.jpg?v=1776145192",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-earrings-czear628?variant=gid://shopify/ProductVariant/48905728065759",
     "stock": 0
   },
@@ -84892,7 +84893,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S198LGR-2.jpg?v=1780732054",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s198?variant=gid://shopify/ProductVariant/50065460920543",
-    "stock": 2895,
+    "stock": 7106,
     "last_alerted_stock": 2893
   },
   "gid://shopify/ProductVariant/49286553370847": {
