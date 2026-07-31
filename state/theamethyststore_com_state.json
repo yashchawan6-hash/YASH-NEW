@@ -61912,7 +61912,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11089_ac13265f-4be6-4595-a90c-41577c12006f.jpg?v=1771679029",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shervi-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47075270721763",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/47075272655075": {
     "product_title": "Little Cute Avikam Short Necklace Set",
@@ -112237,6 +112237,20 @@
     "url": "https://www.theamethyststore.com/products/trendy-look-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/48244182745315",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/48244428177635": {
+    "product_title": "Ellariya  Kundan Long Necklace",
+    "product_handle": "ellariya-kundan-long-necklace",
+    "variant_id": "gid://shopify/ProductVariant/48244428177635",
+    "global_id": "gid://shopify/ProductVariant/48244428177635",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14543",
+    "price": 232600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14543.jpg?v=1770904719",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/ellariya-kundan-long-necklace?variant=gid://shopify/ProductVariant/48244428177635",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/48244870283491": {
     "product_title": "Spark  Diamond Design Pair Bangle",
     "product_handle": "spark-stone-pair-bangle",
@@ -113089,7 +113103,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14446.jpg?v=1771047666",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/gray-beads-long-necklace?variant=gid://shopify/ProductVariant/48275210830051",
-    "stock": 4
+    "stock": 5
   },
   "gid://shopify/ProductVariant/48275227181283": {
     "product_title": "Yashvikha Beads Long Necklace",
@@ -115342,9 +115356,9 @@
     "price": 49400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14401.jpg?v=1771507426",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/advika-kundan-choker?variant=gid://shopify/ProductVariant/48289156104419",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48289166098659": {
@@ -116159,6 +116173,20 @@
     "url": "https://www.theamethyststore.com/products/classy-green-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/48296842494179",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/48296846360803": {
+    "product_title": "Hejitha Avikam Short Necklace Set",
+    "product_handle": "hejitha-avikam-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/48296846360803",
+    "global_id": "gid://shopify/ProductVariant/48296846360803",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14787",
+    "price": 29400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14787.jpg?v=1771679957",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/hejitha-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/48296846360803",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/48296858255587": {
     "product_title": "Florika Avikam Short Necklace Set",
     "product_handle": "florika-avikam-short-necklace-set",
@@ -116578,6 +116606,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2187-_2_49f1cb66-3b3d-4b77-9d91-675155ed70fd.jpg?v=1771832782",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shreya-nagas-tikka-1?variant=gid://shopify/ProductVariant/48301967540451",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/48301977272547": {
+    "product_title": "Sparkling Avikam Short Necklace Set",
+    "product_handle": "sparkling-avikam-short-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/48301977272547",
+    "global_id": "gid://shopify/ProductVariant/48301977272547",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-14776",
+    "price": 18600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14776.jpg?v=1771832634",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/sparkling-avikam-short-necklace-set-2?variant=gid://shopify/ProductVariant/48301977272547",
     "stock": 1
   },
   "gid://shopify/ProductVariant/48301990838499": {
@@ -172351,5 +172393,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-14?variant=gid://shopify/ProductVariant/49479150469347",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479175078115": {
+    "product_title": "Dharani Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-15",
+    "variant_id": "gid://shopify/ProductVariant/49479175078115",
+    "global_id": "gid://shopify/ProductVariant/49479175078115",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3417-2.6\"",
+    "price": 68200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3417.jpg?v=1785478022",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-15?variant=gid://shopify/ProductVariant/49479175078115",
+    "stock": 2
   }
 }
