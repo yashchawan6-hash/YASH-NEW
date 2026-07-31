@@ -3330,9 +3330,10 @@
     "price": 45500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/jihugyftydrtd.jpg?v=1750153045",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kjxk?variant=gid://shopify/ProductVariant/50324733460777",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50324915716393": {
     "product_title": "Brillove Chain Pendant",
@@ -9523,9 +9524,10 @@
     "price": 66600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_16069a7c-4efd-4b0e-b409-811e86a88b1e.jpg?v=1755691138",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/royal-feather-halo-necklace-set?variant=gid://shopify/ProductVariant/50773704311081",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50773763293481": {
     "product_title": "Leaforia Bloom Necklace Set",
@@ -26707,9 +26709,10 @@
     "price": 54000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_79Pics_5Nov34493.jpg?v=1762766149",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/fleurcz-necklace-set?variant=gid://shopify/ProductVariant/51487452463401",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51487739642153": {
     "product_title": "Nine Gems Jalika Necklace",
@@ -34531,9 +34534,10 @@
     "price": 41500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2296_resized.jpg?v=1763464950",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emerald-quadline-necklace-set?variant=gid://shopify/ProductVariant/51866778763561",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51866778796329": {
     "product_title": "Emerald Quadline Necklace Set",
@@ -34615,9 +34619,10 @@
     "price": 32700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2341_resized.jpg?v=1763466915",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/blue-viora-necklace-set-copy?variant=gid://shopify/ProductVariant/51869073932585",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51871914721577": {
     "product_title": "Ruby Fiora Necklace Set",
@@ -34631,7 +34636,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2268_resized.jpg?v=1763460368",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rubessa-flora-necklace-set-copy?variant=gid://shopify/ProductVariant/51871914721577",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51871914754345": {
     "product_title": "Ruby Fiora Necklace Set",
@@ -34643,9 +34649,10 @@
     "price": 36000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2258_1_resized.jpg?v=1771053575",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rubessa-flora-necklace-set-copy?variant=gid://shopify/ProductVariant/51871914754345",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51870106779945": {
     "product_title": "Rubalyn Bloom Necklace Set",
@@ -34773,7 +34780,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2385_resized.jpg?v=1763460465",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pear-zavira-necklace-set-copy?variant=gid://shopify/ProductVariant/51872022364457",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/51872331727145": {
     "product_title": "Zircelle Glow Necklace Set",
@@ -37311,9 +37319,10 @@
     "price": 71700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0310copy_resized_c3d8a475-d1c3-4aa8-890d-6dd52d9d227c.jpg?v=1764659844",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/val-pear-trishine-necklace-set?variant=gid://shopify/ProductVariant/52208831889705",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52208840900905": {
     "product_title": "Oval Brillancia Cz Necklace",
@@ -40155,9 +40164,10 @@
     "price": 36500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0372copy_resized.jpg?v=1767355979",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/heera-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362219487529",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52362235576617": {
     "product_title": "Victorian Navakriti Necklace Set",
@@ -40297,7 +40307,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0186copy_resized_36a55719-8ff5-474b-a0e6-e5824bdecb4e.jpg?v=1767352872",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gemora-victorian-necklace-set?variant=gid://shopify/ProductVariant/52378013106473",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52378068025641": {
     "product_title": "Pear Victorian Necklace",
@@ -48187,9 +48198,10 @@
     "price": 41310.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2301_resized.jpg?v=1770452376",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/tiny-petal-cz-necklace-set?variant=gid://shopify/ProductVariant/52553878503721",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52553882272041": {
     "product_title": "Green-Shine Stone Necklace Set",
@@ -51863,7 +51875,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4549_resized_1.jpg?v=1771654604",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sunheri-stories-cz-necklace-set?variant=gid://shopify/ProductVariant/52682043425065",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52682074620201": {
     "product_title": "Zariya Luxe CZ Necklace Set",
@@ -53643,9 +53656,9 @@
     "price": 113850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5343.jpg?v=1772535838",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-necklace-1?variant=gid://shopify/ProductVariant/52741761401129",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52741786370345": {
     "product_title": "Morika Rani Kundan Necklace",
@@ -60537,7 +60550,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0659_resized_cb522e23-2a10-410c-8090-1e57cfd9f11e.jpg?v=1775563947",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/tearique-luxe-cz-necklace-set?variant=gid://shopify/ProductVariant/52881415799081",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52881415831849": {
@@ -60552,7 +60565,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0665_resized.jpg?v=1775563947",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/tearique-luxe-cz-necklace-set?variant=gid://shopify/ProductVariant/52881415831849",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52881483202857": {
     "product_title": "Glitzora-Pear CZ Necklace Set",
@@ -60833,7 +60847,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00183_resized.jpg?v=1775559190",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/peravia-bloomara-cz-necklace-set?variant=gid://shopify/ProductVariant/52882335138089",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52882438914345": {
     "product_title": "Kalpika CZ Necklace Set",
@@ -61043,7 +61058,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0052_resized.jpg?v=1775481316",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/squarica-dropira-cz-necklace-set?variant=gid://shopify/ProductVariant/52885501247785",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52885509144873": {
     "product_title": "Crystal Shine CZ Necklace",

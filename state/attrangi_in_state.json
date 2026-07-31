@@ -7091,7 +7091,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/coloured-baguette-clustered-cocktail-ring-attrangi-1.jpg?v=1739814443",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/coloured-baguette-clustered-cocktail-ring?variant=gid://shopify/ProductVariant/43600066576596",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44080506274004": {
     "product_title": "Coloured Baguette Clustered Cocktail Ring",
@@ -48080,7 +48081,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.24.45PM.jpg?v=1785501835",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ghungroo-gold-traditonal-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401010426068",
     "stock": 0
   },
@@ -48094,7 +48095,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.24.45PM.jpg?v=1785501835",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ghungroo-gold-traditonal-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401010458836",
     "stock": 0
   },
@@ -48108,8 +48109,64 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.24.45PM.jpg?v=1785501835",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ghungroo-gold-traditonal-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401010491604",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401021141204": {
+    "product_title": "Phoolan delicate Gold bangles with Polki Ruby Set | Sone Pe Suhaga",
+    "product_handle": "phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401021141204",
+    "global_id": "gid://shopify/ProductVariant/48401021141204",
+    "variant_title": "2.2",
+    "sku": "SH23471Z2-BN",
+    "price": 2750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.35.43PM_1.jpg?v=1785502384",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401021141204",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401021173972": {
+    "product_title": "Phoolan delicate Gold bangles with Polki Ruby Set | Sone Pe Suhaga",
+    "product_handle": "phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401021173972",
+    "global_id": "gid://shopify/ProductVariant/48401021173972",
+    "variant_title": "2.4",
+    "sku": "SH23471Z4-BN",
+    "price": 2750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.35.43PM_1.jpg?v=1785502384",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401021173972",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401021206740": {
+    "product_title": "Phoolan delicate Gold bangles with Polki Ruby Set | Sone Pe Suhaga",
+    "product_handle": "phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401021206740",
+    "global_id": "gid://shopify/ProductVariant/48401021206740",
+    "variant_title": "2.6",
+    "sku": "SH23471Z6-BN",
+    "price": 2750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.35.43PM_1.jpg?v=1785502384",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401021206740",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401021239508": {
+    "product_title": "Phoolan delicate Gold bangles with Polki Ruby Set | Sone Pe Suhaga",
+    "product_handle": "phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401021239508",
+    "global_id": "gid://shopify/ProductVariant/48401021239508",
+    "variant_title": "2.8",
+    "sku": "SH23471Z8-BN",
+    "price": 2750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.35.43PM_1.jpg?v=1785502384",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401021239508",
     "stock": 0
   },
   "gid://shopify/ProductVariant/48006745030868": {
