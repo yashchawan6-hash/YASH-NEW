@@ -172715,5 +172715,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/niharikha-avikam-necklace-set?variant=gid://shopify/ProductVariant/49479331021027",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49479358251235": {
+    "product_title": "Amazing Avikam Long Necklace Set",
+    "product_handle": "amazing-avikam-long-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49479358251235",
+    "global_id": "gid://shopify/ProductVariant/49479358251235",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17167",
+    "price": 41500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17167.jpg?v=1785483683",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-avikam-long-necklace-set-2?variant=gid://shopify/ProductVariant/49479358251235",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49479408156899": {
+    "product_title": "Stunning Avikam Long Necklace Set",
+    "product_handle": "stunning-avikam-long-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49479408156899",
+    "global_id": "gid://shopify/ProductVariant/49479408156899",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17175",
+    "price": 105100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17175.jpg?v=1785483969",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stunning-avikam-long-necklace-set?variant=gid://shopify/ProductVariant/49479408156899",
+    "stock": 2
   }
 }
