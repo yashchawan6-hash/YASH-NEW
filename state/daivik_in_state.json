@@ -44031,9 +44031,10 @@
     "price": 4799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9816EC3D-BDF9-439A-A559-770E9D03A522.jpg?v=1775321478",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/classic-antique-peacock-necklace-with-earrings?variant=gid://shopify/ProductVariant/48061365485790",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48062521835742": {
     "product_title": "Floating 2 in 1 AD Flower Earrings",
@@ -47248,9 +47249,9 @@
     "price": 899.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
-    "stock": 0,
+    "stock": 50,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48404578631902": {
