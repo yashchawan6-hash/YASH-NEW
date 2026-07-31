@@ -172859,5 +172859,61 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-18?variant=gid://shopify/ProductVariant/49480141406435",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/49480186069219": {
+    "product_title": "Nithraa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-19",
+    "variant_id": "gid://shopify/ProductVariant/49480186069219",
+    "global_id": "gid://shopify/ProductVariant/49480186069219",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3427-2.4",
+    "price": 32000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3427.jpg?v=1785492526",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-19?variant=gid://shopify/ProductVariant/49480186069219",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480182104291": {
+    "product_title": "Nithraa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-19",
+    "variant_id": "gid://shopify/ProductVariant/49480182104291",
+    "global_id": "gid://shopify/ProductVariant/49480182104291",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3427-2.6\"",
+    "price": 32400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3427.jpg?v=1785492526",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-19?variant=gid://shopify/ProductVariant/49480182104291",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49480186101987": {
+    "product_title": "Nithraa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-19",
+    "variant_id": "gid://shopify/ProductVariant/49480186101987",
+    "global_id": "gid://shopify/ProductVariant/49480186101987",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-3427-2.8\"",
+    "price": 33200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3427.jpg?v=1785492526",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-19?variant=gid://shopify/ProductVariant/49480186101987",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480195801315": {
+    "product_title": "Grandeur Kundan Jhumkas",
+    "product_handle": "grandeur-kundan-jhumkas-5",
+    "variant_id": "gid://shopify/ProductVariant/49480195801315",
+    "global_id": "gid://shopify/ProductVariant/49480195801315",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15466",
+    "price": 22500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15466.jpg?v=1785492585",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/grandeur-kundan-jhumkas-5?variant=gid://shopify/ProductVariant/49480195801315",
+    "stock": 3
   }
 }

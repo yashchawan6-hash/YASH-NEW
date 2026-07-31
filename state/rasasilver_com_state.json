@@ -28216,10 +28216,10 @@
     "price": 4200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK1326copy_resized.jpg?v=1762936418",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/arvaya-buggadi?variant=gid://shopify/ProductVariant/51494664110377",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51494679675177": {
     "product_title": "Florenza Oval Danglers",
@@ -35942,9 +35942,10 @@
     "price": 15000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0150copy_resized_f3e75288-b32a-442b-bbdc-8a09404ccf42.jpg?v=1763984809",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/empressa-emerluxe-pendant?variant=gid://shopify/ProductVariant/52146394956073",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52146430148905": {
     "product_title": "Navique Victorian Pendant Set",
@@ -40360,7 +40361,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0497copy_resized.jpg?v=1767690102",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/haloria-cz-hip-belt?variant=gid://shopify/ProductVariant/52383370445097",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52383437259049": {
     "product_title": "Emeraldia CZ Bangles",
@@ -62407,9 +62409,10 @@
     "price": 106200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00294.jpg?v=1775731306",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shrinelle-antique-necklace?variant=gid://shopify/ProductVariant/52912157950249",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52912166666537": {
     "product_title": "Shrika Temple Bangles",
