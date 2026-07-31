@@ -428,5 +428,25 @@
     "qty_sold": 1,
     "total_value": 799.0,
     "url": "https://www.daivik.in/products/simple-ad-choker-with-earrings-in-5-colors?variant=gid://shopify/ProductVariant/48078267810014"
+  },
+  {
+    "timestamp": "2026-07-31T09:51:35+05:30",
+    "product_title": "Simple AD Choker with Studds (Price for Each)",
+    "variant_title": "Pink",
+    "price": 399.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 399.0,
+    "url": "https://www.daivik.in/products/simple-ad-choker-with-studds?variant=gid://shopify/ProductVariant/47448853938398"
+  },
+  {
+    "timestamp": "2026-07-31T09:51:35+05:30",
+    "product_title": "Simple AD Pendant Necklace with Earrings",
+    "variant_title": "Default Title",
+    "price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1099.0,
+    "url": "https://www.daivik.in/products/simple-ad-pendant-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/47720151482590"
   }
 ]
