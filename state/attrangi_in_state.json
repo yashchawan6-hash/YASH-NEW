@@ -7499,9 +7499,10 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/gadar-polki-ring-in-victorian-polish-attrangi-1.jpg?v=1739814571",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/gadar-polki-ring-in-victorian-polish?variant=gid://shopify/ProductVariant/43757100499156",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43757100531924": {
     "product_title": "Gadar Polki Ring in Victorian Polish",
@@ -8289,8 +8290,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.09_PM_1.jpg?v=1764682059",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/5-line-multi-polish-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/43891226673364",
-    "stock": 3,
-    "last_alerted_stock": 0
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43891246203092": {
     "product_title": "Interlinked Diamond Tennis Bracelet",
@@ -20112,7 +20113,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-16_at_4.20.17_PM.jpg?v=1739818485",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bijoori-moissanite-uncut-diamond-thick-kada?variant=gid://shopify/ProductVariant/46082711421140",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46229663744212": {
     "product_title": "Motibahaar 3 Line Hair Chain | Gold Pearl Mattel",
@@ -20435,7 +20437,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-10at6.57.05PM.jpg?v=1739818576",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chanali-antique-gold-moissanite-hairchain-mattel?variant=gid://shopify/ProductVariant/46229583986900",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46229671215316": {
     "product_title": "Paridhi Gold Traditonal Mattel | Hair Chain",
@@ -25955,7 +25958,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-01_at_10.47.21_PM.jpg?v=1764655991",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/srilekha-indian-delicate-polki-hand-harness-hathpan?variant=gid://shopify/ProductVariant/46491646492884",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46496818921684": {
     "product_title": "Hoor Si Tu Diamond Kannauti | EarChain",
@@ -27558,7 +27562,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-12at10.24.28AM_1.jpg?v=1757659961",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-moissanite-classic-slim-uncut-diamond-bangles?variant=gid://shopify/ProductVariant/46901109719252",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46901109752020": {
     "product_title": "Polki Moissanite Classic Slim Uncut Diamond Bangles",
@@ -31657,7 +31662,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-10-24at5.25.10PM.jpg?v=1761310662",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/glora-thick-diamond-tennis-bracelet-pressure-setting?variant=gid://shopify/ProductVariant/47157954347220",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47310237499604": {
     "product_title": "Aarti 2 Drop Moissanite Polki Meenakari Jhumka",
@@ -48246,7 +48252,7 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.50.20PM.jpg?v=1785504262",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lopamudra-gold-mint-ruby-traditional-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401061052628",
     "stock": 0
   },
@@ -48302,7 +48308,7 @@
     "price": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.08.44PM_1.jpg?v=1785504567",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gold-gola-emerald-traditonal-indian-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401065345236",
     "stock": 0
   },
@@ -48316,7 +48322,7 @@
     "price": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.08.44PM_1.jpg?v=1785504567",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gold-gola-emerald-traditonal-indian-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401065378004",
     "stock": 0
   },
@@ -48346,6 +48352,62 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.08.44PM_1.jpg?v=1785504567",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/gold-gola-emerald-traditonal-indian-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401065443540",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401073373396": {
+    "product_title": "Ruby Emerald Gold Traditional Delicate Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401073373396",
+    "global_id": "gid://shopify/ProductVariant/48401073373396",
+    "variant_title": "2.2",
+    "sku": "SH011866Z2-BN",
+    "price": 1950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.22.46PM.jpg?v=1785505482",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401073373396",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401073406164": {
+    "product_title": "Ruby Emerald Gold Traditional Delicate Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401073406164",
+    "global_id": "gid://shopify/ProductVariant/48401073406164",
+    "variant_title": "2.4",
+    "sku": "SH011866Z4-BN",
+    "price": 1950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.22.46PM.jpg?v=1785505482",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401073406164",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401073438932": {
+    "product_title": "Ruby Emerald Gold Traditional Delicate Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401073438932",
+    "global_id": "gid://shopify/ProductVariant/48401073438932",
+    "variant_title": "2.6",
+    "sku": "SH011866Z6-BN",
+    "price": 1950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.22.46PM.jpg?v=1785505482",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401073438932",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401073471700": {
+    "product_title": "Ruby Emerald Gold Traditional Delicate Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401073471700",
+    "global_id": "gid://shopify/ProductVariant/48401073471700",
+    "variant_title": "2.8",
+    "sku": "SH011866Z8-BN",
+    "price": 1950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.22.46PM.jpg?v=1785505482",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401073471700",
     "stock": 0
   },
   "gid://shopify/ProductVariant/48006745030868": {
