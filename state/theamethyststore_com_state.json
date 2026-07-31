@@ -172985,5 +172985,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mesmerizing-moissanite-choker-set?variant=gid://shopify/ProductVariant/49480309014755",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480320549091": {
+    "product_title": "Chic & Trendy Moissanite Choker Set",
+    "product_handle": "chic-trendy-moissanite-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/49480320549091",
+    "global_id": "gid://shopify/ProductVariant/49480320549091",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16393",
+    "price": 32500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16393.jpg?v=1785493605",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/chic-trendy-moissanite-choker-set?variant=gid://shopify/ProductVariant/49480320549091",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480321302755": {
+    "product_title": "Dhithikaa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-22",
+    "variant_id": "gid://shopify/ProductVariant/49480321302755",
+    "global_id": "gid://shopify/ProductVariant/49480321302755",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3430-2.6\"",
+    "price": 74200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3430.jpg?v=1785493625",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-22?variant=gid://shopify/ProductVariant/49480321302755",
+    "stock": 3
   }
 }
