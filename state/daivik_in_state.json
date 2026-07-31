@@ -38114,9 +38114,10 @@
     "price": 2099.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A551285-69AE-49C7-8C56-AC5DEB20638D.jpg?v=1761045481",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/copy-three-line-swarovski-pearl-mala?variant=gid://shopify/ProductVariant/47621546508510",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47623747829982": {
     "product_title": "Lakshmi Antique Jhumkas with Mattal",
