@@ -58162,6 +58162,20 @@
     "url": "https://www.theamethyststore.com/products/saisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47056452845795",
     "stock": 2
   },
+  "gid://shopify/ProductVariant/47056454877411": {
+    "product_title": "Vikitha Nagas Jhumkas",
+    "product_handle": "vikitha-nagas-jhumkas",
+    "variant_id": "gid://shopify/ProductVariant/47056454877411",
+    "global_id": "gid://shopify/ProductVariant/47056454877411",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-10078",
+    "price": 37700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10078.jpg?v=1755956455",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/vikitha-nagas-jhumkas?variant=gid://shopify/ProductVariant/47056454877411",
+    "stock": 4
+  },
   "gid://shopify/ProductVariant/47058996953315": {
     "product_title": "Grand Look Kundan Long Necklace",
     "product_handle": "grand-look-kundan-long-necklace",
@@ -85373,9 +85387,9 @@
     "price": 43395.2,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11065.jpg?v=1762586310",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/prishnavya-kundan-earrings?variant=gid://shopify/ProductVariant/47486918754531",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47486922293475": {
@@ -154939,7 +154953,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1345.jpg?v=1783077057",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-7?variant=gid://shopify/ProductVariant/49359481635043",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49359484518627": {
     "product_title": "Yashmikaa Avikam Bracelet",
@@ -163743,12 +163757,12 @@
     "global_id": "gid://shopify/ProductVariant/49415048102115",
     "variant_title": "Default Title",
     "sku": "AMS-104-4666",
-    "price": 6300.0,
+    "price": 8200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4666.jpg?v=1784202278",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-18?variant=gid://shopify/ProductVariant/49415048102115",
-    "stock": 6
+    "stock": 8
   },
   "gid://shopify/ProductVariant/49415049904355": {
     "product_title": "Shrishkaa Diamond Design Pendant",
