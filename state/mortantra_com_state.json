@@ -55529,20 +55529,6 @@
     "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-set-ek-sfset440m?variant=gid://shopify/ProductVariant/47388237955295",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/47388240806111": {
-    "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Jadau Kundan - EK-SFSET441",
-    "product_handle": "multicolor-tribal-necklace-set-ek-sfset441",
-    "variant_id": "gid://shopify/ProductVariant/47388240806111",
-    "global_id": "gid://shopify/ProductVariant/47388240806111",
-    "variant_title": "Multicolor",
-    "sku": "EK-SFSET441",
-    "price": 13300.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET441-2_e20a177b-c67f-4070-8c62-e0f73160ef84.jpg?v=1784814614",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-set-ek-sfset441?variant=gid://shopify/ProductVariant/47388240806111",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47388250734815": {
     "product_title": "Dual-Tone Navratna Tribal Princess Necklace Set with Jadau Kundan - EK-SFSET442N",
     "product_handle": "navratna-tribal-necklace-set-ek-sfset442n",
@@ -60565,7 +60551,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2766M-2.jpg?v=1765279221",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2766?variant=gid://shopify/ProductVariant/48072932131039",
-    "stock": 5690
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/48073139355871": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Pearl Belt and Floral Motif - MS2769",
@@ -60607,7 +60593,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2770MA-2.jpg?v=1772014049",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2770?variant=gid://shopify/ProductVariant/48544294142175",
-    "stock": 9999
+    "stock": 9770
   },
   "gid://shopify/ProductVariant/48073574809823": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Layered Necklace Set with Flower and Moon Motifs - MS2772",
@@ -71047,8 +71033,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2865M-2.jpg?v=1772544762",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2865?variant=gid://shopify/ProductVariant/48562354127071",
-    "stock": 3633,
-    "last_alerted_stock": 3633
+    "stock": 3632,
+    "last_alerted_stock": 3632
   },
   "gid://shopify/ProductVariant/48562354749663": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Floral Motifs - MS2866M",
@@ -84825,7 +84811,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2917M.jpg?v=1779357364",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bridal-necklace-set-ms2917m?variant=gid://shopify/ProductVariant/49286664552671",
-    "stock": 7898
+    "stock": 2035
   },
   "gid://shopify/ProductVariant/49286666584287": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Floral Motifs - MS2918M",
@@ -99274,6 +99260,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/47388240806111": {
+    "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Jadau Kundan - EK-SFSET441",
+    "product_handle": "multicolor-tribal-necklace-set-ek-sfset441",
+    "variant_id": "gid://shopify/ProductVariant/47388240806111",
+    "global_id": "gid://shopify/ProductVariant/47388240806111",
+    "variant_title": "Multicolor",
+    "sku": "EK-SFSET441",
+    "price": 13300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET441-2_e20a177b-c67f-4070-8c62-e0f73160ef84.jpg?v=1784814614",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-set-ek-sfset441?variant=gid://shopify/ProductVariant/47388240806111",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48067686334687": {
     "product_title": "Gold-Plated Jadau Kundan Stud Earrings in Firoza and Multicolor - ME1662",
