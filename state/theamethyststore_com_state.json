@@ -173409,5 +173409,47 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mesmerizing-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49480728445155",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480746696931": {
+    "product_title": "Heritage Kundan Short Necklace",
+    "product_handle": "heritage-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49480746696931",
+    "global_id": "gid://shopify/ProductVariant/49480746696931",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17203",
+    "price": 98500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17203.jpg?v=1785501242",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/heritage-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49480746696931",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480748728547": {
+    "product_title": "Tansiha Avikam Bracelet",
+    "product_handle": "avikam-bracelet-22",
+    "variant_id": "gid://shopify/ProductVariant/49480748728547",
+    "global_id": "gid://shopify/ProductVariant/49480748728547",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1409",
+    "price": 14500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1409.jpg?v=1785501234",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-22?variant=gid://shopify/ProductVariant/49480748728547",
+    "stock": 5
+  },
+  "gid://shopify/ProductVariant/49480755445987": {
+    "product_title": "Inisha Kundan Short Necklace",
+    "product_handle": "inisha-kundan-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49480755445987",
+    "global_id": "gid://shopify/ProductVariant/49480755445987",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17204",
+    "price": 101000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17204.jpg?v=1785501377",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/inisha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49480755445987",
+    "stock": 1
   }
 }
