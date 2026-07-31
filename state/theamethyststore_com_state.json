@@ -173126,5 +173126,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-maatal-7?variant=gid://shopify/ProductVariant/49480389296355",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480396439779": {
+    "product_title": "Charming Kundan Short Necklace",
+    "product_handle": "charming-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49480396439779",
+    "global_id": "gid://shopify/ProductVariant/49480396439779",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17158",
+    "price": 99400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17158.jpg?v=1785495095",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/charming-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49480396439779",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480396996835": {
+    "product_title": "Vritika Kundan Maatal",
+    "product_handle": "kundan-maatal-8",
+    "variant_id": "gid://shopify/ProductVariant/49480396996835",
+    "global_id": "gid://shopify/ProductVariant/49480396996835",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2417",
+    "price": 26650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2417.jpg?v=1785495157",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-maatal-8?variant=gid://shopify/ProductVariant/49480396996835",
+    "stock": 1
   }
 }
