@@ -7965,7 +7965,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0233.jpg?v=1675163242",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/little-flower-nose-pin?variant=gid://shopify/ProductVariant/43691519082723",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/43691519836387": {
     "product_title": "Preetha Nose Pin",
@@ -41607,7 +41608,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9339.jpg?v=1749795589",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/varsha-short-necklace?variant=gid://shopify/ProductVariant/46600737882339",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46600990556387": {
     "product_title": "Cathrine Short Necklace",
@@ -67446,7 +67448,7 @@
     "price": 32932.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1220_1.jpg?v=1758089608",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shalikha-chain-with-earrings?variant=gid://shopify/ProductVariant/47180290916579",
     "stock": 0,
     "last_alerted_stock": 0
