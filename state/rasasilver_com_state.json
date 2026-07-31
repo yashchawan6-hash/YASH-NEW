@@ -4925,9 +4925,10 @@
     "price": 2100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/21e21e2.jpg?v=1749289518",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ritu?variant=gid://shopify/ProductVariant/50443962089769",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50443982635305": {
     "product_title": "Mayu kriti Necklace Set",
@@ -8974,9 +8975,10 @@
     "price": 5700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_428dd59b-fa7a-41a2-b3ce-0074108a1028.jpg?v=1755600338",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/helia-flora-ring?variant=gid://shopify/ProductVariant/52279494115625",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50757385355561": {
     "product_title": "Amethyst Halo Necklace Set",
