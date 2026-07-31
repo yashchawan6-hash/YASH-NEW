@@ -172915,5 +172915,47 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/grandeur-kundan-jhumkas-5?variant=gid://shopify/ProductVariant/49480195801315",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49480235319523": {
+    "product_title": "Admirable Moissanite Choker Set",
+    "product_handle": "admirable-moissanite-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/49480235319523",
+    "global_id": "gid://shopify/ProductVariant/49480235319523",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16384",
+    "price": 56900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16384.jpg?v=1785492846",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/admirable-moissanite-choker-set?variant=gid://shopify/ProductVariant/49480235319523",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480243151075": {
+    "product_title": "Finrikaa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-20",
+    "variant_id": "gid://shopify/ProductVariant/49480243151075",
+    "global_id": "gid://shopify/ProductVariant/49480243151075",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3428-2.4",
+    "price": 52200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3428.jpg?v=1785492892",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-20?variant=gid://shopify/ProductVariant/49480243151075",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49480243183843": {
+    "product_title": "Finrikaa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-20",
+    "variant_id": "gid://shopify/ProductVariant/49480243183843",
+    "global_id": "gid://shopify/ProductVariant/49480243183843",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3428-2.6\"",
+    "price": 53800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3428.jpg?v=1785492892",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-20?variant=gid://shopify/ProductVariant/49480243183843",
+    "stock": 2
   }
 }
