@@ -172831,5 +172831,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/luxurious-kundan-choker-1?variant=gid://shopify/ProductVariant/49479503184099",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480139505891": {
+    "product_title": "Gorgeous Kundan Choker",
+    "product_handle": "gorgeous-kundan-choker-2",
+    "variant_id": "gid://shopify/ProductVariant/49480139505891",
+    "global_id": "gid://shopify/ProductVariant/49480139505891",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17150",
+    "price": 79300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17150.jpg?v=1785492164",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/gorgeous-kundan-choker-2?variant=gid://shopify/ProductVariant/49480139505891",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480141406435": {
+    "product_title": "Attractive Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-18",
+    "variant_id": "gid://shopify/ProductVariant/49480141406435",
+    "global_id": "gid://shopify/ProductVariant/49480141406435",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3420-2.6",
+    "price": 44400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3420.jpg?v=1785492181",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-18?variant=gid://shopify/ProductVariant/49480141406435",
+    "stock": 2
   }
 }
