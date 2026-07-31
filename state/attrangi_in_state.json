@@ -1212,7 +1212,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/blooming-ring-attrangi-2.jpg?v=1739812695",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/blooming-rose-ring?variant=gid://shopify/ProductVariant/43756007424212",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411688665257": {
     "product_title": "MultiStone Jadaau Round Ring",
@@ -8265,9 +8266,10 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.09_PM_1.jpg?v=1764682059",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/5-line-multi-polish-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/43891226673364",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43891246203092": {
     "product_title": "Interlinked Diamond Tennis Bracelet",
