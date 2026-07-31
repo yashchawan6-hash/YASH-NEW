@@ -172814,5 +172814,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/grandeur-kundan-choker-1?variant=gid://shopify/ProductVariant/49479495909603",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479503184099": {
+    "product_title": "Luxurious Kundan Choker",
+    "product_handle": "luxurious-kundan-choker-1",
+    "variant_id": "gid://shopify/ProductVariant/49479503184099",
+    "global_id": "gid://shopify/ProductVariant/49479503184099",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17149",
+    "price": 50100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17149.jpg?v=1785486210",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/luxurious-kundan-choker-1?variant=gid://shopify/ProductVariant/49479503184099",
+    "stock": 1
   }
 }
