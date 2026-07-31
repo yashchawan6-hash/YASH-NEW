@@ -24292,7 +24292,7 @@
     "global_id": "gid://shopify/ProductVariant/45589978022115",
     "variant_title": "2.8\"",
     "sku": "AMS-107-1439-2.8\"",
-    "price": 87031.8,
+    "price": 82720.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1439.jpg?v=1728208803",
     "available_for_sale": false,
@@ -33637,6 +33637,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06775.jpg?v=1748582988",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/floral-green-stone-ring?variant=gid://shopify/ProductVariant/46175441584355",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/46181180342499": {
+    "product_title": "Sujitha Kundan Maatal",
+    "product_handle": "sujitha-kundan-maatal",
+    "variant_id": "gid://shopify/ProductVariant/46181180342499",
+    "global_id": "gid://shopify/ProductVariant/46181180342499",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1388",
+    "price": 36240.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1388.jpg?v=1743070291",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/sujitha-kundan-maatal?variant=gid://shopify/ProductVariant/46181180342499",
     "stock": 1
   },
   "gid://shopify/ProductVariant/46181207048419": {
@@ -91199,9 +91213,9 @@
     "price": 112200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2895-_2.jpg?v=1765605553",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/victorian-pair-bangles-4?variant=gid://shopify/ProductVariant/47732178518243",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47732251066595": {
@@ -120440,7 +120454,7 @@
     "global_id": "gid://shopify/ProductVariant/48498150146275",
     "variant_title": "2.3\"",
     "sku": "AMS-107-3098-2.3\"",
-    "price": 163200.0,
+    "price": 189600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3098.jpg?v=1773920363",
     "available_for_sale": true,
@@ -172209,6 +172223,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3413.jpg?v=1785473580",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-23?variant=gid://shopify/ProductVariant/49479132053731",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479144308963": {
+    "product_title": "Swift Flower Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-13",
+    "variant_id": "gid://shopify/ProductVariant/49479144308963",
+    "global_id": "gid://shopify/ProductVariant/49479144308963",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-3414-2.8\"",
+    "price": 62800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3414.jpg?v=1785473941",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-13?variant=gid://shopify/ProductVariant/49479144308963",
     "stock": 1
   }
 }
