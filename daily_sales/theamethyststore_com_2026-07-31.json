@@ -108,5 +108,25 @@
     "qty_sold": 1,
     "total_value": 13904.0,
     "url": "https://www.theamethyststore.com/products/nagas-pendant-26?variant=gid://shopify/ProductVariant/48868910596323"
+  },
+  {
+    "timestamp": "2026-07-31T16:54:30+05:30",
+    "product_title": "Yamika Short Necklace",
+    "variant_title": "Default Title",
+    "price": 22400.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 22400.0,
+    "url": "https://www.theamethyststore.com/products/yamika-short-necklace?variant=gid://shopify/ProductVariant/46467480060131"
+  },
+  {
+    "timestamp": "2026-07-31T16:54:30+05:30",
+    "product_title": "Yalikha Kundan Ring",
+    "variant_title": "Default Title",
+    "price": 5000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 5000.0,
+    "url": "https://www.theamethyststore.com/products/yalikha-kundan-ring?variant=gid://shopify/ProductVariant/47988867432675"
   }
 ]

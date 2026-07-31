@@ -39899,7 +39899,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9549_9e6d5adf-baef-4f9f-94f9-d38416581928.jpg?v=1764078786",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/yamika-short-necklace?variant=gid://shopify/ProductVariant/46467480060131",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46467605135587": {
     "product_title": "Tanvi Short Necklace",
@@ -106943,9 +106944,10 @@
     "price": 5000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1964.jpg?v=1770356573",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/yalikha-kundan-ring?variant=gid://shopify/ProductVariant/47988867432675",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47989051687139": {
     "product_title": "Kanika Kundan Ring",
@@ -173291,8 +173293,36 @@
     "price": 146900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0933.jpg?v=1785496556",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nagas-oddiyanam-11?variant=gid://shopify/ProductVariant/49480532426979",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480538587363": {
+    "product_title": "Riyanshi Diamond Like Oddiyanam",
+    "product_handle": "diamond-like-oddiyanam-10",
+    "variant_id": "gid://shopify/ProductVariant/49480538587363",
+    "global_id": "gid://shopify/ProductVariant/49480538587363",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0936",
+    "price": 134200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0936.jpg?v=1785496744",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-like-oddiyanam-10?variant=gid://shopify/ProductVariant/49480538587363",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480542060771": {
+    "product_title": "Luxurious Kundan Choker",
+    "product_handle": "luxurious-kundan-choker-2",
+    "variant_id": "gid://shopify/ProductVariant/49480542060771",
+    "global_id": "gid://shopify/ProductVariant/49480542060771",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17159",
+    "price": 75300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17159.jpg?v=1785496837",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/luxurious-kundan-choker-2?variant=gid://shopify/ProductVariant/49480542060771",
     "stock": 0
   }
 }

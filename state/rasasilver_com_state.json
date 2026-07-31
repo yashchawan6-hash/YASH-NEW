@@ -17209,9 +17209,9 @@
     "price": 8500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_1_Oct1057_resized.jpg?v=1759822423",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/danglers-15?variant=gid://shopify/ProductVariant/51274753868073",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51274757079337": {
     "product_title": "Regal Bells Jhumki",
@@ -28611,9 +28611,9 @@
     "price": 5600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK1320_copy_resized_66abc8f5-4cf0-49f3-93c2-efe4532bd2c8.jpg?v=1777373501",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sattva-buggadi?variant=gid://shopify/ProductVariant/51495067943209",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51495078592809": {
     "product_title": "Komal Pear Buggadi",
@@ -46543,9 +46543,9 @@
     "price": 14760.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0142copy_e6c8c4e8-9283-4e51-bd53-04b4e0027bc0.jpg?v=1770099582",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vintage-antique-danglers?variant=gid://shopify/ProductVariant/52527443181865",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52527463170345": {
     "product_title": "Antique Flower Danglers",
