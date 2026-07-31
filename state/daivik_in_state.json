@@ -46505,10 +46505,10 @@
     "price": 9999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5559BE28-C131-43FE-95A7-2AD11F666379.jpg?v=1781190679",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/premium-traditional-pure-kemp-brass-phoenix-long-necklace-with-lakshmi-coin-drops?variant=gid://shopify/ProductVariant/48328321532126",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48332854886622": {
     "product_title": "Kemp Flower Rice Pearl Hair Clip",
