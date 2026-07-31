@@ -62458,7 +62458,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1847.jpg?v=1756712593",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/viveka-kundan-maangtikka?variant=gid://shopify/ProductVariant/47081009873123",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47081155264739": {
@@ -94319,12 +94319,12 @@
     "global_id": "gid://shopify/ProductVariant/47793463787747",
     "variant_title": "Default Title",
     "sku": "AMS-109-1695",
-    "price": 11900.0,
+    "price": 12500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1695.jpg?v=1767605225",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/divine-glow-nagas-tikka?variant=gid://shopify/ProductVariant/47793463787747",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47793464574179": {
     "product_title": "Tanusha Nagas Short Necklace",
@@ -115822,6 +115822,20 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/glittering-diamond-stud?variant=gid://shopify/ProductVariant/48294517014755",
     "stock": 4
+  },
+  "gid://shopify/ProductVariant/48294535495907": {
+    "product_title": "Elegant Charm Nagas Tikka",
+    "product_handle": "elegant-charm-nagas-tikka",
+    "variant_id": "gid://shopify/ProductVariant/48294535495907",
+    "global_id": "gid://shopify/ProductVariant/48294535495907",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2172",
+    "price": 16100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2172-_4.jpg?v=1771592434",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/elegant-charm-nagas-tikka?variant=gid://shopify/ProductVariant/48294535495907",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48294542377187": {
     "product_title": "Nadhiya Nagas Tikka",
@@ -172181,6 +172195,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3412.jpg?v=1785473342",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-22?variant=gid://shopify/ProductVariant/49479124812003",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479132053731": {
+    "product_title": "Zinthara Kundan Pair Bangle",
+    "product_handle": "kundan-pair-bangle-23",
+    "variant_id": "gid://shopify/ProductVariant/49479132053731",
+    "global_id": "gid://shopify/ProductVariant/49479132053731",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3413-2.6\"",
+    "price": 27600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3413.jpg?v=1785473580",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-23?variant=gid://shopify/ProductVariant/49479132053731",
     "stock": 1
   }
 }
