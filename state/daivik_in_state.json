@@ -26083,10 +26083,10 @@
     "price": 699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BCD5492-A557-4AD2-B765-B7F0B3AF0179.jpg?v=1780728443",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-hasli-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/46285166837982",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46287341322462": {
     "product_title": "Premium AD Jaipuri Stones Necklace with Earrings",
@@ -47289,8 +47289,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6A18C555-AF72-4C73-B410-F4E8C48D53A0.jpg?v=1782993326",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/elakkathali-ruby-choker-with-earrings?variant=gid://shopify/ProductVariant/48403799408862",
-    "stock": 44,
-    "last_alerted_stock": 44
+    "stock": 43,
+    "last_alerted_stock": 43
   },
   "gid://shopify/ProductVariant/48404578631902": {
     "product_title": "CZ Kids/Adult Floral Earcuff Earrings",

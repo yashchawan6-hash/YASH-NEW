@@ -160930,9 +160930,10 @@
     "price": 10300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16600.jpg?v=1783685289",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/hasli-with-pendant-set-2?variant=gid://shopify/ProductVariant/49390529020131",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49390617133283": {
     "product_title": "Briziyaa Hasli with Pendant Set",
