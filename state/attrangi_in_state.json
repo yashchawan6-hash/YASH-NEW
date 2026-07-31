@@ -2087,7 +2087,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/5-layer-pearl-hair-chain-attrangi-1.jpg?v=1739813048",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/5-layer-pearl-hair-chain?variant=gid://shopify/ProductVariant/46229671084244",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43311038595284": {
     "product_title": "Polki Ear Chain",
@@ -37339,7 +37340,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-11at6.14.12PM.jpg?v=1773302042",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kiki-polki-moissanite-antique-gold-necklace-choker-set?variant=gid://shopify/ProductVariant/47644897149140",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/47644923134164": {
     "product_title": "Chandra Moissanite Polki Delicate Necklace Set",
@@ -41546,10 +41547,10 @@
     "price": 9850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at1.53.12PM.jpg?v=1776068699",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/janvi-polki-moissanite-ruby-green-choker-set?variant=gid://shopify/ProductVariant/47786496950484",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47786918674644": {
     "product_title": "Renita silver Gold CNC Bangle Set | Daily Wear",
