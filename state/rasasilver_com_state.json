@@ -6699,7 +6699,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383046441",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50635383079209": {
     "product_title": "Phool Patra Ring",
@@ -39108,9 +39109,9 @@
     "price": 8500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0017copy.jpg?v=1766994433",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/petaline-victorian-ring?variant=gid://shopify/ProductVariant/52333627146537",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52333634322729": {
     "product_title": "Eden\u2019s Pear Victorian Ring",
@@ -47209,7 +47210,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424123177",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52535424155945": {
@@ -47224,7 +47225,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424155945",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52535462461737": {
@@ -48707,9 +48708,9 @@
     "price": 20160.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2435_resized.jpg?v=1770477158",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pear-of-fire-victorian-kanti?variant=gid://shopify/ProductVariant/52554371334441",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52554382475561": {
     "product_title": "Pear Leaf Victorian Kanti",

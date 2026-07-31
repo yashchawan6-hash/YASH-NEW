@@ -124496,6 +124496,20 @@
     "url": "https://www.theamethyststore.com/products/long-necklace-27?variant=gid://shopify/ProductVariant/48801922285795",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/48802837856483": {
+    "product_title": "Kashnika Short Necklace Set",
+    "product_handle": "short-necklace-set-45",
+    "variant_id": "gid://shopify/ProductVariant/48802837856483",
+    "global_id": "gid://shopify/ProductVariant/48802837856483",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15314",
+    "price": 41100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15314.jpg?v=1776162384",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/short-necklace-set-45?variant=gid://shopify/ProductVariant/48802837856483",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/48804263297251": {
     "product_title": "Laasya Nagas Short Necklace",
     "product_handle": "nagas-short-necklace-20",
@@ -126372,6 +126386,20 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/short-necklace-set-51?variant=gid://shopify/ProductVariant/48871807615203",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/48871808008419": {
+    "product_title": "Aarna Short Necklace Set",
+    "product_handle": "aarna-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/48871808008419",
+    "global_id": "gid://shopify/ProductVariant/48871808008419",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-15435",
+    "price": 26200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15435.jpg?v=1777115427",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/aarna-short-necklace-set?variant=gid://shopify/ProductVariant/48871808008419",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48871822688483": {
     "product_title": "Luxurious Short Necklace Set",
@@ -172308,6 +172336,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3415.jpg?v=1785474247",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-copy?variant=gid://shopify/ProductVariant/49479147225315",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479150469347": {
+    "product_title": "Ravishing Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-14",
+    "variant_id": "gid://shopify/ProductVariant/49479150469347",
+    "global_id": "gid://shopify/ProductVariant/49479150469347",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3416-2.4\"",
+    "price": 42400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3416_d29e5c49-8968-4dc0-bdfc-62c133d0bc2a.jpg?v=1785477801",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-14?variant=gid://shopify/ProductVariant/49479150469347",
     "stock": 1
   }
 }

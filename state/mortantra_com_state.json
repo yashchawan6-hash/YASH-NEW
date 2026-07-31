@@ -13663,7 +13663,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHP218M_1.jpg?v=1717136513",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mhp218m-multicolor-gold-plated-jadau-kundan-hathphool?variant=gid://shopify/ProductVariant/45900077367519",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/45900137398495": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Haath Phool with Floral and Crescent Motifs - MHP221M",
@@ -77061,34 +77062,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-hair-accessories-mha173?variant=gid://shopify/ProductVariant/48809891430623",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/48809929408735": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Ornament with Flower, Moon and Peacock Motifs - MHA211",
-    "product_handle": "gold-plated-jadau-kundan-hair-accessories-mha211",
-    "variant_id": "gid://shopify/ProductVariant/48809929408735",
-    "global_id": "gid://shopify/ProductVariant/48809929408735",
-    "variant_title": "Multicolor",
-    "sku": "MHA211MA",
-    "price": 24500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA211MA-3_3fbbc1c6-acc5-4d38-8b6d-011b04efab26.jpg?v=1775464643",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-hair-accessories-mha211?variant=gid://shopify/ProductVariant/48809929408735",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/48822252896479": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Ornament with Flower, Moon and Peacock Motifs - MHA211",
-    "product_handle": "gold-plated-jadau-kundan-hair-accessories-mha211",
-    "variant_id": "gid://shopify/ProductVariant/48822252896479",
-    "global_id": "gid://shopify/ProductVariant/48822252896479",
-    "variant_title": "Multicolor B",
-    "sku": "MHA211M",
-    "price": 24500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA211M.jpg?v=1775464643",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-hair-accessories-mha211?variant=gid://shopify/ProductVariant/48822252896479",
-    "stock": 9999
-  },
   "gid://shopify/ProductVariant/48822126903519": {
     "product_title": "Green Color Silver Plated Faux Diamond Bracelet (1 Piece) with Diamante - CZBRAC187GR",
     "product_handle": "green-color-silver-plated-faux-diamond-bracelet-1-piece-czbrac187gr",
@@ -84684,7 +84657,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2940Y.jpg?v=1779101286",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2940?variant=gid://shopify/ProductVariant/49217613267167",
-    "stock": 3648,
+    "stock": 2930,
     "last_alerted_stock": 3648
   },
   "gid://shopify/ProductVariant/50087478755551": {
@@ -99703,6 +99676,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2973M-2.jpg?v=1785065804",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
+    "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48809929408735": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Ornament with Flower, Moon and Peacock Motifs - MHA211",
+    "product_handle": "gold-plated-jadau-kundan-hair-accessories-mha211",
+    "variant_id": "gid://shopify/ProductVariant/48809929408735",
+    "global_id": "gid://shopify/ProductVariant/48809929408735",
+    "variant_title": "Multicolor",
+    "sku": "MHA211MA",
+    "price": 24500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA211MA-3_3fbbc1c6-acc5-4d38-8b6d-011b04efab26.jpg?v=1775464643",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-hair-accessories-mha211?variant=gid://shopify/ProductVariant/48809929408735",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/48822252896479": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Ornament with Flower, Moon and Peacock Motifs - MHA211",
+    "product_handle": "gold-plated-jadau-kundan-hair-accessories-mha211",
+    "variant_id": "gid://shopify/ProductVariant/48822252896479",
+    "global_id": "gid://shopify/ProductVariant/48822252896479",
+    "variant_title": "Multicolor B",
+    "sku": "MHA211M",
+    "price": 24500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA211M.jpg?v=1775464643",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-hair-accessories-mha211?variant=gid://shopify/ProductVariant/48822252896479",
     "stock": 9999
   },
   "gid://shopify/ProductVariant/46071616209119": {
