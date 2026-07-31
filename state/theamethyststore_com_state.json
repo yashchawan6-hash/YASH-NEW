@@ -40838,9 +40838,10 @@
     "price": 23790.68,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9620.jpg?v=1749455511",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/mawrina-short-necklace?variant=gid://shopify/ProductVariant/46487452647651",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46487860478179": {
     "product_title": "Calista Short Necklace",
@@ -99107,7 +99108,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11775.jpg?v=1768473429",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/srisha-stone-studs-4?variant=gid://shopify/ProductVariant/47831387341027",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47831398088931": {
     "product_title": "Girisha Stone Studs",
@@ -117528,7 +117530,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14882-_2.jpg?v=1772260239",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nithara-stone-short-necklace?variant=gid://shopify/ProductVariant/48321627717859",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48321640464611": {
     "product_title": "Arnika Reversible Short Necklace",
@@ -120734,9 +120737,10 @@
     "price": 45310.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13674.jpg?v=1774073378",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/aadhira-nagas-short-necklace-set-1?variant=gid://shopify/ProductVariant/48526354317539",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48526364573923": {
     "product_title": "Ruhinka Long Necklace Set",
@@ -140962,9 +140966,10 @@
     "price": 14150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4182.jpg?v=1781246671",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/aanya-stone-pendant?variant=gid://shopify/ProductVariant/49252036116707",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49252043620579": {
     "product_title": "Charvi Stone Pendant",
@@ -155037,7 +155042,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1342.jpg?v=1783076720",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-5?variant=gid://shopify/ProductVariant/49359457190115",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49359459090659": {
     "product_title": "Sparkling Mugappu Chain",
