@@ -18811,9 +18811,9 @@
     "price": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauearring2750.jpg?v=1766144556",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-earcuffs-copy?variant=gid://shopify/ProductVariant/52445382672684",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52445385949484": {
     "product_title": "Jadau earring",

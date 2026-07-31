@@ -173183,6 +173183,20 @@
     "url": "https://www.theamethyststore.com/products/long-necklace-25?variant=gid://shopify/ProductVariant/49480406466787",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/49480428978403": {
+    "product_title": "Admirable Beads Long Necklace Set",
+    "product_handle": "admirable-beads-long-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49480428978403",
+    "global_id": "gid://shopify/ProductVariant/49480428978403",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17132",
+    "price": 137700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17132.jpg?v=1785495674",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/admirable-beads-long-necklace-set?variant=gid://shopify/ProductVariant/49480428978403",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/49480430813411": {
     "product_title": "Farisha Avikam Maangtikka",
     "product_handle": "avikam-maangtikka-8",
@@ -173196,5 +173210,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-maangtikka-8?variant=gid://shopify/ProductVariant/49480430813411",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/49480452571363": {
+    "product_title": "Nethra Avikam Maangtikka",
+    "product_handle": "avikam-maangtikka-9",
+    "variant_id": "gid://shopify/ProductVariant/49480452571363",
+    "global_id": "gid://shopify/ProductVariant/49480452571363",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2421",
+    "price": 11500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2421.jpg?v=1785495829",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-maangtikka-9?variant=gid://shopify/ProductVariant/49480452571363",
+    "stock": 5
+  },
+  "gid://shopify/ProductVariant/49480462139619": {
+    "product_title": "Pranitha Beads Long Necklace Set",
+    "product_handle": "pranitha-beads-long-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49480462139619",
+    "global_id": "gid://shopify/ProductVariant/49480462139619",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17133",
+    "price": 127900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17133.jpg?v=1785495908",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/pranitha-beads-long-necklace-set?variant=gid://shopify/ProductVariant/49480462139619",
+    "stock": 1
   }
 }
