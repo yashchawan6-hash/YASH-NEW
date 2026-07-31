@@ -89932,7 +89932,7 @@
     "price": 26866.4,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11388.jpg?v=1765023815",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/versatile-chandubaali-earrings?variant=gid://shopify/ProductVariant/47709155459299",
     "stock": 0,
     "last_alerted_stock": 0
@@ -173511,5 +173511,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-25?variant=gid://shopify/ProductVariant/49480780218595",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480858042595": {
+    "product_title": "Luciana Avikam Bracelet",
+    "product_handle": "avikam-bracelet-26",
+    "variant_id": "gid://shopify/ProductVariant/49480858042595",
+    "global_id": "gid://shopify/ProductVariant/49480858042595",
+    "variant_title": "Default Title",
+    "sku": "AMS-103-1436",
+    "price": 15000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1436.jpg?v=1785504240",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-bracelet-26?variant=gid://shopify/ProductVariant/49480858042595",
+    "stock": 4
   }
 }

@@ -24645,7 +24645,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/simple-gold-polki-haar-attrangi-3_1700a410-35d5-4328-bbc7-5bcbc224c048.jpg?v=1749411391",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/simple-gold-polki-haar-1?variant=gid://shopify/ProductVariant/46351845327060",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46351890120916": {
     "product_title": "Kamali Dainty Choker Set",
@@ -27541,7 +27542,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-12at10.12.27AM.jpg?v=1757656397",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mint-pink-polki-moissanite-russian-emerald-choker-set?variant=gid://shopify/ProductVariant/46901028290772",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46901109719252": {
     "product_title": "Polki Moissanite Classic Slim Uncut Diamond Bangles",
@@ -30769,7 +30771,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770949844",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47027770982612": {
     "product_title": "Rosy Moissanite Pacheli Style Thin Polki Bangle | Openable",
@@ -41444,7 +41447,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-09at1.06.22PM.jpg?v=1775737959",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-coloured-multi-solitaire-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47777202503892",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47780186325204": {
     "product_title": "Snowflake Emerald Stud",
@@ -45671,9 +45675,10 @@
     "price": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at5.23.15PM_1.jpg?v=1784290669",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/do-mor-indian-meenakari-polki-moissanite-bracelet-kada?variant=gid://shopify/ProductVariant/48318492868820",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48319110283476": {
     "product_title": "Do Mor Indian Meenakari Polki Moissanite Bracelet | Kada",
@@ -48179,7 +48184,7 @@
     "product_handle": "haathi-saathi-gold-rajwada-indian-kada-sone-pe-suhaga",
     "variant_id": "gid://shopify/ProductVariant/48401058136276",
     "global_id": "gid://shopify/ProductVariant/48401058136276",
-    "variant_title": "2.2",
+    "variant_title": "2.2 / Single",
     "sku": "SH52526Z2-BN",
     "price": 2950.0,
     "currency": "INR",
@@ -48193,7 +48198,7 @@
     "product_handle": "haathi-saathi-gold-rajwada-indian-kada-sone-pe-suhaga",
     "variant_id": "gid://shopify/ProductVariant/48401058169044",
     "global_id": "gid://shopify/ProductVariant/48401058169044",
-    "variant_title": "2.4",
+    "variant_title": "2.4 / Single",
     "sku": "SH52526Z4-BN",
     "price": 2950.0,
     "currency": "INR",
@@ -48207,7 +48212,7 @@
     "product_handle": "haathi-saathi-gold-rajwada-indian-kada-sone-pe-suhaga",
     "variant_id": "gid://shopify/ProductVariant/48401058201812",
     "global_id": "gid://shopify/ProductVariant/48401058201812",
-    "variant_title": "2.6",
+    "variant_title": "2.6 / Single",
     "sku": "SH52526Z6-BN",
     "price": 2950.0,
     "currency": "INR",
@@ -48221,7 +48226,7 @@
     "product_handle": "haathi-saathi-gold-rajwada-indian-kada-sone-pe-suhaga",
     "variant_id": "gid://shopify/ProductVariant/48401058234580",
     "global_id": "gid://shopify/ProductVariant/48401058234580",
-    "variant_title": "2.8",
+    "variant_title": "2.8 / Single",
     "sku": "SH52526Z8-BN",
     "price": 2950.0,
     "currency": "INR",
