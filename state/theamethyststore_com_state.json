@@ -172547,5 +172547,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/dhekshikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49479185629411",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479186055395": {
+    "product_title": "Stunning Kundan Short Necklace",
+    "product_handle": "stunning-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49479186055395",
+    "global_id": "gid://shopify/ProductVariant/49479186055395",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17189",
+    "price": 36810.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17189.jpg?v=1785479553",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stunning-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49479186055395",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479191462115": {
+    "product_title": "Fabulous Kundan Short Necklace",
+    "product_handle": "fabulous-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49479191462115",
+    "global_id": "gid://shopify/ProductVariant/49479191462115",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17190",
+    "price": 24340.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17190.jpg?v=1785479709",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/fabulous-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49479191462115",
+    "stock": 2
   }
 }
