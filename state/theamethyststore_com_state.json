@@ -173238,5 +173238,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/pranitha-beads-long-necklace-set?variant=gid://shopify/ProductVariant/49480462139619",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480487207139": {
+    "product_title": "Anvitha Diamond Design Hair Maatal",
+    "product_handle": "diamond-design-hair-maatal-3",
+    "variant_id": "gid://shopify/ProductVariant/49480487207139",
+    "global_id": "gid://shopify/ProductVariant/49480487207139",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2420",
+    "price": 33500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2420.jpg?v=1785496075",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-hair-maatal-3?variant=gid://shopify/ProductVariant/49480487207139",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/49480492286179": {
+    "product_title": "Charming Kundan Long Necklace",
+    "product_handle": "kundan-long-necklace-13",
+    "variant_id": "gid://shopify/ProductVariant/49480492286179",
+    "global_id": "gid://shopify/ProductVariant/49480492286179",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17136",
+    "price": 108600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17136.jpg?v=1785496110",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-long-necklace-13?variant=gid://shopify/ProductVariant/49480492286179",
+    "stock": 1
   }
 }

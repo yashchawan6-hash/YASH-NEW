@@ -15444,7 +15444,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BFFDAB1C-F725-4707-B32A-B4A504AF4C09.jpg?v=1704467125",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-pastel-green-premium-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/44648110260446",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44652019024094": {
     "product_title": "Matte Finish Lakshmi long haram with studs",
@@ -31090,10 +31091,10 @@
     "price": 699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2706.heic?v=1762238741",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/invisible-circle-ad-chain-with-earrings?variant=gid://shopify/ProductVariant/47653875679454",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47653875712222": {
     "product_title": "Invisible Circle AD Chain with Earrings",
