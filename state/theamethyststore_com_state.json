@@ -172505,5 +172505,47 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shinning-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49479179632867",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479183466723": {
+    "product_title": "Traditional Kundan Short Necklace",
+    "product_handle": "traditional-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49479183466723",
+    "global_id": "gid://shopify/ProductVariant/49479183466723",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17183",
+    "price": 36830.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17183.jpg?v=1785479160",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/traditional-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49479183466723",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479183892707": {
+    "product_title": "Kenisha Kundan Short Necklace",
+    "product_handle": "kenisha-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49479183892707",
+    "global_id": "gid://shopify/ProductVariant/49479183892707",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17184",
+    "price": 37360.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17184.jpg?v=1785479305",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kenisha-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49479183892707",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479185629411": {
+    "product_title": "Dhekshikha Kundan Short Necklace",
+    "product_handle": "dhekshikha-kundan-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49479185629411",
+    "global_id": "gid://shopify/ProductVariant/49479185629411",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17188",
+    "price": 36350.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17188.jpg?v=1785479433",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/dhekshikha-kundan-short-necklace?variant=gid://shopify/ProductVariant/49479185629411",
+    "stock": 1
   }
 }
