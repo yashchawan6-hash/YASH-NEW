@@ -348,5 +348,25 @@
     "qty_sold": 1,
     "total_value": 1099.0,
     "url": "https://www.daivik.in/products/1-4?variant=gid://shopify/ProductVariant/42679325982942"
+  },
+  {
+    "timestamp": "2026-07-31T09:06:23+05:30",
+    "product_title": "Cluster Pearl Necklace with earrings ( Price for each)",
+    "variant_title": "Golden Pearl",
+    "price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1499.0,
+    "url": "https://www.daivik.in/products/a-2?variant=gid://shopify/ProductVariant/44437456486622"
+  },
+  {
+    "timestamp": "2026-07-31T09:06:23+05:30",
+    "product_title": "Kemp Lotus Ghungroo beads Adigai with Jhumkas",
+    "variant_title": "Default Title",
+    "price": 1399.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1399.0,
+    "url": "https://www.daivik.in/products/kemp-lotus-ghungroo-beads-adigai-with-jhumkas?variant=gid://shopify/ProductVariant/45453369540830"
   }
 ]
