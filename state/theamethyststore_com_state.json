@@ -154118,9 +154118,10 @@
     "price": 8184.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16374.jpg?v=1782822085",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/3d-spl-short-necklace-set-4?variant=gid://shopify/ProductVariant/49334631432419",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49334633332963": {
     "product_title": "Stylish Avikam Short Necklace Set",
@@ -173337,6 +173338,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0937.jpg?v=1785496921",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-like-oddiyanam-11?variant=gid://shopify/ProductVariant/49480544714979",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480585871587": {
+    "product_title": "Nithikha Kundan Choker",
+    "product_handle": "nithikha-kundan-choker",
+    "variant_id": "gid://shopify/ProductVariant/49480585871587",
+    "global_id": "gid://shopify/ProductVariant/49480585871587",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17202",
+    "price": 92000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17202.jpg?v=1785497902",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/nithikha-kundan-choker?variant=gid://shopify/ProductVariant/49480585871587",
     "stock": 1
   },
   "gid://shopify/ProductVariant/49480596357347": {

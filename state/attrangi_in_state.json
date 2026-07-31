@@ -12660,7 +12660,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/geeta-diamond-studded-cnc-gold-plated-bangle-attrangi.jpg?v=1739816124",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/geeta-diamond-studded-cnc-gold-plated-bangle?variant=gid://shopify/ProductVariant/44754376458452",
-    "stock": 8
+    "stock": 10
   },
   "gid://shopify/ProductVariant/44754376491220": {
     "product_title": "Geeta Diamond Studded CNC Gold Plated Bangle Set",
@@ -12674,7 +12674,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/geeta-diamond-studded-cnc-gold-plated-bangle-attrangi.jpg?v=1739816124",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/geeta-diamond-studded-cnc-gold-plated-bangle?variant=gid://shopify/ProductVariant/44754376491220",
-    "stock": 8
+    "stock": 10
   },
   "gid://shopify/ProductVariant/44727646650580": {
     "product_title": "Ritu Panchi Navartna Gold Hasli",
@@ -35480,9 +35480,9 @@
     "price": 2850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-19_at_6.52.20_PM.jpg?v=1773927400",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/emerald-cascade-diamond-climber-earcuff?variant=gid://shopify/ProductVariant/47467358748884",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47467358781652": {
     "product_title": "Emerald Cascade Diamond Climber / Earcuff",
@@ -36632,7 +36632,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at1.24.43PM_198d5168-7e9b-4d36-8982-4e1087736589.jpg?v=1771684303",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/garuda-gold-polki-emerlad-ruby-brooch-unisex?variant=gid://shopify/ProductVariant/47579165393108",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47579185578196": {
     "product_title": "Maria Diamond Earrings with Big Kaanchains | Kannauti",
