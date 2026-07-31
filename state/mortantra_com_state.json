@@ -2941,7 +2941,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/TJ-E36.jpg?v=1657710891",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/tj-e36-thappa-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/43301644009695",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43301644370143": {
     "product_title": "Multicolor Gold-Plated Thappa Jadau Kundan Chandbalis with Pearl Drops - TJ-E36M",
@@ -9343,8 +9344,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1164Wcopy_1c30dc90-c9c4-480f-8677-61d3f4aafdde.jpg?v=1709294083",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/me1164w-multicolor-gold-plated-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/45001105866975",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45001347432671": {
     "product_title": "Green Color Gold Plated Moissanite Earrings - MO-EAR22",
@@ -40226,7 +40227,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-EAR10.jpg?v=1747904652",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-victorian-earrings-vc-ear10?variant=gid://shopify/ProductVariant/47000173084895",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47000175214815": {
     "product_title": "Victorian Earrings with Kundan - VC-EAR11",
@@ -73081,7 +73083,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZEAR633GR.jpg?v=1774333732",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-earrings-czear633?variant=gid://shopify/ProductVariant/48676591141087",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/48676625678559": {
     "product_title": "Gold Plated Faux Diamond Earrings with Diamante - CZEAR633",
@@ -73095,7 +73098,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZEAR633LP.jpg?v=1774333732",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-earrings-czear633?variant=gid://shopify/ProductVariant/48676625678559",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/48676640358623": {
     "product_title": "Silver Plated Faux Diamond Necklace Set with Diamante - CZSET426",
@@ -79345,9 +79349,9 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZEAR628.jpg?v=1776145192",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-earrings-czear628?variant=gid://shopify/ProductVariant/48905728065759",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48905822437599": {
     "product_title": "Pink Gold-Plated Jadau Kundan Passa with Floral and Moon Motif - MP30WPB",
@@ -95033,9 +95037,9 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MN695LGR.jpg?v=1784194182",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-mala-mn695?variant=gid://shopify/ProductVariant/50571327406303",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50571327504607": {
     "product_title": "Gold-Plated Jadau Kundan Necklace/Mala - MN695",
