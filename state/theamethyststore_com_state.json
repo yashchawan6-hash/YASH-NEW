@@ -172772,5 +172772,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/grand-look-avikam-choker-set-1?variant=gid://shopify/ProductVariant/49479421231331",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/49479427653859": {
+    "product_title": "Pretty Look Avikam Choker Set",
+    "product_handle": "avikam-choker-set-3",
+    "variant_id": "gid://shopify/ProductVariant/49479427653859",
+    "global_id": "gid://shopify/ProductVariant/49479427653859",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17165",
+    "price": 31600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17165.jpg?v=1785484566",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-choker-set-3?variant=gid://shopify/ProductVariant/49479427653859",
+    "stock": 3
   }
 }
