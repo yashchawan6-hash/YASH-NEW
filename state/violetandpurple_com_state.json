@@ -3215,9 +3215,10 @@
     "price": 575.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/8.1_0a003134-9f35-4ebf-8468-ce1d4fe46811.jpg?v=1765197323",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.violetandpurple.com/products/designer-matt-bangles?variant=gid://shopify/ProductVariant/48145843487013",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48145843519781": {
     "product_title": "Designer Matt Bangles",

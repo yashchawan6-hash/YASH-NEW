@@ -20184,7 +20184,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_7c06fd76-abef-457a-897b-363d1a19d5d6.jpg?v=1726841699",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-flower-pearl-combo?variant=gid://shopify/ProductVariant/45903847719134",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45903852241118": {
     "product_title": "Simple Flower Pearl Necklace with Earrings",
@@ -30579,7 +30580,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_fcdcddfc-71c9-4d5f-a449-d911656f23d2.jpg?v=1752387061",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/gj-polish-designer-bracelets-price-for-each?variant=gid://shopify/ProductVariant/47075079389406",
-    "stock": 24
+    "stock": 23,
+    "last_alerted_stock": 23
   },
   "gid://shopify/ProductVariant/47075079422174": {
     "product_title": "GJ Polish Designer Bracelets (Price for Each)",
@@ -30831,7 +30833,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3D819B82-9B9B-4BD2-A04D-F061C86991F1.jpg?v=1752658366",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/designer-black-beads-bracelets-with-golden-beads?variant=gid://shopify/ProductVariant/47082103242974",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47082104258782": {
     "product_title": "Designer Black Beads Bracelets",
@@ -31141,7 +31144,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0FA4A463-9185-4FC3-B961-3396687E8270.jpg?v=1752775998",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-anklets-designs-in-4-styles-price-for-each?variant=gid://shopify/ProductVariant/47088044835038",
-    "stock": 21
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/47088044867806": {
     "product_title": "Simple Anklets Designs in 4 Styles (Price for Each)",
@@ -36821,9 +36825,9 @@
     "price": 1299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0354.heic?v=1758199815",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/elegant-bloomed-jasmine-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601154782",
-    "stock": 0
+    "stock": 56
   },
   "gid://shopify/ProductVariant/47542601187550": {
     "product_title": "Elegant Bloomed Jasmine Flower Artificial Gajra",
@@ -36963,8 +36967,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
-    "stock": 15,
-    "last_alerted_stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47542601547998": {
     "product_title": "Elegant Jasmine/Mullai Flower Artificial Gajra",
@@ -47457,8 +47461,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0580.jpg?v=1783509036",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/premium-ad-curve-design-kada?variant=gid://shopify/ProductVariant/48415688229086",
-    "stock": 28,
-    "last_alerted_stock": 28
+    "stock": 27,
+    "last_alerted_stock": 27
   },
   "gid://shopify/ProductVariant/48415689113822": {
     "product_title": "Premium AD & Pearl Kada",
