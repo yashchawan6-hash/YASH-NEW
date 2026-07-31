@@ -6409,21 +6409,6 @@
     "url": "https://www.mortantra.com/products/mr-brac78m-multicolor-gold-plated-mishr-bracelet?variant=gid://shopify/ProductVariant/44511378669791",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/44511424446687": {
-    "product_title": "Multicolor Gold-Plated Mishr Gaadi Bracelet with Jadau Kundan Floral Setting - MR-BRAC138M",
-    "product_handle": "mr-brac138m-multicolor-gold-plated-mishr-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/44511424446687",
-    "global_id": "gid://shopify/ProductVariant/44511424446687",
-    "variant_title": "Default Title",
-    "sku": "MR-BRAC138M",
-    "price": 2450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC138M.jpg?v=1719726335",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/mr-brac138m-multicolor-gold-plated-mishr-bracelet?variant=gid://shopify/ProductVariant/44511424446687",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/47044124377311": {
     "product_title": "Multicolor Gold-Plated Mishr Gaadi Bracelet with Kundan Floral Medallion - MR-BRAC139",
     "product_handle": "mr-brac139m-multicolor-gold-plated-mishr-bracelet",
@@ -6434,9 +6419,10 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC139M.jpg?v=1719726436",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/mr-brac139m-multicolor-gold-plated-mishr-bracelet?variant=gid://shopify/ProductVariant/47044124377311",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47044124901599": {
     "product_title": "Multicolor Gold-Plated Mishr Gaadi Bracelet with Kundan Floral Medallion - MR-BRAC139",
@@ -10936,6 +10922,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/tr-rng21-white-color-gold-plated-tver-ring?variant=gid://shopify/ProductVariant/45567301189855",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/45567309938911": {
+    "product_title": "White Color Gold Plated Ring with Kundan - TK-RNG30",
+    "product_handle": "tk-rng30-white-color-gold-plated-tver-ring",
+    "variant_id": "gid://shopify/ProductVariant/45567309938911",
+    "global_id": "gid://shopify/ProductVariant/45567309938911",
+    "variant_title": "Default Title",
+    "sku": "TK-RNG30",
+    "price": 1400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TK-RNG30_1.jpg?v=1748943016",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/tk-rng30-white-color-gold-plated-tver-ring?variant=gid://shopify/ProductVariant/45567309938911",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45567316295903": {
     "product_title": "White Color Gold Plated Ring with Kundan - TK-RNG13",
@@ -99731,6 +99731,21 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/44511424446687": {
+    "product_title": "Multicolor Gold-Plated Mishr Gaadi Bracelet with Jadau Kundan Floral Setting - MR-BRAC138M",
+    "product_handle": "mr-brac138m-multicolor-gold-plated-mishr-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/44511424446687",
+    "global_id": "gid://shopify/ProductVariant/44511424446687",
+    "variant_title": "Default Title",
+    "sku": "MR-BRAC138M",
+    "price": 2450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC138M.jpg?v=1719726335",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mr-brac138m-multicolor-gold-plated-mishr-bracelet?variant=gid://shopify/ProductVariant/44511424446687",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46670697332959": {
     "product_title": "Green Color Gold Plated Contemporary Ring with Semiprecious - CC-RNG25",
