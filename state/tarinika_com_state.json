@@ -684,7 +684,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FNX0420BMP.jpg?v=1762530237",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/zeel-antique-necklace-set?variant=gid://shopify/ProductVariant/41478874923074",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/13567909593154": {
     "product_title": "Mara Antique Necklace Set",
@@ -25033,10 +25034,10 @@
     "price": 39.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0007X.jpg?v=1779964134",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43764316110914": {
     "product_title": "Simmi Antique Maang Tikka",
@@ -25428,7 +25429,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T052.png?v=1784272711",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sophia-cz-necklace-set?variant=gid://shopify/ProductVariant/44136930279490",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44136930312258": {
     "product_title": "Rajeshwari Antique Maang Tikka",
