@@ -7815,9 +7815,10 @@
     "price": 3100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_965ed571-2f89-4905-bda6-467200089923.jpg?v=1754895114",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/gulavi-toe-ring?variant=gid://shopify/ProductVariant/50720758497577",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50720838943017": {
     "product_title": "Toepari Toe Ring",
@@ -10485,7 +10486,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2601.jpg?v=1756541176",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rosvara-pendant-set?variant=gid://shopify/ProductVariant/50809158959401",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50809191727401": {
     "product_title": "Navarya Stone Ring",
