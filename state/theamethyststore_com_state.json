@@ -44732,6 +44732,20 @@
     "url": "https://www.theamethyststore.com/products/gorgeous-nagas-earrings?variant=gid://shopify/ProductVariant/46761890939107",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/46761927770339": {
+    "product_title": "Uthika Diamond Design Ring",
+    "product_handle": "diamond-design-ring",
+    "variant_id": "gid://shopify/ProductVariant/46761927770339",
+    "global_id": "gid://shopify/ProductVariant/46761927770339",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1163",
+    "price": 3200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1163.jpg?v=1751198021",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-ring?variant=gid://shopify/ProductVariant/46761927770339",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/46763756716259": {
     "product_title": "Pretty Victorian Long Earrings",
     "product_handle": "pretty-victorian-long-earrings",
@@ -100123,6 +100137,20 @@
     "url": "https://www.theamethyststore.com/products/dakshina-kundan-long-necklace?variant=gid://shopify/ProductVariant/47848877392099",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/47848881717475": {
+    "product_title": "Swarna Diamond Design Ring",
+    "product_handle": "swarna-diamond-design-ring",
+    "variant_id": "gid://shopify/ProductVariant/47848881717475",
+    "global_id": "gid://shopify/ProductVariant/47848881717475",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1929",
+    "price": 4400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1929.jpg?v=1768654008",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/swarna-diamond-design-ring?variant=gid://shopify/ProductVariant/47848881717475",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/47848889942243": {
     "product_title": "Jeevika Diamond Design Ring",
     "product_handle": "jeevika-diamond-design-ring",
@@ -134773,6 +134801,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15746_b2eea7ed-6161-40b7-b622-af2bbb0afbfd.jpg?v=1779105119",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/prayagi-short-necklace-set?variant=gid://shopify/ProductVariant/48936895119587",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/48937050079459": {
+    "product_title": "Zariya Diamond Design Ring",
+    "product_handle": "diamond-design-ring-4",
+    "variant_id": "gid://shopify/ProductVariant/48937050079459",
+    "global_id": "gid://shopify/ProductVariant/48937050079459",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2110",
+    "price": 5100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2110.jpg?v=1778575152",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-ring-4?variant=gid://shopify/ProductVariant/48937050079459",
     "stock": 1
   },
   "gid://shopify/ProductVariant/48937093595363": {
@@ -172406,6 +172448,48 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3417.jpg?v=1785478022",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-15?variant=gid://shopify/ProductVariant/49479175078115",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49479176323299": {
+    "product_title": "Linthra Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-16",
+    "variant_id": "gid://shopify/ProductVariant/49479176323299",
+    "global_id": "gid://shopify/ProductVariant/49479176323299",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3418-2.4\"",
+    "price": 39600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3418.jpg?v=1785478251",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-16?variant=gid://shopify/ProductVariant/49479176323299",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479176028387": {
+    "product_title": "Linthra Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-16",
+    "variant_id": "gid://shopify/ProductVariant/49479176028387",
+    "global_id": "gid://shopify/ProductVariant/49479176028387",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3418-2.6\"",
+    "price": 39800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3418.jpg?v=1785478251",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-16?variant=gid://shopify/ProductVariant/49479176028387",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479177502947": {
+    "product_title": "Lavanya Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-17",
+    "variant_id": "gid://shopify/ProductVariant/49479177502947",
+    "global_id": "gid://shopify/ProductVariant/49479177502947",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3419-2.6\"",
+    "price": 65400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3419_2.jpg?v=1785478512",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-17?variant=gid://shopify/ProductVariant/49479177502947",
     "stock": 2
   }
 }

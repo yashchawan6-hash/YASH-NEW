@@ -42811,9 +42811,9 @@
     "price": 1299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/47960555389150": {
     "product_title": "AD Pendant Droplet Necklace with Earrings in 2 Colors (Price for Each)",
@@ -46669,7 +46669,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4E93FA2D-B3AA-4FC7-85E9-1081667879AC_f1041e13-7e24-4182-bdec-71f34084de43.jpg?v=1781522628",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kundan-layered-pearl-premium-hair-pin-chotti?variant=gid://shopify/ProductVariant/48337208475870",
-    "stock": 22
+    "stock": 21,
+    "last_alerted_stock": 21
   },
   "gid://shopify/ProductVariant/48337665851614": {
     "product_title": "3D Ganesha Invisible chain with Earrings",
