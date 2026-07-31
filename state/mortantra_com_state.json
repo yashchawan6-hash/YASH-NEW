@@ -13799,7 +13799,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R17_5d73918e-7e1d-483c-aa80-58b63ed4fafa.jpg?v=1719920055",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-r17-white-color-gold-plated-faux-polki-ring?variant=gid://shopify/ProductVariant/45900865339615",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/45901498122463": {
     "product_title": "Multicolor Gold Plated Temple Nosepin with Kundan - TMPNTH30",
@@ -20000,9 +20001,10 @@
     "price": 10850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S85LP_1.jpg?v=1720788352",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/mo-s85gr-green-color-gold-plated-moissanite-necklace-set?variant=gid://shopify/ProductVariant/46114079637727",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46114079670495": {
     "product_title": "Gold-Plated Moissanite Long Haram Necklace Set with Tassel Pendant - MO-S85",
