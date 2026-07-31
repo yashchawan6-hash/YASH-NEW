@@ -23018,9 +23018,10 @@
     "price": 43.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0109XH1_e1e2c89a-146b-42ad-a981-a181fa4f86bc.jpg?v=1757581266",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/42445698433090",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42445698465858": {
     "product_title": "Antique Gold Plated Mariya Bangles",
