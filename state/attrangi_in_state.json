@@ -202,6 +202,20 @@
     "url": "https://www.attrangi.in/products/emaairah-bridal-set?variant=gid://shopify/ProductVariant/40411660058793",
     "stock": 2
   },
+  "gid://shopify/ProductVariant/40411660648617": {
+    "product_title": "Dareen Jadaau Pearl Choker Set",
+    "product_handle": "dareen",
+    "variant_id": "gid://shopify/ProductVariant/40411660648617",
+    "global_id": "gid://shopify/ProductVariant/40411660648617",
+    "variant_title": "Gold",
+    "sku": "QS0052G",
+    "price": 4250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/dareen-attrangi-1.jpg?v=1739812485",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/dareen?variant=gid://shopify/ProductVariant/40411660648617",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/40411661238441": {
     "product_title": "Double Solitaire Earrings",
     "product_handle": "double-solitaire-earrings",
@@ -32619,9 +32633,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-11-29at5.49.34PM_1.jpg?v=1764420849",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ophelia-diamond-floral-earcuff-earring?variant=gid://shopify/ProductVariant/47304894873812",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47304894906580": {
     "product_title": "Ophelia Diamond Floral Earcuff Earring",
@@ -33155,20 +33169,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosevine-tassel-diamond-pastel-bracelet-enchanted-garden?variant=gid://shopify/ProductVariant/47343104262356",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/47435366564052": {
-    "product_title": "Mystic Petal Diamond Pastel Set | Enchanted Garden",
-    "product_handle": "mystic-petal-diamond-pastel-set-enchanted-garden",
-    "variant_id": "gid://shopify/ProductVariant/47435366564052",
-    "global_id": "gid://shopify/ProductVariant/47435366564052",
-    "variant_title": "Purple & Pink",
-    "sku": "RP052737PU-PI-JS",
-    "price": 8650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-10_at_2.04.02_PM.jpg?v=1776320469",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/mystic-petal-diamond-pastel-set-enchanted-garden?variant=gid://shopify/ProductVariant/47435366564052",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/47808223903956": {
     "product_title": "Mystic Petal Diamond Pastel Set | Enchanted Garden",
