@@ -212,9 +212,9 @@
     "price": 4250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/dareen-attrangi-1.jpg?v=1739812485",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/dareen?variant=gid://shopify/ProductVariant/40411660648617",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/40411661238441": {
     "product_title": "Double Solitaire Earrings",
@@ -4772,7 +4772,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/3-carat-classic-round-solitaire-ring-attrangi-2.jpg?v=1739813903",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-classic-round-solitaire-ring?variant=gid://shopify/ProductVariant/42829291454676",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42829291487444": {
@@ -4843,7 +4843,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/2-carat-classic-round-solitaire-daily-wear-ring-attrangi-4.jpg?v=1739813926",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/2-carat-classic-round-solitaire-daily-wear-ring?variant=gid://shopify/ProductVariant/42829325041876",
-    "stock": 1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/42855753023700": {
     "product_title": "Slim Everyday Diamond Kada",
@@ -7063,7 +7063,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/coloured-baguette-clustered-cocktail-ring-attrangi-1.jpg?v=1739814443",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/coloured-baguette-clustered-cocktail-ring?variant=gid://shopify/ProductVariant/43600050094292",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43600066543828": {
     "product_title": "Coloured Baguette Clustered Cocktail Ring",
@@ -9142,7 +9143,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-24_at_6.17.29_PM.jpg?v=1784897749",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jadaau-unisex-reusable-bracelet?variant=gid://shopify/ProductVariant/43976312357076",
-    "stock": 10
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43983496347860": {
     "product_title": "Nakshi Sona Moti Indian Thin Kada / Bangle Set",
@@ -12201,7 +12203,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ivy-coloured-stone-diamond-tennis-bracelet-attrangi-2.jpg?v=1739815962",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ivy-coloured-stone-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/44582644285652",
-    "stock": 1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/44582712082644": {
     "product_title": "Diya Holdali Necklace Set | Uncut Diamonds",
@@ -15210,7 +15212,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/45620675051732",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45620675084500": {
     "product_title": "Giza Round Solitaire Cocktail Diamond Ring | Baguettes",
@@ -31411,7 +31414,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-19_at_5.03.51_PM_1.jpg?v=1774353184",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pinata-diamond-emerald-closure-band-cocktail-ring?variant=gid://shopify/ProductVariant/47119382249684",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48345453920468": {
     "product_title": "Pinata Diamond Emerald Closure Band Cocktail Ring",
@@ -36648,10 +36652,10 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at1.24.43PM_198d5168-7e9b-4d36-8982-4e1087736589.jpg?v=1771684303",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/garuda-gold-polki-emerlad-ruby-brooch-unisex?variant=gid://shopify/ProductVariant/47579165393108",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47579185578196": {
     "product_title": "Maria Diamond Earrings with Big Kaanchains | Kannauti",
@@ -41129,9 +41133,9 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-06at6.25.08PM_1.jpg?v=1775541372",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/foal-diamond-multi-solitairetennis-bracelet-with-halo-daily-wear?variant=gid://shopify/ProductVariant/47767317643476",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47768027922644": {
     "product_title": "Harjot Thick Bangle - Red",
@@ -48137,7 +48141,7 @@
     "price": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.35.43PM_1.jpg?v=1785502384",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/phoolan-delicate-gold-bangles-with-polki-ruby-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401021173972",
     "stock": 0
   },
