@@ -25232,9 +25232,10 @@
     "price": 12200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0292copy_resized_42ea1469-99ee-4de2-ad4a-8ce63b98cb94.jpg?v=1763016653",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emeresa-pendant?variant=gid://shopify/ProductVariant/51445288403241",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51445298299177": {
     "product_title": "Ravira Gem Matil",
