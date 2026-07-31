@@ -70544,7 +70544,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5755_resized.jpg?v=1782367034",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/leaf-grace-ring?variant=gid://shopify/ProductVariant/53288175075625",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53288179695913": {
     "product_title": "Floral-Glow Ring",
