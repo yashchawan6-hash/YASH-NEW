@@ -1503,9 +1503,10 @@
     "price": 25470.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08135copy.jpg?v=1745054329",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/saanjh-shringaar?variant=gid://shopify/ProductVariant/50152357069097",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50152979005737": {
     "product_title": "Kiranaratna Stud Earrings",
@@ -30265,7 +30266,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0317.jpg?v=1763441857",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/blossiora-necklace-set?variant=gid://shopify/ProductVariant/51509614215465",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/51509624766761": {
     "product_title": "Crystisq Cz Necklace",
@@ -60807,7 +60809,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0028_resized.jpg?v=1775559190",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/peravia-bloomara-cz-necklace-set?variant=gid://shopify/ProductVariant/52882335105321",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52882335138089": {
     "product_title": "Drovalis Bloomara CZ Necklace Set",
@@ -61115,7 +61118,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0670_resized.jpg?v=1775136415",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/shree-cz-necklace?variant=gid://shopify/ProductVariant/52885683372329",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52885692088617": {
     "product_title": "Sparkle CZ Necklace Set",
