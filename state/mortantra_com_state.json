@@ -53773,20 +53773,6 @@
     "url": "https://www.mortantra.com/products/multicolor-tribal-bangle-1-piece-ek-sfbangle72m?variant=gid://shopify/ProductVariant/47248619274463",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/47248641196255": {
-    "product_title": "Dual-Tone Gold- and Silver-Plated Tribal Openable Bangle with Flower and Peacock Motifs - EK-BRAC59R",
-    "product_handle": "multicolor-tribal-bracelet-1-piece-ek-brac59r",
-    "variant_id": "gid://shopify/ProductVariant/47248641196255",
-    "global_id": "gid://shopify/ProductVariant/47248641196255",
-    "variant_title": "Default Title",
-    "sku": "EK-BRAC59R",
-    "price": 3850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-BRAC59R_0f3019f5-b07a-4411-9cb6-6382fd8a5bac.jpg?v=1755586509",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-tribal-bracelet-1-piece-ek-brac59r?variant=gid://shopify/ProductVariant/47248641196255",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47248653713631": {
     "product_title": "Multicolor Dual-Tone Tribal Bangle with Flower Moon and Peacock Motifs - EK-SFBANGLE70M",
     "product_handle": "multicolor-tribal-bangle-1-piece-ek-sfbangle70m",
@@ -55219,7 +55205,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK579B.jpg?v=1756983407",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-ek-sfneck579b?variant=gid://shopify/ProductVariant/47388174614751",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47388176711903": {
     "product_title": "Multicolor Dual-Tone Tribal Statement Necklace with Kundan and Peacock Motif - EK-SFNECK580B",
@@ -60538,7 +60525,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2772-2.jpg?v=1765280499",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2772?variant=gid://shopify/ProductVariant/48073574809823",
-    "stock": 7216
+    "stock": 4658
   },
   "gid://shopify/ProductVariant/48074148970719": {
     "product_title": "Dark Green Gold-Plated Faux Polki Small Maang Teeka with Kundan Setting - PK-T57GR",
@@ -63264,8 +63251,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TN-BRAC2A.jpg?v=1769085215",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-pichwai-inspired-bangles-1-piece-tn-brac2?variant=gid://shopify/ProductVariant/48385090257119",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/48385096581343": {
     "product_title": "Pichwai Inspired Bangle with Ganesha and Deity Panels - TN-BRAC3",
@@ -70968,7 +70955,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2865M-2.jpg?v=1772544762",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2865?variant=gid://shopify/ProductVariant/48562354127071",
-    "stock": 6376,
+    "stock": 3622,
     "last_alerted_stock": 3628
   },
   "gid://shopify/ProductVariant/48562354749663": {
@@ -84791,7 +84778,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S207GR-2.jpg?v=1779358567",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-necklace-set-tj-s207?variant=gid://shopify/ProductVariant/49286679167199",
-    "stock": 7011
+    "stock": 3500
   },
   "gid://shopify/ProductVariant/49286692241631": {
     "product_title": "Multicolor Gold-Plated Pichwai Kundan Necklace Set with Shrinathji Miniature Panel - TN-S28",
@@ -99178,6 +99165,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/47248641196255": {
+    "product_title": "Dual-Tone Gold- and Silver-Plated Tribal Openable Bangle with Flower and Peacock Motifs - EK-BRAC59R",
+    "product_handle": "multicolor-tribal-bracelet-1-piece-ek-brac59r",
+    "variant_id": "gid://shopify/ProductVariant/47248641196255",
+    "global_id": "gid://shopify/ProductVariant/47248641196255",
+    "variant_title": "Default Title",
+    "sku": "EK-BRAC59R",
+    "price": 3850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-BRAC59R_0f3019f5-b07a-4411-9cb6-6382fd8a5bac.jpg?v=1755586509",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-tribal-bracelet-1-piece-ek-brac59r?variant=gid://shopify/ProductVariant/47248641196255",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/37684899643559": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Long Necklace with Pearl Strands and Peacock Motif - MN186A",
