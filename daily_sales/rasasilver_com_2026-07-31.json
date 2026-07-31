@@ -278,5 +278,25 @@
     "qty_sold": 1,
     "total_value": 4900.0,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801"
+  },
+  {
+    "timestamp": "2026-07-31T18:22:05+05:30",
+    "product_title": "Nayira Bloom Payal",
+    "variant_title": "Ruby Pink",
+    "price": 25700.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 25700.0,
+    "url": "https://www.rasasilver.com/products/nayira-bloom-payal?variant=gid://shopify/ProductVariant/51495547994409"
+  },
+  {
+    "timestamp": "2026-07-31T18:22:05+05:30",
+    "product_title": "Mayurina Kundan Pendant",
+    "variant_title": "Default Title",
+    "price": 14150.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 14150.0,
+    "url": "https://www.rasasilver.com/products/mayurina-kundan-pendant?variant=gid://shopify/ProductVariant/52838555910441"
   }
 ]

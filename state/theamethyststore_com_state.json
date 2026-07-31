@@ -82844,7 +82844,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10718.jpg?v=1762092419",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/ziva-studs?variant=gid://shopify/ProductVariant/47439903523043",
-    "stock": 5
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47439906701539": {
     "product_title": "Jerin Studs",
@@ -123138,9 +123139,10 @@
     "price": 23144.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8819_3_39bf6f7b-ec74-47a8-94bf-506e59e33ab6.jpg?v=1775459816",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/moissanite-long-earrings?variant=gid://shopify/ProductVariant/48731339784419",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48731368587491": {
     "product_title": "Elyvra Victorian Studs",
@@ -173490,8 +173492,8 @@
     "price": 14200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1434.jpg?v=1785501945",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-24?variant=gid://shopify/ProductVariant/49480769011939",
-    "stock": 0
+    "stock": 1
   }
 }

@@ -43476,7 +43476,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPBAN115P.jpg?v=1749548612",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-bangles-set-of-4-tmpban115?variant=gid://shopify/ProductVariant/47037507895519",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47037508550879": {
     "product_title": "Gold Plated Temple Bangles (Set of 4) with Kundan - TMPBAN115",
@@ -69564,7 +69565,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BAN29P.jpg?v=1771940577",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pink-color-gold-plated-faux-polki-bangles-1-piece-pk-ban29p?variant=gid://shopify/ProductVariant/48513630372063",
-    "stock": 5
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48543986942175": {
     "product_title": "Gold-Plated Jadau Kundan Adjustable Ring - MRNG261",
@@ -71168,7 +71170,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2865M-2.jpg?v=1772544762",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2865?variant=gid://shopify/ProductVariant/48562354127071",
-    "stock": 1762,
+    "stock": 1760,
     "last_alerted_stock": 1760
   },
   "gid://shopify/ProductVariant/48562354749663": {
@@ -88115,20 +88117,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-mishr-necklace-set-mr-s877?variant=gid://shopify/ProductVariant/50075441397983",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/50076023718111": {
-    "product_title": "Olive Green Gold-Plated Jadau Kundan Choker Necklace Set with Flower and Moon Motifs - MS2371GR",
-    "product_handle": "green-color-gold-plated-jadau-kundan-necklace-set-ms2371gr",
-    "variant_id": "gid://shopify/ProductVariant/50076023718111",
-    "global_id": "gid://shopify/ProductVariant/50076023718111",
-    "variant_title": "Default Title",
-    "sku": "MS2371GR",
-    "price": 4200.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2371GR-2.jpg?v=1780748062",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-necklace-set-ms2371gr?variant=gid://shopify/ProductVariant/50076023718111",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50076126314719": {
     "product_title": "Olive Green Gold-Plated Jadau Kundan Layered Mala Necklace Set with Peacock Motif - MS2552Y",
     "product_handle": "green-color-gold-plated-jadau-kundan-necklace-set-ms2552y",
@@ -99610,6 +99598,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/50076023718111": {
+    "product_title": "Olive Green Gold-Plated Jadau Kundan Choker Necklace Set with Flower and Moon Motifs - MS2371GR",
+    "product_handle": "green-color-gold-plated-jadau-kundan-necklace-set-ms2371gr",
+    "variant_id": "gid://shopify/ProductVariant/50076023718111",
+    "global_id": "gid://shopify/ProductVariant/50076023718111",
+    "variant_title": "Default Title",
+    "sku": "MS2371GR",
+    "price": 4200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2371GR-2.jpg?v=1780748062",
+    "available_for_sale": false,
+    "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-necklace-set-ms2371gr?variant=gid://shopify/ProductVariant/50076023718111",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/44267073011935": {
     "product_title": "Green Color Gold Plated Temple Earrings with Kundan - ME1434GR",

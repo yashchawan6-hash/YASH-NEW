@@ -28711,9 +28711,10 @@
     "price": 25700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0128copyMedium.jpg?v=1776161650",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/nayira-bloom-payal?variant=gid://shopify/ProductVariant/51495547994409",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51495274250537": {
     "product_title": "Swarna Gaj Hip Belt",
@@ -58794,9 +58795,10 @@
     "price": 14150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16251_resized.jpg?v=1774336567",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayurina-kundan-pendant?variant=gid://shopify/ProductVariant/52838555910441",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52838580093225": {
     "product_title": "Shreelakshmi Temple Pendant",
