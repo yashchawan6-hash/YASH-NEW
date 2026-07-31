@@ -126149,9 +126149,10 @@
     "price": 13904.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3947_aaa96fdd-c0e7-4184-9dd8-3e5bd310a28e.jpg?v=1780467680",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nagas-pendant-26?variant=gid://shopify/ProductVariant/48868910596323",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48868913905891": {
     "product_title": "Krishna Nagas Pendant",
@@ -173068,6 +173069,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2413.jpg?v=1785494364",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-maatal-4?variant=gid://shopify/ProductVariant/49480358330595",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480372224227": {
+    "product_title": "Riyana Kundan Maatal",
+    "product_handle": "kundan-maatal-5",
+    "variant_id": "gid://shopify/ProductVariant/49480372224227",
+    "global_id": "gid://shopify/ProductVariant/49480372224227",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2414",
+    "price": 25400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2414.jpg?v=1785494539",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-maatal-5?variant=gid://shopify/ProductVariant/49480372224227",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480374649059": {
+    "product_title": "Shinning Kundan Short Necklace",
+    "product_handle": "kundan-short-necklace-20",
+    "variant_id": "gid://shopify/ProductVariant/49480374649059",
+    "global_id": "gid://shopify/ProductVariant/49480374649059",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17157",
+    "price": 95500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17157.jpg?v=1785494568",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-short-necklace-20?variant=gid://shopify/ProductVariant/49480374649059",
     "stock": 1
   }
 }
