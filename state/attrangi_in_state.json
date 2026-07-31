@@ -35766,8 +35766,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-29at12.03.49AM.jpg?v=1769668520",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/laila-polki-moissanite-pearl-pendant-style-set-with-jhumka?variant=gid://shopify/ProductVariant/47490159804628",
-    "stock": 4,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47490159870164": {
     "product_title": "Laila Polki Moissanite Pearl Pendant Style Set with Jhumka",
@@ -48336,7 +48336,7 @@
     "price": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.08.44PM_1.jpg?v=1785504567",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gold-gola-emerald-traditonal-indian-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401065410772",
     "stock": 0
   },
@@ -48350,7 +48350,7 @@
     "price": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.08.44PM_1.jpg?v=1785504567",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gold-gola-emerald-traditonal-indian-bangles-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401065443540",
     "stock": 0
   },
@@ -48378,7 +48378,7 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.22.46PM.jpg?v=1785505482",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401073406164",
     "stock": 0
   },
@@ -48392,7 +48392,7 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.22.46PM.jpg?v=1785505482",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401073438932",
     "stock": 0
   },
@@ -48408,6 +48408,62 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.22.46PM.jpg?v=1785505482",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/ruby-emerald-gold-traditional-delicate-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401073471700",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401081073876": {
+    "product_title": "Goldie Traditional Latkan  Indian Kada | Sone Pe Suhaga",
+    "product_handle": "goldie-traditional-latkan-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401081073876",
+    "global_id": "gid://shopify/ProductVariant/48401081073876",
+    "variant_title": "2.2 / Single",
+    "sku": "SH42523Z2-BN",
+    "price": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.23.49PM.jpg?v=1785505865",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/goldie-traditional-latkan-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401081073876",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401081106644": {
+    "product_title": "Goldie Traditional Latkan  Indian Kada | Sone Pe Suhaga",
+    "product_handle": "goldie-traditional-latkan-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401081106644",
+    "global_id": "gid://shopify/ProductVariant/48401081106644",
+    "variant_title": "2.4 / Single",
+    "sku": "SH42523Z4-BN",
+    "price": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.23.49PM.jpg?v=1785505865",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/goldie-traditional-latkan-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401081106644",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401081139412": {
+    "product_title": "Goldie Traditional Latkan  Indian Kada | Sone Pe Suhaga",
+    "product_handle": "goldie-traditional-latkan-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401081139412",
+    "global_id": "gid://shopify/ProductVariant/48401081139412",
+    "variant_title": "2.6 / Single",
+    "sku": "SH42523Z6-BN",
+    "price": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.23.49PM.jpg?v=1785505865",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/goldie-traditional-latkan-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401081139412",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48401081172180": {
+    "product_title": "Goldie Traditional Latkan  Indian Kada | Sone Pe Suhaga",
+    "product_handle": "goldie-traditional-latkan-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48401081172180",
+    "global_id": "gid://shopify/ProductVariant/48401081172180",
+    "variant_title": "2.8 / Single",
+    "sku": "SH42523Z8-BN",
+    "price": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at6.23.49PM.jpg?v=1785505865",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/goldie-traditional-latkan-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401081172180",
     "stock": 0
   },
   "gid://shopify/ProductVariant/48006745030868": {
