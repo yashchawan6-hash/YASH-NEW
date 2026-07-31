@@ -171043,7 +171043,7 @@
     "global_id": "gid://shopify/ProductVariant/49448230355171",
     "variant_title": "Default Title",
     "sku": "AMS-102-17080",
-    "price": 125200.0,
+    "price": 139300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17080.jpg?v=1785065191",
     "available_for_sale": true,
@@ -172757,5 +172757,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/layer-charm-avikam-long-necklace-set-3?variant=gid://shopify/ProductVariant/49479415333091",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479421231331": {
+    "product_title": "Grand Look Avikam Choker Set",
+    "product_handle": "grand-look-avikam-choker-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49479421231331",
+    "global_id": "gid://shopify/ProductVariant/49479421231331",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17193",
+    "price": 105500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17193.jpg?v=1785484308",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/grand-look-avikam-choker-set-1?variant=gid://shopify/ProductVariant/49479421231331",
+    "stock": 2
   }
 }
