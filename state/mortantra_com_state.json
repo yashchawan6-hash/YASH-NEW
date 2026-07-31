@@ -9121,48 +9121,6 @@
     "url": "https://www.mortantra.com/products/me1182wp-pink-color-gold-plated-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/44964434673887",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/47013399527647": {
-    "product_title": "Gold-Plated Kundan Fish Motif Stud Earrings, Mishr Collection - MR-E78",
-    "product_handle": "mr-e78wgr-green-color-gold-plated-mishr-earrings",
-    "variant_id": "gid://shopify/ProductVariant/47013399527647",
-    "global_id": "gid://shopify/ProductVariant/47013399527647",
-    "variant_title": "Dark Green",
-    "sku": "MR-E78WGR",
-    "price": 1400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-E78WGR.jpg?v=1751716038",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/mr-e78wgr-green-color-gold-plated-mishr-earrings?variant=gid://shopify/ProductVariant/47013399527647",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/47013405425887": {
-    "product_title": "Gold-Plated Kundan Fish Motif Stud Earrings, Mishr Collection - MR-E78",
-    "product_handle": "mr-e78wgr-green-color-gold-plated-mishr-earrings",
-    "variant_id": "gid://shopify/ProductVariant/47013405425887",
-    "global_id": "gid://shopify/ProductVariant/47013405425887",
-    "variant_title": "White",
-    "sku": "MR-E78W",
-    "price": 1400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-E78W.jpg?v=1751716038",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/mr-e78wgr-green-color-gold-plated-mishr-earrings?variant=gid://shopify/ProductVariant/47013405425887",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47013407785183": {
-    "product_title": "Gold-Plated Kundan Fish Motif Stud Earrings, Mishr Collection - MR-E78",
-    "product_handle": "mr-e78wgr-green-color-gold-plated-mishr-earrings",
-    "variant_id": "gid://shopify/ProductVariant/47013407785183",
-    "global_id": "gid://shopify/ProductVariant/47013407785183",
-    "variant_title": "Multicolor",
-    "sku": "MR-E78M",
-    "price": 1400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-E78M.jpg?v=1751716038",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/mr-e78wgr-green-color-gold-plated-mishr-earrings?variant=gid://shopify/ProductVariant/47013407785183",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/44971326046431": {
     "product_title": "Multicolor Gold-Plated Mishr Dangler Earrings with Jadau Kundan, Peacock and Flower Motifs - MR-E186M",
     "product_handle": "mr-e186m-multicolor-gold-plated-mishr-earrings",
@@ -18327,7 +18285,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2258M.jpg?v=1720460891",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ms2258m-multicolor-gold-plated-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46094874018015",
-    "stock": 5541,
+    "stock": 5544,
     "last_alerted_stock": 5541
   },
   "gid://shopify/ProductVariant/46113980317919": {
@@ -23036,7 +22994,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S110WP_ff7d958c-9031-44b8-b682-0a838f176415.jpg?v=1751705040",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/aishwarya-majmudar-in-mortantra-necklace-set-multicolor?variant=gid://shopify/ProductVariant/46325884289247",
-    "stock": 8274,
+    "stock": 1725,
     "last_alerted_stock": 1782
   },
   "gid://shopify/ProductVariant/46334139171039": {
@@ -28345,7 +28303,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA207.png?v=1735280281",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-hair-accessories-mha207?variant=gid://shopify/ProductVariant/46622112219359",
-    "stock": 6236
+    "stock": 3766
   },
   "gid://shopify/ProductVariant/46622297587935": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Hair Accessory with Flower Motif - MHA206M",
@@ -47761,7 +47719,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2553YR.jpg?v=1750412010",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/red-color-gold-plated-jadau-kundan-necklace-set-ms2553yr?variant=gid://shopify/ProductVariant/47073264730335",
-    "stock": 6722
+    "stock": 6347,
+    "last_alerted_stock": 6347
   },
   "gid://shopify/ProductVariant/47073272004831": {
     "product_title": "Red Gold-Plated Jadau Kundan Princess Necklace Set with Flower and Moon Motifs - MS2558YR",
@@ -60465,7 +60424,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1561M-1.jpg?v=1765274258",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1561m?variant=gid://shopify/ProductVariant/48067653828831",
-    "stock": 7086
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/48067666575583": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Dangler Earrings with Fish, Flower and Moon Motifs - ME1562M",
@@ -60479,7 +60438,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1562M.jpg?v=1765268190",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1562m?variant=gid://shopify/ProductVariant/48067666575583",
-    "stock": 9999
+    "stock": 8581
   },
   "gid://shopify/ProductVariant/48067677323487": {
     "product_title": "Dark Green Gold-Plated Jadau Kundan Dangler Earrings with Flower and Fish Motifs - ME1564W",
@@ -71351,7 +71310,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2864M-2.jpg?v=1772544626",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2864?variant=gid://shopify/ProductVariant/48562353537247",
-    "stock": 2763
+    "stock": 2773
   },
   "gid://shopify/ProductVariant/48562354127071": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Pendant Necklace Set - MS2865",
@@ -84550,7 +84509,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB264M.jpg?v=1779093318",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bangles-one-pair-mb264m?variant=gid://shopify/ProductVariant/49217440186591",
-    "stock": 5364
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/49217444151519": {
     "product_title": "Deep Pink Gold-Plated Jadau Kundan Bangle Pair with Screw Closure - MB274P",
@@ -84578,7 +84537,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB281.jpg?v=1779093753",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-bangle-1-piece-mb281?variant=gid://shopify/ProductVariant/49217447985375",
-    "stock": 9999
+    "stock": 1167
   },
   "gid://shopify/ProductVariant/49217459585247": {
     "product_title": "Gold-Plated Jadau Kundan Braid Accessories with Floral Motif - MHA236",
@@ -99877,6 +99836,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/47013399527647": {
+    "product_title": "Gold-Plated Kundan Fish Motif Stud Earrings, Mishr Collection - MR-E78",
+    "product_handle": "mr-e78wgr-green-color-gold-plated-mishr-earrings",
+    "variant_id": "gid://shopify/ProductVariant/47013399527647",
+    "global_id": "gid://shopify/ProductVariant/47013399527647",
+    "variant_title": "Dark Green",
+    "sku": "MR-E78WGR",
+    "price": 1400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-E78WGR.jpg?v=1751716038",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mr-e78wgr-green-color-gold-plated-mishr-earrings?variant=gid://shopify/ProductVariant/47013399527647",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43121766564063": {
     "product_title": "Dark Green Antique Gold-Plated Jadau Kundan Gold Belt Bracelet with Floral Kundan Setting - MBRAC43GR",
