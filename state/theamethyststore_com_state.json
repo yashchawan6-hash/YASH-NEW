@@ -173321,8 +173321,22 @@
     "price": 75300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17159.jpg?v=1785496837",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/luxurious-kundan-choker-2?variant=gid://shopify/ProductVariant/49480542060771",
-    "stock": 0
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49480544714979": {
+    "product_title": "Tanisha  Diamond Like Oddiyanam",
+    "product_handle": "diamond-like-oddiyanam-11",
+    "variant_id": "gid://shopify/ProductVariant/49480544714979",
+    "global_id": "gid://shopify/ProductVariant/49480544714979",
+    "variant_title": "Default Title",
+    "sku": "AMS-110-0937",
+    "price": 155600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0937.jpg?v=1785496921",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-like-oddiyanam-11?variant=gid://shopify/ProductVariant/49480544714979",
+    "stock": 1
   }
 }
