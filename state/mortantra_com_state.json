@@ -3339,7 +3339,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME999M_ce22bd2e-9498-4e2a-a11d-950d87fe4c47.jpg?v=1708084595",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/me999m-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/43801832325343",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43804193390815": {
     "product_title": "White Color Gold Plated Temple Bangles (One Pair) with Geometric Motif - TMPBAN88",
@@ -95482,7 +95483,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1595M.jpg?v=1784547333",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1595?variant=gid://shopify/ProductVariant/50587037040863",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50587037139167": {
     "product_title": "Gold-Plated Jadau Kundan Cascading Dangler Earrings - ME1595",
@@ -95566,7 +95568,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1596M.jpg?v=1784547863",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1596m?variant=gid://shopify/ProductVariant/50587039432927",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/50587040055519": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Dangler Earrings with Pearl Drops - ME1598M",
@@ -95595,20 +95598,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1599m?variant=gid://shopify/ProductVariant/50587041661151",
     "stock": 6
-  },
-  "gid://shopify/ProductVariant/50587041792223": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Dangler Earrings with Pearl Drops - ME1600M",
-    "product_handle": "multicolor-gold-plated-jadau-kundan-earrings-me1600m",
-    "variant_id": "gid://shopify/ProductVariant/50587041792223",
-    "global_id": "gid://shopify/ProductVariant/50587041792223",
-    "variant_title": "Default Title",
-    "sku": "ME1600M",
-    "price": 2100.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1600M.jpg?v=1784548322",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1600m?variant=gid://shopify/ProductVariant/50587041792223",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/50587044872415": {
     "product_title": "Gold-Plated Jadau Kundan Lotus Dangler Earrings with Pearl Drop - ME1601",
@@ -99137,6 +99126,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/50587041792223": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Dangler Earrings with Pearl Drops - ME1600M",
+    "product_handle": "multicolor-gold-plated-jadau-kundan-earrings-me1600m",
+    "variant_id": "gid://shopify/ProductVariant/50587041792223",
+    "global_id": "gid://shopify/ProductVariant/50587041792223",
+    "variant_title": "Default Title",
+    "sku": "ME1600M",
+    "price": 2100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1600M.jpg?v=1784548322",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1600m?variant=gid://shopify/ProductVariant/50587041792223",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48471808868575": {
     "product_title": "Multicolor Gold Plated Mishr Maangteeka - MR-T113M",
