@@ -30544,7 +30544,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.17.55_PM.jpg?v=1764417520",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/godavari-pink-mint-gold-pearl-hairchain-mattel?variant=gid://shopify/ProductVariant/47011851239636",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47011869950164": {
@@ -32697,7 +32697,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-01at10.59.57PM.jpg?v=1764660483",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/heer-sui-dhaaga-earcuff-indian-earring?variant=gid://shopify/ProductVariant/47310414119124",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47310492139732": {
@@ -38137,9 +38137,10 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at4.03.15PM_1.jpg?v=1774272561",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/siliguri-floral-polki-gold-long-hairchain-earring-2-in-1?variant=gid://shopify/ProductVariant/47715513073876",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47715523920084": {
     "product_title": "Chandbaliya Polki Long Indian Kashmiri Kannauti Earring",

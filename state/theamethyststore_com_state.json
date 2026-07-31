@@ -172614,8 +172614,22 @@
     "price": 61600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17162.jpg?v=1785480943",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/gorgeous-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479214924003",
-    "stock": 0
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49479218692323": {
+    "product_title": "Fabulous Avikam Necklace Set",
+    "product_handle": "fabulous-avikam-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49479218692323",
+    "global_id": "gid://shopify/ProductVariant/49479218692323",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17163",
+    "price": 154300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17163.jpg?v=1785481148",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/fabulous-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479218692323",
+    "stock": 2
   }
 }
