@@ -172645,5 +172645,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/grandeur-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479296680163",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/49479304052963": {
+    "product_title": "Admirable Avikam Necklace Set",
+    "product_handle": "admirable-avikam-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49479304052963",
+    "global_id": "gid://shopify/ProductVariant/49479304052963",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17172",
+    "price": 66400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17172.jpg?v=1785481892",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/admirable-avikam-necklace-set-1?variant=gid://shopify/ProductVariant/49479304052963",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49479312015587": {
+    "product_title": "Amazing Avikam Necklace Set",
+    "product_handle": "amazing-avikam-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49479312015587",
+    "global_id": "gid://shopify/ProductVariant/49479312015587",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17195",
+    "price": 129600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17195.jpg?v=1785482064",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479312015587",
+    "stock": 1
   }
 }
