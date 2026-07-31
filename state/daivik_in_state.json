@@ -33730,9 +33730,9 @@
     "price": 6499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/343AE2CB-56AB-471C-A33E-DCB6237457E9.jpg?v=1757779141",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/peacock-non-idol-kasumalai-long-haram-with-earrings?variant=gid://shopify/ProductVariant/47533591691486",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/47534240825566": {
     "product_title": "Peacock Antique Pearl Jhumkas",
