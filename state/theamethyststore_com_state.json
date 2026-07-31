@@ -10304,9 +10304,10 @@
     "price": 1408.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-116-0053.jpg?v=1689940115",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/copy-of-om-silver-rakhi?variant=gid://shopify/ProductVariant/43921643798755",
-    "stock": 4
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43921651073251": {
     "product_title": "Floral Silver Rakhi",
