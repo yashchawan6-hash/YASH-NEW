@@ -12039,7 +12039,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kanchana-gold-openable-bangle-or-sone-pe-suhaga-collection-attrangi-3.jpg?v=1739815916",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kanchana-gold-openable-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/47395998040276",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47395998073044": {
     "product_title": "Kanchana Gold Openable Bangle | Sone Pe Suhaga Collection",
@@ -15212,20 +15212,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/45620675117268",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/48006745030868": {
-    "product_title": "Giza Round Solitaire Cocktail Diamond Ring | Baguettes",
-    "product_handle": "giza-round-solitaire-cocktail-diamond-ring-baguettes",
-    "variant_id": "gid://shopify/ProductVariant/48006745030868",
-    "global_id": "gid://shopify/ProductVariant/48006745030868",
-    "variant_title": "9",
-    "sku": "WG13245SZ9-RI",
-    "price": 2450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/48006745030868",
     "stock": 3
   },
   "gid://shopify/ProductVariant/45629289365716": {
@@ -48025,6 +48011,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715485908",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48006745030868": {
+    "product_title": "Giza Round Solitaire Cocktail Diamond Ring | Baguettes",
+    "product_handle": "giza-round-solitaire-cocktail-diamond-ring-baguettes",
+    "variant_id": "gid://shopify/ProductVariant/48006745030868",
+    "global_id": "gid://shopify/ProductVariant/48006745030868",
+    "variant_title": "9",
+    "sku": "WG13245SZ9-RI",
+    "price": 2450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/48006745030868",
     "stock": 3
   }
 }
