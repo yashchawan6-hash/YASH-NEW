@@ -4330,7 +4330,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1045M.jpg?v=1684826148",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/me1045m-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/44196255170783",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44196257759455": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Dangler Earrings with Lotus Motif - ME1054M",
@@ -6404,7 +6405,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC138M.jpg?v=1719726335",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-brac138m-multicolor-gold-plated-mishr-bracelet?variant=gid://shopify/ProductVariant/44511424446687",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47044124377311": {
     "product_title": "Multicolor Gold-Plated Mishr Gaadi Bracelet with Kundan Floral Medallion - MR-BRAC139",
@@ -95249,6 +95251,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2992?variant=gid://shopify/ProductVariant/50573201080543",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/50573210910943": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Pearl Body and Jhumka Earrings - MS2993",
+    "product_handle": "gold-plated-jadau-kundan-necklace-set-ms2993",
+    "variant_id": "gid://shopify/ProductVariant/50573210910943",
+    "global_id": "gid://shopify/ProductVariant/50573210910943",
+    "variant_title": "Multicolor",
+    "sku": "MS2993M",
+    "price": 4200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2993M-2.jpg?v=1784182708",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2993?variant=gid://shopify/ProductVariant/50573210910943",
+    "stock": 8
   },
   "gid://shopify/ProductVariant/50573212975327": {
     "product_title": "Multicolour Gold-Plated Jadau Kundan Choker Necklace Set with Flower Motif - MS2995",
