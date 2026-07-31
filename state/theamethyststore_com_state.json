@@ -3049,7 +3049,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2497_7f4acb4f-db93-4f34-90e3-bbc5068a165d.jpg?v=1687325143",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/navarathna-studs?variant=gid://shopify/ProductVariant/42820733206755",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/45263544811747": {
     "product_title": "Chittra Single Bangles",
@@ -100572,6 +100572,20 @@
     "url": "https://www.theamethyststore.com/products/empress-glow-nagas-short-necklace?variant=gid://shopify/ProductVariant/47850834591971",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/47850846028003": {
+    "product_title": "Lara Nagas Jhumkas",
+    "product_handle": "lara-nagas-jhumkas",
+    "variant_id": "gid://shopify/ProductVariant/47850846028003",
+    "global_id": "gid://shopify/ProductVariant/47850846028003",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-12481",
+    "price": 20000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12481.jpg?v=1768739104",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/lara-nagas-jhumkas?variant=gid://shopify/ProductVariant/47850846028003",
+    "stock": 3
+  },
   "gid://shopify/ProductVariant/47850846224611": {
     "product_title": "Elegance Nagas Short Necklace",
     "product_handle": "elegance-nagas-short-necklace-5",
@@ -167657,7 +167671,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15416.jpg?v=1784813535",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kanorra-diamond-stud?variant=gid://shopify/ProductVariant/49439660802275",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49439666012387": {
     "product_title": "Bridal Avikam Vanki",
