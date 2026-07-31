@@ -65,9 +65,10 @@
     "price": 6400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-9_c1352de7-3b3d-4be6-8581-3b15af6918f6.jpg?v=1740807958",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/lakshmi-kasu-pendant?variant=gid://shopify/ProductVariant/49809904075049",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49836042322217": {
     "product_title": "Emerald Kundan Studs",
@@ -6887,8 +6888,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_bb5643c6-3b7f-4b51-a79c-d7b8fc3d15fb.jpg?v=1754038998",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/no-image-11?variant=gid://shopify/ProductVariant/50677089304873",
-    "stock": 5,
-    "last_alerted_stock": 3
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/50680479744297": {
     "product_title": "Om Trishakti Rakhi",
@@ -7253,8 +7254,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801",
-    "stock": 6,
-    "last_alerted_stock": 4
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52279182262569": {
     "product_title": "Mogralika Stud Earrings",

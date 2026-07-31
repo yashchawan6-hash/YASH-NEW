@@ -248,5 +248,35 @@
     "qty_sold": 1,
     "total_value": 12200.0,
     "url": "https://www.rasasilver.com/products/emeresa-pendant?variant=gid://shopify/ProductVariant/51445288403241"
+  },
+  {
+    "timestamp": "2026-07-31T17:52:00+05:30",
+    "product_title": "Lakshmi Kasu Pendant",
+    "variant_title": "Default Title",
+    "price": 6400.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 6400.0,
+    "url": "https://www.rasasilver.com/products/lakshmi-kasu-pendant?variant=gid://shopify/ProductVariant/49809904075049"
+  },
+  {
+    "timestamp": "2026-07-31T17:52:00+05:30",
+    "product_title": "Blume Stud Earrings",
+    "variant_title": "Default Title",
+    "price": 3450.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 3450.0,
+    "url": "https://www.rasasilver.com/products/no-image-11?variant=gid://shopify/ProductVariant/50677089304873"
+  },
+  {
+    "timestamp": "2026-07-31T17:52:00+05:30",
+    "product_title": "Mogralika Stud Earrings",
+    "variant_title": "GREEN",
+    "price": 4900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 4900.0,
+    "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801"
   }
 ]
