@@ -155040,7 +155040,7 @@
     "price": 13800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1342.jpg?v=1783076720",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-5?variant=gid://shopify/ProductVariant/49359457190115",
     "stock": 0,
     "last_alerted_stock": 0
@@ -158585,7 +158585,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4573.jpg?v=1783406009",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/chaitra-kundan-pendant?variant=gid://shopify/ProductVariant/49373174431971",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49373184295139": {
     "product_title": "Grihita Kundan Pendant",
