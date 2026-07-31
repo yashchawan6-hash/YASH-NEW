@@ -9449,7 +9449,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-4448.jpg?v=1684393728",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/conito-navarathna-studs?variant=gid://shopify/ProductVariant/43852694651107",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/43853064306915": {
     "product_title": "Siya Navarathna Drops",
@@ -32531,6 +32531,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7754.jpg?v=1742106911",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/navarathna-stone-drops?variant=gid://shopify/ProductVariant/46132163805411",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/46132549386467": {
+    "product_title": "Aadhisri Nagas Jhumkas",
+    "product_handle": "aadhisri-nagas-jhumkas",
+    "variant_id": "gid://shopify/ProductVariant/46132549386467",
+    "global_id": "gid://shopify/ProductVariant/46132549386467",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-7778",
+    "price": 36400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7778.jpg?v=1742112616",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/aadhisri-nagas-jhumkas?variant=gid://shopify/ProductVariant/46132549386467",
     "stock": 1
   },
   "gid://shopify/ProductVariant/46137063178467": {
@@ -172237,6 +172251,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3414.jpg?v=1785473941",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-13?variant=gid://shopify/ProductVariant/49479144308963",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49479147225315": {
+    "product_title": "Arisha Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-copy",
+    "variant_id": "gid://shopify/ProductVariant/49479147225315",
+    "global_id": "gid://shopify/ProductVariant/49479147225315",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3415-2.4\"",
+    "price": 54600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3415.jpg?v=1785474247",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-copy?variant=gid://shopify/ProductVariant/49479147225315",
     "stock": 1
   }
 }
