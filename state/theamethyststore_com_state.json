@@ -173154,5 +173154,47 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-maatal-8?variant=gid://shopify/ProductVariant/49480396996835",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480406434019": {
+    "product_title": "Shanaya Kundan Maatal",
+    "product_handle": "kundan-maatal-9",
+    "variant_id": "gid://shopify/ProductVariant/49480406434019",
+    "global_id": "gid://shopify/ProductVariant/49480406434019",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2418",
+    "price": 25710.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2418.jpg?v=1785495351",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/kundan-maatal-9?variant=gid://shopify/ProductVariant/49480406434019",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480406466787": {
+    "product_title": "Grandeur Beads Long Necklace Set",
+    "product_handle": "long-necklace-25",
+    "variant_id": "gid://shopify/ProductVariant/49480406466787",
+    "global_id": "gid://shopify/ProductVariant/49480406466787",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17131",
+    "price": 129700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17131.jpg?v=1785495345",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/long-necklace-25?variant=gid://shopify/ProductVariant/49480406466787",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49480430813411": {
+    "product_title": "Farisha Avikam Maangtikka",
+    "product_handle": "avikam-maangtikka-8",
+    "variant_id": "gid://shopify/ProductVariant/49480430813411",
+    "global_id": "gid://shopify/ProductVariant/49480430813411",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-2419",
+    "price": 11100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2419.jpg?v=1785495681",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-maangtikka-8?variant=gid://shopify/ProductVariant/49480430813411",
+    "stock": 2
   }
 }

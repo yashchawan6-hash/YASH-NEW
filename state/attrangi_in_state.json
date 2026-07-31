@@ -7046,7 +7046,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/coloured-baguette-clustered-cocktail-ring-attrangi-1.jpg?v=1739814443",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/coloured-baguette-clustered-cocktail-ring?variant=gid://shopify/ProductVariant/43600050094292",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/43600066543828": {
     "product_title": "Coloured Baguette Clustered Cocktail Ring",
@@ -8015,9 +8015,9 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/dual-row-tiny-diamond-daily-wear-bangle-set-attrangi-2.jpg?v=1739814871",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/dual-row-tiny-diamond-daily-wear-bangle-set?variant=gid://shopify/ProductVariant/46358750789844",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43884004770004": {
     "product_title": "Dual Row Tiny Diamond Daily Wear Bangle Set",
@@ -44113,7 +44113,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-06at2.44.26PM_1.jpg?v=1783332235",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ombre-round-rainbow-multicolour-multigem-tennis-bracelet?variant=gid://shopify/ProductVariant/48216732074196",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48216856002772": {
     "product_title": "Clover Diamond Multigemstone Rainbow Coloured Tennis Bracelet",
