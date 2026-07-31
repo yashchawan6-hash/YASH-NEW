@@ -5612,9 +5612,10 @@
     "price": 50100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_f5556ced-e1c6-4f65-a205-8dc1218e9aad.jpg?v=1762344448",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/6879?variant=gid://shopify/ProductVariant/50565257068841",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50568825405737": {
     "product_title": "Octa Scroll Shine Necklace",
@@ -53367,7 +53368,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52737952383273": {
     "product_title": "Gulbagh Kundan Chandbali",
@@ -68042,9 +68044,10 @@
     "price": 10800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261894_resized.jpg?v=1781613852",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/chandra-padma-kundan-maang-tikka?variant=gid://shopify/ProductVariant/53269475229993",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53269486403881": {
     "product_title": "Stone Kamalini Maang Tikka",

@@ -68,5 +68,35 @@
     "qty_sold": 1,
     "total_value": 1700.0,
     "url": "https://www.rasasilver.com/products/leaflet-ring?variant=gid://shopify/ProductVariant/53288198373673"
+  },
+  {
+    "timestamp": "2026-07-31T14:47:05+05:30",
+    "product_title": "Dhwani Kamalini Necklace",
+    "variant_title": "Default Title",
+    "price": 50100.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 50100.0,
+    "url": "https://www.rasasilver.com/products/6879?variant=gid://shopify/ProductVariant/50565257068841"
+  },
+  {
+    "timestamp": "2026-07-31T14:47:05+05:30",
+    "product_title": "Back Chain",
+    "variant_title": "Default Title",
+    "price": 3800.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 3800.0,
+    "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249"
+  },
+  {
+    "timestamp": "2026-07-31T14:47:05+05:30",
+    "product_title": "Chandra-Padma Kundan Maang Tikka",
+    "variant_title": "Default Title",
+    "price": 10800.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 10800.0,
+    "url": "https://www.rasasilver.com/products/chandra-padma-kundan-maang-tikka?variant=gid://shopify/ProductVariant/53269475229993"
   }
 ]
