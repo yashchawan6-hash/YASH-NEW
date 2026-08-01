@@ -15283,9 +15283,10 @@
     "price": 54482.35,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/CME0343X_3c762c74-a844-4686-80f1-73064a394819.jpg?v=1706507340",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/avila-moissanite-victorian-silver-earrings?variant=gid://shopify/ProductVariant/43634181177495",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43634198020247": {
     "product_title": "Yaavini Moissanite Silver Necklace Set",

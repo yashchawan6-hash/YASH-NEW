@@ -37117,10 +37117,10 @@
     "price": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-06at6.45.58PM.jpg?v=1772803592",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/thanos-sabhya-multicoloured-gemstone-designer-cuff-kada?variant=gid://shopify/ProductVariant/47627275075796",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47627294114004": {
     "product_title": "Sheela Moissanite Polki Victorian Necklace Set",
@@ -41717,7 +41717,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/48309312159956",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47786975133908": {
     "product_title": "Too Hot For Tulum Champagne Party Wear Earrings",

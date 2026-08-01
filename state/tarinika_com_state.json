@@ -15187,9 +15187,10 @@
     "price": 34.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0299X_2.jpg?v=1703494122",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/pearl-classic-tassel-choker?variant=gid://shopify/ProductVariant/40631870390338",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40637729833026": {
     "product_title": "Floral Bloom Garden Necklace",
@@ -25096,9 +25097,9 @@
     "price": 39.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0007X.jpg?v=1779964134",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43764316110914": {
@@ -25282,7 +25283,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX0308XMC.png?v=1781846347",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/punya-antique-necklace-set?variant=gid://shopify/ProductVariant/43869719265346",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43869721165890": {
     "product_title": "Dharini Kundan Drop Earrings",
@@ -25338,7 +25340,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/Sparkling_CZ_Chandbali_Earrings.png?v=1784271301",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sparkling-cz-chandbali-earrings?variant=gid://shopify/ProductVariant/44136928149570",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44136928182338": {
     "product_title": "Sadya CZ Green Drop Earrings",
@@ -25759,7 +25762,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T073.png?v=1784356835",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/zara-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/44136936112194",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44136936144962": {
     "product_title": "Myra CZ Drop Earrings",

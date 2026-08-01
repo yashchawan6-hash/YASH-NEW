@@ -38163,9 +38163,10 @@
     "price": 51000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_49_24Dec4703_resized.jpg?v=1767427070",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emerisse-moira-necklace-set?variant=gid://shopify/ProductVariant/52267482513705",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52279216308521": {
     "product_title": "Pearlora Moire Choker",
