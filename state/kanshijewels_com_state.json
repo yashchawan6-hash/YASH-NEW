@@ -4259,7 +4259,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/420.jpg?v=1692606026",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-8?variant=gid://shopify/ProductVariant/46472651211052",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46472671396140": {
     "product_title": "Jadau Kundan Stud Earrings",
@@ -14767,9 +14768,10 @@
     "price": 619.5,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Bugadi590_-_1.jpg?v=1741684688",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/bugadi-2?variant=gid://shopify/ProductVariant/50724517347628",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50724518396204": {
     "product_title": "Bugadi",

@@ -428,5 +428,35 @@
     "qty_sold": 1,
     "total_value": 1600.0,
     "url": "https://www.rasasilver.com/products/minimal-plain-chain?variant=gid://shopify/ProductVariant/53329485431081"
+  },
+  {
+    "timestamp": "2026-08-01T23:42:15+05:30",
+    "product_title": "Kiranaratna Stud Earrings",
+    "variant_title": "Default Title",
+    "price": 4400.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 4400.0,
+    "url": "https://www.rasasilver.com/products/kiranaratna-studs?variant=gid://shopify/ProductVariant/50152979005737"
+  },
+  {
+    "timestamp": "2026-08-01T23:42:15+05:30",
+    "product_title": "Sunehri Antique Choker",
+    "variant_title": "Default Title",
+    "price": 23760.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 23760.0,
+    "url": "https://www.rasasilver.com/products/sunehri-antique-choker?variant=gid://shopify/ProductVariant/52544305070377"
+  },
+  {
+    "timestamp": "2026-08-01T23:42:15+05:30",
+    "product_title": "Crystal Oval CZ Danglers",
+    "variant_title": "GREEN",
+    "price": 5000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 5000.0,
+    "url": "https://www.rasasilver.com/products/crystal-oval-cz-danglers?variant=gid://shopify/ProductVariant/53283808837929"
   }
 ]

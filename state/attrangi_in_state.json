@@ -6791,7 +6791,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-22_at_3.12.02_PM_1_6b070cc3-e5d1-4e73-8ded-30ab1ce043d6.jpg?v=1739814325",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/aleem-oversized-jadaau-statement-earrings?variant=gid://shopify/ProductVariant/46018041184468",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43459422191828": {
     "product_title": "Zeenia Diamond Chandelier Earrings",
@@ -8741,8 +8742,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sasha-basic-victorian-polki-choker-necklace-set-attrangi-1.jpg?v=1739814999",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sasha-basic-victorian-polki-choker-necklace-set?variant=gid://shopify/ProductVariant/43910066897108",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/43910163366100": {
     "product_title": "Diana Floral Fantasy Invisible Setting Diamond Studs",
@@ -14162,7 +14163,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-25_at_9.16.45_PM.jpg?v=1750782030",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/vismaya-polki-and-meenakari-long-indian-earrings?variant=gid://shopify/ProductVariant/45396216250580",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45396302168276": {
     "product_title": "Tira Rich Baroque Pearl Diamond Rim Necklace",
@@ -21417,7 +21419,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-03-22at11.48.41AM_1.jpg?v=1744968849",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fool-ki-dhar-polki-moissanite-gold-nath-nose-ring?variant=gid://shopify/ProductVariant/46163634487508",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46163764281556": {
@@ -25707,8 +25709,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-07-08at2.44.02PM.jpg?v=1774358783",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/tri-solitaire-diamond-studs?variant=gid://shopify/ProductVariant/46470509002964",
-    "stock": 3,
-    "last_alerted_stock": 1
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46470570574036": {
     "product_title": "Navratna Rich Pendant Set |  Beaded Mala & Earrings",
@@ -26540,7 +26542,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-08-04_at_6.49.00_PM.jpg?v=1754388177",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lopamudra-holdali-gold-traditional-earrings-sone-pe-suhaga?variant=gid://shopify/ProductVariant/46599061405908",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46601795928276": {
     "product_title": "Sneha Polki Rakhi Bracelet",
@@ -36785,9 +36788,10 @@
     "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at4.24.41PM.jpg?v=1771850116",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/jharna-polki-moissanite-polki-slim-bangle-set?variant=gid://shopify/ProductVariant/48086358720724",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48086358753492": {
     "product_title": "Jharna Polki Moissanite Polki Slim Bangle Set",
@@ -38463,7 +38467,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at4.02.05PM.jpg?v=1774351381",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ikkattha-single-line-mangalsutra-with-diamond-studs-daily-wear?variant=gid://shopify/ProductVariant/47715950854356",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47715958128852": {
     "product_title": "Forever Vow Single Line Diamond Mangalsutra | Daily Wear",
@@ -45886,9 +45891,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at7.06.05PM_1.jpg?v=1784354414",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fia-diamond-pearl-flower-clip-hair-accessory?variant=gid://shopify/ProductVariant/48323475865812",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48323477110996": {
@@ -46014,9 +46019,10 @@
     "price": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at6.19.44PM.jpg?v=1784358938",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/gloria-diamond-coloured-necklace-set-emerald-green?variant=gid://shopify/ProductVariant/48330385752276",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48330386702548": {
     "product_title": "Gloria Diamond Coloured Necklace Set | Emerald Green",
@@ -46070,9 +46076,9 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at6.25.33PM.jpg?v=1784360793",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/oh-maria-diamond-designer-hathpan-hand-harness?variant=gid://shopify/ProductVariant/48324851171540",
-    "stock": 0,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48324858577108": {
@@ -48842,6 +48848,20 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lopamudra-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403607290068",
     "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403806748884": {
+    "product_title": "Colourful Gemstone Hasli Western Necklace Set",
+    "product_handle": "colourful-gemstone-hasli-western-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/48403806748884",
+    "global_id": "gid://shopify/ProductVariant/48403806748884",
+    "variant_title": "Default Title",
+    "sku": "SJO7311-JS",
+    "price": 3850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at10.20.36PM.jpg?v=1785603190",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/colourful-gemstone-hasli-western-necklace-set?variant=gid://shopify/ProductVariant/48403806748884",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/48006745030868": {
     "product_title": "Giza Round Solitaire Cocktail Diamond Ring | Baguettes",

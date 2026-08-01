@@ -4369,7 +4369,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2675.jpg?v=1640780820",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/oma-antique-bangles?variant=gid://shopify/ProductVariant/32647296155714",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/32658599641154": {
     "product_title": "Oma Antique Bangles",
@@ -6733,9 +6734,10 @@
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0103X.jpg?v=1640779594",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/jalaja-statement-lotus-cuff-necklace?variant=gid://shopify/ProductVariant/39613660627010",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39613728817218": {
     "product_title": "Jalaja Center Lotus Motif Pearl Necklace",
@@ -12591,7 +12593,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0526copycopy.jpg?v=1685425245",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/inca-antique-jadau-chandbali-earrings?variant=gid://shopify/ProductVariant/40308403273794",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40311005577282": {
     "product_title": "Janaki Antique Necklace Set",
@@ -17382,9 +17385,10 @@
     "price": 47.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX4107BMY_8f7b7928-dd17-477f-94e3-d020b4f12344.jpg?v=1739854619",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/anvika-antique-necklace-set?variant=gid://shopify/ProductVariant/41975901028418",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41975907778626": {
     "product_title": "Muralika Antique Krishna Necklace Set",
@@ -18979,9 +18983,10 @@
     "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IMG_5462copycopy.jpg?v=1755067278",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/dainty-cz-charms-925-silver-mangalsutra?variant=gid://shopify/ProductVariant/42373197103170",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42373200085058": {
     "product_title": "Nakshatra 925 Silver CZ Stud Earrings",
@@ -23211,7 +23216,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0002XD6.jpg?v=1766059667",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/glow-nakshatra-green-cz-pendant-set?variant=gid://shopify/ProductVariant/42778124615746",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42778124648514": {
     "product_title": "Glow Nakshatra Blue CZ Pendant Set",

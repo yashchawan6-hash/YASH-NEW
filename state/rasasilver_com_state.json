@@ -1522,8 +1522,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06339_copy.jpg?v=1744182993",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kiranaratna-studs?variant=gid://shopify/ProductVariant/50152979005737",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50153089728809": {
     "product_title": "Navarise Stud Earrings",
@@ -47531,9 +47531,10 @@
     "price": 23760.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3935_resized.jpg?v=1770362930",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/sunehri-antique-choker?variant=gid://shopify/ProductVariant/52544305070377",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52544310313257": {
     "product_title": "Caravan Antique Choker",
@@ -69281,9 +69282,10 @@
     "price": 5000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1768_resized_00df3984-21d3-4fca-b74c-c4c96b798442.jpg?v=1782193506",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/crystal-oval-cz-danglers?variant=gid://shopify/ProductVariant/53283808837929",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53283808870697": {
     "product_title": "Crystal Oval CZ Danglers",
