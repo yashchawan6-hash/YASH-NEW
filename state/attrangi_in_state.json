@@ -4694,7 +4694,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeba-navratna-oversized-earrings-attrangi-1.jpg?v=1739813879",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zeba-navratna-oversized-earrings-1?variant=gid://shopify/ProductVariant/42769027268820",
-    "stock": 2
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/43178397434068": {
     "product_title": "Valima Floral Jadaau Oversized Studs",
@@ -4861,10 +4861,10 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/slim-everyday-diamond-bracelet-attrangi-3.jpg?v=1739813936",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/slim-everyday-diamond-bracelet?variant=gid://shopify/ProductVariant/42855753023700",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42855753056468": {
     "product_title": "Slim Everyday Diamond Kada",
@@ -31949,9 +31949,10 @@
     "price": 7450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.39.34_PM.jpg?v=1764404167",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/shanti-polki-moissanite-rich-next-to-real-kada-uncut-diamond?variant=gid://shopify/ProductVariant/47208530804948",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47208530837716": {
     "product_title": "Shanti Polki Moissanite Rich Next To Real Kada  | Uncut Diamond",
@@ -37313,9 +37314,9 @@
     "price": 5850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-11at5.24.47PM_1.jpg?v=1773236490",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gabala-diamond-designer-gajra-bracelet-tennis-style?variant=gid://shopify/ProductVariant/47687285309652",
-    "stock": 0
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/47687287537876": {
     "product_title": "Gabala Diamond Designer Gajra Bracelet ( Tennis Style)",
@@ -37329,7 +37330,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-21_at_6.18.32_PM_1.jpg?v=1774099145",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gabala-diamond-designer-gajra-bracelet-tennis-style?variant=gid://shopify/ProductVariant/47687287537876",
-    "stock": 2
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/47644762177748": {
     "product_title": "Floral Ballad Diamond Heavy Bridal Necklace Set",
@@ -45895,7 +45896,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at7.07.44PM_1.jpg?v=1784355459",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kumari-polki-moissanite-chand-clip-hair-accessory?variant=gid://shopify/ProductVariant/48323477110996",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/48323512762580": {
     "product_title": "Aarti Vijay Big Polki Traditional Clip | Hair Accessory",
@@ -48676,7 +48677,7 @@
     "price": 1850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403565969620",
     "stock": 0
   },
@@ -48690,7 +48691,7 @@
     "price": 1850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566002388",
     "stock": 0
   },
@@ -48704,7 +48705,7 @@
     "price": 1850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566035156",
     "stock": 0
   },
@@ -48718,7 +48719,7 @@
     "price": 1850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566067924",
     "stock": 0
   },
@@ -48732,7 +48733,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.32.22PM.jpg?v=1785588855",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/grisha-tradtional-gold-kada-bangle-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403601850580",
     "stock": 0
   },
@@ -48746,7 +48747,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.32.22PM.jpg?v=1785588855",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/grisha-tradtional-gold-kada-bangle-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403601883348",
     "stock": 0
   },
@@ -48760,7 +48761,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.32.22PM.jpg?v=1785588855",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/grisha-tradtional-gold-kada-bangle-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403601916116",
     "stock": 0
   },
@@ -48776,6 +48777,62 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.32.22PM.jpg?v=1785588855",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/grisha-tradtional-gold-kada-bangle-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403601948884",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403607191764": {
+    "product_title": "Lopamudra Thick Traditional Indian Kada| Sone Pe Suhaga",
+    "product_handle": "lopamudra-thick-traditional-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403607191764",
+    "global_id": "gid://shopify/ProductVariant/48403607191764",
+    "variant_title": "2.2 / Single",
+    "sku": "SH41628Z2X1-BG",
+    "price": 3150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at4.30.31PM.jpg?v=1785589678",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403607191764",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403607224532": {
+    "product_title": "Lopamudra Thick Traditional Indian Kada| Sone Pe Suhaga",
+    "product_handle": "lopamudra-thick-traditional-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403607224532",
+    "global_id": "gid://shopify/ProductVariant/48403607224532",
+    "variant_title": "2.4 / Single",
+    "sku": "SH41628Z4X1-BG",
+    "price": 3150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at4.30.31PM.jpg?v=1785589678",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403607224532",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403607257300": {
+    "product_title": "Lopamudra Thick Traditional Indian Kada| Sone Pe Suhaga",
+    "product_handle": "lopamudra-thick-traditional-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403607257300",
+    "global_id": "gid://shopify/ProductVariant/48403607257300",
+    "variant_title": "2.6 / Single",
+    "sku": "SH41628Z6X1-BG",
+    "price": 3150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at4.30.31PM.jpg?v=1785589678",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403607257300",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403607290068": {
+    "product_title": "Lopamudra Thick Traditional Indian Kada| Sone Pe Suhaga",
+    "product_handle": "lopamudra-thick-traditional-indian-kada-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403607290068",
+    "global_id": "gid://shopify/ProductVariant/48403607290068",
+    "variant_title": "2.8 / Single",
+    "sku": "SH41628Z8X1-BG",
+    "price": 3150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at4.30.31PM.jpg?v=1785589678",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/lopamudra-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403607290068",
     "stock": 0
   },
   "gid://shopify/ProductVariant/48006745030868": {
