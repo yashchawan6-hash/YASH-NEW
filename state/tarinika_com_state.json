@@ -25191,12 +25191,12 @@
     "global_id": "gid://shopify/ProductVariant/43868858875970",
     "variant_title": "Green / 2.6",
     "sku": "US-ABX0071XGC6",
-    "price": 24.99,
+    "price": 12.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071.jpg?v=1781779478",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/bhavya-antique-green-floral-bangles?variant=gid://shopify/ProductVariant/43868858875970",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/43868858908738": {
     "product_title": "Bhavya Antique Green Floral Bangles",
