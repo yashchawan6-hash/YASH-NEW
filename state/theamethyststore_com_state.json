@@ -97861,9 +97861,10 @@
     "price": 3200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11785_55ecf093-09aa-4c43-b356-1cb5bf1157a5.jpg?v=1782105788",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/srisha-stone-drops-1?variant=gid://shopify/ProductVariant/47813860425955",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47813861900515": {
     "product_title": "Yashini Stone Drops",
@@ -133893,9 +133894,10 @@
     "price": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13796.jpg?v=1778320920",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/victorian-studs-8?variant=gid://shopify/ProductVariant/48927448727779",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48927463637219": {
     "product_title": "Citharine Avikam Long Earrings",
@@ -142341,9 +142343,10 @@
     "price": 3800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14184.jpg?v=1781611184",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/yalisha-stone-studs-1?variant=gid://shopify/ProductVariant/49268064059619",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49268066615523": {
     "product_title": "Little Cute Stone Studs",
