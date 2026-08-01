@@ -174870,6 +174870,20 @@
     "url": "https://www.theamethyststore.com/products/avikam-choker?variant=gid://shopify/ProductVariant/49483749589219",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/49483848876259": {
+    "product_title": "Shikhari Pakshi Short Necklace Set",
+    "product_handle": "shikhari-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483848876259",
+    "global_id": "gid://shopify/ProductVariant/49483848876259",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16995",
+    "price": 30600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16995.jpg?v=1785591617",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/shikhari-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483848876259",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/49483856412899": {
     "product_title": "Catchy Avikam Necklace Set",
     "product_handle": "avikam-necklace-set-8",
@@ -174894,8 +174908,22 @@
     "price": 104900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17340.jpg?v=1785592181",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-necklace-set-9?variant=gid://shopify/ProductVariant/49483880562915",
-    "stock": 0
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483892523235": {
+    "product_title": "Grand Bridal Avikam Choker Set",
+    "product_handle": "avikam-choker-set-4",
+    "variant_id": "gid://shopify/ProductVariant/49483892523235",
+    "global_id": "gid://shopify/ProductVariant/49483892523235",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17346",
+    "price": 251000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17346.jpg?v=1785592528",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-choker-set-4?variant=gid://shopify/ProductVariant/49483892523235",
+    "stock": 1
   }
 }
