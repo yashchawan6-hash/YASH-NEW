@@ -19018,7 +19018,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1159.jpg?v=1721301790",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/dymtrus-avikam-hair-maatal?variant=gid://shopify/ProductVariant/45281421754595",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45281426637027": {
@@ -36605,12 +36605,12 @@
     "global_id": "gid://shopify/ProductVariant/46326684877027",
     "variant_title": "Default Title",
     "sku": "AMS-106-8221",
-    "price": 27668.0,
+    "price": 27700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8221.jpg?v=1746101643",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/prathishka-nagas-earrings?variant=gid://shopify/ProductVariant/46326684877027",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46326812344547": {
     "product_title": "Sreethika Nagas Earrings",
@@ -152108,7 +152108,7 @@
     "price": 3300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14459.jpg?v=1782729233",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nagas-studs-1?variant=gid://shopify/ProductVariant/49326006632675",
     "stock": 0,
     "last_alerted_stock": 0
@@ -163179,7 +163179,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16626.jpg?v=1784097738",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/sparkle-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/49409202487523",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49409214480611": {
     "product_title": "Dazzling Avikam Short Necklace Set",
@@ -171097,7 +171097,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17080.jpg?v=1785065191",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-8?variant=gid://shopify/ProductVariant/49448230355171",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49448233304291": {
     "product_title": "Grand Look Avikam Choker Set",
@@ -173699,8 +173699,8 @@
     "price": 30900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4851.jpg?v=1785567348",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/victorian-pendant-1?variant=gid://shopify/ProductVariant/49483001790691",
-    "stock": 0
+    "stock": 3
   }
 }

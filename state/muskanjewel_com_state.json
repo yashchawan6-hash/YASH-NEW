@@ -572,9 +572,10 @@
     "price": 9900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/e82dd6de-5d43-4df8-81c9-9e213478bb49.webp?v=1768484190",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-long-necklace-with-pearl-drop-and-natural-strawberry-beadsno-earrings?variant=gid://shopify/ProductVariant/52628930199868",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52628931248444": {
     "product_title": "Jadau kundan bridal necklace with pearl drop and natural strawberry beads(No earrings)",
@@ -672,20 +673,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/48e68354-4e8f-4dbc-a2be-e00eac1675d9.webp?v=1768565940",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-necklace-with-pearl-and-natural-strawberry-beads-dropsno-earrings?variant=gid://shopify/ProductVariant/52632338759996",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/52632447385916": {
-    "product_title": "Jadau Kundan 2 in 1 reversible multi and full white Mango Necklace with pearl and strawberry beads(No earrings)",
-    "product_handle": "jadau-kundan-2-1-reversible-multi-and-full-white-mango-necklace-with-pearl-and-strawberry-beadsno-earrings",
-    "variant_id": "gid://shopify/ProductVariant/52632447385916",
-    "global_id": "gid://shopify/ProductVariant/52632447385916",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 22800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/73482302-ff5e-45a3-b388-0c1a34be9dd8.png?v=1768574350",
-    "available_for_sale": true,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-2-1-reversible-multi-and-full-white-mango-necklace-with-pearl-and-strawberry-beadsno-earrings?variant=gid://shopify/ProductVariant/52632447385916",
     "stock": 1
   },
   "gid://shopify/ProductVariant/52632522064188": {
@@ -3697,5 +3684,19 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-layer-necklace-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53846230696252",
     "stock": 5
+  },
+  "gid://shopify/ProductVariant/52632447385916": {
+    "product_title": "Jadau Kundan 2 in 1 reversible multi and full white Mango Necklace with pearl and strawberry beads(No earrings)",
+    "product_handle": "jadau-kundan-2-1-reversible-multi-and-full-white-mango-necklace-with-pearl-and-strawberry-beadsno-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52632447385916",
+    "global_id": "gid://shopify/ProductVariant/52632447385916",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 22800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/73482302-ff5e-45a3-b388-0c1a34be9dd8.png?v=1768574350",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-2-1-reversible-multi-and-full-white-mango-necklace-with-pearl-and-strawberry-beadsno-earrings?variant=gid://shopify/ProductVariant/52632447385916",
+    "stock": 1
   }
 }
