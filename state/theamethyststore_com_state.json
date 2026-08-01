@@ -100346,7 +100346,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2064.jpg?v=1768721121",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/raziya-avikam-maangtikka?variant=gid://shopify/ProductVariant/47850409328867",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47850414473443": {
     "product_title": "Grand Nagas Long Necklace",
@@ -164238,12 +164238,12 @@
     "global_id": "gid://shopify/ProductVariant/49415637139683",
     "variant_title": "Default Title",
     "sku": "AMS-109-2393",
-    "price": 12600.0,
+    "price": 13700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2393.jpg?v=1784210857",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-maangtikka-5?variant=gid://shopify/ProductVariant/49415637139683",
-    "stock": 1
+    "stock": 4
   },
   "gid://shopify/ProductVariant/49415677575395": {
     "product_title": "Disha Avikam Maangtikka",
@@ -173631,5 +173631,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-31?variant=gid://shopify/ProductVariant/49482776772835",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49482781393123": {
+    "product_title": "Emilia Diamond Design Pendant",
+    "product_handle": "diamond-design-pendant-32",
+    "variant_id": "gid://shopify/ProductVariant/49482781393123",
+    "global_id": "gid://shopify/ProductVariant/49482781393123",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4785",
+    "price": 19200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4785.jpg?v=1785566631",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-32?variant=gid://shopify/ProductVariant/49482781393123",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/49482809966819": {
+    "product_title": "Adriana Diamond Design Pendant",
+    "product_handle": "diamond-design-pendant-33",
+    "variant_id": "gid://shopify/ProductVariant/49482809966819",
+    "global_id": "gid://shopify/ProductVariant/49482809966819",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4834",
+    "price": 24100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4834.jpg?v=1785566805",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-pendant-33?variant=gid://shopify/ProductVariant/49482809966819",
+    "stock": 4
   }
 }
