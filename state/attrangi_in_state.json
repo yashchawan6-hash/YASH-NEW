@@ -41684,9 +41684,9 @@
     "price": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/48188794536148",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48309312159956": {
     "product_title": "Renita silver Gold CNC Bangle Set | Daily Wear",
@@ -48661,7 +48661,7 @@
     "price": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.21.20PM_1.jpg?v=1785586067",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403554894036",
     "stock": 0
   },
