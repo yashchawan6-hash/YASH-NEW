@@ -32462,8 +32462,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC70Y-2.jpg?v=1771666917",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bracelet-mbrac70?variant=gid://shopify/ProductVariant/47070031085791",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/46791430832351": {
     "product_title": "Multicolor Dual-Tone Tribal Long Necklace with Kundan Setting, Elephant and Peacock Motifs - MR-N77M",
@@ -95057,20 +95057,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-ear-chain-mks115m?variant=gid://shopify/ProductVariant/50586673807583",
     "stock": 6
   },
-  "gid://shopify/ProductVariant/50586703954143": {
-    "product_title": "Multicolor Gold-Plated Mishr Long Necklace with Kundan Pendant and Pearl Chain - MR-N135",
-    "product_handle": "multicolor-gold-plated-mishr-necklace-mr-n135",
-    "variant_id": "gid://shopify/ProductVariant/50586703954143",
-    "global_id": "gid://shopify/ProductVariant/50586703954143",
-    "variant_title": "Default Title",
-    "sku": "MR-N135",
-    "price": 2100.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N135.jpg?v=1784538552",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-mishr-necklace-mr-n135?variant=gid://shopify/ProductVariant/50586703954143",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50586752057567": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Floral Motif - MS2601M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-princess-necklace-set-with-floral-motif-ms2601m",
@@ -96339,8 +96325,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG319YR.jpg?v=1784626027",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/red-color-gold-plated-jadau-kundan-ring-mrng319yr?variant=gid://shopify/ProductVariant/50588635332831",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50588640674015": {
     "product_title": "Multicolor Gold Plated Jadau Kundan Ring - MRNG320M",
@@ -98351,20 +98337,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac89m?variant=gid://shopify/ProductVariant/50604640469215",
     "stock": 4
   },
-  "gid://shopify/ProductVariant/50604645187807": {
-    "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece) - MBRAC90M",
-    "product_handle": "multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac90m",
-    "variant_id": "gid://shopify/ProductVariant/50604645187807",
-    "global_id": "gid://shopify/ProductVariant/50604645187807",
-    "variant_title": "Default Title",
-    "sku": "MBRAC90M",
-    "price": 1750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC90M.jpg?v=1785045936",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac90m?variant=gid://shopify/ProductVariant/50604645187807",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50604648464607": {
     "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece) - MBRAC91M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac91m",
@@ -99106,6 +99078,34 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/50586703954143": {
+    "product_title": "Multicolor Gold-Plated Mishr Long Necklace with Kundan Pendant and Pearl Chain - MR-N135",
+    "product_handle": "multicolor-gold-plated-mishr-necklace-mr-n135",
+    "variant_id": "gid://shopify/ProductVariant/50586703954143",
+    "global_id": "gid://shopify/ProductVariant/50586703954143",
+    "variant_title": "Default Title",
+    "sku": "MR-N135",
+    "price": 2100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N135.jpg?v=1784538552",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-mishr-necklace-mr-n135?variant=gid://shopify/ProductVariant/50586703954143",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/50604645187807": {
+    "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece) - MBRAC90M",
+    "product_handle": "multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac90m",
+    "variant_id": "gid://shopify/ProductVariant/50604645187807",
+    "global_id": "gid://shopify/ProductVariant/50604645187807",
+    "variant_title": "Default Title",
+    "sku": "MBRAC90M",
+    "price": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC90M.jpg?v=1785045936",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac90m?variant=gid://shopify/ProductVariant/50604645187807",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45092208017631": {
     "product_title": "Multicolor Gold-Plated Mishr Long Necklace with Jadau Kundan and Peacock Motif - MR-N42M",
