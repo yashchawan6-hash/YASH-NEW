@@ -30394,7 +30394,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V407435.jpg?v=1774604823",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18kt-gold-plated-crystals-stone-studded-cuff-bracelet-rw30v407435?variant=gid://shopify/ProductVariant/46094343045294",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46088922955950": {
     "product_title": "American Diamond Zirconia Green Bracelet",
@@ -76220,7 +76221,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10KB409777-Model-1.jpg?v=1768978343",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10kb409777?variant=gid://shopify/ProductVariant/47198825611438",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47198825644206": {
     "product_title": "Green & White Studded Dual Chain Bracelet",
@@ -103736,7 +103738,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14ED413188-Model-02.jpg?v=1779882010",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re14ed413188?variant=gid://shopify/ProductVariant/47914236641454",
-    "stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47914236772526": {
     "product_title": "Champagne Glow Crystal Curved Studs",
@@ -106562,9 +106565,9 @@
     "price": 1199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04OP414024_Model.jpg?v=1780556691",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re04op414024?variant=gid://shopify/ProductVariant/47942180012206",
-    "stock": 0
+    "stock": 20
   },
   "gid://shopify/ProductVariant/47942180536494": {
     "product_title": "Tribal Spike Gold Statement Kada",
@@ -109896,7 +109899,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414273-Model.jpg?v=1784291087",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414273?variant=gid://shopify/ProductVariant/48107701567662",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107701960878": {
