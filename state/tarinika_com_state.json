@@ -16555,8 +16555,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0112XW5.jpg?v=1725353552",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/luna-nakshatra-cz-gold-plated-bracelet?variant=gid://shopify/ProductVariant/41607078412354",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/41607092633666": {
     "product_title": "Astra Nakshatra CZ Red Bracelet",
@@ -16654,7 +16654,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNE0308XW6.jpg?v=1725517091",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/shayara-nakshatra-cz-pink-beads-stud-earrings?variant=gid://shopify/ProductVariant/41607145390146",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41607150993474": {
     "product_title": "Jasmine Delicate CZ Lavender Stud Earrings",
@@ -17956,7 +17957,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TEX0310XD0.jpg?v=1740720674",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/harini-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/41977332301890",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41977332334658": {
     "product_title": "Kashvi Nakshatra CZ Jhumka Earrings",
@@ -18972,13 +18974,13 @@
     "variant_id": "gid://shopify/ProductVariant/42373197103170",
     "global_id": "gid://shopify/ProductVariant/42373197103170",
     "variant_title": "Default Title",
-    "sku": "PCMG0009NW5",
+    "sku": "US-PCMG0009NW5",
     "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IMG_5462copycopy.jpg?v=1755067278",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/dainty-cz-charms-925-silver-mangalsutra?variant=gid://shopify/ProductVariant/42373197103170",
-    "stock": 9999
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42373200085058": {
     "product_title": "Nakshatra 925 Silver CZ Stud Earrings",
@@ -22375,13 +22377,13 @@
     "variant_id": "gid://shopify/ProductVariant/42419720159298",
     "global_id": "gid://shopify/ProductVariant/42419720159298",
     "variant_title": "Default Title",
-    "sku": "IJNK0290XMC",
+    "sku": "US-IJNK0290XMC",
     "price": 84.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IJNK0290XMC.jpg?v=1758368400",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anwesha-antique-waist-band?variant=gid://shopify/ProductVariant/42419720159298",
-    "stock": 9999
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42419720192066": {
     "product_title": "Rajitha Antique Armlets",
@@ -23265,6 +23267,20 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/aarya-nakshatra-orange-cz-pendant-set?variant=gid://shopify/ProductVariant/42778124943426",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/42778124976194": {
+    "product_title": "Aarya Nakshatra Light Green CZ Pendant Set",
+    "product_handle": "aarya-nakshatra-light-green-cz-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/42778124976194",
+    "global_id": "gid://shopify/ProductVariant/42778124976194",
+    "variant_title": "Default Title",
+    "sku": "US-VPS0004XD6",
+    "price": 42.49,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0004XD6.jpg?v=1766148662",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/aarya-nakshatra-light-green-cz-pendant-set?variant=gid://shopify/ProductVariant/42778124976194",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42778125008962": {
     "product_title": "Mihita Nakshatra White CZ Pendant Set",

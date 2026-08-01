@@ -238,5 +238,25 @@
     "qty_sold": 1,
     "total_value": 4400.0,
     "url": "https://www.rasasilver.com/products/kiranaratna-studs?variant=gid://shopify/ProductVariant/50152979005737"
+  },
+  {
+    "timestamp": "2026-08-01T14:58:08+05:30",
+    "product_title": "Kumbha Roopini Long Necklace",
+    "variant_title": "Default Title",
+    "price": 49100.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 49100.0,
+    "url": "https://www.rasasilver.com/products/kumbha-roopini-long-necklace?variant=gid://shopify/ProductVariant/50568878326057"
+  },
+  {
+    "timestamp": "2026-08-01T14:58:08+05:30",
+    "product_title": "Smaragda Spark Ring",
+    "variant_title": "GREEN",
+    "price": 3200.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 3200.0,
+    "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153"
   }
 ]

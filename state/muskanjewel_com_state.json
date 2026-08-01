@@ -11,36 +11,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/6ecaa4bc-7595-4118-a8b2-9a0034bd7b96.webp?v=1768307798",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-matching-earrings-included?variant=gid://shopify/ProductVariant/52623631319356",
-    "stock": 3
-  },
-  "gid://shopify/ProductVariant/52623635415356": {
-    "product_title": "Jadau Kundan Bottumala necklace with matching earrings included",
-    "product_handle": "jadau-kundan-bottumala-necklace-with-matching-earrings-included",
-    "variant_id": "gid://shopify/ProductVariant/52623635415356",
-    "global_id": "gid://shopify/ProductVariant/52623635415356",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 11500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/9060c4f2-39f6-4a15-a011-b37281d966d8.webp?v=1768307851",
-    "available_for_sale": false,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-bottumala-necklace-with-matching-earrings-included?variant=gid://shopify/ProductVariant/52623635415356",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/52623649341756": {
-    "product_title": "Bridal Peacock necklace set with matching earrings included",
-    "product_handle": "bridal-peacock-necklace-set-with-matching-earrings-included",
-    "variant_id": "gid://shopify/ProductVariant/52623649341756",
-    "global_id": "gid://shopify/ProductVariant/52623649341756",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 10600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/13894f50-99ad-4ef0-a1ac-f3793673c99e.webp?v=1768308715",
-    "available_for_sale": true,
-    "url": "https://www.muskanjewel.com/products/bridal-peacock-necklace-set-with-matching-earrings-included?variant=gid://shopify/ProductVariant/52623649341756",
-    "stock": 2
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52623662743868": {
     "product_title": "Jadau kundan Necklace set with matching earrings",
@@ -466,6 +438,20 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-lotus-tika-with-pearl-drops?variant=gid://shopify/ProductVariant/52628751417660",
     "stock": 13
   },
+  "gid://shopify/ProductVariant/52628761641276": {
+    "product_title": "Jadau Kundan peacock necklace with pearl drops and natural strawberry beads (No earrings)",
+    "product_handle": "jadau-kundan-peacock-necklace-with-pearl-drops-and-natural-strawberry-beads",
+    "variant_id": "gid://shopify/ProductVariant/52628761641276",
+    "global_id": "gid://shopify/ProductVariant/52628761641276",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/a852c03a-db9f-4e7b-8d3f-33772d37022a.webp?v=1768476176",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-drops-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628761641276",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/52628832551228": {
     "product_title": "Jadau kundan Navratna bottu mala necklace(without earrings)",
     "product_handle": "jadau-kundan-navratna-bottu-mala-necklace",
@@ -507,7 +493,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/cee763fa-884e-43c4-abe5-4f49151e9ce3.webp?v=1768480335",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-bridal-necklace-set-with-pearl-drop-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628856930620",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52628861878588": {
     "product_title": "Jadau kundan peacock long necklace set with pearl drops and natural strawberry beads(without earrings)",
@@ -549,7 +535,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/a02280b7-9329-4b6a-9da8-00b42c5ba3b1.webp?v=1768482777",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-drop-and-natural-strawberry-beadsno-earrings?variant=gid://shopify/ProductVariant/52628896579900",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/52628925382972": {
     "product_title": "Jadau kundan peacock bottu mala Necklace (No earrings)",
@@ -564,21 +550,6 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-bottu-mala-necklace-no-earrings?variant=gid://shopify/ProductVariant/52628925382972",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/52628930199868": {
-    "product_title": "Jadau kundan long necklace with pearl drop and natural strawberry beads(No earrings)",
-    "product_handle": "jadau-kundan-long-necklace-with-pearl-drop-and-natural-strawberry-beadsno-earrings",
-    "variant_id": "gid://shopify/ProductVariant/52628930199868",
-    "global_id": "gid://shopify/ProductVariant/52628930199868",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 9900.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/e82dd6de-5d43-4df8-81c9-9e213478bb49.webp?v=1768484190",
-    "available_for_sale": false,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-long-necklace-with-pearl-drop-and-natural-strawberry-beadsno-earrings?variant=gid://shopify/ProductVariant/52628930199868",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52628931248444": {
     "product_title": "Jadau kundan bridal necklace with pearl drop and natural strawberry beads(No earrings)",
@@ -634,7 +605,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/9e19cd2e-a277-4467-8b09-b042cee363cc.webp?v=1768485600",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-bridal-necklace-with-pearl-and-strawberry-beads-drops-no-earrings?variant=gid://shopify/ProductVariant/52628982530364",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52629029978428": {
     "product_title": "Jadau kundan peacock necklace with pearl and natural strawberry beads drops (No earrings)",
@@ -648,7 +620,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/8f2707d1-3ea4-486f-8468-3851eaa17fc8.webp?v=1768486392",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-and-natural-strawberry-beads-drops-no-earrings?variant=gid://shopify/ProductVariant/52629029978428",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52631891935548": {
     "product_title": "Jadau Kundan long Peacock necklace with pearl and natural strawberry beads drops(No earrings)",
@@ -678,6 +651,20 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-necklace-with-pearl-and-natural-strawberry-beads-dropsno-earrings?variant=gid://shopify/ProductVariant/52632338759996",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/52632507679036": {
+    "product_title": "Diamond finish Bottumala short necklace(With Earrings)",
+    "product_handle": "diamond-finish-bottumala-short-necklacewith-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52632507679036",
+    "global_id": "gid://shopify/ProductVariant/52632507679036",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/cc4bc348-daa9-4717-9358-42b20cb2399e.webp?v=1768579181",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/diamond-finish-bottumala-short-necklacewith-earrings?variant=gid://shopify/ProductVariant/52632507679036",
+    "stock": 2
+  },
   "gid://shopify/ProductVariant/52632522064188": {
     "product_title": "Diamond finish bottumala mango necklace (With Earrings)",
     "product_handle": "diamond-finish-bottumala-mango-necklace-with-earrings",
@@ -688,9 +675,9 @@
     "price": 3800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/f67e8067-fc20-411b-9da2-cb9f29f43bd4.webp?v=1768579699",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/diamond-finish-bottumala-mango-necklace-with-earrings?variant=gid://shopify/ProductVariant/52632522064188",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52632771723580": {
     "product_title": "Diamond finish bottumala necklace(With Earrings)",
@@ -704,7 +691,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/21d99a29-6924-4175-9bff-686235946f9c_1.webp?v=1768580412",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/diamond-finish-bottumala-necklacewith-earrings?variant=gid://shopify/ProductVariant/52632771723580",
-    "stock": 6
+    "stock": 10
   },
   "gid://shopify/ProductVariant/52635835007292": {
     "product_title": "Diamond finish Bottumala mango short necklace (With Earrings)",
@@ -718,7 +705,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/25f06dc7-88d6-459d-992b-2cc74e5070a7.webp?v=1768652577",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/diamond-finish-bottumala-mango-short-necklace-with-earrings?variant=gid://shopify/ProductVariant/52635835007292",
-    "stock": 1
+    "stock": 4
   },
   "gid://shopify/ProductVariant/52635843789116": {
     "product_title": "diamond finish floral multi colour tone 2 line necklace(With Earrings)",
@@ -746,7 +733,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/019ae142-653d-4255-b3e5-4fc1c2e3ed06.webp?v=1768654255",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/diamond-finish-peacock-bridal-necklace-with-pearl-dropwith-earrings?variant=gid://shopify/ProductVariant/52635855454524",
-    "stock": 3
+    "stock": 8
   },
   "gid://shopify/ProductVariant/52635872985404": {
     "product_title": "Diamond finish Bridal Hipbelt/Vaddanam with pearl drop",
@@ -1042,20 +1029,6 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-tika-with-pearl-and-natural-strawberry-beads-drop-3?variant=gid://shopify/ProductVariant/52737338212668",
     "stock": 6
   },
-  "gid://shopify/ProductVariant/52737441333564": {
-    "product_title": "Jadau kundan necklace with pearls and natural strawberry beads",
-    "product_handle": "jadau-kundan-necklace-with-pearls-and-natural-strawberry-beads",
-    "variant_id": "gid://shopify/ProductVariant/52737441333564",
-    "global_id": "gid://shopify/ProductVariant/52737441333564",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 4400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_191524_bbdf767e-4325-4337-8dd2-8e92c50ef593_1.webp?v=1770893075",
-    "available_for_sale": true,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52737441333564",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/52737453031740": {
     "product_title": "Jadau kundan floral necklace with pearl and strawberry beads (No earrings)",
     "product_handle": "jadau-kundan-floral-necklace-with-pearl-and-strawberry-beads-no-earrings",
@@ -1096,20 +1069,21 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_192720_1e7686bf-46b8-42d8-a036-de784c5d7993.webp?v=1770896217",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-pearl-and-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52737517551932",
-    "stock": 4
+    "stock": 2,
+    "last_alerted_stock": 2
   },
-  "gid://shopify/ProductVariant/52737550451004": {
-    "product_title": "Jadau kundan peacock necklace with pearl and strawberry beads(No Earrings)",
-    "product_handle": "jadau-kundan-peacock-necklace-with-pearl-and-strawberry-beadsno-earrings",
-    "variant_id": "gid://shopify/ProductVariant/52737550451004",
-    "global_id": "gid://shopify/ProductVariant/52737550451004",
+  "gid://shopify/ProductVariant/52737556447548": {
+    "product_title": "Jadau kundan black thread bottu and mango necklace",
+    "product_handle": "jadau-kundan-black-thread-bottu-and-mango-necklace",
+    "variant_id": "gid://shopify/ProductVariant/52737556447548",
+    "global_id": "gid://shopify/ProductVariant/52737556447548",
     "variant_title": "Default Title",
     "sku": null,
-    "price": 6300.0,
+    "price": 4100.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_192945_11b93f9a-f0d2-48c6-982c-153ca2637711.webp?v=1770897524",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_193145_26f4415f-f520-487e-89ac-333b9ddef7e2.webp?v=1770898191",
     "available_for_sale": true,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-and-strawberry-beadsno-earrings?variant=gid://shopify/ProductVariant/52737550451004",
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-black-thread-bottu-and-mango-necklace?variant=gid://shopify/ProductVariant/52737556447548",
     "stock": 3
   },
   "gid://shopify/ProductVariant/52737572241724": {
@@ -1126,6 +1100,20 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-black-beads-pendant-mala?variant=gid://shopify/ProductVariant/52737572241724",
     "stock": 5
   },
+  "gid://shopify/ProductVariant/52737587446076": {
+    "product_title": "Jadau kundan black beads pendant mala",
+    "product_handle": "jadau-kundan-black-beads-pendant-mala-1",
+    "variant_id": "gid://shopify/ProductVariant/52737587446076",
+    "global_id": "gid://shopify/ProductVariant/52737587446076",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 2100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260129_185330_e522cc10-f7bc-4956-9e81-528e14dc2dc7.webp?v=1770899269",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-black-beads-pendant-mala-1?variant=gid://shopify/ProductVariant/52737587446076",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/52737592197436": {
     "product_title": "Jadau kundan necklace with pearl and natural strawberry beads (No earrings)",
     "product_handle": "jadau-kundan-necklace-with-pearl-and-natural-strawberry-beads-no-earrings",
@@ -1138,7 +1126,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_193959_6c1de434-96f4-4e78-b6fa-ccc97530ef91.webp?v=1770900038",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-pearl-and-natural-strawberry-beads-no-earrings?variant=gid://shopify/ProductVariant/52737592197436",
-    "stock": 1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/52744982462780": {
     "product_title": "Jadau kundan Navratna goddess laxmi necklace set with earrings with pearl and natural strawberry beads drop",
@@ -1432,6 +1420,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_171257_2d68bce0-2c06-4613-9afb-2bf46d978b5e.webp?v=1772436950",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-pearl-and-natural-strawberry-beads-drop-1?variant=gid://shopify/ProductVariant/52814596964668",
+    "stock": 5
+  },
+  "gid://shopify/ProductVariant/52814670004540": {
+    "product_title": "Jadau kundan necklace with pearl and natural strawberry beads drop(No earrings)",
+    "product_handle": "jadau-kundan-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52814670004540",
+    "global_id": "gid://shopify/ProductVariant/52814670004540",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_173204_1643d365-3c6c-4347-bb18-4cd3d0e29e8d_2.webp?v=1772437540",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings?variant=gid://shopify/ProductVariant/52814670004540",
     "stock": 2
   },
   "gid://shopify/ProductVariant/52815065809212": {
@@ -1446,7 +1448,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_205609_308a64e7-2057-42b1-910f-94bd295ec9be.webp?v=1772438074",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings?variant=gid://shopify/ProductVariant/52815065809212",
-    "stock": 5
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52815212871996": {
     "product_title": "jadau kundan peacock necklace with center craving stone, pearls and natural strawberry beads drop(No earrings)",
@@ -1460,7 +1463,22 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_173835_f2520594-fbeb-4e6c-b5b0-8b459ba4ed0b.webp?v=1772440866",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-center-craving-stone-pearls-and-natural-strawberry-beads-dropno-earrings?variant=gid://shopify/ProductVariant/52815212871996",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
+  },
+  "gid://shopify/ProductVariant/52817072128316": {
+    "product_title": "Jadau kundan pearl mala pendant necklace with pearl and natural strawberry beads drop(No earrings)",
+    "product_handle": "jadau-kundan-pearl-mala-pendant-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52817072128316",
+    "global_id": "gid://shopify/ProductVariant/52817072128316",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_175657_b6f0a0a8-24d8-4d56-8031-29529d6e84f9.webp?v=1772452114",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-pearl-mala-pendant-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings?variant=gid://shopify/ProductVariant/52817072128316",
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52878936277308": {
     "product_title": "Jadau kundan mango(Ruby+Green) bangle (Pair)",
@@ -1925,6 +1943,48 @@
     "url": "https://www.muskanjewel.com/products/jadau-kundan-unique-choker-with-pearl-and-beadsno-earrings?variant=gid://shopify/ProductVariant/52912035397948",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/52912056762684": {
+    "product_title": "Jadau kundan floral necklace(No Earrings)",
+    "product_handle": "jadau-kundan-floral-necklaceno-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52912056762684",
+    "global_id": "gid://shopify/ProductVariant/52912056762684",
+    "variant_title": "Red",
+    "sku": null,
+    "price": 1300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260314_090357_175d2228-2939-4f26-a956-8fef77a699ef.webp?v=1774276868",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-necklaceno-earrings?variant=gid://shopify/ProductVariant/52912056762684",
+    "stock": 4
+  },
+  "gid://shopify/ProductVariant/52912056795452": {
+    "product_title": "Jadau kundan floral necklace(No Earrings)",
+    "product_handle": "jadau-kundan-floral-necklaceno-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52912056795452",
+    "global_id": "gid://shopify/ProductVariant/52912056795452",
+    "variant_title": "Green",
+    "sku": null,
+    "price": 1300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260314_090139_189ee21c-bf25-4f02-aa56-123b71cb0725.webp?v=1774276557",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-necklaceno-earrings?variant=gid://shopify/ProductVariant/52912056795452",
+    "stock": 5
+  },
+  "gid://shopify/ProductVariant/52914367562044": {
+    "product_title": "Jadau kundan pendant pearls/beads mala",
+    "product_handle": "jadau-kundan-pendant-pearls-beads-mala",
+    "variant_id": "gid://shopify/ProductVariant/52914367562044",
+    "global_id": "gid://shopify/ProductVariant/52914367562044",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260314_075950_c71b7094-046a-4925-ab31-795e969d0b50.webp?v=1774349954",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-pendant-pearls-beads-mala?variant=gid://shopify/ProductVariant/52914367562044",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/52914520785212": {
     "product_title": "Jadau kundan peacock necklace with pearl and natural strawberry beads drop",
     "product_handle": "jadau-kundan-peacock-necklace-with-pearl-and-natural-strawberry-beads-drop",
@@ -1995,6 +2055,20 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-choker-with-rice-pearl?variant=gid://shopify/ProductVariant/52918786031932",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/52918805070140": {
+    "product_title": "Jadau kundan+Antique goddess Laxmi necklace set with beads and pearls (With Earrings)",
+    "product_handle": "jadau-kundan-antique-goddess-laxmi-necklace-set-with-beads-and-pearls-with-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52918805070140",
+    "global_id": "gid://shopify/ProductVariant/52918805070140",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 6100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260314_092059_7a1a67fc-28ba-44d8-b5b9-a8dba07fde40.webp?v=1774445424",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-antique-goddess-laxmi-necklace-set-with-beads-and-pearls-with-earrings?variant=gid://shopify/ProductVariant/52918805070140",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52969053520188": {
     "product_title": "Jadau kundan fish shape full earcuff jhumkas with pearl and natural strawberry beads",
@@ -2263,6 +2337,20 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-temple-antique-necklace-with-pearls-with-earrings?variant=gid://shopify/ProductVariant/52982380855612",
     "stock": 4
+  },
+  "gid://shopify/ProductVariant/52982500458812": {
+    "product_title": "Jadau kundan Mango necklace with pearl and natural strawberry beads drop(No Earrings)",
+    "product_handle": "jadau-kundan-mango-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52982500458812",
+    "global_id": "gid://shopify/ProductVariant/52982500458812",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 7200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_154255_3eeb2de3-54ff-4480-ba32-68c784d5553e.webp?v=1776177530",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-mango-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings?variant=gid://shopify/ProductVariant/52982500458812",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/52982515499324": {
     "product_title": "Jadau kundan peacock long mango necklace with pearl and natural strawberry beads(No Earrings)",
@@ -3663,6 +3751,48 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-layer-necklace-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53846230696252",
     "stock": 5
+  },
+  "gid://shopify/ProductVariant/52623649341756": {
+    "product_title": "Bridal Peacock necklace set with matching earrings included",
+    "product_handle": "bridal-peacock-necklace-set-with-matching-earrings-included",
+    "variant_id": "gid://shopify/ProductVariant/52623649341756",
+    "global_id": "gid://shopify/ProductVariant/52623649341756",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 10600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/13894f50-99ad-4ef0-a1ac-f3793673c99e.webp?v=1768308715",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/bridal-peacock-necklace-set-with-matching-earrings-included?variant=gid://shopify/ProductVariant/52623649341756",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/52737441333564": {
+    "product_title": "Jadau kundan necklace with pearls and natural strawberry beads",
+    "product_handle": "jadau-kundan-necklace-with-pearls-and-natural-strawberry-beads",
+    "variant_id": "gid://shopify/ProductVariant/52737441333564",
+    "global_id": "gid://shopify/ProductVariant/52737441333564",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 4400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_191524_bbdf767e-4325-4337-8dd2-8e92c50ef593_1.webp?v=1770893075",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52737441333564",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/52737550451004": {
+    "product_title": "Jadau kundan peacock necklace with pearl and strawberry beads(No Earrings)",
+    "product_handle": "jadau-kundan-peacock-necklace-with-pearl-and-strawberry-beadsno-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52737550451004",
+    "global_id": "gid://shopify/ProductVariant/52737550451004",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 6300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260128_192945_11b93f9a-f0d2-48c6-982c-153ca2637711.webp?v=1770897524",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-and-strawberry-beadsno-earrings?variant=gid://shopify/ProductVariant/52737550451004",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/52912029696316": {
     "product_title": "Jadau kundan peacock short necklace with pearl and natural strawberry beads(No earrings)",

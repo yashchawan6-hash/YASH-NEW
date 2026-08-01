@@ -3333,9 +3333,9 @@
     "price": 45500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/jihugyftydrtd.jpg?v=1750153045",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kjxk?variant=gid://shopify/ProductVariant/50324733460777",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50324915716393": {
@@ -5649,9 +5649,10 @@
     "price": 49100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R9059.jpg?v=1752744139",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kumbha-roopini-long-necklace?variant=gid://shopify/ProductVariant/50568878326057",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50568944615721": {
     "product_title": "Alexandria Mor Short Necklace",
@@ -6677,8 +6678,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-2_9d00c181-eb9e-464c-bd8a-0afd9468581b.jpg?v=1754311253",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/51471916826921": {
     "product_title": "Smaragda Spark Ring",
@@ -34647,7 +34648,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2268_resized.jpg?v=1763460368",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rubessa-flora-necklace-set-copy?variant=gid://shopify/ProductVariant/51871914721577",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51871914754345": {
@@ -63081,9 +63082,9 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00047copy_resized_8748f385-0bc2-4b33-bc57-7bde67e1d6cf.jpg?v=1775816095",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/brillixa-cz-studs?variant=gid://shopify/ProductVariant/52920063852841",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52920120607017": {
     "product_title": "Greenia CZ Studs",
