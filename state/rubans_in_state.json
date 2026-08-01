@@ -3187,9 +3187,10 @@
     "price": 1095.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-voguish-24k-gold-plated-ad-studded-handcrafted-chain-necklace-chain-necklaces-33402266583214.jpg?v=1755710253",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-voguish-24k-gold-plated-ad-studded-handcrafted-chain-necklace-1?variant=gid://shopify/ProductVariant/43043614523566",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43043614130350": {
     "product_title": "Rubans Voguish 18K Gold Plated Stainless Steel Waterproof Snake Chain With V Shaped Shell Pendant.",
