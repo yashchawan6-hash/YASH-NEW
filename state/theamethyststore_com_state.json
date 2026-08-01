@@ -174557,6 +174557,20 @@
     "url": "https://www.theamethyststore.com/products/ahanikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483580113123",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/49483587748067": {
+    "product_title": "Inisha Pakshi Short Necklace Set",
+    "product_handle": "inisha-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483587748067",
+    "global_id": "gid://shopify/ProductVariant/49483587748067",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16943",
+    "price": 29400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16943.jpg?v=1785583593",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/inisha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483587748067",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/49483589976291": {
     "product_title": "Nivithra Avikam Earrings",
     "product_handle": "avikam-earrings-13",
@@ -174570,5 +174584,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-earrings-13?variant=gid://shopify/ProductVariant/49483589976291",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49483593646307": {
+    "product_title": "Thanisha Avikam Earrings",
+    "product_handle": "avikam-earrings-14",
+    "variant_id": "gid://shopify/ProductVariant/49483593646307",
+    "global_id": "gid://shopify/ProductVariant/49483593646307",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15085",
+    "price": 6000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15085.jpg?v=1785583889",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-earrings-14?variant=gid://shopify/ProductVariant/49483593646307",
+    "stock": 1
   }
 }
