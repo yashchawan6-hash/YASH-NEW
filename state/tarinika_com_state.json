@@ -3431,7 +3431,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/RXX0085X_1.jpg?v=1640781631",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/enaya-antique-ring?variant=gid://shopify/ProductVariant/31736941609026",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40791553179714": {
     "product_title": "Enaya Antique Ring",
@@ -12578,8 +12579,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0298copycopy.jpg?v=1686811039",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anoush-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40308394721346",
-    "stock": 10,
-    "last_alerted_stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/40308403273794": {
     "product_title": "Inca Antique Jadau Chandbali Earrings",
@@ -13195,9 +13196,10 @@
     "price": 16.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TRX0071X.jpg?v=1691066716",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/jalaja-delicate-floral-finger-ring?variant=gid://shopify/ProductVariant/40382344757314",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40382344953922": {
     "product_title": "Jalaja Floral Triple Finger Ring",
@@ -13281,7 +13283,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TEX0258X.jpg?v=1691141526",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/jalaja-classic-floral-drop-earrings?variant=gid://shopify/ProductVariant/40382357930050",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/40382841323586": {
     "product_title": "Jose Nakshatra CZ Bracelet",
@@ -19446,9 +19449,10 @@
     "price": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/AEX0747XMC.jpg?v=1757310401",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/charvi-antique-jhumka-earrings?variant=gid://shopify/ProductVariant/42415007825986",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42415027290178": {
     "product_title": "Floral Pearl Nakshatra CZ Stud Earrings",
@@ -23231,7 +23235,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0002XE6.jpg?v=1766059977",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/glow-nakshatra-blue-cz-pendant-set?variant=gid://shopify/ProductVariant/42778124648514",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/42778124681282": {
     "product_title": "Glow Nakshatra Black CZ Pendant Set",

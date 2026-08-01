@@ -167419,7 +167419,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17056.jpg?v=1784782459",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/brides-legacy-moissanite-long-necklace-set?variant=gid://shopify/ProductVariant/49438801985763",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49438828364003": {
     "product_title": "Grace Eternal Moissanite Long Necklace Set",
@@ -172840,7 +172841,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17194.jpg?v=1785482595",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/niharikha-avikam-necklace-set?variant=gid://shopify/ProductVariant/49479331021027",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/49479358251235": {
     "product_title": "Amazing Avikam Long Necklace Set",
@@ -172910,7 +172912,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17165.jpg?v=1785484566",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-choker-set-3?variant=gid://shopify/ProductVariant/49479427653859",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/49479491092707": {
     "product_title": "Giriza Kundan Choker",
