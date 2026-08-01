@@ -139627,7 +139627,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4100.jpg?v=1780474169",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/lakshmi-3d-spl-pendant-3?variant=gid://shopify/ProductVariant/49124158669027",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49124202774755": {
     "product_title": "Nithivika Nagas Pair Bangles",
@@ -141196,9 +141197,10 @@
     "price": 8620.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4256.jpg?v=1781259568",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/virangana-stone-pendant?variant=gid://shopify/ProductVariant/49252539171043",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49252562567395": {
     "product_title": "Utkashana Stone Pendant",
