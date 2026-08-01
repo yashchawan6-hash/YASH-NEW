@@ -16483,9 +16483,10 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNE0228XPS.jpg?v=1725106003",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/alina-cz-pink-stud-earrings?variant=gid://shopify/ProductVariant/41607041810498",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41607042859074": {
     "product_title": "Alina CZ Blue Stud Earrings",

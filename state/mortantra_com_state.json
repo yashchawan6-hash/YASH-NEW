@@ -89672,20 +89672,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-mishr-bracelet-1-piece-mr-brac224?variant=gid://shopify/ProductVariant/50123160649951",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/50123163304159": {
-    "product_title": "Maroon Color Gold Plated Mishr Bracelet (1 Piece) with Kundan - MR-BRAC225",
-    "product_handle": "maroon-color-gold-plated-mishr-bracelet-1-piece-mr-brac225",
-    "variant_id": "gid://shopify/ProductVariant/50123163304159",
-    "global_id": "gid://shopify/ProductVariant/50123163304159",
-    "variant_title": "Default Title",
-    "sku": "MR-BRAC225",
-    "price": 2800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC225.jpg?v=1781684643",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/maroon-color-gold-plated-mishr-bracelet-1-piece-mr-brac225?variant=gid://shopify/ProductVariant/50123163304159",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50123183489247": {
     "product_title": "Multicolor Gold Plated Mishr Bracelet (1 Piece) with Kundan - MR-BRAC226",
     "product_handle": "multicolor-gold-plated-mishr-bracelet-1-piece-mr-brac226",
@@ -98454,6 +98440,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/50123163304159": {
+    "product_title": "Maroon Color Gold Plated Mishr Bracelet (1 Piece) with Kundan - MR-BRAC225",
+    "product_handle": "maroon-color-gold-plated-mishr-bracelet-1-piece-mr-brac225",
+    "variant_id": "gid://shopify/ProductVariant/50123163304159",
+    "global_id": "gid://shopify/ProductVariant/50123163304159",
+    "variant_title": "Default Title",
+    "sku": "MR-BRAC225",
+    "price": 2800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC225.jpg?v=1781684643",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/maroon-color-gold-plated-mishr-bracelet-1-piece-mr-brac225?variant=gid://shopify/ProductVariant/50123163304159",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47420423241951": {
     "product_title": "Multicolor Gold-Plated Mishr Bracelet with Kundan, Flower and Moon Motifs - MR-BRAC197",

@@ -328,5 +328,35 @@
     "qty_sold": 1,
     "total_value": 8620.0,
     "url": "https://www.theamethyststore.com/products/virangana-stone-pendant?variant=gid://shopify/ProductVariant/49252539171043"
+  },
+  {
+    "timestamp": "2026-08-01T20:04:24+05:30",
+    "product_title": "Navarathna kaasu Pendant",
+    "variant_title": "Only Pendant",
+    "price": 8600.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 8600.0,
+    "url": "https://www.theamethyststore.com/products/navarathna-kaasu-pendant?variant=gid://shopify/ProductVariant/46235933180131"
+  },
+  {
+    "timestamp": "2026-08-01T20:04:24+05:30",
+    "product_title": "Lishma Kundan Jhumkas",
+    "variant_title": "Default Title",
+    "price": 22000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 22000.0,
+    "url": "https://www.theamethyststore.com/products/lishma-kundan-jhumkas?variant=gid://shopify/ProductVariant/44274875138275"
+  },
+  {
+    "timestamp": "2026-08-01T20:04:24+05:30",
+    "product_title": "Elegant Hasli Necklace",
+    "variant_title": "Default Title",
+    "price": 8100.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 8100.0,
+    "url": "https://www.theamethyststore.com/products/elegant-hasli-necklace?variant=gid://shopify/ProductVariant/48763379548387"
   }
 ]

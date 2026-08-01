@@ -2953,7 +2953,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-104-0793.jpg?v=1749195083",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/navarathna-kaasu-pendant?variant=gid://shopify/ProductVariant/46235933180131",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/46235892089059": {
     "product_title": "Shiviya Pendant",
@@ -13330,9 +13331,10 @@
     "price": 22000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5247.jpg?v=1704027477",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/lishma-kundan-jhumkas?variant=gid://shopify/ProductVariant/44274875138275",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44274876023011": {
     "product_title": "Elena Earrings",
@@ -123752,8 +123754,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15190.jpg?v=1775825902",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/elegant-hasli-necklace?variant=gid://shopify/ProductVariant/48763379548387",
-    "stock": 12,
-    "last_alerted_stock": 12
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/48763474084067": {
     "product_title": "Hridya Hasli Necklace",
@@ -174967,5 +174969,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-3?variant=gid://shopify/ProductVariant/49483963564259",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483971199203": {
+    "product_title": "Vireya Victorian Short Necklace Set",
+    "product_handle": "victorian-short-necklace-set-4",
+    "variant_id": "gid://shopify/ProductVariant/49483971199203",
+    "global_id": "gid://shopify/ProductVariant/49483971199203",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17170",
+    "price": 33200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17170.jpg?v=1785594418",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-4?variant=gid://shopify/ProductVariant/49483971199203",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49483975491811": {
+    "product_title": "Majestic Victorian Short Necklace Set",
+    "product_handle": "victorian-short-necklace-set-12",
+    "variant_id": "gid://shopify/ProductVariant/49483975491811",
+    "global_id": "gid://shopify/ProductVariant/49483975491811",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17276",
+    "price": 115200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17276.jpg?v=1785594626",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-12?variant=gid://shopify/ProductVariant/49483975491811",
+    "stock": 0
   }
 }
