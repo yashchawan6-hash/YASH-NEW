@@ -1458,5 +1458,25 @@
     "qty_sold": 1,
     "total_value": 699.0,
     "url": "https://www.daivik.in/products/kids-flower-jhumkas?variant=gid://shopify/ProductVariant/47673188483294"
+  },
+  {
+    "timestamp": "2026-08-01T20:06:40+05:30",
+    "product_title": "Simple Pearl Kemp choker with Earrings in 2 variants",
+    "variant_title": "Green",
+    "price": 649.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 649.0,
+    "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107065054"
+  },
+  {
+    "timestamp": "2026-08-01T20:06:40+05:30",
+    "product_title": "Invisible Flower Chain with Earrings",
+    "variant_title": "Default Title",
+    "price": 799.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 799.0,
+    "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings?variant=gid://shopify/ProductVariant/47043956310238"
   }
 ]

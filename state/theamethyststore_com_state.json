@@ -16051,7 +16051,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5794.jpg?v=1711786029",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/roshin-choker-set?variant=gid://shopify/ProductVariant/44632141824227",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44632165286115": {
     "product_title": "Prithisha Stone Studs",
@@ -21152,7 +21153,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0482.jpg?v=1724075152",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/molly-stone-bracelet?variant=gid://shopify/ProductVariant/45421152403683",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45421170262243": {
     "product_title": "Plain Hasli Necklace",
@@ -135270,9 +135272,10 @@
     "price": 9680.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13886.jpg?v=1778666509",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/vishitha-avikam-earrings?variant=gid://shopify/ProductVariant/48944400400611",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48944400498915": {
     "product_title": "Amazing Avikam Pendant Set",
@@ -139403,9 +139406,10 @@
     "price": 33792.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15880.jpg?v=1780401692",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/idunn-short-necklace-set?variant=gid://shopify/ProductVariant/49103003549923",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49103006007523": {
     "product_title": "Yashini Nagas Short Necklace",
@@ -139852,9 +139856,10 @@
     "price": 14960.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4228.jpg?v=1780484886",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/liyasri-3d-spl-pendant?variant=gid://shopify/ProductVariant/49127062208739",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49127115096291": {
     "product_title": "Shervikha 3D Spl Pendant",
@@ -154298,9 +154303,10 @@
     "price": 14696.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14277.jpg?v=1782822984",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/beautiful-avikam-jhumkas?variant=gid://shopify/ProductVariant/49334678651107",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49334678814947": {
     "product_title": "Shrisha Nagas Short Necklace",
@@ -174994,8 +175000,8 @@
     "price": 115200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17276.jpg?v=1785594626",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-12?variant=gid://shopify/ProductVariant/49483975491811",
-    "stock": 0
+    "stock": 1
   }
 }
