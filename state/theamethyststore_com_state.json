@@ -161706,7 +161706,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16505.jpg?v=1783832807",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-67?variant=gid://shopify/ProductVariant/49396532216035",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/49396534214883": {
     "product_title": "Sherinka Hasli Necklace",
@@ -174274,5 +174275,75 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-34?variant=gid://shopify/ProductVariant/49483414012131",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/49483414503651": {
+    "product_title": "Prakisha Pakshi Short Necklace Set",
+    "product_handle": "prakisha-pakshi-short-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49483414503651",
+    "global_id": "gid://shopify/ProductVariant/49483414503651",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16925",
+    "price": 30300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16925.jpg?v=1785579754",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/prakisha-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49483414503651",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483417354467": {
+    "product_title": "Vaishra Diamond Design Studs",
+    "product_handle": "diamond-design-studs-35",
+    "variant_id": "gid://shopify/ProductVariant/49483417354467",
+    "global_id": "gid://shopify/ProductVariant/49483417354467",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15081",
+    "price": 4400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15081.jpg?v=1785579755",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-studs-35?variant=gid://shopify/ProductVariant/49483417354467",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483420696803": {
+    "product_title": "Yavira Diamond Design Studs",
+    "product_handle": "diamond-design-studs-36",
+    "variant_id": "gid://shopify/ProductVariant/49483420696803",
+    "global_id": "gid://shopify/ProductVariant/49483420696803",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15083",
+    "price": 4800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15083.jpg?v=1785579939",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-studs-36?variant=gid://shopify/ProductVariant/49483420696803",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/49483422367971": {
+    "product_title": "Anvisha Diamond Design Studs",
+    "product_handle": "diamond-design-studs-37",
+    "variant_id": "gid://shopify/ProductVariant/49483422367971",
+    "global_id": "gid://shopify/ProductVariant/49483422367971",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15087",
+    "price": 7000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15087.jpg?v=1785580089",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-studs-37?variant=gid://shopify/ProductVariant/49483422367971",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/49483423908067": {
+    "product_title": "Gorgeous Pakshi Short Necklace Set",
+    "product_handle": "gorgeous-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483423908067",
+    "global_id": "gid://shopify/ProductVariant/49483423908067",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16926",
+    "price": 28300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16926.jpg?v=1785580217",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/gorgeous-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483423908067",
+    "stock": 1
   }
 }
