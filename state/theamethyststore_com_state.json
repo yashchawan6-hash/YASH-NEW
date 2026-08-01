@@ -173730,5 +173730,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/amazing-avikam-short-necklace-1?variant=gid://shopify/ProductVariant/49483026563299",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483043078371": {
+    "product_title": "Glitz Chain With Earrings",
+    "product_handle": "glitz-chain-with-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49483043078371",
+    "global_id": "gid://shopify/ProductVariant/49483043078371",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-1927",
+    "price": 23800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1927.jpg?v=1785568534",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/glitz-chain-with-earrings?variant=gid://shopify/ProductVariant/49483043078371",
+    "stock": 1
   }
 }

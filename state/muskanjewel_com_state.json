@@ -23,9 +23,10 @@
     "price": 11500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/9060c4f2-39f6-4a15-a011-b37281d966d8.webp?v=1768307851",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-bottumala-necklace-with-matching-earrings-included?variant=gid://shopify/ProductVariant/52623635415356",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52623649341756": {
     "product_title": "Bridal Peacock necklace set with matching earrings included",
