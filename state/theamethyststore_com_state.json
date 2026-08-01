@@ -169410,7 +169410,7 @@
     "global_id": "gid://shopify/ProductVariant/49446844203235",
     "variant_title": "2.4\"",
     "sku": "AMS-107-3489-2.4",
-    "price": 87600.0,
+    "price": 95800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3489_2.jpg?v=1784966647",
     "available_for_sale": true,
@@ -174556,5 +174556,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/ahanikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483580113123",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483589976291": {
+    "product_title": "Nivithra Avikam Earrings",
+    "product_handle": "avikam-earrings-13",
+    "variant_id": "gid://shopify/ProductVariant/49483589976291",
+    "global_id": "gid://shopify/ProductVariant/49483589976291",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15084",
+    "price": 5500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15084.jpg?v=1785583721",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-earrings-13?variant=gid://shopify/ProductVariant/49483589976291",
+    "stock": 3
   }
 }
