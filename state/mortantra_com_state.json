@@ -78839,7 +78839,7 @@
     "global_id": "gid://shopify/ProductVariant/48943104557279",
     "variant_title": "Dark Green",
     "sku": "MO-S194GR",
-    "price": 10150.0,
+    "price": 9800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S194GR-2.jpg?v=1776417332",
     "available_for_sale": true,
@@ -84265,20 +84265,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-mishr-necklace-set-mr-s965?variant=gid://shopify/ProductVariant/49286613958879",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/49286614614239": {
-    "product_title": "Multicolor Gold-Plated Mishr Choker Necklace Set with Kundan and Meenakari - MR-S995",
-    "product_handle": "gold-plated-mishr-necklace-set-mr-s995",
-    "variant_id": "gid://shopify/ProductVariant/49286614614239",
-    "global_id": "gid://shopify/ProductVariant/49286614614239",
-    "variant_title": "Multicolor",
-    "sku": "MR-S995M",
-    "price": 8400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S995M-2.jpg?v=1779353795",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-mishr-necklace-set-mr-s995?variant=gid://shopify/ProductVariant/49286614614239",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49286624870623": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motifs - MS1640M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-necklace-set-ms1640m",
@@ -84461,7 +84447,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TN-S28-2.jpg?v=1779359243",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-pichwai-inspired-necklace-set-tn-s28?variant=gid://shopify/ProductVariant/49286692241631",
-    "stock": 6386
+    "stock": 6387
   },
   "gid://shopify/ProductVariant/49286697222367": {
     "product_title": "Dark Green Gold-Plated Jadau Kundan Oversized Maang Teeka - MT300Y",
@@ -98790,6 +98776,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/49286614614239": {
+    "product_title": "Multicolor Gold-Plated Mishr Choker Necklace Set with Kundan and Meenakari - MR-S995",
+    "product_handle": "gold-plated-mishr-necklace-set-mr-s995",
+    "variant_id": "gid://shopify/ProductVariant/49286614614239",
+    "global_id": "gid://shopify/ProductVariant/49286614614239",
+    "variant_title": "Multicolor",
+    "sku": "MR-S995M",
+    "price": 8400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S995M-2.jpg?v=1779353795",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-mishr-necklace-set-mr-s995?variant=gid://shopify/ProductVariant/49286614614239",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43638619537631": {
     "product_title": "Silver Plated Lehr Bangle (1 Piece) - TR-B1SL",
