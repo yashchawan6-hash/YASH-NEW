@@ -41684,9 +41684,10 @@
     "price": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/48188794536148",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48309312159956": {
     "product_title": "Renita silver Gold CNC Bangle Set | Daily Wear",
@@ -48663,6 +48664,62 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.21.20PM_1.jpg?v=1785586067",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403554894036",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403565969620": {
+    "product_title": "HaraLaal Slim Red Green Gold Tradtional Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403565969620",
+    "global_id": "gid://shopify/ProductVariant/48403565969620",
+    "variant_title": "2.2 / Pair",
+    "sku": "SH24576Z2X2-BG",
+    "price": 1850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403565969620",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403566002388": {
+    "product_title": "HaraLaal Slim Red Green Gold Tradtional Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403566002388",
+    "global_id": "gid://shopify/ProductVariant/48403566002388",
+    "variant_title": "2.4 / Pair",
+    "sku": "SH24576Z4X2-BG",
+    "price": 1850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566002388",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403566035156": {
+    "product_title": "HaraLaal Slim Red Green Gold Tradtional Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403566035156",
+    "global_id": "gid://shopify/ProductVariant/48403566035156",
+    "variant_title": "2.6 / Pair",
+    "sku": "SH24576Z6X2-BG",
+    "price": 1850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566035156",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403566067924": {
+    "product_title": "HaraLaal Slim Red Green Gold Tradtional Indian Bangle Set | Sone Pe Suhaga",
+    "product_handle": "haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403566067924",
+    "global_id": "gid://shopify/ProductVariant/48403566067924",
+    "variant_title": "2.8 / Pair",
+    "sku": "SH24576Z8X2-BG",
+    "price": 1850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566067924",
     "stock": 0
   },
   "gid://shopify/ProductVariant/48006745030868": {

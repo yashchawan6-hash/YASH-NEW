@@ -108504,9 +108504,10 @@
     "price": 19340.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14574.jpg?v=1770460720",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/anagha-short-necklace-set-2?variant=gid://shopify/ProductVariant/48032204751075",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48032226312419": {
     "product_title": "Beautiful Stone Short Necklace",
@@ -109134,9 +109135,10 @@
     "price": 18040.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14573.jpg?v=1770536657",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/pretty-look-short-necklace-set-1?variant=gid://shopify/ProductVariant/48033722597603",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48033724989667": {
     "product_title": "Fabulous Stone Short Necklace",
@@ -174752,6 +174754,48 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16960.jpg?v=1785587605",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shikarikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483680874723",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483684806883": {
+    "product_title": "Fabulous Pakshi Short Necklace Set",
+    "product_handle": "fabulous-pakshi-short-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49483684806883",
+    "global_id": "gid://shopify/ProductVariant/49483684806883",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16963",
+    "price": 47000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16963.jpg?v=1785587768",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/fabulous-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49483684806883",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483687657699": {
+    "product_title": "Stunning Pakshi Short Necklace Set",
+    "product_handle": "stunning-pakshi-short-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49483687657699",
+    "global_id": "gid://shopify/ProductVariant/49483687657699",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16977",
+    "price": 31300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16977.jpg?v=1785588086",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stunning-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49483687657699",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483706302691": {
+    "product_title": "Catchy Diamond Design Short Necklace",
+    "product_handle": "diamond-design-short-necklace-7",
+    "variant_id": "gid://shopify/ProductVariant/49483706302691",
+    "global_id": "gid://shopify/ProductVariant/49483706302691",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17332",
+    "price": 48500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17332.jpg?v=1785588444",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-short-necklace-7?variant=gid://shopify/ProductVariant/49483706302691",
     "stock": 1
   }
 }

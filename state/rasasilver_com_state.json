@@ -36215,7 +36215,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0059copy_resized_ecc8542e-3cfe-487b-903d-58ea3e221ef6.jpg?v=1763970956",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rossi-ring?variant=gid://shopify/ProductVariant/52166981583145",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52166981615913": {
     "product_title": "Rossi Stone Ring",
@@ -43802,9 +43803,10 @@
     "price": 82080.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0740_resized.jpg?v=1769066513",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayuravalli-nakshi-necklace?variant=gid://shopify/ProductVariant/52456018936105",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52456019001641": {
     "product_title": "Kanvya Nakshi Necklace Set",
