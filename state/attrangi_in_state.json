@@ -28054,9 +28054,10 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-14at12.23.50AM_1.jpg?v=1757938759",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/classic-pearl-diamond-bangle-set?variant=gid://shopify/ProductVariant/46909860151508",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46909860184276": {
     "product_title": "Classic Pearl Diamond Bangle Set",
@@ -44375,7 +44376,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/charming-lara-solitaire-set-attrangi-5_877560c0-bf95-4576-b807-b9d5c55a58d3.jpg?v=1783596081",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/charming-lara-solitaire-earrings?variant=gid://shopify/ProductVariant/48234959306964",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48234971988180": {
@@ -48648,6 +48649,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.23.03PM_3.jpg?v=1785571109",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/pragya-gold-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403180421332",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48403554894036": {
+    "product_title": "Ghadi Sone Ki Traditioanl Indian Watch | Sone Pe Suhaga",
+    "product_handle": "ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48403554894036",
+    "global_id": "gid://shopify/ProductVariant/48403554894036",
+    "variant_title": "Default Title",
+    "sku": "ST92617-BN",
+    "price": 4850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.21.20PM_1.jpg?v=1785586067",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403554894036",
     "stock": 0
   },
   "gid://shopify/ProductVariant/48006745030868": {

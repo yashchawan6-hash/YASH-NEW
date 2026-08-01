@@ -174655,5 +174655,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shinning-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483638341859",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483641159907": {
+    "product_title": "Charming Pakshi Short Necklace Set",
+    "product_handle": "charming-pakshi-short-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49483641159907",
+    "global_id": "gid://shopify/ProductVariant/49483641159907",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16947",
+    "price": 31700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16947.jpg?v=1785586375",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/charming-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49483641159907",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483662655715": {
+    "product_title": "Charming Look Pakshi Short Necklace Set",
+    "product_handle": "charming-look-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483662655715",
+    "global_id": "gid://shopify/ProductVariant/49483662655715",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16953",
+    "price": 35700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16953.jpg?v=1785587094",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/charming-look-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483662655715",
+    "stock": 1
   }
 }
