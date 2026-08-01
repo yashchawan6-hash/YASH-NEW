@@ -90,6 +90,13 @@
       "telegram_bot_token": "8657115595:AAH0JRblOIF4VwX9iBra7mwRC7ir1_S9Oao",
       "telegram_chat_id": "-1004486560788",
       "enabled": true
+    },
+    {
+      "name": "Rubans Accessories",
+      "domain": "rubans.in",
+      "telegram_bot_token": "8749842791:AAECBTDEY3MF9MtrV-csjPz3rOkf2D7MRow",
+      "telegram_chat_id": "-1003947983189",
+      "enabled": true
     }
   ]
 }
