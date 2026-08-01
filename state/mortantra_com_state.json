@@ -66446,62 +66446,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-earrings-tj-e87?variant=gid://shopify/ProductVariant/48546123677919",
     "stock": 0
   },
-  "gid://shopify/ProductVariant/48449213333727": {
-    "product_title": "Gold-Plated Thappa Jadau Kundan EarCuff Kanphool with Fish Drop - TJ-E152",
-    "product_handle": "gold-plated-thappa-jadau-kundan-earrings-tj-e152",
-    "variant_id": "gid://shopify/ProductVariant/48449213333727",
-    "global_id": "gid://shopify/ProductVariant/48449213333727",
-    "variant_title": "Firoza",
-    "sku": "TJ-E152F",
-    "price": 2800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E152F.jpg?v=1771067754",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-earrings-tj-e152?variant=gid://shopify/ProductVariant/48449213333727",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/48449217134815": {
-    "product_title": "Gold-Plated Thappa Jadau Kundan EarCuff Kanphool with Fish Drop - TJ-E152",
-    "product_handle": "gold-plated-thappa-jadau-kundan-earrings-tj-e152",
-    "variant_id": "gid://shopify/ProductVariant/48449217134815",
-    "global_id": "gid://shopify/ProductVariant/48449217134815",
-    "variant_title": "Multicolor",
-    "sku": "TJ-E152M",
-    "price": 2800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E152M.jpg?v=1771067754",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-earrings-tj-e152?variant=gid://shopify/ProductVariant/48449217134815",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/48449217200351": {
-    "product_title": "Gold-Plated Thappa Jadau Kundan EarCuff Kanphool with Fish Drop - TJ-E152",
-    "product_handle": "gold-plated-thappa-jadau-kundan-earrings-tj-e152",
-    "variant_id": "gid://shopify/ProductVariant/48449217200351",
-    "global_id": "gid://shopify/ProductVariant/48449217200351",
-    "variant_title": "Dark Pink",
-    "sku": "TJ-E152P",
-    "price": 2800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E152P.jpg?v=1771067754",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-earrings-tj-e152?variant=gid://shopify/ProductVariant/48449217200351",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/48449217495263": {
-    "product_title": "Gold-Plated Thappa Jadau Kundan EarCuff Kanphool with Fish Drop - TJ-E152",
-    "product_handle": "gold-plated-thappa-jadau-kundan-earrings-tj-e152",
-    "variant_id": "gid://shopify/ProductVariant/48449217495263",
-    "global_id": "gid://shopify/ProductVariant/48449217495263",
-    "variant_title": "White",
-    "sku": "TJ-E152W",
-    "price": 2800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E152W.jpg?v=1771067754",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-earrings-tj-e152?variant=gid://shopify/ProductVariant/48449217495263",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/48452634837215": {
     "product_title": "Gold Plated Faux Diamond Earrings with Diamante - CZEAR627",
     "product_handle": "gold-plated-faux-diamond-earrings-czear627",
@@ -68930,7 +68874,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2655M-2.jpg?v=1771938310",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2655m?variant=gid://shopify/ProductVariant/48511285493983",
-    "stock": 6509
+    "stock": 6508,
+    "last_alerted_stock": 6508
   },
   "gid://shopify/ProductVariant/48511427444959": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motifs - MS2664M",
@@ -73215,9 +73160,9 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S430WGR-3_3.jpg?v=1776430327",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s430?variant=gid://shopify/ProductVariant/48945746051295",
-    "stock": 0
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/48679771734239": {
     "product_title": "Dark Green Gold-Plated Faux Polki Bridal Necklace Set with Meenakari - PK-S448",
@@ -98818,6 +98763,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48449217134815": {
+    "product_title": "Gold-Plated Thappa Jadau Kundan EarCuff Kanphool with Fish Drop - TJ-E152",
+    "product_handle": "gold-plated-thappa-jadau-kundan-earrings-tj-e152",
+    "variant_id": "gid://shopify/ProductVariant/48449217134815",
+    "global_id": "gid://shopify/ProductVariant/48449217134815",
+    "variant_title": "Multicolor",
+    "sku": "TJ-E152M",
+    "price": 2800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E152M.jpg?v=1771067754",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-earrings-tj-e152?variant=gid://shopify/ProductVariant/48449217134815",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49286614614239": {
     "product_title": "Multicolor Gold-Plated Mishr Choker Necklace Set with Kundan and Meenakari - MR-S995",
