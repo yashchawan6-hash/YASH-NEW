@@ -150,9 +150,10 @@
     "price": 50700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07410copy.jpg?v=1744198886",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/earring?variant=gid://shopify/ProductVariant/49851016184105",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49851322171689": {
     "product_title": "Egyptian Contemporary Pendant",
@@ -2309,8 +2310,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52263721697577",
-    "stock": 8,
-    "last_alerted_stock": 6
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/50282935583017": {
     "product_title": "Mangai Ratna Addige Necklace",
@@ -6789,7 +6790,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_a46833e5-54e8-4e2d-b96f-573a8f9499cd.jpg?v=1754308859",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/navora-studs?variant=gid://shopify/ProductVariant/50643117310249",
-    "stock": 2,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50643516784937": {
@@ -10471,7 +10472,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2606.jpg?v=1756541009",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/emerovia-pendant?variant=gid://shopify/ProductVariant/50809107087657",
-    "stock": 11,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/50809158959401": {
@@ -17890,7 +17891,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS459.jpg?v=1760353933",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/bracelet-4?variant=gid://shopify/ProductVariant/51317154775337",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51317193146665": {
     "product_title": "Pearl Knot Bracelet",
@@ -28101,9 +28103,10 @@
     "price": 20900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0222copy_resized.jpg?v=1762940518",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayura-lekha-pendant?variant=gid://shopify/ProductVariant/51489255686441",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51489445675305": {
     "product_title": "Sugandh Phool Pendant",
@@ -31904,7 +31907,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0148copy_resized_fbc55c41-5dd9-4af6-910f-4276f0c07cad.jpg?v=1763631525",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/chandra-mukhi-nath?variant=gid://shopify/ProductVariant/51514360430889",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/51514371539241": {
     "product_title": "Patra Nathika",
@@ -33148,9 +33152,10 @@
     "price": 36600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0526_resized.jpg?v=1763466090",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/paro-veda-necklace-set?variant=gid://shopify/ProductVariant/51526627098921",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51526702563625": {
     "product_title": "Bloomea Necklace Set",
@@ -40112,9 +40117,10 @@
     "price": 24500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0142copy_resized_2dea1ad0-0670-45bb-a3f9-43404efe2d3a.jpg?v=1769153891",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pear-drop-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362256417065",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52362139468073": {
     "product_title": "Crima Victorian Necklace Set",
@@ -52904,9 +52910,10 @@
     "price": 3300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS580_b8652d4e-5b9c-409f-ae4d-fccff05d8bde.jpg?v=1771671434",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rosive-stone-ring?variant=gid://shopify/ProductVariant/52728777113897",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52728860868905": {
     "product_title": "Mayil Nakshi Necklace",
@@ -61203,9 +61210,10 @@
     "price": 73500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0060_2_resized.jpg?v=1775137381",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/sanskaar-kundan-necklace?variant=gid://shopify/ProductVariant/52885729476905",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52885727510825": {
     "product_title": "Aarika Phool Kundan Necklace",
