@@ -4863,7 +4863,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/slim-everyday-diamond-bracelet-attrangi-3.jpg?v=1739813936",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/slim-everyday-diamond-bracelet?variant=gid://shopify/ProductVariant/42855753023700",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42855753056468": {
     "product_title": "Slim Everyday Diamond Kada",
@@ -7014,8 +7015,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-21_at_6.35.03_PM.jpg?v=1774107553",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/30-cent-solitaire-tennis-bracelet?variant=gid://shopify/ProductVariant/43593125560532",
-    "stock": 4,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45517636337876": {
     "product_title": "25 cents Round Solitaire Tennis Bracelet| 4mm",
@@ -31463,7 +31464,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-19_at_5.03.51_PM_1.jpg?v=1774353184",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pinata-diamond-emerald-closure-band-cocktail-ring?variant=gid://shopify/ProductVariant/47119382249684",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48345453920468": {
