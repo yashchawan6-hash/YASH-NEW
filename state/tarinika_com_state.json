@@ -4111,13 +4111,13 @@
     "variant_id": "gid://shopify/ProductVariant/32523117985858",
     "global_id": "gid://shopify/ProductVariant/32523117985858",
     "variant_title": "Default Title",
-    "sku": "1EX0166XT3",
+    "sku": "US-1EX0166XT3",
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL9678copycopy.jpg?v=1640781099",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/pusp-antique-silver-jhumka-earrings?variant=gid://shopify/ProductVariant/32523117985858",
-    "stock": 9999
+    "stock": 1
   },
   "gid://shopify/ProductVariant/32644918313026": {
     "product_title": "Botanical Antique Bangles",
@@ -4419,13 +4419,13 @@
     "variant_id": "gid://shopify/ProductVariant/32657727389762",
     "global_id": "gid://shopify/ProductVariant/32657727389762",
     "variant_title": "White Red and Green",
-    "sku": "1EX0258XMC",
+    "sku": "US-1EX0258XMC",
     "price": 34.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/1EX0258XWP.jpg?v=1741697034",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sparkling-dancing-lady-cz-antique-earrings?variant=gid://shopify/ProductVariant/32657727389762",
-    "stock": 9999
+    "stock": 2
   },
   "gid://shopify/ProductVariant/32657727356994": {
     "product_title": "Sparkling Dancing Lady CZ Antique Earrings",
@@ -16940,13 +16940,13 @@
     "variant_id": "gid://shopify/ProductVariant/41607277117506",
     "global_id": "gid://shopify/ProductVariant/41607277117506",
     "variant_title": "Default Title",
-    "sku": "TEX0301XW0I",
+    "sku": "US-TEX0301XW0I",
     "price": 29.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TEX0301XW0I_7231e7f4-1243-4876-b7d3-61e90fecfbdd.jpg?v=1726743090",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/eriha-pearl-cz-green-leaf-drop-earrings?variant=gid://shopify/ProductVariant/41607277117506",
-    "stock": 9999
+    "stock": 2
   },
   "gid://shopify/ProductVariant/41607277641794": {
     "product_title": "Eriha Pearl CZ Pink Leaf Drop Earrings",
@@ -21650,7 +21650,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0058XMC4_2f18b49c-d9a1-45f3-8226-35d259c17a0f.jpg?v=1757139395",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/teesta-antique-floral-bangles?variant=gid://shopify/ProductVariant/42431035834434",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/42431035867202": {
     "product_title": "Teesta Antique Floral Bangles",
@@ -22222,9 +22222,10 @@
     "price": 16.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANT1441XHC_1856ea8b-668f-4a56-98db-bb24bc66ef1c.jpg?v=1757570699",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/ashoklata-red-green-antique-maang-tikka?variant=gid://shopify/ProductVariant/42419503792194",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42419503824962": {
     "product_title": "Amaya Green Antique Maang Tikka",
@@ -25122,9 +25123,10 @@
     "price": 17.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0011XH36.jpg?v=1781778433",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/nivira-oxidized-bangles?variant=gid://shopify/ProductVariant/43868858646594",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43868858777666": {
     "product_title": "Bhavya Antique Red Floral Bangles",

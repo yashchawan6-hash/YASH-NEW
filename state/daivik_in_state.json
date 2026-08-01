@@ -17820,8 +17820,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE914FE7-C858-449F-842B-F29124E5954E.jpg?v=1715608816",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-rubygreen-jhumkas-with-attached-mattel-s?variant=gid://shopify/ProductVariant/45363709771998",
-    "stock": 21,
-    "last_alerted_stock": 21
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/45367734436062": {
     "product_title": "Short and Long Guttapusalu Combo",
@@ -32142,9 +32142,10 @@
     "price": 2799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9B85EB93-CFE6-4087-B95C-6C3D62448398.jpg?v=1755512842",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/kemp-ruby-green-white-pearl-choker?variant=gid://shopify/ProductVariant/47455889326302",
-    "stock": 41
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47459274588382": {
     "product_title": "Flexible Kerala Leaf Kada (Price for 2 pcs)",
@@ -47527,9 +47528,10 @@
     "price": 11599.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0543.jpg?v=1783595566",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/designer-ballet-butterfly-dancing-girl-necklace-with-earrings?variant=gid://shopify/ProductVariant/48417440071902",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48417802584286": {
     "product_title": "Trisha Mam Inspired AD Necklace with Earrings in Two Colors (Price for Each)",
