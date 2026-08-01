@@ -173786,5 +173786,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/stunning-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483075322083",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483081482467": {
+    "product_title": "Fabulous Pakshi Short Necklace Set",
+    "product_handle": "fabulous-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483081482467",
+    "global_id": "gid://shopify/ProductVariant/49483081482467",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16864",
+    "price": 29500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16864.jpg?v=1785569530",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/fabulous-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483081482467",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483087053027": {
+    "product_title": "Mesmerizing Pakshi Short Necklace Set",
+    "product_handle": "mesmerizing-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483087053027",
+    "global_id": "gid://shopify/ProductVariant/49483087053027",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16866",
+    "price": 24500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16866.jpg?v=1785569669",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483087053027",
+    "stock": 1
   }
 }

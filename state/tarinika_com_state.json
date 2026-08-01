@@ -8480,13 +8480,14 @@
     "variant_id": "gid://shopify/ProductVariant/39720696053826",
     "global_id": "gid://shopify/ProductVariant/39720696053826",
     "variant_title": "White Red",
-    "sku": "IJN0282XCC",
+    "sku": "US-IJN0282XCC",
     "price": 65.0,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IJN0282XCY.webp?v=1741696892",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/arki-antique-choker-set?variant=gid://shopify/ProductVariant/39720696053826",
-    "stock": 11
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/39720696086594": {
     "product_title": "Arki Antique Choker Set",
@@ -12575,7 +12576,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0298copycopy.jpg?v=1686811039",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anoush-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40308394721346",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/40308403273794": {
     "product_title": "Inca Antique Jadau Chandbali Earrings",
