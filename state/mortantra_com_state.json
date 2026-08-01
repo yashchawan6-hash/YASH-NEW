@@ -55683,8 +55683,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFBANGLE78D-2.jpg?v=1757934035",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-tribal-bangle-1-piece-ek-sfbangle78?variant=gid://shopify/ProductVariant/47416195514591",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47416197284063": {
     "product_title": "Multicolor Dual-Tone Tribal Bangle with Coloured Stone Setting (1 Piece) - EK-SFBANGLE79",
@@ -69455,9 +69455,10 @@
     "price": 2100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E162P.jpg?v=1775649516",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e162?variant=gid://shopify/ProductVariant/48832309657823",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48832312180959": {
     "product_title": "Gold-Plated Faux Polki Jhumka Earrings with Kundan Setting - PK-E162",
