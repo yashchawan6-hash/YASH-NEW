@@ -48,5 +48,25 @@
     "qty_sold": 1,
     "total_value": 2050.0,
     "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244"
+  },
+  {
+    "timestamp": "2026-08-01T15:52:31+05:30",
+    "product_title": "Jadau Kundan Ear Cuffs",
+    "variant_title": "Default Title",
+    "price": 577.5,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 577.5,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-ear-cuffs?variant=gid://shopify/ProductVariant/46477093929260"
+  },
+  {
+    "timestamp": "2026-08-01T15:52:31+05:30",
+    "product_title": "Elegant Polki fusion set",
+    "variant_title": "Default Title",
+    "price": 2050.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 2050.0,
+    "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244"
   }
 ]

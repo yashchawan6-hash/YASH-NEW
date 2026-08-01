@@ -137494,9 +137494,10 @@
     "price": 23135.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13839.jpg?v=1779106221",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/sudarshini-nagas-earrings?variant=gid://shopify/ProductVariant/48987443757283",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48991065932003": {
     "product_title": "Yuki Nagas Choker",
@@ -174242,9 +174243,9 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15077.jpg?v=1785579404",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-33?variant=gid://shopify/ProductVariant/49483392876771",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49483393073379": {
     "product_title": "Anisha Pakshi Short Necklace Set",
@@ -174256,8 +174257,22 @@
     "price": 27000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16916.jpg?v=1785579399",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/anisha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483393073379",
-    "stock": 0
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483414012131": {
+    "product_title": "Raisha Diamond Design Studs",
+    "product_handle": "diamond-design-studs-34",
+    "variant_id": "gid://shopify/ProductVariant/49483414012131",
+    "global_id": "gid://shopify/ProductVariant/49483414012131",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15079",
+    "price": 5000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15079.jpg?v=1785579562",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/diamond-design-studs-34?variant=gid://shopify/ProductVariant/49483414012131",
+    "stock": 3
   }
 }
