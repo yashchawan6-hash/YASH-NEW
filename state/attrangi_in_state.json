@@ -890,7 +890,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rose-shaped-studs-attrangi-2.jpg?v=1774100972",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/earrings-diamond-studs?variant=gid://shopify/ProductVariant/40411676082345",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/40411676967081": {
     "product_title": "Saba Polki Kada",
@@ -32986,9 +32986,10 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-06at11.35.13AM.jpg?v=1765017908",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/mitali-invisible-flower-polki-pendant-set?variant=gid://shopify/ProductVariant/47320578687188",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47320583340244": {
     "product_title": "Sone ki Pari Gold Long Shoulder Duster Earrings",
@@ -46048,9 +46049,10 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at6.25.33PM.jpg?v=1784360793",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/oh-maria-diamond-designer-hathpan-hand-harness?variant=gid://shopify/ProductVariant/48324851171540",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48324858577108": {
     "product_title": "Maria Diamond Pearl Drop Mid-Sized Classic Earrings | Grey & Off-White Pearl",

@@ -1812,8 +1812,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_efb6bf02-8c97-4f01-8e8b-8fe052748f34.jpg?v=1615477628",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-and-small-pure-kemp-jhumkas?variant=gid://shopify/ProductVariant/39434836574361",
-    "stock": 19,
-    "last_alerted_stock": 19
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/39466464673945": {
     "product_title": "Flower pearl anklets pair",
@@ -3154,8 +3154,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5ad74a89-a9d2-448d-9fe9-7b9237f80265.jpg?v=1634139664",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-and-small-kemp-jhumkas?variant=gid://shopify/ProductVariant/41347627843737",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41359794864281": {
     "product_title": "Simple kemp studs",
@@ -3197,8 +3197,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b040d11c-5f81-49dc-bf79-a903098bf3e4.jpg?v=1634568957",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-kemp-choker-necklace-in-5-variants?variant=gid://shopify/ProductVariant/41372165898393",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41372165865625": {
     "product_title": "Simple Kemp Choker Necklace in 5 variants",
@@ -5353,7 +5353,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_401d661f-56c0-4450-8fa7-2cf352ac2809.heic?v=1648124347",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/small-ad-floral-jhumkas?variant=gid://shopify/ProductVariant/42603310121182",
-    "stock": 39
+    "stock": 38,
+    "last_alerted_stock": 38
   },
   "gid://shopify/ProductVariant/43956913799390": {
     "product_title": "Openable Kemp Peacock Bangles",
@@ -15527,9 +15528,10 @@
     "price": 649.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8967991B-4D20-4170-AFF8-73015A1DAB87.jpg?v=1704974070",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107032286",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44661107065054": {
     "product_title": "Simple Pearl Kemp choker with Earrings in 2 variants",
@@ -28965,10 +28967,10 @@
     "price": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4EB246FF-FAA7-43D0-9CBC-1B0E0DB80847.jpg?v=1746978159",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/invisible-kemp-ruby-chain-with-earrings?variant=gid://shopify/ProductVariant/46685345841374",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46686857953502": {
     "product_title": "Simple Hipchains in 4 Style (Price for Each)",
@@ -30305,8 +30307,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5AACDAE4-D336-4F2B-AC77-29B691F420BF.jpg?v=1751179958",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings?variant=gid://shopify/ProductVariant/47043956310238",
-    "stock": 20,
-    "last_alerted_stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47044263805150": {
     "product_title": "Pure Kemp Brass Pendant Hasli Necklace",
@@ -32478,9 +32480,10 @@
     "price": 599.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1272FA60-823D-462C-BAF3-27B13485CFFF.jpg?v=1756278736",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-flower-layer-jhumkas?variant=gid://shopify/ProductVariant/47471681765598",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47472096641246": {
     "product_title": "Antique Lakshmi Jhumkas with Green Beads Mattal",
@@ -48077,6 +48080,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0864_93ef71ad-40e1-413f-856b-8167e70a9c61.jpg?v=1785427090",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/victorian-moissanite-flower-necklace-with-earrings?variant=gid://shopify/ProductVariant/48525556285662",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   }
 }
