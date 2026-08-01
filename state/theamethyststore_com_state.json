@@ -173717,6 +173717,20 @@
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-16?variant=gid://shopify/ProductVariant/49483015553251",
     "stock": 3
   },
+  "gid://shopify/ProductVariant/49483026432227": {
+    "product_title": "Catchy Avikam Necklace Set",
+    "product_handle": "avikam-necklace-set-7",
+    "variant_id": "gid://shopify/ProductVariant/49483026432227",
+    "global_id": "gid://shopify/ProductVariant/49483026432227",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 55400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/WhatsAppImage2026-08-01at12.33.58PM.jpg?v=1785568184",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-necklace-set-7?variant=gid://shopify/ProductVariant/49483026432227",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/49483026563299": {
     "product_title": "Amazing Diamond Design Short Necklace",
     "product_handle": "amazing-avikam-short-necklace-1",
@@ -173744,5 +173758,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/glitz-chain-with-earrings?variant=gid://shopify/ProductVariant/49483043078371",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483059953891": {
+    "product_title": "Bridal Avikam Mini Choker Cum Vanki",
+    "product_handle": "bridal-avikam-mini-choker-cum-vanki",
+    "variant_id": "gid://shopify/ProductVariant/49483059953891",
+    "global_id": "gid://shopify/ProductVariant/49483059953891",
+    "variant_title": "Default Title",
+    "sku": "AMS-112-0901",
+    "price": 25100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0901.jpg?v=1785568924",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/bridal-avikam-mini-choker-cum-vanki?variant=gid://shopify/ProductVariant/49483059953891",
+    "stock": 6
   }
 }
