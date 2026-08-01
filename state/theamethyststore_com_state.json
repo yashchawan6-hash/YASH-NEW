@@ -174869,5 +174869,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-choker?variant=gid://shopify/ProductVariant/49483749589219",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483856412899": {
+    "product_title": "Catchy Avikam Necklace Set",
+    "product_handle": "avikam-necklace-set-8",
+    "variant_id": "gid://shopify/ProductVariant/49483856412899",
+    "global_id": "gid://shopify/ProductVariant/49483856412899",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17339",
+    "price": 84700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17339.jpg?v=1785591937",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-necklace-set-8?variant=gid://shopify/ProductVariant/49483856412899",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483880562915": {
+    "product_title": "Marivelle Avikam Necklace Set",
+    "product_handle": "avikam-necklace-set-9",
+    "variant_id": "gid://shopify/ProductVariant/49483880562915",
+    "global_id": "gid://shopify/ProductVariant/49483880562915",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17340",
+    "price": 104900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17340.jpg?v=1785592181",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/avikam-necklace-set-9?variant=gid://shopify/ProductVariant/49483880562915",
+    "stock": 0
   }
 }
