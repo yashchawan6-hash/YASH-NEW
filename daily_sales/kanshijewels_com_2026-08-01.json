@@ -108,5 +108,25 @@
     "qty_sold": 1,
     "total_value": 450.0,
     "url": "https://www.kanshijewels.com/products/elegant-victorian-emerald?variant=gid://shopify/ProductVariant/53331945455916"
+  },
+  {
+    "timestamp": "2026-08-01T19:36:34+05:30",
+    "product_title": "Jadau Kundan Earrings",
+    "variant_title": "Default Title",
+    "price": 1039.5,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1039.5,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-24?variant=gid://shopify/ProductVariant/45425881874732"
+  },
+  {
+    "timestamp": "2026-08-01T19:36:34+05:30",
+    "product_title": "Coral Pearl Necklace",
+    "variant_title": "Default Title",
+    "price": 1575.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1575.0,
+    "url": "https://www.kanshijewels.com/products/coral-pearl-necklace-2?variant=gid://shopify/ProductVariant/50702812512556"
   }
 ]
