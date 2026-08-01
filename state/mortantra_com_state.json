@@ -56678,20 +56678,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-mn651?variant=gid://shopify/ProductVariant/47582686216415",
     "stock": 6
   },
-  "gid://shopify/ProductVariant/47582740119775": {
-    "product_title": "Dark Green Gold-Plated Moissanite Princess Necklace with Floral Motif - MO-N19GR",
-    "product_handle": "green-color-gold-plated-moissanite-necklace-mo-n19gr",
-    "variant_id": "gid://shopify/ProductVariant/47582740119775",
-    "global_id": "gid://shopify/ProductVariant/47582740119775",
-    "variant_title": "Default Title",
-    "sku": "MO-N19GR",
-    "price": 6650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N19GR.jpg?v=1763032590",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-necklace-mo-n19gr?variant=gid://shopify/ProductVariant/47582740119775",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47582757421279": {
     "product_title": "Multicolor Gold-Plated Mishr Kundan Necklace Set with Floral and Crescent Motifs - MR-S992",
     "product_handle": "gold-plated-mishr-necklace-set-mr-s992",
@@ -69376,7 +69362,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2857WP-2.jpg?v=1772013133",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pink-color-gold-plated-jadau-kundan-necklace-set-ms2857wp?variant=gid://shopify/ProductVariant/48544278184159",
-    "stock": 8093
+    "stock": 4383
   },
   "gid://shopify/ProductVariant/48544288932063": {
     "product_title": "Gold-Plated Jadau Kundan Pendant Necklace Set with Peacock and Floral Motifs - MS2862",
@@ -82452,7 +82438,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB280MR.jpg?v=1778746226",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bangle-1-piece-mb280?variant=gid://shopify/ProductVariant/49175059628255",
-    "stock": 3185
+    "stock": 3184,
+    "last_alerted_stock": 3184
   },
   "gid://shopify/ProductVariant/49175065559263": {
     "product_title": "Gold-Plated Meenakari Jadau Kundan Bangle with Floral Enamel Work (1 Piece) - MB280",
@@ -98540,6 +98527,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/47582740119775": {
+    "product_title": "Dark Green Gold-Plated Moissanite Princess Necklace with Floral Motif - MO-N19GR",
+    "product_handle": "green-color-gold-plated-moissanite-necklace-mo-n19gr",
+    "variant_id": "gid://shopify/ProductVariant/47582740119775",
+    "global_id": "gid://shopify/ProductVariant/47582740119775",
+    "variant_title": "Default Title",
+    "sku": "MO-N19GR",
+    "price": 6650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N19GR.jpg?v=1763032590",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-necklace-mo-n19gr?variant=gid://shopify/ProductVariant/47582740119775",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47075501146335": {
     "product_title": "Dark Pink Gold-Plated Mishr Long Haram Necklace with Kundan and Pearl - MR-N115WP",
