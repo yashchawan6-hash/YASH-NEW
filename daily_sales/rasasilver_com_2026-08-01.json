@@ -408,5 +408,25 @@
     "qty_sold": 1,
     "total_value": 1900.0,
     "url": "https://www.rasasilver.com/products/tiny-shine-ring?variant=gid://shopify/ProductVariant/53286206964009"
+  },
+  {
+    "timestamp": "2026-08-01T20:57:04+05:30",
+    "product_title": "Ever-Green Bloom CZ Necklace",
+    "variant_title": "Default Title",
+    "price": 22000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 22000.0,
+    "url": "https://www.rasasilver.com/products/evergreen-bloom-cz-necklace?variant=gid://shopify/ProductVariant/53282546090281"
+  },
+  {
+    "timestamp": "2026-08-01T20:57:04+05:30",
+    "product_title": "Minimal Plain Chain",
+    "variant_title": "Default Title",
+    "price": 1600.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 1600.0,
+    "url": "https://www.rasasilver.com/products/minimal-plain-chain?variant=gid://shopify/ProductVariant/53329485431081"
   }
 ]
