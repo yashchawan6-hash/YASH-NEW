@@ -83659,9 +83659,10 @@
     "price": 6072.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1737.jpg?v=1762162776",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/jerika-ring?variant=gid://shopify/ProductVariant/47442171658467",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47442171691235": {
     "product_title": "Bugadi Bliss Earrings",
@@ -97441,9 +97442,10 @@
     "price": 4473.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12460.jpg?v=1767968134",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/stone-studs-20?variant=gid://shopify/ProductVariant/47807940657379",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47809353941219": {
     "product_title": "Glow Charm Kundan Studs",
@@ -102024,9 +102026,10 @@
     "price": 3124.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11867.jpg?v=1768829092",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/swetha-stone-studs-1?variant=gid://shopify/ProductVariant/47852472467683",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47852475777251": {
     "product_title": "Traditional Kum Kum Box",
@@ -127620,9 +127623,10 @@
     "price": 24816.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15501.jpg?v=1777380879",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/mesmerize-short-necklace-set?variant=gid://shopify/ProductVariant/48883153436899",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48883276611811": {
     "product_title": "Stylish Men's Chain",
@@ -161828,7 +161832,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16527.jpg?v=1783840392",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-79?variant=gid://shopify/ProductVariant/49396619313379",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49396620230883": {
     "product_title": "Finthikaa Hasli Necklace",
