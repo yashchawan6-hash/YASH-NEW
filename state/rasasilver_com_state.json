@@ -1649,8 +1649,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06544_copy.jpg?v=1744189000",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pure-essence-studs?variant=gid://shopify/ProductVariant/50158302298409",
-    "stock": 5,
-    "last_alerted_stock": 3
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/50158398079273": {
     "product_title": "Crimson Spark Studs",
@@ -3163,9 +3163,10 @@
     "price": 6600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08365copy.jpg?v=1747918099",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/devi-dhaaga-mangalsutra-set?variant=gid://shopify/ProductVariant/50313841312041",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50313879683369": {
     "product_title": "Antarang Vow Mangalsutra Set",
@@ -15930,7 +15931,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2025-09-15at12.24.38.jpg?v=1758795589",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kada-1?variant=gid://shopify/ProductVariant/51239358726441",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51239365443881": {
     "product_title": "Ratna Veni Necklace",
@@ -49388,7 +49390,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0221copy_resized_5063a933-9dd9-4924-91ec-2a6f2b1ffbc6.jpg?v=1770198288",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/moonlit-violet-cz-pendant-set?variant=gid://shopify/ProductVariant/52565089780009",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52565266432297": {
     "product_title": "Dvi Mukha Pakshi Pendant",
@@ -65884,7 +65887,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0666_resized.jpg?v=1780937373",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pushmira-oxidized-payal?variant=gid://shopify/ProductVariant/53149816979753",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53149829857577": {
     "product_title": "Floriva Oxidized Payal",
@@ -66346,9 +66350,10 @@
     "price": 5800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11443_resized.jpg?v=1780904857",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/aarunya-shine-cz-pendant?variant=gid://shopify/ProductVariant/53158304448809",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53158304481577": {
     "product_title": "Aarunya Shine CZ Pendant",
@@ -68331,9 +68336,10 @@
     "price": 2400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262405_resized.jpg?v=1781957179",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/sparkling-stone-studs?variant=gid://shopify/ProductVariant/53279946998057",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53282491662633": {
     "product_title": "Floria Stone Studs",
@@ -69150,8 +69156,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1774_resized.jpg?v=1782132317",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/cz-rosetta-danglers?variant=gid://shopify/ProductVariant/53282952741161",
-    "stock": 3,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53282985115945": {
     "product_title": "Pear-Luxe CZ Danglers",

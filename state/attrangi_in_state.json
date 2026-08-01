@@ -875,7 +875,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-21_at_7.01.09_PM_1.jpg?v=1774100972",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/earrings-diamond-studs?variant=gid://shopify/ProductVariant/40411676049577",
-    "stock": 2
+    "stock": 10
   },
   "gid://shopify/ProductVariant/40411676082345": {
     "product_title": "Rose Shaped Studs",
@@ -8792,7 +8792,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/anjuna-diamond-studs-with-black-enamel-and-coloured-stones-attrangi-5.jpg?v=1739815032",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/anjuna-diamond-studs-with-black-enamel-and-coloured-stones?variant=gid://shopify/ProductVariant/43918645330132",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/43922140659924": {
     "product_title": "Mermaid Purple & Green Statement Set | LaLa land collection  Collection",
@@ -29288,7 +29288,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at1.47.50PM_1.jpg?v=1758539944",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marquise-around-thick-diamond-band-ring-daily-wear?variant=gid://shopify/ProductVariant/46960873963732",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46960873996500": {
     "product_title": "Marquise around Thick Diamond Band Ring | Daily Wear",

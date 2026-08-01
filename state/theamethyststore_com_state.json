@@ -46754,7 +46754,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1632.jpg?v=1752150291",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vishaka-maangtikka?variant=gid://shopify/ProductVariant/46836674986211",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/46836726726883": {
     "product_title": "Pretiest Victorian Long Earrings",
@@ -56390,6 +56390,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1643.jpg?v=1755761570",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/akshira-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/47043202285795",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/47043219292387": {
+    "product_title": "Aarithya Diamond Design Hair Maatal",
+    "product_handle": "aarithya-diamond-design-hair-maatal",
+    "variant_id": "gid://shopify/ProductVariant/47043219292387",
+    "global_id": "gid://shopify/ProductVariant/47043219292387",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1642",
+    "price": 59200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1642.jpg?v=1755761759",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/aarithya-diamond-design-hair-maatal?variant=gid://shopify/ProductVariant/47043219292387",
     "stock": 1
   },
   "gid://shopify/ProductVariant/47043219521763": {
@@ -152096,7 +152110,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14459.jpg?v=1782729233",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nagas-studs-1?variant=gid://shopify/ProductVariant/49326006632675",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49326040252643": {
     "product_title": "Harikaa Nagas Studs",
@@ -173659,5 +173674,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-33?variant=gid://shopify/ProductVariant/49482809966819",
     "stock": 4
+  },
+  "gid://shopify/ProductVariant/49482848895203": {
+    "product_title": "Catchy Nagas Pendant",
+    "product_handle": "nagas-pendant-44",
+    "variant_id": "gid://shopify/ProductVariant/49482848895203",
+    "global_id": "gid://shopify/ProductVariant/49482848895203",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4832",
+    "price": 19500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4832.jpg?v=1785567077",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/nagas-pendant-44?variant=gid://shopify/ProductVariant/49482848895203",
+    "stock": 5
+  },
+  "gid://shopify/ProductVariant/49483001790691": {
+    "product_title": "Dazzling Victorian Pendant",
+    "product_handle": "victorian-pendant-1",
+    "variant_id": "gid://shopify/ProductVariant/49483001790691",
+    "global_id": "gid://shopify/ProductVariant/49483001790691",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4851",
+    "price": 30900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4851.jpg?v=1785567348",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/victorian-pendant-1?variant=gid://shopify/ProductVariant/49483001790691",
+    "stock": 0
   }
 }
