@@ -42456,7 +42456,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-ruby-pink-pearl-cubic-zirconia-studed-adjustable-finger-ring-finger-rings-1143858949.jpg?v=1755714288",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-pearl-cubic-zirconia-studed-adjustable-finger-ring?variant=gid://shopify/ProductVariant/46208561053870",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/46208563118254": {
     "product_title": "American Diamond Zirconia Green Floral Ring",
@@ -81323,9 +81324,10 @@
     "price": 2157.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410828-Model-1.jpg?v=1768809398",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re16ns410828?variant=gid://shopify/ProductVariant/47275163189422",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47275163222190": {
     "product_title": "Peacock Motif Red temple Necklace Set",
