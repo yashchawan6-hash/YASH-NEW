@@ -40429,9 +40429,9 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-30_at_5.04.17_PM.jpg?v=1774873737",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gia-multi-diamond-drop-dainty-daily-wear-necklace?variant=gid://shopify/ProductVariant/47738189119700",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47741161210068": {
@@ -44375,7 +44375,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/charming-lara-solitaire-set-attrangi-5_877560c0-bf95-4576-b807-b9d5c55a58d3.jpg?v=1783596081",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/charming-lara-solitaire-earrings?variant=gid://shopify/ProductVariant/48234959306964",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48234971988180": {
     "product_title": "Richie Polki Moissanite Uncut Diamond Indian Bangle | Kada(GREEN)",
