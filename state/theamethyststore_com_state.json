@@ -174953,5 +174953,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-long-necklace-set-7?variant=gid://shopify/ProductVariant/49483942789347",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483963564259": {
+    "product_title": "Luvaira Victorian Short Necklace Set",
+    "product_handle": "victorian-short-necklace-set-3",
+    "variant_id": "gid://shopify/ProductVariant/49483963564259",
+    "global_id": "gid://shopify/ProductVariant/49483963564259",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17169",
+    "price": 69500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17169.jpg?v=1785594056",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/victorian-short-necklace-set-3?variant=gid://shopify/ProductVariant/49483963564259",
+    "stock": 0
   }
 }
