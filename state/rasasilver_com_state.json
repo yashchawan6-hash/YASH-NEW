@@ -53380,9 +53380,10 @@
     "price": 14800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00058copy.jpg?v=1746079624",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/lush-longing-pendant-copy?variant=gid://shopify/ProductVariant/52737830224169",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52737920762153": {
     "product_title": "Pushpangan Kundan Chandbali",

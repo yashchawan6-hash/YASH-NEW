@@ -174444,5 +174444,61 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-earrings-9?variant=gid://shopify/ProductVariant/49483503698147",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483524440291": {
+    "product_title": "Fabulous Pakshi Short Necklace Set",
+    "product_handle": "fabulous-pakshi-short-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49483524440291",
+    "global_id": "gid://shopify/ProductVariant/49483524440291",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16936",
+    "price": 32200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16936.jpg?v=1785582737",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/fabulous-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49483524440291",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483527815395": {
+    "product_title": "Larina Avikam Earrings",
+    "product_handle": "avikam-earrings-10",
+    "variant_id": "gid://shopify/ProductVariant/49483527815395",
+    "global_id": "gid://shopify/ProductVariant/49483527815395",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15078",
+    "price": 7200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15078.jpg?v=1785582786",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-earrings-10?variant=gid://shopify/ProductVariant/49483527815395",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483534303459": {
+    "product_title": "Stunning Pakshi Short Necklace Set",
+    "product_handle": "stunning-pakshi-short-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49483534303459",
+    "global_id": "gid://shopify/ProductVariant/49483534303459",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16937",
+    "price": 30000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16937.jpg?v=1785582843",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stunning-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49483534303459",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483562320099": {
+    "product_title": "Ashikha Pakshi Short Necklace Set",
+    "product_handle": "ashikha-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483562320099",
+    "global_id": "gid://shopify/ProductVariant/49483562320099",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16938",
+    "price": 31300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16938.jpg?v=1785582961",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/ashikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483562320099",
+    "stock": 1
   }
 }

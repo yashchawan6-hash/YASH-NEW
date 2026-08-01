@@ -65306,8 +65306,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT560M.jpg?v=1770981608",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt560?variant=gid://shopify/ProductVariant/48447328288991",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/50554864697567": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Medium Maang Teeka with Floral Motif - MT560",
@@ -75722,7 +75722,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZSET443-2.jpg?v=1775197412",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-necklace-set-czset443?variant=gid://shopify/ProductVariant/48784158392543",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48784218915039": {
     "product_title": "Gold-Plated Jadau Kundan Bangle (1 Piece) with Screw Fastening - MB273",
@@ -75974,9 +75975,10 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S456LP-2.jpg?v=1775210046",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s456?variant=gid://shopify/ProductVariant/48787360907487",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48787372998879": {
     "product_title": "Gold-Plated Faux Polki Princess Necklace Set with Coloured Kundan Stones - PK-S456",

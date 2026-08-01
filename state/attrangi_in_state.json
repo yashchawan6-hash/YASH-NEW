@@ -36058,7 +36058,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-06at2.37.20PM.jpg?v=1770618918",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/vivah-moissanite-uncut-diamond-classic-2-line-kada?variant=gid://shopify/ProductVariant/47530692083924",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47530692116692": {
     "product_title": "Vivah Moissanite Uncut Diamond Classic 2 Line Kada",
@@ -45830,9 +45831,10 @@
     "price": 4350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at5.28.04PM_1.jpg?v=1784292676",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/farida-moissanite-thin-polki-gokhru-kada-next-to-real?variant=gid://shopify/ProductVariant/48319063556308",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48319063589076": {
     "product_title": "Farida Moissanite Thin Polki Gokhru Kada  | Next To Real",
