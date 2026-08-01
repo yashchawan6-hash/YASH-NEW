@@ -348,5 +348,35 @@
     "qty_sold": 1,
     "total_value": 4000.0,
     "url": "https://www.rasasilver.com/products/chamak-phool-studs?variant=gid://shopify/ProductVariant/50624958300457"
+  },
+  {
+    "timestamp": "2026-08-01T19:43:19+05:30",
+    "product_title": "Rubora Stud Earrings",
+    "variant_title": "Default Title",
+    "price": 2100.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 2100.0,
+    "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/50809700581673"
+  },
+  {
+    "timestamp": "2026-08-01T19:43:19+05:30",
+    "product_title": "Fiora Stone Studs",
+    "variant_title": "Default Title",
+    "price": 2300.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 2300.0,
+    "url": "https://www.rasasilver.com/products/fiora-stone-studs?variant=gid://shopify/ProductVariant/53282509226281"
+  },
+  {
+    "timestamp": "2026-08-01T19:43:19+05:30",
+    "product_title": "Half-Twist Toe Ring",
+    "variant_title": "Default Title",
+    "price": 2600.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "total_value": 2600.0,
+    "url": "https://www.rasasilver.com/products/half-twist-toe-ring?variant=gid://shopify/ProductVariant/53289090285865"
   }
 ]

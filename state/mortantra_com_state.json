@@ -1484,7 +1484,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME774YR.jpg?v=1750767920",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/me774yr-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/42171649196255",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42362261766367": {
     "product_title": "White Pearl Gold-Plated Ear Chains - MKS25",
@@ -55705,20 +55706,6 @@
     "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-set-ek-sfset462?variant=gid://shopify/ProductVariant/47420403253471",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/47420423241951": {
-    "product_title": "Multicolor Gold-Plated Mishr Bracelet with Kundan, Flower and Moon Motifs - MR-BRAC197",
-    "product_handle": "gold-plated-mishr-bracelet-1-piece-mr-brac197",
-    "variant_id": "gid://shopify/ProductVariant/47420423241951",
-    "global_id": "gid://shopify/ProductVariant/47420423241951",
-    "variant_title": "Multicolor",
-    "sku": "MR-BRAC197M",
-    "price": 4200.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC197M.jpg?v=1758106490",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-mishr-bracelet-1-piece-mr-brac197?variant=gid://shopify/ProductVariant/47420423241951",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47420427305183": {
     "product_title": "Multicolor Gold-Plated Mishr Gaadi Bracelet with Kundan Fish and Flower Motifs - MR-BRAC198",
     "product_handle": "gold-plated-mishr-bracelet-1-piece-mr-brac198",
@@ -60303,7 +60290,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-N15M.jpg?v=1765285017",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/victorian-necklace-vc-n15?variant=gid://shopify/ProductVariant/48076864094431",
-    "stock": 9403
+    "stock": 9402
   },
   "gid://shopify/ProductVariant/48329084895455": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Ear Cuff & Kanauti with Flower and Fish Motif - ME1544WP",
@@ -69404,7 +69391,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2870M-2.jpg?v=1772545501",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2870?variant=gid://shopify/ProductVariant/48562358190303",
-    "stock": 4235
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/48545934737631": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Pendant Necklace Set with Pearl Belt - MS2871",
@@ -69418,7 +69405,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2871M-2.jpg?v=1772018563",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2871?variant=gid://shopify/ProductVariant/48545934737631",
-    "stock": 9999
+    "stock": 8152
   },
   "gid://shopify/ProductVariant/48545936933087": {
     "product_title": "Dark Green Gold-Plated Jadau Kundan Pendant Necklace Set with Elephant and Floral Motifs - MS2874",
@@ -82740,7 +82727,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2900M-2.jpg?v=1778760718",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2900m?variant=gid://shopify/ProductVariant/49175368761567",
-    "stock": 754
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/49175381541087": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Floral Motif - MS2921",
@@ -82754,7 +82741,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2921M-2.jpg?v=1778761033",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2921?variant=gid://shopify/ProductVariant/49175381541087",
-    "stock": 9999
+    "stock": 3710
   },
   "gid://shopify/ProductVariant/49175406936287": {
     "product_title": "Gold-Plated Jadau Kundan Pendant Necklace Set with Moon Motif - MS2925",
@@ -98466,6 +98453,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2973m?variant=gid://shopify/ProductVariant/50605093847263",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/47420423241951": {
+    "product_title": "Multicolor Gold-Plated Mishr Bracelet with Kundan, Flower and Moon Motifs - MR-BRAC197",
+    "product_handle": "gold-plated-mishr-bracelet-1-piece-mr-brac197",
+    "variant_id": "gid://shopify/ProductVariant/47420423241951",
+    "global_id": "gid://shopify/ProductVariant/47420423241951",
+    "variant_title": "Multicolor",
+    "sku": "MR-BRAC197M",
+    "price": 4200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC197M.jpg?v=1758106490",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-mishr-bracelet-1-piece-mr-brac197?variant=gid://shopify/ProductVariant/47420423241951",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/44266626253023": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Floral Motif and Pearl Drops - MS1946MA",

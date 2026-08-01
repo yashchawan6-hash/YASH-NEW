@@ -1434,7 +1434,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/26_8f0a19db-0ca2-43dc-a019-d6e169d00fbf.jpg?v=1743766326",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rasi-kala-studs-1?variant=gid://shopify/ProductVariant/50140400288041",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50140457992489": {
@@ -10647,8 +10647,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2508.jpg?v=1756544597",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rubora-oval-studs?variant=gid://shopify/ProductVariant/50809700581673",
-    "stock": 9,
-    "last_alerted_stock": 7
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50809739837737": {
     "product_title": "Rose Vaibhavam Short Necklace",
@@ -68404,9 +68404,10 @@
     "price": 2300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262378_resized.jpg?v=1782109475",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/fiora-stone-studs?variant=gid://shopify/ProductVariant/53282509226281",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53282509619497": {
     "product_title": "Bloom Spark Stone Studs",
@@ -70938,9 +70939,10 @@
     "price": 2600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5804_resized.jpg?v=1782385714",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/half-twist-toe-ring?variant=gid://shopify/ProductVariant/53289090285865",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53289094775081": {
     "product_title": "Pear-Pinkish Toe Ring",
