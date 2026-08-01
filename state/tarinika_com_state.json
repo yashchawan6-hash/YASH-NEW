@@ -25205,12 +25205,12 @@
     "global_id": "gid://shopify/ProductVariant/43868858908738",
     "variant_title": "Green / 2.8",
     "sku": "US-ABX0071XGC8",
-    "price": 24.99,
+    "price": 12.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071.jpg?v=1781779478",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/bhavya-antique-green-floral-bangles?variant=gid://shopify/ProductVariant/43868858908738",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/43869719068738": {
     "product_title": "Noorani Antique Red Necklace Set",
