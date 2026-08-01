@@ -13426,7 +13426,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-27_at_12.48.03_AM.jpg?v=1750781898",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/free-bird-indo-western-diamond-earrings?variant=gid://shopify/ProductVariant/45017228148948",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47990513565908": {
@@ -21281,9 +21281,10 @@
     "price": 4550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at7.55.58PM.jpg?v=1744968805",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/navratna-next-to-real-diamond-indian-bangle-copy?variant=gid://shopify/ProductVariant/46502124912852",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46139871428820": {
     "product_title": "Slytherin Statement Gold Party Wear Earrings",
@@ -33346,7 +33347,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-11at12.18.22PM.jpg?v=1765436263",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lush-camellia-diamond-pastel-ring-enchanted-garden?variant=gid://shopify/ProductVariant/47337715007700",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47346122653908": {
@@ -46519,7 +46520,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-24_at_4.35.47_PM.jpg?v=1784892829",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhaalar-indian-bracelet-with-latkans-bhaabhi-kada-rakhi?variant=gid://shopify/ProductVariant/48355561013460",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48355738714324": {
     "product_title": "Nazar Suraksha Pearl Evil Eye Rakhi Bracelet",
