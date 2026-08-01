@@ -174430,5 +174430,19 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-earrings-8?variant=gid://shopify/ProductVariant/49483469127907",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483503698147": {
+    "product_title": "Vithikaa Avikam Earrings",
+    "product_handle": "avikam-earrings-9",
+    "variant_id": "gid://shopify/ProductVariant/49483503698147",
+    "global_id": "gid://shopify/ProductVariant/49483503698147",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15074",
+    "price": 5700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15074.jpg?v=1785582525",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-earrings-9?variant=gid://shopify/ProductVariant/49483503698147",
+    "stock": 1
   }
 }

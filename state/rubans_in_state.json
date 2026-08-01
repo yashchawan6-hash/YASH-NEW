@@ -20606,7 +20606,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B405191.jpg?v=1765460139",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-crystal-white-ad-cubic-zirconia-studded-premium-bangles?variant=gid://shopify/ProductVariant/47084617629870",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/47084617662638": {
     "product_title": "Rubans Set of 2 Rhodium-Plated Crystal White AD & Cubic Zirconia Studded Premium Bangles",
@@ -27424,7 +27424,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-textured-ball-and-multi-strand-dangle-earrings-for-a-statement-look-earrings-1203249248.jpg?v=1774610775",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-graceful-cascades-silver-plated-drop-earrings-copy?variant=gid://shopify/ProductVariant/45979864072366",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45979898937518": {
     "product_title": "Teardrop Motif Oxidised Red Stud Earrings",
@@ -90748,9 +90749,9 @@
     "price": 3050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410834.jpg?v=1770982911",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16ns410834?variant=gid://shopify/ProductVariant/47502230519982",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47502230749358": {
     "product_title": "Crystal Cascade Silver Chandelier Earrings",
@@ -92682,7 +92683,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS411939-Model.jpg?v=1772099591",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ns411939?variant=gid://shopify/ProductVariant/47556480139438",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47556480172206": {
     "product_title": "Pastel Glow Luxe Necklace Set",
@@ -102636,7 +102638,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414087-Model.jpg?v=1778838462",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414087?variant=gid://shopify/ProductVariant/47861803679918",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47869075292334": {
@@ -102749,7 +102751,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414164-Model.jpg?v=1779086738",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414164?variant=gid://shopify/ProductVariant/47869076897966",
-    "stock": 20
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47914219143342": {
     "product_title": "Multicolour Crystal Luxe Statement Earrings",
@@ -103043,7 +103046,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10ES411459-Model-1.jpg?v=1779881618",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10es411459?variant=gid://shopify/ProductVariant/47914223599790",
-    "stock": 15
+    "stock": 16
   },
   "gid://shopify/ProductVariant/47914223730862": {
     "product_title": "Moonlight Sparkle Statement Pendant Set",
@@ -109889,7 +109892,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414273-Model.jpg?v=1784291087",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414273?variant=gid://shopify/ProductVariant/48107701567662",
-    "stock": 20
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107701960878": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Statement Stud Earrings",
