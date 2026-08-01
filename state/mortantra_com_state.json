@@ -25057,9 +25057,10 @@
     "price": 1960.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1441.jpg?v=1749291357",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-earrings-me1441?variant=gid://shopify/ProductVariant/46545429496031",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46450926551263": {
     "product_title": "Gold-Plated Jadau Kundan EarCuff Kanphool with Peacock Motif - ME1441",
@@ -69052,7 +69053,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1706M.jpg?v=1771935312",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1706?variant=gid://shopify/ProductVariant/48508148023519",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48508526166239": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff / Kanphool - ME1707",
@@ -72383,7 +72385,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R70R.jpg?v=1774265972",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/maroon-color-gold-plated-faux-polki-ring-pk-r70r?variant=gid://shopify/ProductVariant/48675136962783",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48675143450847": {
     "product_title": "Gold-Plated Faux Polki Adjustable Ring with Kundan Setting - PK-R71",
