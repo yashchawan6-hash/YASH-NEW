@@ -17887,9 +17887,10 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT501Y_1.jpg?v=1720464545",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/mt501-gold-plated-jadau-kundan-maangteeka?variant=gid://shopify/ProductVariant/46095101821151",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46558551179487": {
     "product_title": "Gold-Plated Jadau Kundan Small Maang Teeka - MT501",
@@ -22258,7 +22259,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET328M-2_862d89d1-eb89-49d8-b1e8-061bf4ca7317.jpg?v=1748090624",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfset328-multicolor-tribal-necklace-set?variant=gid://shopify/ProductVariant/46320636002527",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46320636035295": {
     "product_title": "Multicolor Dual-Tone Tribal Choker Necklace Set with Kundan - EK-SFSET328",
@@ -22498,7 +22500,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MN475.jpg?v=1772449748",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mn475-multicolor-gold-plated-necklace-mala?variant=gid://shopify/ProductVariant/46334155129055",
-    "stock": 2265,
+    "stock": 2271,
     "last_alerted_stock": 2265
   },
   "gid://shopify/ProductVariant/46334277877983": {
@@ -69826,8 +69828,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2875M-2.jpg?v=1772025627",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2875?variant=gid://shopify/ProductVariant/48546104836319",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48546123415775": {
     "product_title": "Gold Plated Temple Necklace Set with Kundan - TMPSET1120",
@@ -77489,8 +77491,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT578M.jpg?v=1775546568",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-maangteeka-mt578m?variant=gid://shopify/ProductVariant/48826628669663",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48826631880927": {
     "product_title": "Dark Green Gold-Plated Faux Polki Kundan Ring with Flower Motif - PK-R70GR",
