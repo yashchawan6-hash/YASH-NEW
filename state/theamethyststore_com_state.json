@@ -174839,5 +174839,33 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/beautiful-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483739463907",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483743166691": {
+    "product_title": "Attractive Pakshi Short Necklace Set",
+    "product_handle": "attractive-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49483743166691",
+    "global_id": "gid://shopify/ProductVariant/49483743166691",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16992",
+    "price": 24500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16992.jpg?v=1785590362",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/attractive-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49483743166691",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49483749589219": {
+    "product_title": "Bridal Avikam Choker",
+    "product_handle": "avikam-choker",
+    "variant_id": "gid://shopify/ProductVariant/49483749589219",
+    "global_id": "gid://shopify/ProductVariant/49483749589219",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17335",
+    "price": 210200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17335.jpg?v=1785590640",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-choker?variant=gid://shopify/ProductVariant/49483749589219",
+    "stock": 1
   }
 }
