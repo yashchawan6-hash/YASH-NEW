@@ -921,7 +921,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/PLE0038X.jpg?v=1638870070",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/rohita-jadau-silver-studs?variant=gid://shopify/ProductVariant/41465409208471",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41465409306775": {
     "product_title": "Roha Jadau Silver Earrings",
@@ -2153,7 +2154,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/PAE0006X_1.jpg?v=1638870641",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/statement-art-deco-silver-earrings?variant=gid://shopify/ProductVariant/41465434538135",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/41465436373143": {
     "product_title": "Harini Loka Silver Necklace",
@@ -2657,7 +2659,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/IMGL5665copycopy.jpg?v=1640015127",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/shyama-jadau-silver-stud-earrings?variant=gid://shopify/ProductVariant/41510776602775",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41510778601623": {
     "product_title": "Kritika Gold Plated Silver Earrings",
@@ -3145,9 +3148,10 @@
     "price": 5291.4,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/3O9A0384copycopy.jpg?v=1672942673",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/pyramid-classic-silver-bracelet?variant=gid://shopify/ProductVariant/41547541905559",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41547543773335": {
     "product_title": "Pyramid Minimal Drop Earrings",
@@ -3931,7 +3935,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/3O9A0378copycopy.jpg?v=1672943177",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/pyramid-simple-silver-bracelet?variant=gid://shopify/ProductVariant/41789204037783",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42752737345687": {
     "product_title": "Pyramid Simple Silver Finger Ring",
@@ -6841,9 +6846,10 @@
     "price": 4553.45,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/3O9A0196copycopy.jpg?v=1672930511",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/pyramid-minimal-silver-drop-earrings?variant=gid://shopify/ProductVariant/42749989847191",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42750024581271": {
     "product_title": "Pyramid Minimal Silver Bracelet",
@@ -11881,9 +11887,10 @@
     "price": 4360.95,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PSO0012S_2.jpg?v=1688627560",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/florena-silver-stud-earrings?variant=gid://shopify/ProductVariant/43163881734295",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43164127166615": {
     "product_title": "Kul Gold Plated Silver Stud Earrings",
@@ -11895,9 +11902,10 @@
     "price": 4322.45,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PSO0013S.jpg?v=1688628198",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/kul-gold-plated-silver-stud-earrings?variant=gid://shopify/ProductVariant/43164127166615",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43165846601879": {
     "product_title": "Olivia CZ Silver Necklace Set",
@@ -19694,9 +19702,10 @@
     "price": 3375.2,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMFR0009HT.jpg?v=1748423906",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/fringe-flame-gold-plated-silver-drop-earrings?variant=gid://shopify/ProductVariant/45518878277783",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45518923595927": {
     "product_title": "Fringe Cascade Gold Plated Silver Drop Earrings",
@@ -19750,9 +19759,10 @@
     "price": 4386.75,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMFR0014D.jpg?v=1749206715",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/fringe-ellena-gold-plated-drop-earrings?variant=gid://shopify/ProductVariant/45518969438359",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45519000338583": {
     "product_title": "Fringe Tiered Sparkle Gold Plated Silver Statement Earrings",

@@ -3191,63 +3191,6 @@
     "url": "https://www.violetandpurple.com/products/designer-matt-antique-lakshmi-devi-kada-bangle?variant=gid://shopify/ProductVariant/48145009967397",
     "stock": 0
   },
-  "gid://shopify/ProductVariant/48145843454245": {
-    "product_title": "Designer Matt Bangles",
-    "product_handle": "designer-matt-bangles",
-    "variant_id": "gid://shopify/ProductVariant/48145843454245",
-    "global_id": "gid://shopify/ProductVariant/48145843454245",
-    "variant_title": "2.4",
-    "sku": "1000133403",
-    "price": 575.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/8.0_6c086475-6b18-45e9-acfb-1bd4929e48aa.jpg?v=1709976488",
-    "available_for_sale": true,
-    "url": "https://www.violetandpurple.com/products/designer-matt-bangles?variant=gid://shopify/ProductVariant/48145843454245",
-    "stock": 2
-  },
-  "gid://shopify/ProductVariant/48145843487013": {
-    "product_title": "Designer Matt Bangles",
-    "product_handle": "designer-matt-bangles",
-    "variant_id": "gid://shopify/ProductVariant/48145843487013",
-    "global_id": "gid://shopify/ProductVariant/48145843487013",
-    "variant_title": "2.6",
-    "sku": "1000133404",
-    "price": 575.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/8.1_0a003134-9f35-4ebf-8468-ce1d4fe46811.jpg?v=1765197323",
-    "available_for_sale": false,
-    "url": "https://www.violetandpurple.com/products/designer-matt-bangles?variant=gid://shopify/ProductVariant/48145843487013",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/48145843519781": {
-    "product_title": "Designer Matt Bangles",
-    "product_handle": "designer-matt-bangles",
-    "variant_id": "gid://shopify/ProductVariant/48145843519781",
-    "global_id": "gid://shopify/ProductVariant/48145843519781",
-    "variant_title": "2.8",
-    "sku": "1000133405",
-    "price": 575.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/8.0_6c086475-6b18-45e9-acfb-1bd4929e48aa.jpg?v=1709976488",
-    "available_for_sale": false,
-    "url": "https://www.violetandpurple.com/products/designer-matt-bangles?variant=gid://shopify/ProductVariant/48145843519781",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/48145843552549": {
-    "product_title": "Designer Matt Bangles",
-    "product_handle": "designer-matt-bangles",
-    "variant_id": "gid://shopify/ProductVariant/48145843552549",
-    "global_id": "gid://shopify/ProductVariant/48145843552549",
-    "variant_title": "2.11",
-    "sku": "1000133406",
-    "price": 575.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/8.1_0a003134-9f35-4ebf-8468-ce1d4fe46811.jpg?v=1765197323",
-    "available_for_sale": false,
-    "url": "https://www.violetandpurple.com/products/designer-matt-bangles?variant=gid://shopify/ProductVariant/48145843552549",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/48274520047909": {
     "product_title": "Lord RadhaKrishna Guttapusala Chain Bajuband + Choker",
     "product_handle": "designer-chain-bajuband-with-ruby-beads",
@@ -10442,6 +10385,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/2.1_488e4573-6f95-4537-8ec1-3f45a7081833.jpg?v=1766488571",
     "available_for_sale": true,
     "url": "https://www.violetandpurple.com/products/designer-elegant-mango-shaped-matt-kempu-necklace-set?variant=gid://shopify/ProductVariant/51504794206501",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/48145843454245": {
+    "product_title": "Designer Matt Bangles",
+    "product_handle": "designer-matt-bangles",
+    "variant_id": "gid://shopify/ProductVariant/48145843454245",
+    "global_id": "gid://shopify/ProductVariant/48145843454245",
+    "variant_title": "2.4",
+    "sku": "1000133403",
+    "price": 575.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/8.0_6c086475-6b18-45e9-acfb-1bd4929e48aa.jpg?v=1709976488",
+    "available_for_sale": true,
+    "url": "https://www.violetandpurple.com/products/designer-matt-bangles?variant=gid://shopify/ProductVariant/48145843454245",
     "stock": 2
   }
 }

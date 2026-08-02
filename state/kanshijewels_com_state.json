@@ -7229,7 +7229,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_89926ee8-e5fa-40a9-998c-a5cf85e4480d.png?v=1699261759",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-13?variant=gid://shopify/ProductVariant/47387074756908",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47387089568044": {
     "product_title": "Jadau Kundan Pendant",
@@ -10198,8 +10199,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0414.jpg?v=1713790396",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-earrings-156?variant=gid://shopify/ProductVariant/48667766554924",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48974823063852": {
     "product_title": "Jadau Kundan Choker",
@@ -12625,7 +12626,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Nakashiminichokar1800.jpg?v=1734345331",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/nakashi-mini-choker?variant=gid://shopify/ProductVariant/50321577771308",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/50321578787116": {
     "product_title": "Lotus jalebi necklace",
@@ -15235,8 +15237,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/51119706538284": {
     "product_title": "Jadau Necklace",
@@ -15965,7 +15967,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0585_2.jpg?v=1751267542",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-204?variant=gid://shopify/ProductVariant/51295273025836",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/51337974317356": {
     "product_title": "11:11",
@@ -19325,9 +19328,10 @@
     "price": 2360.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUMAATIL2360.jpg?v=1773124887",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-maatil?variant=gid://shopify/ProductVariant/52737325662508",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52737328447788": {
     "product_title": "Jadau Mossanite Fusion Watch",
@@ -19594,7 +19598,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3524.jpg?v=1778045530",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-adjuistable-ring?variant=gid://shopify/ProductVariant/53173822521644",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/53173988720940": {
     "product_title": "Mossanite bracelet",
@@ -20438,8 +20443,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/ElegantPolkifusionset1999.jpg?v=1782216193",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/53368929255724": {
     "product_title": "Elegant sheek jadau necklace and earring set",
@@ -21337,7 +21342,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/kj8.2_800507eb-948d-465d-8822-4671d5308e8d.jpg?v=1783581574",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-emerald-white-jhumkis?variant=gid://shopify/ProductVariant/53420409356588",
-    "stock": 19
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/53420412338476": {
     "product_title": "Elegant jadau green pearls studs",

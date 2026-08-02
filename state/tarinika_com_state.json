@@ -81,7 +81,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/BBN0010XA1.jpg?v=1762525714",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/falgu-antique-black-beads-necklace-set?variant=gid://shopify/ProductVariant/43173079250",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/31747546906690": {
     "product_title": "Falgu Antique Black Beads Necklace Set",
@@ -291,7 +292,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FEI0248XM.jpg?v=1640783050",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/biana-nakshatra-cz-ear-chain?variant=gid://shopify/ProductVariant/12159151013996",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/12159161794668": {
     "product_title": "Bani Antique Pendant Set",
@@ -332,9 +334,10 @@
     "price": 74.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0059XM.jpg?v=1762526566",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/sarang-antique-bangles?variant=gid://shopify/ProductVariant/12215597269100",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/12215597334636": {
     "product_title": "Sarang Antique Bangles",
@@ -446,7 +449,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANL0562XM.jpg?v=1762526586",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/gita-antique-long-necklace-set?variant=gid://shopify/ProductVariant/12216676581484",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/12216704565356": {
     "product_title": "Aavi Nakshatra CZ Necklace Set",
@@ -1440,9 +1444,10 @@
     "price": 59.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7326.jpg?v=1640782555",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/devya-nakshatra-cz-bangles?variant=gid://shopify/ProductVariant/14265696518210",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32608826064962": {
     "product_title": "Devya Nakshatra CZ Bangles",
@@ -2898,8 +2903,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SRP3557.jpg?v=1747378925",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/cira-antique-necklace-set?variant=gid://shopify/ProductVariant/41664462880834",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/41483412439106": {
     "product_title": "Cira Antique Necklace Set",
@@ -3431,8 +3436,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/RXX0085X_1.jpg?v=1640781631",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/enaya-antique-ring?variant=gid://shopify/ProductVariant/31736941609026",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40791553179714": {
     "product_title": "Enaya Antique Ring",
@@ -6191,7 +6196,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0022X.jpg?v=1750754599",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/uri-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/41483329667138",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/39558955139138": {
     "product_title": "Alina Delicate CZ Necklace Set",
@@ -8221,9 +8227,10 @@
     "price": 46.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3223copycopy.jpg?v=1643397673",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/dazzling-cz-bangles?variant=gid://shopify/ProductVariant/41478867484738",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483405819970": {
     "product_title": "Dazzling CZ Bangles",
@@ -8235,9 +8242,10 @@
     "price": 46.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3223copycopy.jpg?v=1643397673",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/dazzling-cz-bangles?variant=gid://shopify/ProductVariant/41483405819970",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483406639170": {
     "product_title": "Dazzling CZ Bangles",
@@ -10590,7 +10598,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A0401.jpg?v=1739529541",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/41664457965634",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/39961209176130": {
     "product_title": "Floral Classic Antique Necklace Set",
@@ -15260,7 +15269,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ZNX2508X_3b923d7e-ce9e-49f4-aba8-f2aca36e4559.jpg?v=1721205184",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/risay-antique-necklace-set?variant=gid://shopify/ProductVariant/40714232463426",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40714366582850": {
     "product_title": "Parag Antique Coin Necklace Set",
@@ -17221,9 +17231,10 @@
     "price": 46.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SAYI0012XM1_2.jpg?v=1732945637",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/antique-gold-plated-shaan-ear-chain?variant=gid://shopify/ProductVariant/41833788899394",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41833876488258": {
     "product_title": "Antique Gold Plated Pahal Navaratna Necklace Earring Set",
@@ -25142,7 +25153,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX1288XMC.jpg?v=1781782099",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/kamalika-antique-necklace-set?variant=gid://shopify/ProductVariant/43868858122306",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43868858515522": {
     "product_title": "Yalini Antique Maang Tikka",
