@@ -1679,7 +1679,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20222044.png?v=1749622752",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/dvi-vikranta-pendant?variant=gid://shopify/ProductVariant/50159118811433",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/50165132951849": {
     "product_title": "Leherika Stone Pendant Set",
@@ -6537,7 +6537,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4323ca21-3eae-4af3-b3e1-b2673a52a4f5.jpg?v=1754033262",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pannika-glow-studs?variant=gid://shopify/ProductVariant/50635184406825",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50635184439593": {
     "product_title": "Stellar Shine Studs",
@@ -10633,7 +10634,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2484.jpg?v=1756543252",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/crimora-oval-studs?variant=gid://shopify/ProductVariant/50809673810217",
-    "stock": 7,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50809700581673": {
@@ -18162,9 +18163,10 @@
     "price": 36500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS363.jpg?v=1760169390",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pendant-9?variant=gid://shopify/ProductVariant/51317603828009",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51317613068585": {
     "product_title": "Swarna Shakti Pendant",
@@ -36316,9 +36318,10 @@
     "price": 60800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0126copy_resized_ac6b685f-3dd6-4d7d-8eda-037d77ce1e86.jpg?v=1763977088",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kasaushri-haaram?variant=gid://shopify/ProductVariant/52167042662697",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52167059800361": {
     "product_title": "Shri Mayu Choker Necklace",
@@ -40976,8 +40979,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0289copy_resized.jpg?v=1767700496",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gutta-pasalu-necklace-set?variant=gid://shopify/ProductVariant/52399453438249",
-    "stock": 7,
-    "last_alerted_stock": 5
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/52399536734505": {
     "product_title": "Rupa Reversible Necklace",
@@ -48813,7 +48816,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0068copy_resized_7aa8a942-fe38-4001-9158-d5007c200399.jpg?v=1770198616",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/swan-kundan-hair-brooch?variant=gid://shopify/ProductVariant/52559924625705",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52559928852777": {
     "product_title": "Meridian CZ Chain Pendant",
@@ -61585,8 +61589,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0133_resized.jpg?v=1775209332",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace-copy-1?variant=gid://shopify/ProductVariant/52889966149929",
-    "stock": 5,
-    "last_alerted_stock": 2
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52889981387049": {
     "product_title": "Sreya Temple Necklace",
@@ -65291,7 +65295,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0220_resized.jpg?v=1781163837",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ziva-spark-cz-ring-copy-2?variant=gid://shopify/ProductVariant/53138602393897",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53138757845289": {
     "product_title": "Square-Floral Toe Ring",
@@ -69757,7 +69762,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13280_resized_1.jpg?v=1782219120",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/opulent-link-bracelet?variant=gid://shopify/ProductVariant/53284740759849",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53284751507753": {
     "product_title": "Intertwine Bracelet",
@@ -69771,7 +69777,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13277_resized.jpg?v=1782220190",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/intertwine-bracelet?variant=gid://shopify/ProductVariant/53284751507753",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53284782047529": {
     "product_title": "Infinity Shine Bracelet",
@@ -70024,7 +70031,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13365_resized.jpg?v=1782283158",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/circle-of-light-chain-pendant?variant=gid://shopify/ProductVariant/53286003736873",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53286012879145": {
     "product_title": "Silver Chain",
@@ -73303,7 +73311,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40174_resized.jpg?v=1783666728",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/dewdrop-stone-necklace-set?variant=gid://shopify/ProductVariant/53312650772777",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53312650805545": {
@@ -73874,7 +73882,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41473_resized.jpg?v=1784790044",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/garden-shine-antique-ring?variant=gid://shopify/ProductVariant/53329301012777",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53329302683945": {
     "product_title": "Oval-Flora Antique Ring",

@@ -28058,7 +28058,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2076.jpg?v=1734695617",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/prajitha-stone-pendant?variant=gid://shopify/ProductVariant/45821841408227",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45824343212259": {
     "product_title": "Yalikha Attigai Necklace",
@@ -68397,9 +68398,10 @@
     "price": 4800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10023_aa9604e8-8af1-4f9e-8553-0862c9931917.jpg?v=1782191651",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/seetha-stone-studs?variant=gid://shopify/ProductVariant/47192303665379",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47192304582883": {
     "product_title": "Mythili Stone Drops",
@@ -99867,7 +99869,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13780.jpg?v=1768632411",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vithusa-stone-short-necklace?variant=gid://shopify/ProductVariant/47848192442595",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47848193655011": {
     "product_title": "Yalikha Stone Drops",
@@ -123712,7 +123715,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15172.jpg?v=1775820019",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/elegance-hasli-necklace-1?variant=gid://shopify/ProductVariant/48762564772067",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48762631782627": {
     "product_title": "Mahika Hasli Necklace",
@@ -162074,7 +162078,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16618_1.jpg?v=1783842044",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/trendy-hasli-necklace?variant=gid://shopify/ProductVariant/49396631011555",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/49396631732451": {
     "product_title": "Chic & Trendy Hasli Necklace",
@@ -164245,7 +164250,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4670.jpg?v=1784205877",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nagas-pendant-41?variant=gid://shopify/ProductVariant/49415109050595",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/49415111704803": {
     "product_title": "Vintage Bird Nagas Pendant",

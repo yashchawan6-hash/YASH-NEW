@@ -599,7 +599,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE03MT270618.jpg?v=1765280075",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-plated-pearl-statement-maangtika?variant=gid://shopify/ProductVariant/43043847340206",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/43043846946990": {
     "product_title": "Rosy Sparkle Classic Stud Earrings",
@@ -7349,7 +7349,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-pearlescent-perfection-exquisite-beaded-necklace-set-jewellery-sets-34434802090158.jpg?v=1755717822",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-pearlescent-perfection-exquisite-beaded-necklace-set?variant=gid://shopify/ProductVariant/44151670898862",
-    "stock": 16
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/44151683317934": {
     "product_title": "Luxe Ocean Pearl Necklace Set",
@@ -14604,7 +14605,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE57MS404255-model.jpg?v=1767159674",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rose-gold-plated-cubic-zirconia-studded-mangalsutra?variant=gid://shopify/ProductVariant/45315713433774",
-    "stock": 20
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/45315728146606": {
     "product_title": "Green Studded Golden Beads Necklace Set",
@@ -15262,8 +15264,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13V404938_Model_1.jpg?v=1774606792",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22kt-gold-cubic-zirconia-studded-bangle-style-bracelet-re13v404938?variant=gid://shopify/ProductVariant/45315730342062",
-    "stock": 12,
-    "last_alerted_stock": 12
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/45315730374830": {
     "product_title": "Rubans 22KT Gold-Plated Cubic Zirconia Studded Floral Bangle-Style Bracelet",
@@ -17044,7 +17046,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings-hoop-earrings-36848458858670.jpg?v=1755720010",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings?variant=gid://shopify/ProductVariant/45649217126574",
-    "stock": 18
+    "stock": 19
   },
   "gid://shopify/ProductVariant/46074168246446": {
     "product_title": "Prism Loop Golden American Diamond Zirconia Hoops",
@@ -18458,7 +18460,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14B405042_Model_ea605962-cc9e-4480-9b10-2adba214e673.jpg?v=1765202456",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/set-of-2-rhodium-plated-ad-cubic-zirconia-studded-premium-bangles?variant=gid://shopify/ProductVariant/45846056796334",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/45701078417582": {
     "product_title": "Ivory Whisper Kundan Kamarbandh",
@@ -24148,9 +24150,10 @@
     "price": 909.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02B405929.jpg?v=1765201612",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-2-18k-mehandi-gold-plated-kundan-cubic-zicronia-stone-bangles-re02b405929?variant=gid://shopify/ProductVariant/47084615893166",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084615925934": {
     "product_title": "Colour Petal Kundan Bangles",
@@ -25817,7 +25820,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-rose-gold-plated-cubic-zicronia-studded-with-black-beads-mangalsutra-necklace-set-37783157080238.jpg?v=1755716710",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-rose-gold-plated-cubic-zicronia-studded-with-black-beads-mangalsutra?variant=gid://shopify/ProductVariant/45914954399918",
-    "stock": 20
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/45914954465454": {
     "product_title": "Ruby Pink Studded Golden Necklace Set",
@@ -27442,8 +27446,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-textured-ball-and-multi-strand-dangle-earrings-for-a-statement-look-earrings-1203249248.jpg?v=1774610775",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-graceful-cascades-silver-plated-drop-earrings-copy?variant=gid://shopify/ProductVariant/45979864072366",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45979898937518": {
     "product_title": "Teardrop Motif Oxidised Red Stud Earrings",
@@ -27695,7 +27699,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13ES405033-Model.jpg?v=1773816317",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-rose-gold-plated-cubic-zirconia-studded-emerald-green-drop-earrings-copy?variant=gid://shopify/ProductVariant/46006644506798",
-    "stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/46006720561326": {
     "product_title": "High-Fashion Black Crystal Earrings",
@@ -28028,7 +28033,7 @@
     "sku": "RE04NS407062",
     "price": 1887.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-ruby-cubic-zirconia-studded-jewellery-set-with-golden-pearl-beads-necklace-set-37741119668398.jpg?v=1770899537",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04NS407062_Model.jpg?v=1785668184",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-radiant-gold-tone-temple-necklace-set-with-multicolored-stones-copy?variant=gid://shopify/ProductVariant/46011952791726",
     "stock": 20
@@ -30160,8 +30165,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-gemstone-cubic-zirconia-studded-bangles-bangles-bracelets-37927583613102.jpg?v=1770807206",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-22k-gold-plated-gemstone-cubic-zirconia-studded-bangles-re13b407361?variant=gid://shopify/ProductVariant/47084607242414",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47084607275182": {
     "product_title": "Rubans Set Of 2 22K Gold-Plated Multicolor Gemstone & Cubic Zirconia-Studded Bangles",
@@ -30682,7 +30687,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-emerald-green-cubic-zirconia-choker-set-with-green-pearl-beads-choker-set-37931399413934.jpg?v=1774264815",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-red-cubic-zirconia-studded-choker-set-with-red-pearl-beads-copy?variant=gid://shopify/ProductVariant/46090814095534",
-    "stock": 15
+    "stock": 16
   },
   "gid://shopify/ProductVariant/46090819403950": {
     "product_title": "American Diamond Zirconia Blue Beaded Necklace Set",
@@ -33356,8 +33361,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30N407858_1970cf06-6774-47b0-98ec-83bbbfec811e.jpg?v=1766493116",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-cubic-zirconia-studded-v-shaped-pendant-necklace-set-copy?variant=gid://shopify/ProductVariant/46155789795502",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/46155805753518": {
     "product_title": "Sparkling Oval Detailing with Pearl Drops",
@@ -38133,7 +38138,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-cubic-zirconia-studded-tassel-drop-earrings-earrings-1127636827.jpg?v=1755714663",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-cubic-zirconia-studded-tassel-drop-earrings-rw04ed407409?variant=gid://shopify/ProductVariant/46187626627246",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/46187626725550": {
     "product_title": "Crystal Embellished Stud Earrings",
@@ -40279,7 +40284,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B408371.jpg?v=1765201908",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-18k-gold-plated-dazzling-ad-studded-handcrafted-premium-bangles-for-women-re10b408371?variant=gid://shopify/ProductVariant/47084596527278",
-    "stock": 7,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47084596560046": {
@@ -40994,7 +40999,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-cubic-zirconia-floral-cluster-stud-elegant-statement-jewelry-stud-earrings-1143859618.jpg?v=1755714421",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-cubic-zirconia-floral-cluster-stud-elegant-statement-jewelry-re20es408043?variant=gid://shopify/ProductVariant/46204461842606",
-    "stock": 8
+    "stock": 9
   },
   "gid://shopify/ProductVariant/46204462530734": {
     "product_title": "Sculpted Ear Shape American Diamond Zirconia Ear Cuff",
@@ -44539,7 +44544,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30V407917.jpg?v=1770359551",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-22k-gold-plated-evil-eye-cuff-bracelet-with-cubic-zirconia-detailing?variant=gid://shopify/ProductVariant/46222078935214",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/46222096367790": {
     "product_title": "Regal Gold Amercian Diamond Zirconia Bracelet",
@@ -46178,7 +46184,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RTW13ED279276_eb10454d-51e5-46d3-a140-76e9645ee334.jpg?v=1765190399",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/18k-gold-plated-multilayer-cubic-zirconia-studded-tassel-drop-earrings?variant=gid://shopify/ProductVariant/46248280686766",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46248284946606": {
     "product_title": "Shell Motif Gold Drop Earrings",
@@ -49331,7 +49338,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-4-rhodium-plated-emerald-green-white-cubic-zirconia-studded-bangles-bangles-bracelets-1153779406.jpg?v=1770273036",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-pastel-pink-white-cubic-zirconia-studded-bangles-copy?variant=gid://shopify/ProductVariant/47084594757806",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/47084594561198": {
     "product_title": "Rubans Set of 2 Rhodium-Plated Blue Sapphire & White Cubic Zirconia Studded Handcrafted Bangles",
@@ -49835,7 +49842,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-6-22k-gold-plated-cubic-zirconia-studded-handcrafted-premium-bangles-bangles-bracelet-1154631483.jpg?v=1770265556",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-22k-gold-plated-cubic-zirconia-studded-handcrafted-bangles-copy-5?variant=gid://shopify/ProductVariant/47084593709230",
-    "stock": 9
+    "stock": 10
   },
   "gid://shopify/ProductVariant/47084593545390": {
     "product_title": "Rubans Set of 2, 22K Gold-Plated Dual-Tone Cubic Zirconia Studded Handcrafted Premium Bangles",
@@ -50115,7 +50122,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-rhodium-plated-aaa-cubic-zirconia-studded-handcrafted-premium-bangles-bangles-bracelets-1173204343.jpg?v=1770266988",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-cz-studded-bangles-copy?variant=gid://shopify/ProductVariant/47084592595118",
-    "stock": 13
+    "stock": 14
   },
   "gid://shopify/ProductVariant/47084592627886": {
     "product_title": "Captivating Gold with American Diamond Bangles",
@@ -50466,7 +50473,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B408126.jpg?v=1765202699",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-white-cubic-zirconia-studded-classic-premium-bangles-for-women?variant=gid://shopify/ProductVariant/46603697356974",
-    "stock": 11
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47084591612078": {
     "product_title": "Royal Green Glow Chandelier",
@@ -50592,7 +50600,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B408155.jpg?v=1765194086",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-rhodium-plated-white-cubic-zirconia-studded-handcrafted-premium-bangles-for-women?variant=gid://shopify/ProductVariant/46603692998830",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/46603692802222": {
     "product_title": "Rubans Set of 4 Rhodium-Plated Lavender Cubic Zirconia Studded Handcrafted Premium Bangles",
@@ -51729,8 +51738,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-oxidized-silver-plated-ruby-pink-emerald-green-kundan-floral-anklets-with-pearl-accents-anklets-1203270347.jpg?v=1770204541",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-linked-chain-anklet-timeless-elegance-for-your-ankles-copy?variant=gid://shopify/ProductVariant/46403373203630",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/46403406889134": {
     "product_title": "Rubans Set of 2 Oxidised Silver-Plated Blue Kundan Floral Charm Anklets",
@@ -53384,7 +53393,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04NS407638_2d6b5574-36e6-4656-af9e-84224cd9597a.jpg?v=1770185278",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-emerald-green-white-cubic-zirconia-studded-pearl-beaded-temple-jewellery-set?variant=gid://shopify/ProductVariant/46525941743790",
-    "stock": 4
+    "stock": 5
   },
   "gid://shopify/ProductVariant/46525957013678": {
     "product_title": "Multicolor Studded Gold Necklace Set With Pearl Drops",
@@ -53903,7 +53912,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-white-cubic-zirconia-studded-curved-bar-mangalsutra-set-with-black-beaded-chain-earrings-mangalsutra-set-1170454786.jpg?v=1771995779",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-white-cubic-zirconia-studded-minimal-mangalsutra-necklace-with-black-beaded-chain-copy?variant=gid://shopify/ProductVariant/46532212490414",
-    "stock": 13,
+    "stock": 15,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/46532233920686": {
@@ -54437,7 +54446,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-rose-gold-plated-infinity-heart-motif-crystal-zirconia-studded-sleek-bracelet-bangles-bracelets-1170727219.jpg?v=1770179406",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-rose-gold-plated-crystal-zirconia-studded-clover-motif-sleek-bracelet-copy?variant=gid://shopify/ProductVariant/46538768187566",
-    "stock": 19
+    "stock": 20
   },
   "gid://shopify/ProductVariant/46538771759278": {
     "product_title": "Rubans Rhodium-Plated Infinity & Heart Motif Crystal Zirconia Studded Sleek Bracelet",
@@ -55951,7 +55960,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B408907.jpg?v=1765202084",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-18k-gold-plated-multi-coloured-oval-stone-studded-designer-bangles?variant=gid://shopify/ProductVariant/46616431788206",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/46616431820974": {
     "product_title": "Rubans Set of 2 18K Gold-Plated Multi-Coloured Oval Stone Studded Designer Bangles",
@@ -56609,7 +56618,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B4089830.jpg?v=1770102784",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-18k-gold-plated-pastel-green-white-zirconia-studded-floral-bangles-re10b4089840?variant=gid://shopify/ProductVariant/46626210807982",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/46626210840750": {
     "product_title": "Rubans Set of 2 18K Gold-Plated Pastel Green & White Zirconia Studded Floral Bangles",
@@ -57197,7 +57206,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20NS408712_c0571d31-4eaf-450e-b030-d8463d7982cb.jpg?v=1770091733",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-white-cubic-zirconia-floral-pendant-necklace-set-copy-1?variant=gid://shopify/ProductVariant/46659234463918",
-    "stock": 17
+    "stock": 16,
+    "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/46659328245934": {
     "product_title": "Gold Toned Beaded Necklace",
@@ -70239,7 +70249,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410631.jpg?v=1769144595",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-18k-gold-plated-copper-pearl-cluster-golden-beaded-heritage-necklace-set-re10ns410631?variant=gid://shopify/ProductVariant/47173472714926",
-    "stock": 10
+    "stock": 11
   },
   "gid://shopify/ProductVariant/47173515018414": {
     "product_title": "Wedding Glow Golden Jewellery Set",
@@ -70477,7 +70487,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30EH410437Model2.jpg?v=1769143484",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-18k-gold-plated-pear-cut-cubic-zirconia-crystal-studded-hoop-earrings?variant=gid://shopify/ProductVariant/47185232232622",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47176334868654": {
     "product_title": "Rose-Emerald Shine Necklace Set",
@@ -71304,7 +71315,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10EC409385.jpg?v=1769075407",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/stardust-champagne-chandelier-earrings-re10ec409385?variant=gid://shopify/ProductVariant/47186730025134",
-    "stock": 10
+    "stock": 11
   },
   "gid://shopify/ProductVariant/47186757157038": {
     "product_title": "Royal Green Glow Danglers",
@@ -73350,8 +73361,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B408198_9e80db2c-13d3-47bb-a6ad-c66cf419a590.jpg?v=1768486807",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rose-gold-glam-american-diamond-zirconia-bangle?variant=gid://shopify/ProductVariant/47367884243118",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47367884275886": {
     "product_title": "Rose Gold Glam American Diamond Zirconia Bangle",
@@ -74092,9 +74103,10 @@
     "price": 616.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04V409907_1.jpg?v=1769055305",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rw04v409907?variant=gid://shopify/ProductVariant/47198814961838",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47198815846574": {
     "product_title": "Dainty American Diamond Zirconia Pendant",
@@ -76337,7 +76349,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10KB409967-Model-2.jpg?v=1768977605",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10kb409967?variant=gid://shopify/ProductVariant/47198825873582",
-    "stock": 12
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47198825939118": {
     "product_title": "Royal Heritage Kundan Kamarbandh",
@@ -76394,7 +76407,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410214-Model-2.jpg?v=1768486801",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/golden-bangles-with-kundan-crystal-work?variant=gid://shopify/ProductVariant/47367883653294",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/47367883686062": {
     "product_title": "Golden Bangles With Kundan & Crystal Work",
@@ -78818,10 +78831,10 @@
     "price": 1251.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B410226_2.jpg?v=1768486868",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/american-diamond-zirconia-purple-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367888044206",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47367888076974": {
     "product_title": "American Diamond Zirconia Purple Bangles Set Of 2",
@@ -79201,7 +79214,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410206-Model-1_2c58c0cc-b8c3-4ac5-b09f-ed0f58b1d98a.jpg?v=1768486835",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/blue-american-diamond-zirconia-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367885783214",
-    "stock": 17
+    "stock": 18
   },
   "gid://shopify/ProductVariant/47367885815982": {
     "product_title": "Blue American Diamond Zirconia Bangles Set Of 2",
@@ -79215,8 +79228,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410206-Model-1_2c58c0cc-b8c3-4ac5-b09f-ed0f58b1d98a.jpg?v=1768486835",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/blue-american-diamond-zirconia-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367885815982",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/47367885848750": {
     "product_title": "Blue American Diamond Zirconia Bangles Set Of 2",
@@ -79454,8 +79467,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410836.jpg?v=1768894881",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16ns410836?variant=gid://shopify/ProductVariant/47198891212974",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47198891278510": {
     "product_title": "Pearl Adorn Multilayer Necklace Set",
@@ -79750,7 +79763,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV04ES410397-Model-1.jpg?v=1768893246",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rv04es410397?variant=gid://shopify/ProductVariant/47206051545262",
-    "stock": 12
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47206052200622": {
     "product_title": "Sleek Oxidized Tube-Link Necklace",
@@ -85215,9 +85229,10 @@
     "price": 1647.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B411498_1.jpg?v=1767782806",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/traditional-shine-emerald-ruby-bangles?variant=gid://shopify/ProductVariant/47334320537774",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47334320570542": {
     "product_title": "Traditional Shine Emerald Ruby Bangles",
@@ -85328,9 +85343,9 @@
     "price": 1073.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B411822-Model-2_9ef696c7-996a-435e-a624-765a3c946ee8.jpg?v=1767782815",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/festive-glow-classic-gold-bangles?variant=gid://shopify/ProductVariant/47290232766638",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47334322503854": {
     "product_title": "Festive Glow Classic Gold Bangles",
@@ -86354,7 +86369,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS411402.jpg?v=1768627280",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ns411402?variant=gid://shopify/ProductVariant/47290236797102",
-    "stock": 10
+    "stock": 11
   },
   "gid://shopify/ProductVariant/47290236993710": {
     "product_title": "Laxmi Motif Gold Toned Ruby Necklace Set",
@@ -86396,7 +86411,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS411405.jpg?v=1768565396",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ns411405?variant=gid://shopify/ProductVariant/47290237059246",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47290237092014": {
     "product_title": "Pink Studded Floral Gold Temple Necklace Set",
@@ -86998,9 +87014,10 @@
     "price": 1426.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14HP411377-Model-2.jpg?v=1768559646",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re14hp411377?variant=gid://shopify/ProductVariant/47290239877294",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47290239910062": {
     "product_title": "Green Teardrop American Diamond Zirconia Necklace Set",
@@ -87940,7 +87957,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS411820-Model.jpg?v=1769680999",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ns411820?variant=gid://shopify/ProductVariant/47302900940974",
-    "stock": 12
+    "stock": 14
   },
   "gid://shopify/ProductVariant/47302900973742": {
     "product_title": "Emerald Polki Gold Choker Necklace Set",
@@ -91067,7 +91084,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54EF411966-Model-1.jpg?v=1770978330",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re54ef411966?variant=gid://shopify/ProductVariant/47502233174190",
-    "stock": 4
+    "stock": 5
   },
   "gid://shopify/ProductVariant/47502233632942": {
     "product_title": "Oxidised Silver Tone Brass Bird Ghungroo Statement Ear Cuff",
@@ -93005,7 +93022,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54N411958-Model.jpg?v=1772099647",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re54n411958?variant=gid://shopify/ProductVariant/47556493836462",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47556494065838": {
     "product_title": "Premium Oxidised Tribal Glam Necklace",
@@ -95545,7 +95563,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54B412063-Model.jpg?v=1774272113",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re54b412063?variant=gid://shopify/ProductVariant/47662490353838",
-    "stock": 13
+    "stock": 14
   },
   "gid://shopify/ProductVariant/47667827867822": {
     "product_title": "Oxidised Engraved Square Carved Statement Bangles",
@@ -97550,7 +97568,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RS01ES411223-Model-1.jpg?v=1775547400",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rs01es411223?variant=gid://shopify/ProductVariant/47708616687790",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47708616720558": {
     "product_title": "925 Fine Silver Crystal Leaf Stud Earrings",
@@ -102746,7 +102765,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414087-Model.jpg?v=1778838462",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414087?variant=gid://shopify/ProductVariant/47861803679918",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47869075292334": {
@@ -102859,7 +102878,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414164-Model.jpg?v=1779086738",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414164?variant=gid://shopify/ProductVariant/47869076897966",
-    "stock": 20,
+    "stock": 9,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47914219143342": {
@@ -103547,7 +103566,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30C413381_Model_01.jpg?v=1779881841",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30c413381?variant=gid://shopify/ProductVariant/47914231005358",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47914232217774": {
     "product_title": "Midnight Black Ribbed Metallic Box Clutch",
@@ -104139,7 +104159,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13ES412712-Model.jpg?v=1779882196",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re13es412712?variant=gid://shopify/ProductVariant/47914240114862",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47914240278702": {
@@ -104406,7 +104426,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS413986_Model-00.jpg?v=1779882332",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16ns413986?variant=gid://shopify/ProductVariant/47914243424430",
-    "stock": 12
+    "stock": 14
   },
   "gid://shopify/ProductVariant/47914243457198": {
     "product_title": "Gold Traditional Kamarbandh Waist Chain",
@@ -104700,7 +104720,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04B413450-Model-01.jpg?v=1779882442",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re04b413450?variant=gid://shopify/ProductVariant/47914245587118",
-    "stock": 8
+    "stock": 9
   },
   "gid://shopify/ProductVariant/47914245619886": {
     "product_title": "Regal Detailing Gold Statement Bangles",
@@ -104799,7 +104819,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56BB413621-Model.jpg?v=1779882457",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re56bb413621?variant=gid://shopify/ProductVariant/47914246144174",
-    "stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47914246176942": {
     "product_title": "Vintage Luxe Crystal Gold Bangles",
@@ -106395,10 +106416,10 @@
     "price": 605.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14V413172Model.jpg?v=1780571216",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re14v413172?variant=gid://shopify/ProductVariant/47942168674478",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47942168740014": {
     "product_title": "Golden Glow Party Chandelier Earrings",
@@ -106538,7 +106559,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14ED413114_Model-00.jpg?v=1780556322",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re14ed413114?variant=gid://shopify/ProductVariant/47942170738862",
-    "stock": 8
+    "stock": 9
   },
   "gid://shopify/ProductVariant/47942170771630": {
     "product_title": "Diamond Glow Statement Drops Earrings",
@@ -106734,7 +106755,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE58NS414454-Model.jpg?v=1780556722",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re58ns414454?variant=gid://shopify/ProductVariant/47942180798638",
-    "stock": 19
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47942181126318": {
     "product_title": "Pastel Radiance Bridal Necklace Set",
@@ -107155,7 +107177,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20ES411462-Modal_00.jpg?v=1781592781",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re20es411462?variant=gid://shopify/ProductVariant/47988858388654",
-    "stock": 12
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47988858421422": {
     "product_title": "Celebration Ready Kundan Chandelier Earrings",
@@ -109059,7 +109082,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS412114Model.jpg?v=1783944145",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ns412114?variant=gid://shopify/ProductVariant/48084851359918",
-    "stock": 10
+    "stock": 11
   },
   "gid://shopify/ProductVariant/48084851556526": {
     "product_title": "Rubans Oxidised Silver Tone Brass Multicolour Ghungroo Tassels Dangler Earrings",
@@ -109241,7 +109264,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS413206Model2.jpg?v=1783940170",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ns413206?variant=gid://shopify/ProductVariant/48084852539566",
-    "stock": 17
+    "stock": 18
   },
   "gid://shopify/ProductVariant/48084852637870": {
     "product_title": "Gold Cascade Festive Statement Choker Set",
@@ -109494,8 +109517,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30v414380-Model.jpg?v=1784290824",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414380?variant=gid://shopify/ProductVariant/48107697733806",
-    "stock": 10,
-    "last_alerted_stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/48107697799342": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Floral Statement Bracelet",
@@ -110013,7 +110036,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414273-Model.jpg?v=1784291087",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414273?variant=gid://shopify/ProductVariant/48107701567662",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107701960878": {
