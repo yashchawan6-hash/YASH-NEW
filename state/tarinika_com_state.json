@@ -3930,7 +3930,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/SRP-18_d3d75fd5-24c4-4d02-b9e9-693ecc5b1b4b.jpg?v=1750759994",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/beli-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/32475501002818",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/32475505786946": {
     "product_title": "Cyne Nakshatra CZ Choker Set",
@@ -9892,7 +9893,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IMGL4836copycopy_2.jpg?v=1747905005",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/azba-statement-pearl-string-necklace?variant=gid://shopify/ProductVariant/39803334066242",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/39803345829954": {
     "product_title": "Azba Simple Floral Antique Stud Earrings",
@@ -22419,9 +22421,10 @@
     "price": 84.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IJNK0290XMC.jpg?v=1758368400",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/anwesha-antique-waist-band?variant=gid://shopify/ProductVariant/42419720159298",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42419720192066": {
     "product_title": "Rajitha Antique Armlets",
