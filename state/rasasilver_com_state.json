@@ -10448,7 +10448,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_24Pics_20Aug21644.jpg?v=1756537405",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/back-belt?variant=gid://shopify/ProductVariant/50808980635945",
-    "stock": 13,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/50809013010729": {
@@ -58006,8 +58006,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01761_resized.jpg?v=1774595248",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vrittangi-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828296741161",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52828368896297": {
     "product_title": "Ratvini Temple Necklace",
@@ -63525,9 +63525,10 @@
     "price": 104800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_25April0177_resized.jpg?v=1778153168",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kiara-jadau-oddiyanam?variant=gid://shopify/ProductVariant/53070128447785",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53070698512681": {
     "product_title": "Ratnika Temple Necklace",

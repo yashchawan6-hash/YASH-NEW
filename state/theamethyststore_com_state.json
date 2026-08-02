@@ -152107,9 +152107,10 @@
     "price": 10700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14449.jpg?v=1782727139",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nagas-jhumkas-70?variant=gid://shopify/ProductVariant/49325895188707",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49325904429283": {
     "product_title": "Ishanika Nagas Jhumkas",
@@ -153172,9 +153173,10 @@
     "price": 1144.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4409.jpg?v=1782801034",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-61?variant=gid://shopify/ProductVariant/49332549910755",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49332565442787": {
     "product_title": "Niranika 3D Spl Pendant",
@@ -154110,9 +154112,10 @@
     "price": 1672.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4438.jpg?v=1782817285",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/hera-3d-spl-pendant?variant=gid://shopify/ProductVariant/49334519890147",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49334521823459": {
     "product_title": "Pavana 3D Spl Pendant",
@@ -172844,7 +172847,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17166.jpg?v=1785481632",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/grandeur-avikam-necklace-set-2?variant=gid://shopify/ProductVariant/49479296680163",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49479304052963": {
     "product_title": "Admirable Avikam Necklace Set",
@@ -173630,7 +173634,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1409.jpg?v=1785501234",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-bracelet-22?variant=gid://shopify/ProductVariant/49480748728547",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/49480755445987": {
     "product_title": "Inisha Kundan Short Necklace",
