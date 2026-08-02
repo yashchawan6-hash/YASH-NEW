@@ -10278,8 +10278,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2542.jpg?v=1756538914",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ovalika-danglers?variant=gid://shopify/ProductVariant/50808249778473",
-    "stock": 11,
-    "last_alerted_stock": 8
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/50808255381801": {
     "product_title": "Ruby Ovalis Short Necklace",
@@ -43235,9 +43235,10 @@
     "price": 32670.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14Jan0715_resized.jpg?v=1768978595",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/deivara-antique-jadau-choker?variant=gid://shopify/ProductVariant/52451454288169",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52451455566121": {
     "product_title": "9 Gem Necklace",
@@ -58005,7 +58006,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01761_resized.jpg?v=1774595248",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vrittangi-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828296741161",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52828368896297": {
     "product_title": "Ratvini Temple Necklace",
@@ -61560,8 +61562,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
-    "stock": 5,
-    "last_alerted_stock": 3
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52889937477929": {
     "product_title": "Hemamalini Temple Necklace",
@@ -67390,9 +67392,10 @@
     "price": 11300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261523_resized.jpg?v=1781508872",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shrinika-mor-temple-jhumkis?variant=gid://shopify/ProductVariant/53266392777001",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53266393628969": {
     "product_title": "Gulbahar Nakshi Jhumkis",
@@ -72799,9 +72802,10 @@
     "price": 17500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40141_resized.jpg?v=1783665587",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/temple-shriprada-necklace?variant=gid://shopify/ProductVariant/53305127043369",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53305182028073": {
     "product_title": "Padmakshi Temple Necklace",

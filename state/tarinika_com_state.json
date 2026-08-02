@@ -6124,9 +6124,10 @@
     "price": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0015X.jpg?v=1739526320",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/stunning-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/39558476103746",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39558476136514": {
     "product_title": "Stunning Delicate CZ Necklace Set",
@@ -9982,7 +9983,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMG_5633.jpg?v=1656273911",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/azba-leafy-floral-antique-necklace?variant=gid://shopify/ProductVariant/39803384594498",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40910134214722": {
     "product_title": "Azba Leafy Floral Antique Necklace",
@@ -25505,10 +25507,10 @@
     "price": 27.5,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T052.png?v=1784272711",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/sophia-cz-necklace-set?variant=gid://shopify/ProductVariant/44136930279490",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44136930312258": {
     "product_title": "Rajeshwari Antique Maang Tikka",
