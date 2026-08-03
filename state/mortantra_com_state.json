@@ -30633,8 +30633,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC70Y-2.jpg?v=1771666917",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bracelet-mbrac70?variant=gid://shopify/ProductVariant/47070031085791",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/46791430832351": {
     "product_title": "Multicolor Dual-Tone Tribal Long Necklace with Kundan Setting, Elephant and Peacock Motifs - MR-N77M",
@@ -90142,21 +90142,6 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
-  "gid://shopify/ProductVariant/50586931167455": {
-    "product_title": "Dark Green Gold-Plated Jadau Kundan Bracelet with Flower Motif - MBRAC83YGR",
-    "product_handle": "green-color-gold-plated-jadau-kundan-bracelet-1-piece-mbrac83ygr",
-    "variant_id": "gid://shopify/ProductVariant/50586931167455",
-    "global_id": "gid://shopify/ProductVariant/50586931167455",
-    "variant_title": "Default Title",
-    "sku": "MBRAC83YGR",
-    "price": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC83YGR.jpg?v=1784543602",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-bracelet-1-piece-mbrac83ygr?variant=gid://shopify/ProductVariant/50586931167455",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/50586950107359": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Bracelet with Pearl Drop - MBRAC84M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac84m",
@@ -93823,6 +93808,21 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/50586931167455": {
+    "product_title": "Dark Green Gold-Plated Jadau Kundan Bracelet with Flower Motif - MBRAC83YGR",
+    "product_handle": "green-color-gold-plated-jadau-kundan-bracelet-1-piece-mbrac83ygr",
+    "variant_id": "gid://shopify/ProductVariant/50586931167455",
+    "global_id": "gid://shopify/ProductVariant/50586931167455",
+    "variant_title": "Default Title",
+    "sku": "MBRAC83YGR",
+    "price": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC83YGR.jpg?v=1784543602",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-bracelet-1-piece-mbrac83ygr?variant=gid://shopify/ProductVariant/50586931167455",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42824660975839": {
     "product_title": "Green Color Gold Plated Jadau Kundan Necklace Set - MS1658Y",

@@ -228,7 +228,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-1.jpg?v=1739812489",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661238441",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40411661172905": {
@@ -410,9 +410,10 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/snowflake-floral-earrings-attrangi-1.jpg?v=1739812528",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/snowflake-floral-earrings?variant=gid://shopify/ProductVariant/40411667693737",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42718855397588": {
     "product_title": "Stiff Pear Drop Earrings",
@@ -6376,8 +6377,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mini-diamond-nath-attrangi-2.jpg?v=1775804445",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mini-diamond-nath-1?variant=gid://shopify/ProductVariant/43752992964820",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43752992997588": {
     "product_title": "Mini Diamond Nath",
@@ -11867,7 +11868,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mitra-choker-with-indian-studs-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815899",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mitra-choker-with-indian-studs-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521502671060",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44521548972244": {
     "product_title": "Aadhvi Gold Set with Long Indian Earrings | Sone Pe Suhaga Collection",
@@ -20024,7 +20026,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-07at5.55.43PM.jpg?v=1757493869",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhilmil-diamond-mattel-diamond-hair-chain?variant=gid://shopify/ProductVariant/46229671248084",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46605344997588": {
     "product_title": "Jhilmil Diamond Mattel | Diamond Hair Chain",
@@ -25945,7 +25948,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.17.56_PM_5.jpg?v=1764418951",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/natalie-coloured-diamond-mattel-hair-chain?variant=gid://shopify/ProductVariant/46485568389332",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46485568422100": {
     "product_title": "Natalie Coloured Diamond Mattel | Hair Chain",
@@ -48796,7 +48800,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566002388",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48403566035156": {
     "product_title": "HaraLaal Slim Red Green Gold Tradtional Indian Bangle Set | Sone Pe Suhaga",
@@ -48810,7 +48814,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566035156",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48403566067924": {
     "product_title": "HaraLaal Slim Red Green Gold Tradtional Indian Bangle Set | Sone Pe Suhaga",
@@ -48824,7 +48828,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.38.18PM.jpg?v=1785587279",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haralaal-slim-red-green-gold-tradtional-indian-bangle-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403566067924",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48403601850580": {
     "product_title": "Grisha Tradtional Gold Kada Bangle | Sone Pe Suhaga",
@@ -48838,7 +48842,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.32.22PM.jpg?v=1785588855",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/grisha-tradtional-gold-kada-bangle-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403601850580",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48403601883348": {
     "product_title": "Grisha Tradtional Gold Kada Bangle | Sone Pe Suhaga",
@@ -48852,7 +48856,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.32.22PM.jpg?v=1785588855",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/grisha-tradtional-gold-kada-bangle-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403601883348",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/48403601916116": {
     "product_title": "Grisha Tradtional Gold Kada Bangle | Sone Pe Suhaga",
@@ -48866,7 +48870,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at5.32.22PM.jpg?v=1785588855",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/grisha-tradtional-gold-kada-bangle-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403601916116",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48403601948884": {
     "product_title": "Grisha Tradtional Gold Kada Bangle | Sone Pe Suhaga",

@@ -7468,9 +7468,10 @@
     "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5800copycopy.jpg?v=1640932199",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/bella-nakshatra-cz-pearl-choker-set?variant=gid://shopify/ProductVariant/39634188566594",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39634188533826": {
     "product_title": "Bella Nakshatra CZ Pearl Choker Set",
@@ -8324,9 +8325,10 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3273copycopy.jpg?v=1643201716",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/zharat-delicate-cz-bangles?variant=gid://shopify/ProductVariant/39680093782082",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39680588349506": {
     "product_title": "Sriya Kempu Jadau Jhumka Earrings",
@@ -12462,9 +12464,10 @@
     "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ATX0148.jpg?v=1731479046",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/leafy-classic-antique-maang-tikka?variant=gid://shopify/ProductVariant/40300665536578",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40300669599810": {
     "product_title": "Aahan Antique Maang Tikka",
