@@ -7470,7 +7470,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3300_c016c3a1-f552-4dd1-b417-3f1583128680.jpg?v=1702130075",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-28?variant=gid://shopify/ProductVariant/47582678548780",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47582681432364": {
     "product_title": "Jadau Kundan Pendant",
@@ -9458,7 +9459,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/900_1_1.jpg?v=1710937684",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-15?variant=gid://shopify/ProductVariant/48243407814956",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48243408961836": {
     "product_title": "Jadau Kundan Maang Tikka",
@@ -9613,7 +9615,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1200_9_1.jpg?v=1711011592",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-26?variant=gid://shopify/ProductVariant/48249343672620",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/48249343901996": {
     "product_title": "Jadau Kundan Maang Tikka",
@@ -12630,8 +12633,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Nakashiminichokar1800.jpg?v=1734345331",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/nakashi-mini-choker?variant=gid://shopify/ProductVariant/50321577771308",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50321578787116": {
     "product_title": "Lotus jalebi necklace",
@@ -12883,7 +12886,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunakashihairpin950.jpg?v=1734346364",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-nakashi-hair-pin?variant=gid://shopify/ProductVariant/50321639440684",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50321640522028": {
     "product_title": "Jadau mango bangle",
@@ -15072,8 +15076,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_1125_c1b23381-62ee-4178-b5fd-d224453a03f6.jpg?v=1747982528",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-chain-necklace?variant=gid://shopify/ProductVariant/51119233794348",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/51119259451692": {
     "product_title": "Jadau Chokar",
@@ -16348,9 +16352,10 @@
     "price": 2098.95,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3730.jpg?v=1753728626",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-rani-haram-2?variant=gid://shopify/ProductVariant/51518799937836",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51705565905196": {
     "product_title": "Pearls Watch",
@@ -17430,7 +17435,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaubugadi750.jpg?v=1766063474",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-bugadi-copy?variant=gid://shopify/ProductVariant/52441943671084",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/52441945342252": {
     "product_title": "Jadau hair accessory",
@@ -20096,7 +20102,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2_97967519-bc53-496b-9162-6390e535436b.png?v=1780317399",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/dulhan-rani-maangtika?variant=gid://shopify/ProductVariant/53255980286252",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53255980712236": {
     "product_title": "Reversible gandaberunda pendant and mala dulhan set",
@@ -20119,7 +20126,7 @@
     "global_id": "gid://shopify/ProductVariant/53255985856812",
     "variant_title": "Default Title",
     "sku": "NK891",
-    "price": 2050.0,
+    "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_1cdfbc1d-c88a-4c12-962c-698eb6141ed2.png?v=1780318252",
     "available_for_sale": true,
@@ -20443,12 +20450,12 @@
     "global_id": "gid://shopify/ProductVariant/53368925651244",
     "variant_title": "Default Title",
     "sku": "NK912",
-    "price": 2050.0,
+    "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/ElegantPolkifusionset1999.jpg?v=1782216193",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244",
-    "stock": 5,
+    "stock": 10,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/53368929255724": {

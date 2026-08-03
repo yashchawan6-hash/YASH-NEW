@@ -278,7 +278,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/FEI0248X.jpg?v=1684415287",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/biana-nakshatra-cz-ear-chain?variant=gid://shopify/ProductVariant/40850908381220",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40959385403428": {
@@ -742,6 +742,34 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/mara-antique-necklace-set?variant=gid://shopify/ProductVariant/40850904678436",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/40850904580132": {
+    "product_title": "Miah Antique Choker Set",
+    "product_handle": "miah-antique-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/40850904580132",
+    "global_id": "gid://shopify/ProductVariant/40850904580132",
+    "variant_title": "Antique Gold / White Red",
+    "sku": "ANX0593XCC",
+    "price": 4229.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A8103_copy1_copy.JPG?v=1613037124",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/miah-antique-choker-set?variant=gid://shopify/ProductVariant/40850904580132",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/40850904612900": {
+    "product_title": "Miah Antique Choker Set",
+    "product_handle": "miah-antique-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/40850904612900",
+    "global_id": "gid://shopify/ProductVariant/40850904612900",
+    "variant_title": "Antique Gold / White Red Green",
+    "sku": "ANX0593XMC",
+    "price": 4229.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A8807.jpg?v=1613037124",
+    "available_for_sale": false,
+    "url": "https://www.tarinika.in/products/miah-antique-choker-set?variant=gid://shopify/ProductVariant/40850904612900",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40850904317988": {
     "product_title": "Ania Antique Waist Band",
@@ -2886,6 +2914,20 @@
     "url": "https://www.tarinika.in/products/cira-antique-necklace-set?variant=gid://shopify/ProductVariant/40850882232356",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/40850882134052": {
+    "product_title": "Falak Antique Necklace Set",
+    "product_handle": "falak-antique-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/40850882134052",
+    "global_id": "gid://shopify/ProductVariant/40850882134052",
+    "variant_title": "Antique Gold",
+    "sku": "FNX0944XTC",
+    "price": 2919.5,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/image-107.jpg?v=1580568817",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/falak-antique-necklace-set?variant=gid://shopify/ProductVariant/40850882134052",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/40850881708068": {
     "product_title": "Manju Nakshatra CZ Long Necklace Set",
     "product_handle": "manju-nakshatra-cz-long-necklace-set",
@@ -4242,7 +4284,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/IMGL2317copycopy.jpg?v=1612219459",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/oma-antique-bangles?variant=gid://shopify/ProductVariant/40850846154788",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/40850846253092": {
     "product_title": "Oma Antique Bangles",
@@ -5153,91 +5196,6 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/antique-gold-plated-neera-choker-earrings-set?variant=gid://shopify/ProductVariant/40850807750692",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/40942688272420": {
-    "product_title": "Antique Gold Plated Mariya Bangles",
-    "product_handle": "antique-gold-plated-mariya-bangles",
-    "variant_id": "gid://shopify/ProductVariant/40942688272420",
-    "global_id": "gid://shopify/ProductVariant/40942688272420",
-    "variant_title": "Red Green / Antique Gold / 2.6",
-    "sku": "ABX0109XHC6",
-    "price": 2619.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ABX0109XH1_3.jpg?v=1684233414",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/40942688272420",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/40850807554084": {
-    "product_title": "Antique Gold Plated Mariya Bangles",
-    "product_handle": "antique-gold-plated-mariya-bangles",
-    "variant_id": "gid://shopify/ProductVariant/40850807554084",
-    "global_id": "gid://shopify/ProductVariant/40850807554084",
-    "variant_title": "Red Green / Antique Gold / 2.8",
-    "sku": "ABX0109XHC8",
-    "price": 2589.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ABX0109XH1_3.jpg?v=1684233414",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/40850807554084",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/40850807619620": {
-    "product_title": "Antique Gold Plated Mariya Bangles",
-    "product_handle": "antique-gold-plated-mariya-bangles",
-    "variant_id": "gid://shopify/ProductVariant/40850807619620",
-    "global_id": "gid://shopify/ProductVariant/40850807619620",
-    "variant_title": "Red Green / Antique Gold / 2.4",
-    "sku": "ABX0109XHC4",
-    "price": 2559.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ABX0109XH1_3.jpg?v=1684233414",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/40850807619620",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/40942686732324": {
-    "product_title": "Antique Gold Plated Mariya Bangles",
-    "product_handle": "antique-gold-plated-mariya-bangles",
-    "variant_id": "gid://shopify/ProductVariant/40942686732324",
-    "global_id": "gid://shopify/ProductVariant/40942686732324",
-    "variant_title": "White Red / Antique Gold / 2.6",
-    "sku": "ABX0109XCC6",
-    "price": 2619.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ABX0109XC1.jpg?v=1627814990",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/40942686732324",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/40850807521316": {
-    "product_title": "Antique Gold Plated Mariya Bangles",
-    "product_handle": "antique-gold-plated-mariya-bangles",
-    "variant_id": "gid://shopify/ProductVariant/40850807521316",
-    "global_id": "gid://shopify/ProductVariant/40850807521316",
-    "variant_title": "White Red / Antique Gold / 2.8",
-    "sku": "ABX0109XCC8",
-    "price": 2589.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ABX0109XC1.jpg?v=1627814990",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/40850807521316",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/40850807586852": {
-    "product_title": "Antique Gold Plated Mariya Bangles",
-    "product_handle": "antique-gold-plated-mariya-bangles",
-    "variant_id": "gid://shopify/ProductVariant/40850807586852",
-    "global_id": "gid://shopify/ProductVariant/40850807586852",
-    "variant_title": "White Red / Antique Gold / 2.4",
-    "sku": "ABX0109XCC4",
-    "price": 2559.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ABX0109XC1.jpg?v=1627814990",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/40850807586852",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/40850807357476": {
     "product_title": "Ginal Antique Anklets",
@@ -8877,7 +8835,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/IMGL5400.jpg?v=1647994255",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/anjla-antique-cz-choker-set?variant=gid://shopify/ProductVariant/40059032633380",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/41132731924516": {
     "product_title": "Anjla Antique CZ Choker Set",
@@ -12589,6 +12548,20 @@
     "url": "https://www.tarinika.in/products/iravati-antique-bangles?variant=gid://shopify/ProductVariant/40664176721956",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/40667232600100": {
+    "product_title": "Adya Antique Bangles",
+    "product_handle": "adya-antique-bangles",
+    "variant_id": "gid://shopify/ProductVariant/40667232600100",
+    "global_id": "gid://shopify/ProductVariant/40667232600100",
+    "variant_title": "Default Title",
+    "sku": "ABX2700XDC",
+    "price": 4249.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/theme0447copycopy.jpg?v=1687429336",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/adya-antique-bangles?variant=gid://shopify/ProductVariant/40667232600100",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/40667235909668": {
     "product_title": "Abhaya Antique Earrings",
     "product_handle": "abhaya-antique-earrings",
@@ -13344,6 +13317,20 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/josepha-kundan-necklace-set?variant=gid://shopify/ProductVariant/40730298384420",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/40730298744868": {
+    "product_title": "Dorothy Kundan Choker Set",
+    "product_handle": "dorothy-kundan-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/40730298744868",
+    "global_id": "gid://shopify/ProductVariant/40730298744868",
+    "variant_title": "Default Title",
+    "sku": "1NX0273XWS",
+    "price": 5099.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/1NX0273X.jpg?v=1693213664",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/dorothy-kundan-choker-set?variant=gid://shopify/ProductVariant/40730298744868",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/40750044184612": {
     "product_title": "Chitra Temple Antique Necklace Set",
@@ -15321,6 +15308,20 @@
     "url": "https://www.tarinika.in/products/divine-antique-kempu-necklace-set?variant=gid://shopify/ProductVariant/41318824017956",
     "stock": 12
   },
+  "gid://shopify/ProductVariant/41318831751204": {
+    "product_title": "Parthivi Temple Red Kempu Necklace Set",
+    "product_handle": "parthivi-temple-red-kempu-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/41318831751204",
+    "global_id": "gid://shopify/ProductVariant/41318831751204",
+    "variant_title": "Default Title",
+    "sku": "TNX0314XRC",
+    "price": 2372.3,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TNX0314X.jpg?v=1714653331",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/parthivi-temple-red-kempu-necklace-set?variant=gid://shopify/ProductVariant/41318831751204",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/41318866092068": {
     "product_title": "Parama Antique Multi Kempu Necklace Set",
     "product_handle": "parama-antique-multi-kempu-necklace-set",
@@ -15558,6 +15559,20 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/blooming-cz-white-red-black-beads-necklace?variant=gid://shopify/ProductVariant/41328995336228",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/41329005035556": {
+    "product_title": "Buds Floral CZ White Green Black Beads Necklace",
+    "product_handle": "buds-floral-cz-white-green-black-beads-necklace",
+    "variant_id": "gid://shopify/ProductVariant/41329005035556",
+    "global_id": "gid://shopify/ProductVariant/41329005035556",
+    "variant_title": "Default Title",
+    "sku": "TNX0342XD5",
+    "price": 999.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TNX0342X_2.jpg?v=1722234512",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/buds-floral-cz-white-green-black-beads-necklace?variant=gid://shopify/ProductVariant/41329005035556",
+    "stock": 2
   },
   "gid://shopify/ProductVariant/41329091248164": {
     "product_title": "Wisteria Antique Pearl Drop Earrings",
@@ -17574,6 +17589,20 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/vedika-nakshatra-cz-stud-earrings?variant=gid://shopify/ProductVariant/51842604499312",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/51842604761456": {
+    "product_title": "Glow Nakshatra CZ Necklace",
+    "product_handle": "glow-nakshatra-cz-necklace",
+    "variant_id": "gid://shopify/ProductVariant/51842604761456",
+    "global_id": "gid://shopify/ProductVariant/51842604761456",
+    "variant_title": "Default Title",
+    "sku": "TNX0355XC0",
+    "price": 1729.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TNX0355XC0.jpg?v=1740808340",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/glow-nakshatra-cz-necklace?variant=gid://shopify/ProductVariant/51842604761456",
+    "stock": 12
   },
   "gid://shopify/ProductVariant/51842605089136": {
     "product_title": "Serene Nakshatra CZ Necklace",
@@ -23259,5 +23288,19 @@
     "url": "https://www.tarinika.in/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/53636899471728",
     "stock": 1,
     "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/53636899897712": {
+    "product_title": "Elira\u00a0Dual\u00a0Line\u00a0Antique\u00a0Chain",
+    "product_handle": "elira-dual-line-antique-chain",
+    "variant_id": "gid://shopify/ProductVariant/53636899897712",
+    "global_id": "gid://shopify/ProductVariant/53636899897712",
+    "variant_title": "Default Title",
+    "sku": "PDH0008XTC",
+    "price": 1169.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PDH0008X_3a95b620-84fe-4113-9720-4b55d5a95d42.jpg?v=1779963090",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/elira-dual-line-antique-chain?variant=gid://shopify/ProductVariant/53636899897712",
+    "stock": 1
   }
 }

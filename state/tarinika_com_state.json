@@ -293,7 +293,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FEI0248XM.jpg?v=1640783050",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/biana-nakshatra-cz-ear-chain?variant=gid://shopify/ProductVariant/12159151013996",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/12159161794668": {
@@ -322,7 +322,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0059XM.jpg?v=1762526566",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sarang-antique-bangles?variant=gid://shopify/ProductVariant/12215597301868",
-    "stock": 11,
+    "stock": 12,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/12215597269100": {
@@ -331,13 +331,13 @@
     "variant_id": "gid://shopify/ProductVariant/12215597269100",
     "global_id": "gid://shopify/ProductVariant/12215597269100",
     "variant_title": "2.4 / White Red Green",
-    "sku": "US-ABX0059XMC4",
+    "sku": "ABX0059XMC4",
     "price": 74.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0059XM.jpg?v=1762526566",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sarang-antique-bangles?variant=gid://shopify/ProductVariant/12215597269100",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/12215597334636": {
@@ -1441,8 +1441,8 @@
     "variant_id": "gid://shopify/ProductVariant/14265696518210",
     "global_id": "gid://shopify/ProductVariant/14265696518210",
     "variant_title": "White Red / 2.4",
-    "sku": "US-ZBX0055XC24",
-    "price": 59.49,
+    "sku": "ZBX0055XC24",
+    "price": 69.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7326.jpg?v=1640782555",
     "available_for_sale": false,
@@ -2933,8 +2933,22 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/image-152.jpg?v=1747378925",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/cira-antique-necklace-set?variant=gid://shopify/ProductVariant/41483413618754",
-    "stock": 18,
-    "last_alerted_stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
+  },
+  "gid://shopify/ProductVariant/16198464667714": {
+    "product_title": "Falak Antique Necklace Set",
+    "product_handle": "falak-antique-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/16198464667714",
+    "global_id": "gid://shopify/ProductVariant/16198464667714",
+    "variant_title": "Default Title",
+    "sku": "FNX0944XTC",
+    "price": 129.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/image-107.jpg?v=1762536380",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/falak-antique-necklace-set?variant=gid://shopify/ProductVariant/16198464667714",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/16212465942594": {
     "product_title": "Aaloka kundan Necklace Set",
@@ -3868,13 +3882,13 @@
     "variant_id": "gid://shopify/ProductVariant/40722101796930",
     "global_id": "gid://shopify/ProductVariant/40722101796930",
     "variant_title": "White Red / 2.6",
-    "sku": "US-ABX0296XCC6",
-    "price": 55.99,
+    "sku": "ABX0296XCC6",
+    "price": 69.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Upexa.jpg?v=1640781231",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/upexa-antique-bangles?variant=gid://shopify/ProductVariant/40722101796930",
-    "stock": 1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/32475481210946": {
     "product_title": "Upexa Antique Bangles",
@@ -4323,7 +4337,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2317copycopy.jpg?v=1640780820",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/oma-antique-bangles?variant=gid://shopify/ProductVariant/32658595381314",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/40733635969090": {
     "product_title": "Oma Antique Bangles",
@@ -5284,13 +5299,13 @@
     "variant_id": "gid://shopify/ProductVariant/39455254708290",
     "global_id": "gid://shopify/ProductVariant/39455254708290",
     "variant_title": "Antique Gold polish with White variant",
-    "sku": "US-AEX0565XWC",
+    "sku": "AEX0565XWC",
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMG_9369.jpg?v=1640780185",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/lena-statement-antique-earrings?variant=gid://shopify/ProductVariant/39455254708290",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40865170522178": {
@@ -6126,13 +6141,13 @@
     "variant_id": "gid://shopify/ProductVariant/39558476103746",
     "global_id": "gid://shopify/ProductVariant/39558476103746",
     "variant_title": "Rhodium Finish with White Variant",
-    "sku": "US-TNX0015XW6",
+    "sku": "TNX0015XW6",
     "price": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0015X.jpg?v=1739526320",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/stunning-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/39558476103746",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39558476136514": {
@@ -6744,13 +6759,13 @@
     "variant_id": "gid://shopify/ProductVariant/39613660627010",
     "global_id": "gid://shopify/ProductVariant/39613660627010",
     "variant_title": "Default Title",
-    "sku": "US-TNX0103XTE",
+    "sku": "TNX0103XTE",
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0103X.jpg?v=1640779594",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/jalaja-statement-lotus-cuff-necklace?variant=gid://shopify/ProductVariant/39613660627010",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39613728817218": {
@@ -6998,13 +7013,13 @@
     "variant_id": "gid://shopify/ProductVariant/39621981470786",
     "global_id": "gid://shopify/ProductVariant/39621981470786",
     "variant_title": "Antique Gold Platting",
-    "sku": "US-TEX0037XTC",
+    "sku": "TEX0037XTC",
     "price": 25.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5910copycopy.jpg?v=1640779481",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/athena-gold-plated-tribal-earrings?variant=gid://shopify/ProductVariant/39621981470786",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39621996806210": {
@@ -7713,13 +7728,13 @@
     "variant_id": "gid://shopify/ProductVariant/41483174248514",
     "global_id": "gid://shopify/ProductVariant/41483174248514",
     "variant_title": "Rhodium Polish / White",
-    "sku": "US-TNX0084XW6",
-    "price": 75.0,
+    "sku": "TNX0084XW6",
+    "price": 149.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5884.jpg?v=1690532235",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/lambent-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/41483174248514",
-    "stock": 1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/39678979342402": {
     "product_title": "Lambent Delicate CZ Necklace Set",
@@ -8231,13 +8246,13 @@
     "variant_id": "gid://shopify/ProductVariant/41478867484738",
     "global_id": "gid://shopify/ProductVariant/41478867484738",
     "variant_title": "Antique Gold White 2.6",
-    "sku": "US-2BX0002XWC6",
-    "price": 46.74,
+    "sku": "2BX0002XWC6",
+    "price": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3223copycopy.jpg?v=1643397673",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/dazzling-cz-bangles?variant=gid://shopify/ProductVariant/41478867484738",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483405819970": {
@@ -8246,13 +8261,13 @@
     "variant_id": "gid://shopify/ProductVariant/41483405819970",
     "global_id": "gid://shopify/ProductVariant/41483405819970",
     "variant_title": "Antique Gold White 2.8",
-    "sku": "US-2BX0002XWC8",
-    "price": 46.74,
+    "sku": "2BX0002XWC8",
+    "price": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3223copycopy.jpg?v=1643397673",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/dazzling-cz-bangles?variant=gid://shopify/ProductVariant/41483405819970",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483406639170": {
@@ -8499,13 +8514,13 @@
     "variant_id": "gid://shopify/ProductVariant/39720696053826",
     "global_id": "gid://shopify/ProductVariant/39720696053826",
     "variant_title": "White Red",
-    "sku": "US-IJN0282XCC",
-    "price": 65.0,
+    "sku": "IJN0282XCC",
+    "price": 129.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IJN0282XCY.webp?v=1741696892",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/arki-antique-choker-set?variant=gid://shopify/ProductVariant/39720696053826",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39720696086594": {
@@ -8604,8 +8619,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5400.jpg?v=1647884126",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anjla-antique-cz-choker-set?variant=gid://shopify/ProductVariant/39720730656834",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/40910229078082": {
     "product_title": "Anjla Antique CZ Choker Set",
@@ -12111,20 +12126,6 @@
     "url": "https://www.tarinika.com/products/samriddhi-antique-choker-set?variant=gid://shopify/ProductVariant/40285698523202",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/40285698654274": {
-    "product_title": "Ketak Antique Choker Set",
-    "product_handle": "ketak-antique-choker-set",
-    "variant_id": "gid://shopify/ProductVariant/40285698654274",
-    "global_id": "gid://shopify/ProductVariant/40285698654274",
-    "variant_title": "Default Title",
-    "sku": "US-FNX1508XMC",
-    "price": 76.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0785copycopy.jpg?v=1682748899",
-    "available_for_sale": true,
-    "url": "https://www.tarinika.com/products/ketak-antique-choker-set?variant=gid://shopify/ProductVariant/40285698654274",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/40285699932226": {
     "product_title": "Tarun Antique Pendant Set",
     "product_handle": "tarun-antique-pendant-set",
@@ -12412,13 +12413,13 @@
     "variant_id": "gid://shopify/ProductVariant/40299377786946",
     "global_id": "gid://shopify/ProductVariant/40299377786946",
     "variant_title": "Default Title",
-    "sku": "US-ANT1443XCC",
-    "price": 16.99,
+    "sku": "ANT1443XCC",
+    "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1copycopy.jpg?v=1683697382",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/usha-antique-maang-tikka?variant=gid://shopify/ProductVariant/40299377786946",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40299378999362": {
@@ -12730,6 +12731,20 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/iravati-antique-bangles?variant=gid://shopify/ProductVariant/40312310038594",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/40318213881922": {
+    "product_title": "Adya Antique Bangles",
+    "product_handle": "adya-antique-bangles",
+    "variant_id": "gid://shopify/ProductVariant/40318213881922",
+    "global_id": "gid://shopify/ProductVariant/40318213881922",
+    "variant_title": "Default Title",
+    "sku": "ABX2700XDC",
+    "price": 99.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0447copycopy.jpg?v=1687429114",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/adya-antique-bangles?variant=gid://shopify/ProductVariant/40318213881922",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/40318216699970": {
     "product_title": "Abhaya Antique Earrings",
@@ -13153,6 +13168,20 @@
     "url": "https://www.tarinika.com/products/bernice-nakshatra-cz-pendant-set?variant=gid://shopify/ProductVariant/41664495779906",
     "stock": 0
   },
+  "gid://shopify/ProductVariant/40382293049410": {
+    "product_title": "Millia Nakshatra CZ Necklace Set",
+    "product_handle": "millia-nakshatra-cz-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/40382293049410",
+    "global_id": "gid://shopify/ProductVariant/40382293049410",
+    "variant_title": "Default Title",
+    "sku": "ZNX3252XCS",
+    "price": 164.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/CaptureOneCatalog3735copycopy.jpg?v=1690974261",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/millia-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40382293049410",
+    "stock": 9999
+  },
   "gid://shopify/ProductVariant/40382341480514": {
     "product_title": "Jalaja Floral Statement Cuff Necklace",
     "product_handle": "jalaja-floral-statement-cuff-necklace",
@@ -13215,13 +13244,13 @@
     "variant_id": "gid://shopify/ProductVariant/40382344757314",
     "global_id": "gid://shopify/ProductVariant/40382344757314",
     "variant_title": "Default Title",
-    "sku": "US-TRX0071XWH",
-    "price": 16.99,
+    "sku": "TRX0071XWH",
+    "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TRX0071X.jpg?v=1691066716",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/jalaja-delicate-floral-finger-ring?variant=gid://shopify/ProductVariant/40382344757314",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40382344953922": {
@@ -13533,6 +13562,20 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/josepha-kundan-necklace-set?variant=gid://shopify/ProductVariant/40406102016066",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/40406102736962": {
+    "product_title": "Dorothy Kundan Choker Set",
+    "product_handle": "dorothy-kundan-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/40406102736962",
+    "global_id": "gid://shopify/ProductVariant/40406102736962",
+    "variant_title": "Default Title",
+    "sku": "1NX0273XWS",
+    "price": 124.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1NX0273X.jpg?v=1693213572",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/dorothy-kundan-choker-set?variant=gid://shopify/ProductVariant/40406102736962",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/40430689124418": {
     "product_title": "Chitra Temple Antique Necklace Set",
@@ -14016,13 +14059,13 @@
     "variant_id": "gid://shopify/ProductVariant/40433915068482",
     "global_id": "gid://shopify/ProductVariant/40433915068482",
     "variant_title": "Default Title",
-    "sku": "US-ATX2550BHC",
-    "price": 59.99,
+    "sku": "ATX2550BHC",
+    "price": 74.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ATX2550B.jpg?v=1696853334",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/samira-antique-nakshi-damini?variant=gid://shopify/ProductVariant/40433915068482",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40436181991490": {
@@ -15188,35 +15231,6 @@
     "url": "https://www.tarinika.com/products/layered-nakshatra-cz-necklace?variant=gid://shopify/ProductVariant/40631851155522",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/40631870357570": {
-    "product_title": "Pearl Classic Tassel Choker",
-    "product_handle": "pearl-classic-tassel-choker",
-    "variant_id": "gid://shopify/ProductVariant/40631870357570",
-    "global_id": "gid://shopify/ProductVariant/40631870357570",
-    "variant_title": "White Green",
-    "sku": "TNX0299XD2",
-    "price": 69.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0299X.jpg?v=1703566762",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/pearl-classic-tassel-choker?variant=gid://shopify/ProductVariant/40631870357570",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/40631870390338": {
-    "product_title": "Pearl Classic Tassel Choker",
-    "product_handle": "pearl-classic-tassel-choker",
-    "variant_id": "gid://shopify/ProductVariant/40631870390338",
-    "global_id": "gid://shopify/ProductVariant/40631870390338",
-    "variant_title": "White Red",
-    "sku": "US-TNX0299XC2",
-    "price": 34.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0299X_2.jpg?v=1703494122",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/pearl-classic-tassel-choker?variant=gid://shopify/ProductVariant/40631870390338",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/40637729833026": {
     "product_title": "Floral Bloom Garden Necklace",
     "product_handle": "floral-bloom-garden-necklace",
@@ -15326,9 +15340,9 @@
     "price": 29.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FLNE3747XCY.jpg?v=1741697242",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/udhay-kempu-antique-jhumki-earrings?variant=gid://shopify/ProductVariant/40715205705794",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/40715239391298": {
     "product_title": "Valeria Statement CZ Choker Set",
@@ -16512,13 +16526,13 @@
     "variant_id": "gid://shopify/ProductVariant/41607041810498",
     "global_id": "gid://shopify/ProductVariant/41607041810498",
     "variant_title": "Default Title",
-    "sku": "US-TNE0228XPS",
+    "sku": "TNE0228XPS",
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNE0228XPS.jpg?v=1725106003",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/alina-cz-pink-stud-earrings?variant=gid://shopify/ProductVariant/41607041810498",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41607042859074": {
@@ -16589,8 +16603,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0112XW5.jpg?v=1725353552",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/luna-nakshatra-cz-gold-plated-bracelet?variant=gid://shopify/ProductVariant/41607078412354",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/41607092633666": {
     "product_title": "Astra Nakshatra CZ Red Bracelet",
@@ -17243,13 +17257,13 @@
     "variant_id": "gid://shopify/ProductVariant/41833788899394",
     "global_id": "gid://shopify/ProductVariant/41833788899394",
     "variant_title": "Default Title",
-    "sku": "US-SAYI0012XMC",
-    "price": 46.74,
+    "sku": "SAYI0012XMC",
+    "price": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SAYI0012XM1_2.jpg?v=1732945637",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-shaan-ear-chain?variant=gid://shopify/ProductVariant/41833788899394",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41833876488258": {
@@ -17406,21 +17420,6 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/vaishnavi-antique-choker-set?variant=gid://shopify/ProductVariant/41975898734658",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/41975901028418": {
-    "product_title": "Anvika Antique Necklace Set",
-    "product_handle": "anvika-antique-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/41975901028418",
-    "global_id": "gid://shopify/ProductVariant/41975901028418",
-    "variant_title": "Default Title",
-    "sku": "US-ANX4107BMC",
-    "price": 47.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX4107BMY_8f7b7928-dd17-477f-94e3-d020b4f12344.jpg?v=1739854619",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/anvika-antique-necklace-set?variant=gid://shopify/ProductVariant/41975901028418",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41975907778626": {
     "product_title": "Muralika Antique Krishna Necklace Set",
@@ -19011,7 +19010,7 @@
     "variant_id": "gid://shopify/ProductVariant/42373197103170",
     "global_id": "gid://shopify/ProductVariant/42373197103170",
     "variant_title": "Default Title",
-    "sku": "US-PCMG0009NW5",
+    "sku": "PCMG0009NW5",
     "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IMG_5462copycopy.jpg?v=1755067278",
@@ -19131,6 +19130,20 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/pushpika-navaratna-925-silver-stud-earrings?variant=gid://shopify/ProductVariant/42376191836226",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/42381562839106": {
+    "product_title": "Starburst Moissanite 925 Silver Stud Earrings",
+    "product_handle": "starburst-moissanite-925-silver-stud-earrings",
+    "variant_id": "gid://shopify/ProductVariant/42381562839106",
+    "global_id": "gid://shopify/ProductVariant/42381562839106",
+    "variant_title": "Default Title",
+    "sku": "PCDG0012SWK",
+    "price": 63.74,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/PCDG0012S.jpg?v=1755067626",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/starburst-moissanite-925-silver-stud-earrings?variant=gid://shopify/ProductVariant/42381562839106",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42381564346434": {
     "product_title": "Lena CZ Moonlight 925 Silver Studs",
@@ -19298,7 +19311,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/PMVT0009N.jpg?v=1754915693",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/tulip-whimsy-925-silver-pendant-necklace?variant=gid://shopify/ProductVariant/42381679394882",
-    "stock": 7
+    "stock": 8
   },
   "gid://shopify/ProductVariant/42381707345986": {
     "product_title": "Malvika Loka 925 Silver Earrings",
@@ -19474,13 +19487,13 @@
     "variant_id": "gid://shopify/ProductVariant/42415007825986",
     "global_id": "gid://shopify/ProductVariant/42415007825986",
     "variant_title": "Default Title",
-    "sku": "US-AEX0747XMC",
+    "sku": "AEX0747XMC",
     "price": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/AEX0747XMC.jpg?v=1757310401",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/charvi-antique-jhumka-earrings?variant=gid://shopify/ProductVariant/42415007825986",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42415027290178": {
@@ -20973,13 +20986,13 @@
     "variant_id": "gid://shopify/ProductVariant/42417390616642",
     "global_id": "gid://shopify/ProductVariant/42417390616642",
     "variant_title": "Default Title",
-    "sku": "US-ZNX1299XMC",
+    "sku": "ZNX1299XMC",
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ZNX1299XMC_ef701c69-d863-4376-ad5b-9305162ee476.jpg?v=1757397277",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/iravati-antique-necklace-set?variant=gid://shopify/ProductVariant/42417390616642",
-    "stock": 1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/42417390649410": {
     "product_title": "Vamika Antique Choker Set",
@@ -22275,13 +22288,13 @@
     "variant_id": "gid://shopify/ProductVariant/42419503792194",
     "global_id": "gid://shopify/ProductVariant/42419503792194",
     "variant_title": "Default Title",
-    "sku": "US-ANT1441XHC",
-    "price": 16.99,
+    "sku": "ANT1441XHC",
+    "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANT1441XHC_1856ea8b-668f-4a56-98db-bb24bc66ef1c.jpg?v=1757570699",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ashoklata-red-green-antique-maang-tikka?variant=gid://shopify/ProductVariant/42419503792194",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42419503824962": {
@@ -22417,13 +22430,13 @@
     "variant_id": "gid://shopify/ProductVariant/42419720159298",
     "global_id": "gid://shopify/ProductVariant/42419720159298",
     "variant_title": "Default Title",
-    "sku": "US-IJNK0290XMC",
+    "sku": "IJNK0290XMC",
     "price": 84.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IJNK0290XMC.jpg?v=1758368400",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anwesha-antique-waist-band?variant=gid://shopify/ProductVariant/42419720159298",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42419720192066": {
@@ -24707,9 +24720,9 @@
     "price": 29.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANP4257C_3b9c62e8-4653-4b82-bff0-485b5a9076d8.jpg?v=1778670933",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ruchira-antique-pendant-set?variant=gid://shopify/ProductVariant/43652272783426",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43652273045570": {
     "product_title": "Aarivya Antique Bracelet",
@@ -25160,20 +25173,19 @@
     "url": "https://www.tarinika.com/products/simmi-antique-maang-tikka?variant=gid://shopify/ProductVariant/43764316143682",
     "stock": 27
   },
-  "gid://shopify/ProductVariant/43868858122306": {
-    "product_title": "Kamalika Antique Necklace Set",
-    "product_handle": "kamalika-antique-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/43868858122306",
-    "global_id": "gid://shopify/ProductVariant/43868858122306",
+  "gid://shopify/ProductVariant/43868858089538": {
+    "product_title": "Madhavika Antique Pendant Set",
+    "product_handle": "madhavika-antique-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/43868858089538",
+    "global_id": "gid://shopify/ProductVariant/43868858089538",
     "variant_title": "Default Title",
-    "sku": "US-ANX1288XMC",
-    "price": 48.99,
+    "sku": "US-FPX0662XHC",
+    "price": 20.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX1288XMC.jpg?v=1781782099",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/kamalika-antique-necklace-set?variant=gid://shopify/ProductVariant/43868858122306",
-    "stock": 0,
-    "last_alerted_stock": 0
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FPX0662XHC.jpg?v=1781777598",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/madhavika-antique-pendant-set?variant=gid://shopify/ProductVariant/43868858089538",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/43868858515522": {
     "product_title": "Yalini Antique Maang Tikka",
@@ -25189,20 +25201,47 @@
     "url": "https://www.tarinika.com/products/yalini-antique-maang-tikka?variant=gid://shopify/ProductVariant/43868858515522",
     "stock": 9
   },
-  "gid://shopify/ProductVariant/43868858646594": {
-    "product_title": "Nivira Oxidized Bangles",
-    "product_handle": "nivira-oxidized-bangles",
-    "variant_id": "gid://shopify/ProductVariant/43868858646594",
-    "global_id": "gid://shopify/ProductVariant/43868858646594",
-    "variant_title": "Default Title",
-    "sku": "US-ABX0011XH36",
-    "price": 17.49,
+  "gid://shopify/ProductVariant/43868858679362": {
+    "product_title": "Bhavya Antique White Floral Bangles",
+    "product_handle": "bhavya-antique-white-floral-bangles",
+    "variant_id": "gid://shopify/ProductVariant/43868858679362",
+    "global_id": "gid://shopify/ProductVariant/43868858679362",
+    "variant_title": "White / 2.4",
+    "sku": "US-ABX0071XWC4",
+    "price": 12.5,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0011XH36.jpg?v=1781778433",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071XWC4.jpg?v=1781779955",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/bhavya-antique-white-floral-bangles?variant=gid://shopify/ProductVariant/43868858679362",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/43868858712130": {
+    "product_title": "Bhavya Antique White Floral Bangles",
+    "product_handle": "bhavya-antique-white-floral-bangles",
+    "variant_id": "gid://shopify/ProductVariant/43868858712130",
+    "global_id": "gid://shopify/ProductVariant/43868858712130",
+    "variant_title": "White / 2.6",
+    "sku": "US-ABX0071XWC6",
+    "price": 12.49,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071XWC4.jpg?v=1781779955",
     "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/nivira-oxidized-bangles?variant=gid://shopify/ProductVariant/43868858646594",
-    "stock": 0,
-    "last_alerted_stock": 0
+    "url": "https://www.tarinika.com/products/bhavya-antique-white-floral-bangles?variant=gid://shopify/ProductVariant/43868858712130",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/43868858744898": {
+    "product_title": "Bhavya Antique White Floral Bangles",
+    "product_handle": "bhavya-antique-white-floral-bangles",
+    "variant_id": "gid://shopify/ProductVariant/43868858744898",
+    "global_id": "gid://shopify/ProductVariant/43868858744898",
+    "variant_title": "White / 2.8",
+    "sku": "US-ABX0071XWC8",
+    "price": 12.49,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071XWC4.jpg?v=1781779955",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/bhavya-antique-white-floral-bangles?variant=gid://shopify/ProductVariant/43868858744898",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43868858777666": {
     "product_title": "Bhavya Antique Red Floral Bangles",
@@ -25360,21 +25399,6 @@
     "url": "https://www.tarinika.com/products/nina-cz-blue-stud-earrings?variant=gid://shopify/ProductVariant/44136926412866",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/44136928149570": {
-    "product_title": "Sparkling CZ Chandbali Earrings",
-    "product_handle": "sparkling-cz-chandbali-earrings",
-    "variant_id": "gid://shopify/ProductVariant/44136928149570",
-    "global_id": "gid://shopify/ProductVariant/44136928149570",
-    "variant_title": "Default Title",
-    "sku": "US-TXX0041XW6",
-    "price": 17.5,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/Sparkling_CZ_Chandbali_Earrings.png?v=1784271301",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/sparkling-cz-chandbali-earrings?variant=gid://shopify/ProductVariant/44136928149570",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/44136928182338": {
     "product_title": "Sadya CZ Green Drop Earrings",
     "product_handle": "sadya-cz-green-drop-earrings",
@@ -25514,21 +25538,6 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/floral-classic-antique-choker-set?variant=gid://shopify/ProductVariant/44136930213954",
     "stock": 4
-  },
-  "gid://shopify/ProductVariant/44136930279490": {
-    "product_title": "Sophia CZ Necklace Set",
-    "product_handle": "sophia-cz-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/44136930279490",
-    "global_id": "gid://shopify/ProductVariant/44136930279490",
-    "variant_title": "Default Title",
-    "sku": "US-TXX0052XCC",
-    "price": 27.5,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T052.png?v=1784272711",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/sophia-cz-necklace-set?variant=gid://shopify/ProductVariant/44136930279490",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44136930312258": {
     "product_title": "Rajeshwari Antique Maang Tikka",
@@ -26078,5 +26087,19 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/vikata-antique-hair-brooch?variant=gid://shopify/ProductVariant/44136953643074",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/40285698654274": {
+    "product_title": "Ketak Antique Choker Set",
+    "product_handle": "ketak-antique-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/40285698654274",
+    "global_id": "gid://shopify/ProductVariant/40285698654274",
+    "variant_title": "Default Title",
+    "sku": "US-FNX1508XMC",
+    "price": 76.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0785copycopy.jpg?v=1682748899",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/ketak-antique-choker-set?variant=gid://shopify/ProductVariant/40285698654274",
+    "stock": 1
   }
 }
