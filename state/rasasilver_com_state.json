@@ -979,9 +979,10 @@
     "price": 32000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0296_resized.jpg?v=1762255331",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kashi-padmini-short-necklace?variant=gid://shopify/ProductVariant/51407841886505",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51407841919273": {
     "product_title": "Sarini Lakshmi Short Necklace",
@@ -14519,9 +14520,9 @@
     "price": 15700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0230.jpg?v=1759148831",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ruby-plumage-danglers?variant=gid://shopify/ProductVariant/51217412751657",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51217456955689": {
     "product_title": "Aamrapali Pearl Dangle Earrings",
@@ -18644,7 +18645,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS465.jpg?v=1760419064",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/eterni-link-bracelet?variant=gid://shopify/ProductVariant/51345272832297",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51345524883753": {
     "product_title": "Saathya CZ Mangalsutra",
@@ -25366,9 +25368,10 @@
     "price": 12200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0155copy_resized_51ba8a5f-2233-4a8a-a0c8-cdd61cddf6a9.jpg?v=1762171141",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/navagraha-jhumkis?variant=gid://shopify/ProductVariant/51468876251433",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51468909150505": {
     "product_title": "Mrigaja Phool Chandbali",
@@ -38319,7 +38322,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36210.jpg?v=1766137579",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gajessa-pallais-necklace-set?variant=gid://shopify/ProductVariant/52279411081513",
-    "stock": 7,
+    "stock": 8,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52279414260009": {
@@ -40553,7 +40556,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0200_copy_resized.jpg?v=1767685445",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/cz-necklace-set-3?variant=gid://shopify/ProductVariant/52390351110441",
-    "stock": 4
+    "stock": 5
   },
   "gid://shopify/ProductVariant/52390481297705": {
     "product_title": "Orvella CZ Necklace Set",
@@ -53703,9 +53706,9 @@
     "price": 97750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5346_resized.jpg?v=1772535914",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-necklace-2?variant=gid://shopify/ProductVariant/52741786370345",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52741814944041": {
     "product_title": "Pushpavan Kundan Tikka",
@@ -64175,9 +64178,9 @@
     "price": 20300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0091_resized.jpg?v=1781862079",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayuranshi-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103823487273",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/53103858123049": {
     "product_title": "Florina Kundan Studs",
@@ -69917,9 +69920,10 @@
     "price": 2300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13283_resized.jpg?v=1782279012",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/bloom-crest-bracelet?variant=gid://shopify/ProductVariant/53285924143401",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53285930828073": {
     "product_title": "Regal Rectangle Bracelet",
@@ -75334,6 +75338,20 @@
     "url": "https://www.rasasilver.com/products/auravelle-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53370251542825",
     "stock": 2
   },
+  "gid://shopify/ProductVariant/53396682375465": {
+    "product_title": "Rajsi Mayur Nakshi Chandbali",
+    "product_handle": "rajsi-mayur-nakshi-chandbali",
+    "variant_id": "gid://shopify/ProductVariant/53396682375465",
+    "global_id": "gid://shopify/ProductVariant/53396682375465",
+    "variant_title": "Default Title",
+    "sku": "R33430",
+    "price": 17500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM_2.jpg?v=1785760769",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/rajsi-mayur-nakshi-chandbali?variant=gid://shopify/ProductVariant/53396682375465",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/53398610116905": {
     "product_title": "Heart Stone Buggadi",
     "product_handle": "heart-stone-buggadi",
@@ -75388,6 +75406,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at4.24.08PM_2.jpg?v=1785759838",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/zivara-peacock-cz-necklace-set?variant=gid://shopify/ProductVariant/53398653436201",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/53398658220329": {
+    "product_title": "Rose Gold Necklace",
+    "product_handle": "rose-gold-necklace",
+    "variant_id": "gid://shopify/ProductVariant/53398658220329",
+    "global_id": "gid://shopify/ProductVariant/53398658220329",
+    "variant_title": "Default Title",
+    "sku": "R32248",
+    "price": 10300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug3_2026_06_26_06PM.png?v=1785761822",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/rose-gold-necklace?variant=gid://shopify/ProductVariant/53398658220329",
     "stock": 0
   },
   "gid://shopify/ProductVariant/53398915186985": {
