@@ -1721,8 +1721,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260313_154550_5ae29749-c4f6-4f0e-a5c2-d51ad42da286_1.webp?v=1773743172",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-sun-and-moon-with-pearls?variant=gid://shopify/ProductVariant/52887015719228",
-    "stock": 13,
-    "last_alerted_stock": 13
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/52887015751996": {
     "product_title": "Jadau kundan sun and moon with pearls",
@@ -2076,6 +2076,20 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-necklace-with-carving-stone-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52918723772732",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/52918730654012": {
+    "product_title": "Jadau kundan floral half moon pendant with pearl and natural strawberry beads",
+    "product_handle": "jadau-kundan-floral-half-moon-pendant-with-pearl-and-natural-strawberry-beads",
+    "variant_id": "gid://shopify/ProductVariant/52918730654012",
+    "global_id": "gid://shopify/ProductVariant/52918730654012",
+    "variant_title": "Default Title",
+    "sku": null,
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260314_125016_8a76ec48-bb18-4124-bc48-68139e820cac.webp?v=1774443331",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-half-moon-pendant-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52918730654012",
+    "stock": 5
   },
   "gid://shopify/ProductVariant/52918786031932": {
     "product_title": "Jadau kundan peacock choker with rice pearl",
@@ -2484,20 +2498,6 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-chain-necklace-with-gold-polish-balls-drop?variant=gid://shopify/ProductVariant/52991073517884",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/52991079186748": {
-    "product_title": "Jadau kundan 2 line necklace with pearl and natural strawberry beads drop(No Earrings)",
-    "product_handle": "jadau-kundan-2-line-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings",
-    "variant_id": "gid://shopify/ProductVariant/52991079186748",
-    "global_id": "gid://shopify/ProductVariant/52991079186748",
-    "variant_title": "Default Title",
-    "sku": null,
-    "price": 3400.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_181734_e5a6715b-1fbc-46b8-af75-07aa905f0f34_1.webp?v=1776427783",
-    "available_for_sale": true,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-2-line-necklace-with-pearl-and-natural-strawberry-beads-dropno-earrings?variant=gid://shopify/ProductVariant/52991079186748",
-    "stock": -1
   },
   "gid://shopify/ProductVariant/52991105139004": {
     "product_title": "Jadau kundan peacock necklace with pearl and natural strawberry beads drop(Without earrings)",

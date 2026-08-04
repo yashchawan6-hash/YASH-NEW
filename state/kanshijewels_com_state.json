@@ -11512,7 +11512,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundannecklace4000.jpg?v=1729764084",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-189?variant=gid://shopify/ProductVariant/50047804801324",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/50047807291692": {
     "product_title": "Jadau Kundan Choker",
@@ -12943,7 +12944,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanhairpin1400.jpg?v=1734346578",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-hair-pin?variant=gid://shopify/ProductVariant/50321645142316",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50321645961516": {
     "product_title": "Jadau kundan hair pin",
@@ -19343,9 +19345,9 @@
     "price": 1990.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaumossanitefusionwatch1990.jpg?v=1773125185",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-mossanite-fusion-watch?variant=gid://shopify/ProductVariant/52737328447788",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52737331331372": {
@@ -19670,8 +19672,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3534.jpg?v=1778049805",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/multi-layer-kundan-beads-necklace-with-locket?variant=gid://shopify/ProductVariant/53174043377964",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/53174044131628": {
     "product_title": "Nakashi coral fusion chain",
@@ -20091,8 +20093,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2_97967519-bc53-496b-9162-6390e535436b.png?v=1780317399",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/dulhan-rani-maangtika?variant=gid://shopify/ProductVariant/53255980286252",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53255980712236": {
     "product_title": "Reversible gandaberunda pendant and mala dulhan set",

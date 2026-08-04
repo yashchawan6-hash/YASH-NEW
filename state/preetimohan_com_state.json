@@ -18630,9 +18630,10 @@
     "price": 22000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/4_f0cdda18-1d04-4d4f-a22f-38d88b1edb88.png?v=1779702307",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/hetal-mint-polki-necklace-set?variant=gid://shopify/ProductVariant/50250967220417",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50251087773889": {
     "product_title": "SADHIKA MINT ZIRCON NECKLACE SET",
@@ -18658,9 +18659,10 @@
     "price": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/22_c3b1a242-8003-4749-b227-8266d8cf3781.png?v=1779702203",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/varahi-silver-finish-zircon-hathphools?variant=gid://shopify/ProductVariant/50251263443137",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50251264032961": {
     "product_title": "PRIYA RUBY & MINT POLKI BANGLES",

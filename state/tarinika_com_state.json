@@ -13583,7 +13583,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1NX0273X.jpg?v=1693213572",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/dorothy-kundan-choker-set?variant=gid://shopify/ProductVariant/40406102736962",
-    "stock": 3
+    "stock": 15
   },
   "gid://shopify/ProductVariant/40430689124418": {
     "product_title": "Chitra Temple Antique Necklace Set",
@@ -14957,7 +14957,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0006N_daa62999-6db9-4e13-a751-67f6e8aa24c0.jpg?v=1700548123",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/helia-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40548246585410",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40548246618178": {
     "product_title": "Helia Nakshatra CZ Necklace Set",
@@ -15221,9 +15222,10 @@
     "price": 42.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TEX0286X.jpg?v=1703488885",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/floral-bloom-pearl-earrings?variant=gid://shopify/ProductVariant/40631625416770",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40631851155522": {
     "product_title": "Layered Nakshatra CZ Necklace",
