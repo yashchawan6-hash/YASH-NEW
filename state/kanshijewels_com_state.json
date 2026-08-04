@@ -15570,20 +15570,6 @@
     "url": "https://www.kanshijewels.com/products/rani-haram-6?variant=gid://shopify/ProductVariant/51119758737708",
     "stock": 0
   },
-  "gid://shopify/ProductVariant/51119764308268": {
-    "product_title": "Jadau Kundan Jhumkas",
-    "product_handle": "jadau-kundan-jhumkas-copy",
-    "variant_id": "gid://shopify/ProductVariant/51119764308268",
-    "global_id": "gid://shopify/ProductVariant/51119764308268",
-    "variant_title": "Default Title",
-    "sku": "ER169",
-    "price": 2100.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2000_bf85a030-1e39-4356-811c-9e2e99098978.jpg?v=1747997296",
-    "available_for_sale": false,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-jhumkas-copy?variant=gid://shopify/ProductVariant/51119764308268",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/51119768076588": {
     "product_title": "Jadau Kundan Jhumkas",
     "product_handle": "jadau-kundan-jhumkas-36",
@@ -17319,9 +17305,10 @@
     "price": 900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauseptumnosepin900.jpg?v=1766063066",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-septum-nose-pin?variant=gid://shopify/ProductVariant/52441927549228",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52441930170668": {
     "product_title": "Jadau septum nose pin",
@@ -20614,7 +20601,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaudulhanjhumkas2600.jpg?v=1782218251",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-dulhan-jhumkas?variant=gid://shopify/ProductVariant/53369020023084",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/53369027428652": {
     "product_title": "Elegant mossanite dulhan chandbali",
@@ -20670,7 +20658,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/KJ20.3.jpg?v=1782218844",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/gold-look-jadau-jhumkas?variant=gid://shopify/ProductVariant/53369039618348",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/53369043353900": {
     "product_title": "Gold look dulhan jadau jhumkas",

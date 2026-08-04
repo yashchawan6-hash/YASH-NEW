@@ -68,5 +68,35 @@
     "qty_sold": 1,
     "total_value": 19.99,
     "url": "https://www.tarinika.com/products/leafy-classic-antique-maang-tikka?variant=gid://shopify/ProductVariant/40300665536578"
+  },
+  {
+    "timestamp": "2026-08-04T13:38:10+05:30",
+    "product_title": "Bhumi Antique Maang Tika",
+    "variant_title": "Default Title",
+    "price": 16.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "total_value": 16.99,
+    "url": "https://www.tarinika.com/products/bhumi-antique-maang-tika?variant=gid://shopify/ProductVariant/14895806873666"
+  },
+  {
+    "timestamp": "2026-08-04T13:38:10+05:30",
+    "product_title": "Labanya Antique Bangles",
+    "variant_title": "Antique Gold Finish with White Red variant / 2.4",
+    "price": 39.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "total_value": 39.99,
+    "url": "https://www.tarinika.com/products/labanya-antique-bangles?variant=gid://shopify/ProductVariant/39534446641218"
+  },
+  {
+    "timestamp": "2026-08-04T13:38:10+05:30",
+    "product_title": "Aphrodite Gold Plated Tribal Bangles",
+    "variant_title": "Antique Gold Platting 2.8",
+    "price": 39.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "total_value": 39.99,
+    "url": "https://www.tarinika.com/products/aphrodite-gold-plated-tribal-bangles?variant=gid://shopify/ProductVariant/39732662861890"
   }
 ]

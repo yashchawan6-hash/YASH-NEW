@@ -1840,7 +1840,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9600_copy_copy_b0412973-7822-4380-8722-f883be8ebb96.jpg?v=1762533381",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/bhumi-antique-maang-tika?variant=gid://shopify/ProductVariant/14895806873666",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/14895853305922": {
     "product_title": "Bhumi Antique Waist Band",
@@ -5757,7 +5758,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2798copycopy.jpg?v=1640780002",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/labanya-antique-bangles?variant=gid://shopify/ProductVariant/39534446641218",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40791541383234": {
     "product_title": "Labanya Antique Bangles",
@@ -6313,13 +6315,13 @@
     "variant_id": "gid://shopify/ProductVariant/41228282200130",
     "global_id": "gid://shopify/ProductVariant/41228282200130",
     "variant_title": "Yellow Gold Polish with White variant",
-    "sku": "US-TNX0024XW2",
-    "price": 47.99,
+    "sku": "TNX0024XW2",
+    "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0024X_5.jpg?v=1739525033",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/flowery-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/41228282200130",
-    "stock": 10
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/39558907199554": {
     "product_title": "Flowery Delicate CZ Necklace Set",
@@ -6963,9 +6965,10 @@
     "price": 39.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0026X_1.jpg?v=1684152572",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/aphrodite-gold-plated-tribal-bangles?variant=gid://shopify/ProductVariant/39732662861890",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40733503946818": {
     "product_title": "Aphrodite Gold Plated Tribal Bangles",
@@ -7464,13 +7467,13 @@
     "variant_id": "gid://shopify/ProductVariant/39634188566594",
     "global_id": "gid://shopify/ProductVariant/39634188566594",
     "variant_title": "Yellow Gold Polish with Mint variant",
-    "sku": "US-TNX0031XQ2M",
+    "sku": "TNX0031XQ2M",
     "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5800copycopy.jpg?v=1640932199",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/bella-nakshatra-cz-pearl-choker-set?variant=gid://shopify/ProductVariant/39634188566594",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39634188533826": {
@@ -8321,13 +8324,13 @@
     "variant_id": "gid://shopify/ProductVariant/39680093782082",
     "global_id": "gid://shopify/ProductVariant/39680093782082",
     "variant_title": "Yellow Gold",
-    "sku": "US-TBX0004XW2",
+    "sku": "TBX0004XW2",
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3273copycopy.jpg?v=1643201716",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/zharat-delicate-cz-bangles?variant=gid://shopify/ProductVariant/39680093782082",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39680588349506": {
@@ -12460,13 +12463,13 @@
     "variant_id": "gid://shopify/ProductVariant/40300665536578",
     "global_id": "gid://shopify/ProductVariant/40300665536578",
     "variant_title": "Default Title",
-    "sku": "US-ATX0148XCC",
+    "sku": "ATX0148XCC",
     "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ATX0148.jpg?v=1731479046",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/leafy-classic-antique-maang-tikka?variant=gid://shopify/ProductVariant/40300665536578",
-    "stock": 0,
+    "stock": 26,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40300669599810": {
@@ -15734,13 +15737,13 @@
     "variant_id": "gid://shopify/ProductVariant/41113711738946",
     "global_id": "gid://shopify/ProductVariant/41113711738946",
     "variant_title": "Default Title",
-    "sku": "US-ANX3852XMC",
+    "sku": "ANX3852XMC",
     "price": 169.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX3852XMY5.jpg?v=1716550554",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/gana-lakshmi-antique-temple-necklace-set?variant=gid://shopify/ProductVariant/41113711738946",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41114037354562": {
@@ -19021,9 +19024,9 @@
     "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IMG_5462copycopy.jpg?v=1755067278",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/dainty-cz-charms-925-silver-mangalsutra?variant=gid://shopify/ProductVariant/42373197103170",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42373200085058": {
@@ -25147,9 +25150,9 @@
     "price": 39.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0007X.jpg?v=1779964134",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43764316110914": {
@@ -25229,7 +25232,7 @@
     "global_id": "gid://shopify/ProductVariant/43868858712130",
     "variant_title": "White / 2.6",
     "sku": "US-ABX0071XWC6",
-    "price": 12.49,
+    "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071XWC4.jpg?v=1781779955",
     "available_for_sale": false,

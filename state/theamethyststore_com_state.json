@@ -5577,9 +5577,10 @@
     "price": 20511.9,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0683.jpg?v=1665383325",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/ivana-stone-pair-bangles?variant=gid://shopify/ProductVariant/47259154022627",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46039284187363": {
     "product_title": "Ivana Stone Pair Bangles",
@@ -11916,6 +11917,20 @@
     "url": "https://www.theamethyststore.com/products/blossoming-hook-studs?variant=gid://shopify/ProductVariant/44025712443619",
     "stock": 0
   },
+  "gid://shopify/ProductVariant/44025924354275": {
+    "product_title": "Yashninka Avikam Necklace Set",
+    "product_handle": "yashninka-avikam-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/44025924354275",
+    "global_id": "gid://shopify/ProductVariant/44025924354275",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-5063",
+    "price": 167900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5063_0ab8b3a8-5a31-462d-b6a4-20b3c870c98b.jpg?v=1740380301",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/yashninka-avikam-necklace-set?variant=gid://shopify/ProductVariant/44025924354275",
+    "stock": 2
+  },
   "gid://shopify/ProductVariant/44029322330339": {
     "product_title": "Azalea Victorian Short Necklace Set",
     "product_handle": "azalea-victorian-short-necklace-set",
@@ -14758,7 +14773,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5453.jpg?v=1707643428",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/unique-diamond-design-studs?variant=gid://shopify/ProductVariant/44386950414563",
-    "stock": 3
+    "stock": 5
   },
   "gid://shopify/ProductVariant/44386953396451": {
     "product_title": "Hibis Diamond Like Studs",
@@ -14781,12 +14796,12 @@
     "global_id": "gid://shopify/ProductVariant/44386954281187",
     "variant_title": "Default Title",
     "sku": "AMS-106-5454",
-    "price": 18656.0,
+    "price": 18700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5454.jpg?v=1707643768",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/tulips-diamond-like-studs?variant=gid://shopify/ProductVariant/44386954281187",
-    "stock": 1
+    "stock": 4
   },
   "gid://shopify/ProductVariant/44386958082275": {
     "product_title": "Aninya Diamond Design Tikka",
@@ -46151,9 +46166,10 @@
     "price": 48883.5,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2121.jpg?v=1751546570",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/gorgeous-nagas-pair-bangle?variant=gid://shopify/ProductVariant/46774979428579",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46774996631779": {
     "product_title": "Gorgeous Nagas Pair Bangle",
@@ -54715,9 +54731,10 @@
     "price": 5900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0728_1.jpg?v=1755412828",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/manvitha-anklets?variant=gid://shopify/ProductVariant/47029878849763",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47029986656483": {
     "product_title": "Yalikhasri Baby Anklets",
@@ -94618,6 +94635,20 @@
     "url": "https://www.theamethyststore.com/products/anura-stone-short-necklace?variant=gid://shopify/ProductVariant/47793798021347",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/47794029265123": {
+    "product_title": "Bridal Nagas Pair Bangles",
+    "product_handle": "bridal-nagas-pair-bangles-1",
+    "variant_id": "gid://shopify/ProductVariant/47794029265123",
+    "global_id": "gid://shopify/ProductVariant/47794029265123",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-2997-2.6\"",
+    "price": 59600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2997.jpg?v=1767614390",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/bridal-nagas-pair-bangles-1?variant=gid://shopify/ProductVariant/47794029265123",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/47794036834531": {
     "product_title": "Aathesh Stone Short Necklace",
     "product_handle": "aathesh-stone-short-necklace",
@@ -94980,6 +95011,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2996.jpg?v=1767675824",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shikarikha-nagas-pair-bangles?variant=gid://shopify/ProductVariant/47797087240419",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49496730763491": {
+    "product_title": "Shikarikha Nagas Pair Bangles",
+    "product_handle": "shikarikha-nagas-pair-bangles",
+    "variant_id": "gid://shopify/ProductVariant/49496730763491",
+    "global_id": "gid://shopify/ProductVariant/49496730763491",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-2996-2.8\"",
+    "price": 70400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2996.jpg?v=1767675824",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/shikarikha-nagas-pair-bangles?variant=gid://shopify/ProductVariant/49496730763491",
     "stock": 1
   },
   "gid://shopify/ProductVariant/47797102805219": {
@@ -123885,8 +123930,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15190.jpg?v=1775825902",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/elegant-hasli-necklace?variant=gid://shopify/ProductVariant/48763379548387",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48763474084067": {
     "product_title": "Hridya Hasli Necklace",
@@ -127572,9 +127617,10 @@
     "price": 23056.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3998.jpg?v=1777300285",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/victorian-pendant-set-6?variant=gid://shopify/ProductVariant/48876919521507",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48881670455523": {
     "product_title": "Nethra Needle Ear cuffs",
@@ -128582,9 +128628,10 @@
     "price": 75600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15552_2.jpg?v=1777555949",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kundan-long-necklace-18?variant=gid://shopify/ProductVariant/48891508719843",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48891509801187": {
     "product_title": "Elegant Mugappu Chain",
@@ -133752,7 +133799,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13788.jpg?v=1778309619",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bhooputri-victorian-studs?variant=gid://shopify/ProductVariant/48927062556899",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48927065014499": {
     "product_title": "Catchy Victorian Drops",
@@ -135593,7 +135641,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13876.jpg?v=1778676281",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nidhra-diamond-design-studs?variant=gid://shopify/ProductVariant/48945241751779",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48945308303587": {
     "product_title": "Tivana Diamond Design Studs",
@@ -142860,9 +142909,10 @@
     "price": 6300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14237_2.jpg?v=1781615907",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dhananya-stone-drops-3?variant=gid://shopify/ProductVariant/49268217413859",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49268228620515": {
     "product_title": "Elisha Stone Drops",
@@ -159295,9 +159345,10 @@
     "price": 16100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14824.jpg?v=1783428015",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kundan-long-earrings-7?variant=gid://shopify/ProductVariant/49373557883107",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49373571186915": {
     "product_title": "Vihanaa Kundan Long Earrings",
@@ -161036,7 +161087,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1336.jpg?v=1783681956",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/brinaya-plain-bracelet?variant=gid://shopify/ProductVariant/49390399783139",
-    "stock": 6
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/49390400766179": {
     "product_title": "Aashvi Plain Bracelet",
@@ -161076,9 +161128,10 @@
     "price": 27500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16616.jpg?v=1783682519",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/glowing-hasli-with-pendant-set?variant=gid://shopify/ProductVariant/49390405189859",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49390411350243": {
     "product_title": "Chic & Glow Hasli with Pendant Set",
@@ -164037,7 +164090,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4657.jpg?v=1784200109",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-14?variant=gid://shopify/ProductVariant/49415034044643",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/49415035814115": {
     "product_title": "Vithishaa Diamond Design Pendant",
@@ -164065,7 +164118,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4654.jpg?v=1784200791",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/stone-pendant-56?variant=gid://shopify/ProductVariant/49415040041187",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49415041515747": {
@@ -164389,7 +164442,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2398.jpg?v=1784208213",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-maangtikka?variant=gid://shopify/ProductVariant/49415160201443",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/49415170130147": {
     "product_title": "Pranithikaa Avikam Maangtikka",
@@ -166140,7 +166193,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0979.jpg?v=1784464290",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nagas-oddiyanam-9?variant=gid://shopify/ProductVariant/49426826952931",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49426828132579": {
     "product_title": "Devika Nagas Long Necklace",
@@ -167235,7 +167288,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4730.jpg?v=1784704358",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/glitz-diamond-design-pendant?variant=gid://shopify/ProductVariant/49436348547299",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49436364570851": {
     "product_title": "Gleaming Glory Diamond Design Pendant",
@@ -168478,12 +168531,12 @@
     "global_id": "gid://shopify/ProductVariant/49442159067363",
     "variant_title": "Default Title",
     "sku": "AMS-102-17089",
-    "price": 59100.0,
+    "price": 73800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17089.jpg?v=1784875476",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bridal-heritage-avikam-necklace-set?variant=gid://shopify/ProductVariant/49442159067363",
-    "stock": 1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/49442164113635": {
     "product_title": "Attractive Stone Bracelet",
@@ -170174,7 +170227,7 @@
     "global_id": "gid://shopify/ProductVariant/49447382515939",
     "variant_title": "Default Title",
     "sku": "AMS-106-15520",
-    "price": 4100.0,
+    "price": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15520.jpg?v=1784983119",
     "available_for_sale": true,
@@ -175520,6 +175573,552 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0919.jpg?v=1785767091",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/luxurious-victorian-vanki-cum-chocker?variant=gid://shopify/ProductVariant/49495369253091",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496641831139": {
+    "product_title": "Beautiful Short Necklace Set",
+    "product_handle": "beautiful-short-necklace-set-3",
+    "variant_id": "gid://shopify/ProductVariant/49496641831139",
+    "global_id": "gid://shopify/ProductVariant/49496641831139",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16867",
+    "price": 17900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16867.jpg?v=1785818180",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/beautiful-short-necklace-set-3?variant=gid://shopify/ProductVariant/49496641831139",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496648483043": {
+    "product_title": "Fabulous Pachi Short Necklace",
+    "product_handle": "fabulous-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49496648483043",
+    "global_id": "gid://shopify/ProductVariant/49496648483043",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16886",
+    "price": 27300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16886.jpg?v=1785818365",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/fabulous-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496648483043",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496652808419": {
+    "product_title": "Admirable Pachi Short Necklace",
+    "product_handle": "admirable-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49496652808419",
+    "global_id": "gid://shopify/ProductVariant/49496652808419",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16887",
+    "price": 24800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16887.jpg?v=1785818523",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/admirable-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496652808419",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496654250211": {
+    "product_title": "Shine Charm Pachi Short Necklace",
+    "product_handle": "shine-charm-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49496654250211",
+    "global_id": "gid://shopify/ProductVariant/49496654250211",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16890",
+    "price": 22500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16890.jpg?v=1785818757",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/shine-charm-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496654250211",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496674599139": {
+    "product_title": "Facinate Pachi Short Necklace",
+    "product_handle": "facinate-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49496674599139",
+    "global_id": "gid://shopify/ProductVariant/49496674599139",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16896",
+    "price": 23300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16896.jpg?v=1785818889",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/facinate-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496674599139",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496710578403": {
+    "product_title": "Heart Design Pachi Short Necklace",
+    "product_handle": "heart-design-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49496710578403",
+    "global_id": "gid://shopify/ProductVariant/49496710578403",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16897",
+    "price": 22400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16897.jpg?v=1785819005",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/heart-design-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496710578403",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496809537763": {
+    "product_title": "Stunning Pachi Short Necklace",
+    "product_handle": "stunning-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49496809537763",
+    "global_id": "gid://shopify/ProductVariant/49496809537763",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16899",
+    "price": 29400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16899.jpg?v=1785819896",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stunning-pachi-short-necklace?variant=gid://shopify/ProductVariant/49496809537763",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49496977015011": {
+    "product_title": "Green Charm Pachi Short Necklace",
+    "product_handle": "pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49496977015011",
+    "global_id": "gid://shopify/ProductVariant/49496977015011",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16903",
+    "price": 24000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16903.jpg?v=1785820230",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/pachi-short-necklace?variant=gid://shopify/ProductVariant/49496977015011",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497071911139": {
+    "product_title": "Sheritha Pachi Short Necklace",
+    "product_handle": "pachi-short-necklace-1",
+    "variant_id": "gid://shopify/ProductVariant/49497071911139",
+    "global_id": "gid://shopify/ProductVariant/49497071911139",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16905",
+    "price": 29300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16905.jpg?v=1785821771",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/pachi-short-necklace-1?variant=gid://shopify/ProductVariant/49497071911139",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497086984419": {
+    "product_title": "Charming Pachi Short Necklace",
+    "product_handle": "charming-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49497086984419",
+    "global_id": "gid://shopify/ProductVariant/49497086984419",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16906",
+    "price": 22400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16906.jpg?v=1785823160",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/charming-pachi-short-necklace?variant=gid://shopify/ProductVariant/49497086984419",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497088229603": {
+    "product_title": "Gorgeous Pachi Short Necklace",
+    "product_handle": "gorgeous-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49497088229603",
+    "global_id": "gid://shopify/ProductVariant/49497088229603",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16951",
+    "price": 29900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16951.jpg?v=1785823288",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/gorgeous-pachi-short-necklace?variant=gid://shopify/ProductVariant/49497088229603",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497090425059": {
+    "product_title": "Grandeur Pachi Short Necklace",
+    "product_handle": "grandeur-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49497090425059",
+    "global_id": "gid://shopify/ProductVariant/49497090425059",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16969",
+    "price": 29000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16969.jpg?v=1785823459",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/grandeur-pachi-short-necklace?variant=gid://shopify/ProductVariant/49497090425059",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497091014883": {
+    "product_title": "Ishitha Pachi Short Necklace",
+    "product_handle": "ishitha-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49497091014883",
+    "global_id": "gid://shopify/ProductVariant/49497091014883",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16971",
+    "price": 14300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16971.jpg?v=1785823667",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/ishitha-pachi-short-necklace?variant=gid://shopify/ProductVariant/49497091014883",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497098617059": {
+    "product_title": "Initha Pachi Short Necklace",
+    "product_handle": "initha-pachi-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49497098617059",
+    "global_id": "gid://shopify/ProductVariant/49497098617059",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16974",
+    "price": 19500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16974.jpg?v=1785823997",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/initha-pachi-short-necklace?variant=gid://shopify/ProductVariant/49497098617059",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497101467875": {
+    "product_title": "Shinning Pakshi Short Necklace Set",
+    "product_handle": "shinning-pakshi-short-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49497101467875",
+    "global_id": "gid://shopify/ProductVariant/49497101467875",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16912",
+    "price": 35300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16912.jpg?v=1785824221",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/shinning-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49497101467875",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497106481379": {
+    "product_title": "Luxurious Pakshi Short Necklace Set",
+    "product_handle": "luxurious-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49497106481379",
+    "global_id": "gid://shopify/ProductVariant/49497106481379",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16939",
+    "price": 36700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16939.jpg?v=1785824551",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/luxurious-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49497106481379",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497112805603": {
+    "product_title": "Vithisa Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-18",
+    "variant_id": "gid://shopify/ProductVariant/49497112805603",
+    "global_id": "gid://shopify/ProductVariant/49497112805603",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4786",
+    "price": 16000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4786.jpg?v=1785825649",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-18?variant=gid://shopify/ProductVariant/49497112805603",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497118015715": {
+    "product_title": "Charming Pakshi Short Necklace Set",
+    "product_handle": "charming-pakshi-short-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49497118015715",
+    "global_id": "gid://shopify/ProductVariant/49497118015715",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16979",
+    "price": 19900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16979.jpg?v=1785825044",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/charming-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49497118015715",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497118965987": {
+    "product_title": "Amazing Pakshi Short Necklace Set",
+    "product_handle": "amazing-pakshi-short-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49497118965987",
+    "global_id": "gid://shopify/ProductVariant/49497118965987",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16982",
+    "price": 18300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16982.jpg?v=1785825197",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49497118965987",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497122177251": {
+    "product_title": "Charming Pakshi Short Necklace Set",
+    "product_handle": "charming-pakshi-short-necklace-set-3",
+    "variant_id": "gid://shopify/ProductVariant/49497122177251",
+    "global_id": "gid://shopify/ProductVariant/49497122177251",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16986",
+    "price": 20300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16986.jpg?v=1785825373",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/charming-pakshi-short-necklace-set-3?variant=gid://shopify/ProductVariant/49497122177251",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497127125219": {
+    "product_title": "Attractive Pakshi Short Necklace Set",
+    "product_handle": "attractive-pakshi-short-necklace-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49497127125219",
+    "global_id": "gid://shopify/ProductVariant/49497127125219",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16989",
+    "price": 20800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16989.jpg?v=1785825636",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/attractive-pakshi-short-necklace-set-1?variant=gid://shopify/ProductVariant/49497127125219",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497131909347": {
+    "product_title": "Sparkling Avikam Pendant Set",
+    "product_handle": "sparkling-avikam-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/49497131909347",
+    "global_id": "gid://shopify/ProductVariant/49497131909347",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4809",
+    "price": 15600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4809.jpg?v=1785826664",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/sparkling-avikam-pendant-set?variant=gid://shopify/ProductVariant/49497131909347",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497143410915": {
+    "product_title": "Dhaniya Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-20",
+    "variant_id": "gid://shopify/ProductVariant/49497143410915",
+    "global_id": "gid://shopify/ProductVariant/49497143410915",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4787",
+    "price": 32800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4787.jpg?v=1785826460",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-20?variant=gid://shopify/ProductVariant/49497143410915",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497147015395": {
+    "product_title": "Tahnirika Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-21",
+    "variant_id": "gid://shopify/ProductVariant/49497147015395",
+    "global_id": "gid://shopify/ProductVariant/49497147015395",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4788",
+    "price": 16200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4788.jpg?v=1785826717",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-21?variant=gid://shopify/ProductVariant/49497147015395",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497150259427": {
+    "product_title": "Grandeur Avikam Pendant Set",
+    "product_handle": "grandeur-avikam-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/49497150259427",
+    "global_id": "gid://shopify/ProductVariant/49497150259427",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4810",
+    "price": 12200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4810.jpg?v=1785826919",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/grandeur-avikam-pendant-set?variant=gid://shopify/ProductVariant/49497150259427",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497154945251": {
+    "product_title": "Elvera Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-19",
+    "variant_id": "gid://shopify/ProductVariant/49497154945251",
+    "global_id": "gid://shopify/ProductVariant/49497154945251",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4789",
+    "price": 7000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4789.jpg?v=1785827040",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-19?variant=gid://shopify/ProductVariant/49497154945251",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497155567843": {
+    "product_title": "Sparkling Avikam Pendant Set",
+    "product_handle": "sparkling-avikam-pendant-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49497155567843",
+    "global_id": "gid://shopify/ProductVariant/49497155567843",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4811",
+    "price": 13500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4811.jpg?v=1785827074",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/sparkling-avikam-pendant-set-1?variant=gid://shopify/ProductVariant/49497155567843",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497159631075": {
+    "product_title": "Amazing Avikam Pendant Set",
+    "product_handle": "amazing-avikam-pendant-set-3",
+    "variant_id": "gid://shopify/ProductVariant/49497159631075",
+    "global_id": "gid://shopify/ProductVariant/49497159631075",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4812",
+    "price": 8900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4812.jpg?v=1785827386",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-avikam-pendant-set-3?variant=gid://shopify/ProductVariant/49497159631075",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497165332707": {
+    "product_title": "Aurena Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-22",
+    "variant_id": "gid://shopify/ProductVariant/49497165332707",
+    "global_id": "gid://shopify/ProductVariant/49497165332707",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4790",
+    "price": 21600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4790.jpg?v=1785827650",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-22?variant=gid://shopify/ProductVariant/49497165332707",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497167626467": {
+    "product_title": "Grand Look Avikam Pendant Set",
+    "product_handle": "grand-look-avikam-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/49497167626467",
+    "global_id": "gid://shopify/ProductVariant/49497167626467",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4813",
+    "price": 14000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4813.jpg?v=1785827601",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/grand-look-avikam-pendant-set?variant=gid://shopify/ProductVariant/49497167626467",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497174900963": {
+    "product_title": "Amazing Avikam Pendant Set",
+    "product_handle": "amazing-avikam-pendant-set-4",
+    "variant_id": "gid://shopify/ProductVariant/49497174900963",
+    "global_id": "gid://shopify/ProductVariant/49497174900963",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4814",
+    "price": 10800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4814.jpg?v=1785827912",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-avikam-pendant-set-4?variant=gid://shopify/ProductVariant/49497174900963",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497184469219": {
+    "product_title": "Mesmerizing Avikam Pendant Set",
+    "product_handle": "mesmerizing-avikam-pendant-set-1",
+    "variant_id": "gid://shopify/ProductVariant/49497184469219",
+    "global_id": "gid://shopify/ProductVariant/49497184469219",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4815",
+    "price": 14000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4815.jpg?v=1785828063",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-avikam-pendant-set-1?variant=gid://shopify/ProductVariant/49497184469219",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497200754915": {
+    "product_title": "Admirable Avikam Pendant Set",
+    "product_handle": "admirable-avikam-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/49497200754915",
+    "global_id": "gid://shopify/ProductVariant/49497200754915",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4816",
+    "price": 7000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4816.jpg?v=1785828276",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/admirable-avikam-pendant-set?variant=gid://shopify/ProductVariant/49497200754915",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497215074531": {
+    "product_title": "Hanisha Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-23",
+    "variant_id": "gid://shopify/ProductVariant/49497215074531",
+    "global_id": "gid://shopify/ProductVariant/49497215074531",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4791",
+    "price": 7800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4791.jpg?v=1785828498",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-23?variant=gid://shopify/ProductVariant/49497215074531",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497219662051": {
+    "product_title": "Amazing Avikam Pendant Set",
+    "product_handle": "amazing-avikam-pendant-set-5",
+    "variant_id": "gid://shopify/ProductVariant/49497219662051",
+    "global_id": "gid://shopify/ProductVariant/49497219662051",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4817",
+    "price": 9200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4817.jpg?v=1785828767",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-avikam-pendant-set-5?variant=gid://shopify/ProductVariant/49497219662051",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497285001443": {
+    "product_title": "Amazing Avikam Pendant Set",
+    "product_handle": "amazing-avikam-pendant-set-6",
+    "variant_id": "gid://shopify/ProductVariant/49497285001443",
+    "global_id": "gid://shopify/ProductVariant/49497285001443",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4818",
+    "price": 10700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4818.jpg?v=1785830094",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-avikam-pendant-set-6?variant=gid://shopify/ProductVariant/49497285001443",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497285492963": {
+    "product_title": "Dhristiya Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-25",
+    "variant_id": "gid://shopify/ProductVariant/49497285492963",
+    "global_id": "gid://shopify/ProductVariant/49497285492963",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4792",
+    "price": 13300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4792.jpg?v=1785830112",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-25?variant=gid://shopify/ProductVariant/49497285492963",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497299255523": {
+    "product_title": "Lakshitha Avikam Pendant Set",
+    "product_handle": "lakshitha-avikam-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/49497299255523",
+    "global_id": "gid://shopify/ProductVariant/49497299255523",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4819",
+    "price": 12800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4819.jpg?v=1785830537",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/lakshitha-avikam-pendant-set?variant=gid://shopify/ProductVariant/49497299255523",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49497309348067": {
+    "product_title": "Cute Avikam Pendant Set",
+    "product_handle": "avikam-pendant-set-26",
+    "variant_id": "gid://shopify/ProductVariant/49497309348067",
+    "global_id": "gid://shopify/ProductVariant/49497309348067",
+    "variant_title": "Default Title",
+    "sku": "AMS-104-4793",
+    "price": 10000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4793.jpg?v=1785830593",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pendant-set-26?variant=gid://shopify/ProductVariant/49497309348067",
     "stock": -1
   },
   "gid://shopify/ProductVariant/49476091117795": {
