@@ -702,9 +702,10 @@
     "price": 50.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A8731.jpg?v=1750755115",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/mara-antique-necklace-set?variant=gid://shopify/ProductVariant/13567909593154",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41664495484994": {
     "product_title": "Mara Antique Necklace Set",
@@ -10629,10 +10630,10 @@
     "price": 124.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A0401.jpg?v=1739529541",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/41664457965634",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39961209176130": {
     "product_title": "Floral Classic Antique Necklace Set",
@@ -17261,7 +17262,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ATX0130XM1_3.jpg?v=1732858064",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-vasha-maang-tika?variant=gid://shopify/ProductVariant/41831817904194",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/41833788899394": {
     "product_title": "Antique Gold Plated Shaan Ear Chain",
@@ -18003,10 +18005,10 @@
     "price": 29.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TEX0310XD0.jpg?v=1740720674",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/harini-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/41977332301890",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41977332334658": {
     "product_title": "Kashvi Nakshatra CZ Jhumka Earrings",
@@ -21086,9 +21088,10 @@
     "price": 106.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX1493XMC_8040f4bc-b6ec-42e3-8fae-0cabbc9745c0.jpg?v=1764397472",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/iravya-antique-choker-set?variant=gid://shopify/ProductVariant/42417391337538",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42417391370306": {
     "product_title": "Kanira Antique Long Necklace Set",
@@ -25381,7 +25384,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SNE0057XC2.png?v=1781851108",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/dharini-kundan-drop-earrings?variant=gid://shopify/ProductVariant/43869721165890",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43869721231426": {
     "product_title": "Dola Antique Red Chandbali Earrings",
@@ -25606,7 +25610,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T057.png?v=1784351713",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/alana-cz-maang-tikka?variant=gid://shopify/ProductVariant/44136932114498",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/44136932147266": {
     "product_title": "Hiranmayi Antique Maang Tikka",

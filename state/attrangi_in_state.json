@@ -96,10 +96,10 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/small-round-solitaires-halo-attrangi-4.jpg?v=1739812458",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/small-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659337897",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411659370665": {
     "product_title": "50 Cent Small Round Solitaires Halo| Screwback",
@@ -142,7 +142,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-solitaire-attrangi-4.jpg?v=1774011394",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659567273",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48172004442324": {
@@ -4660,10 +4660,10 @@
     "price": 1350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ik-onkar-nazaria-mangalsutra-attrangi-1.jpg?v=1739813857",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/ik-onkar-nazaria-mangalsutra?variant=gid://shopify/ProductVariant/42703366652116",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46070128017620": {
     "product_title": "Bhakti Polki Maangtika",
@@ -17524,7 +17524,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-05at4.16.45PM_1.jpg?v=1750783471",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sushmita-moissanite-polki-maangtika-in-antique-gold?variant=gid://shopify/ProductVariant/45889358692564",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45889359216852": {
     "product_title": "Shanaya Moissanite Polki Maangtika In Antique Gold",
@@ -36789,7 +36790,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at1.54.37PM_2.jpg?v=1772784819",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gemstone-haathi-designer-gold-brooch-unisex?variant=gid://shopify/ProductVariant/47579145634004",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47579150876884": {
     "product_title": "Gopal Elephant Diamond Polki Pearl Brooch | Unisex",

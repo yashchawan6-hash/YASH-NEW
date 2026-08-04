@@ -155688,9 +155688,10 @@
     "price": 20400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16217.jpg?v=1783081260",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-20?variant=gid://shopify/ProductVariant/49359635448035",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49359640264931": {
     "product_title": "Arnikaa Avikam Short Necklace Set",
@@ -176520,7 +176521,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0881_4.jpg?v=1785844837",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-8?variant=gid://shopify/ProductVariant/49498125140195",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498139197667": {
     "product_title": "Heritage Jada Billa",
@@ -176534,7 +176535,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0882_2.jpg?v=1785845267",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/heritage-jada-billa?variant=gid://shopify/ProductVariant/49498139197667",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498139230435": {
     "product_title": "Heritage Jada Billa",
@@ -176548,7 +176549,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0882_2.jpg?v=1785845267",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/heritage-jada-billa?variant=gid://shopify/ProductVariant/49498139230435",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498524287203": {
     "product_title": "Charming Jada Billa",
@@ -176562,7 +176563,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0887_2.jpg?v=1785847202",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-9?variant=gid://shopify/ProductVariant/49498524287203",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49498524319971": {
     "product_title": "Charming Jada Billa",
@@ -176576,7 +176577,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0887_4.jpg?v=1785847202",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-9?variant=gid://shopify/ProductVariant/49498524319971",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49498581434595": {
     "product_title": "Pretty Look Jada Billa",
@@ -176590,7 +176591,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0888_2.jpg?v=1785847960",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-10?variant=gid://shopify/ProductVariant/49498581434595",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49498581467363": {
     "product_title": "Pretty Look Jada Billa",
@@ -176604,7 +176605,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0888_4.jpg?v=1785847960",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-10?variant=gid://shopify/ProductVariant/49498581467363",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49498775584995": {
     "product_title": "Bridal Like Jada Billa",
@@ -176618,7 +176619,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0889_5.jpg?v=1785850913",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bridal-like-jada-billa?variant=gid://shopify/ProductVariant/49498775584995",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498775617763": {
     "product_title": "Bridal Like Jada Billa",
@@ -176632,7 +176633,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0889_5.jpg?v=1785850913",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bridal-like-jada-billa?variant=gid://shopify/ProductVariant/49498775617763",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498778337507": {
     "product_title": "Swetha Avikam Pendant Set",
@@ -176646,7 +176647,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4807.jpg?v=1785850955",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-39?variant=gid://shopify/ProductVariant/49498778337507",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498807861475": {
     "product_title": "Elvoria Avikam Pendant Set",
@@ -176660,7 +176661,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4808.jpg?v=1785851841",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-pendant-set-40?variant=gid://shopify/ProductVariant/49498807861475",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498808877283": {
     "product_title": "Classy Jada Billa",
@@ -176674,7 +176675,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0871_5.jpg?v=1785852119",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-11?variant=gid://shopify/ProductVariant/49498808877283",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49498808910051": {
     "product_title": "Classy Jada Billa",
@@ -176688,7 +176689,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-112-0871_3.jpg?v=1785852119",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-11?variant=gid://shopify/ProductVariant/49498808910051",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45986791063779": {
     "product_title": "Red Stone Studs",
