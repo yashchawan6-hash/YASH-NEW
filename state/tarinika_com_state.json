@@ -3737,7 +3737,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5199copycopy.jpg?v=1640781461",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mily-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/32446829232194",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/32446829199426": {
     "product_title": "Mily Nakshatra CZ Necklace Set",
@@ -8484,9 +8485,10 @@
     "price": 124.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FNX1514XCY.jpg?v=1741697505",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/anusri-antique-choker-set?variant=gid://shopify/ProductVariant/41478883770434",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483163172930": {
     "product_title": "Anusri Antique Choker Set",
@@ -15703,8 +15705,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANL2754XHY_b65ea6b8-f6e1-4e07-8473-ec7221d1f440.jpg?v=1739168665",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/govind-antique-temple-long-necklace-set?variant=gid://shopify/ProductVariant/41113675432002",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41113711738946": {
     "product_title": "Gana Lakshmi Antique Temple Necklace Set",
@@ -21623,9 +21625,10 @@
     "price": 89.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/KBX4146XTC.jpg?v=1757138927",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/indira-antique-bangles?variant=gid://shopify/ProductVariant/42431020990530",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42431021023298": {
     "product_title": "Indira Antique Bangles",

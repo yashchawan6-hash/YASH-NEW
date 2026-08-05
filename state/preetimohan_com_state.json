@@ -5907,6 +5907,20 @@
     "url": "https://www.preetimohan.com/products/divya-green-pink-jhumka?variant=gid://shopify/ProductVariant/48432180494529",
     "stock": -1
   },
+  "gid://shopify/ProductVariant/48433021059265": {
+    "product_title": "AASHNA PINK MEENAKAARI MOISSANITE NECKLACE SET",
+    "product_handle": "aashna-pink-meenakaari-moissanite-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/48433021059265",
+    "global_id": "gid://shopify/ProductVariant/48433021059265",
+    "variant_title": "Default Title",
+    "sku": "WNKRAD204",
+    "price": 195000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Capture0229-751.jpg?v=1756191713",
+    "available_for_sale": false,
+    "url": "https://www.preetimohan.com/products/aashna-pink-meenakaari-moissanite-necklace-set?variant=gid://shopify/ProductVariant/48433021059265",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/48434224267457": {
     "product_title": "BHAVIYA GOLD PLATED RED ANKLET",
     "product_handle": "bhaviya-gold-plated-red-anklet",
@@ -9571,7 +9585,7 @@
     "price": 15000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/250.png?v=1756141463",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/risha-green-polki-bangles?variant=gid://shopify/ProductVariant/49171735773377",
     "stock": -1
   },
@@ -14541,7 +14555,7 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/18_0b2deec4-a52a-4e30-9822-ab344c91994a.png?v=1756140930",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/gitali-white-polki-ring?variant=gid://shopify/ProductVariant/49263647195329",
     "stock": -1
   },

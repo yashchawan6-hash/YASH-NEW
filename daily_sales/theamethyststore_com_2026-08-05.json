@@ -246,5 +246,33 @@
     "curr_stock": 1,
     "url": "https://www.theamethyststore.com/products/ferikha-stone-pair-bangle?variant=gid://shopify/ProductVariant/47202171388131",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2410-_2.jpg?v=1758711892"
+  },
+  {
+    "timestamp_ist": "2026-08-05 23:50:46",
+    "product_title": "Yashika Pair Bangles",
+    "variant_title": "2.6\"",
+    "variant_id": "gid://shopify/ProductVariant/43643809038563",
+    "sku": "AMS-107-0821-2.6\"",
+    "price": 26262.9,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/yashika-pair-bangles?variant=gid://shopify/ProductVariant/43643809038563",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0821.jpg?v=1673327697"
+  },
+  {
+    "timestamp_ist": "2026-08-05 23:50:46",
+    "product_title": "Amilthini Stone Ring",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47009028669667",
+    "sku": "AMS-101-1418",
+    "price": 3600.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.theamethyststore.com/products/amilthini-stone-ring?variant=gid://shopify/ProductVariant/47009028669667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1418.jpg?v=1754992797"
   }
 ]
