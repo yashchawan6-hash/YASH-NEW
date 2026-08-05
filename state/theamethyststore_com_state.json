@@ -3901,6 +3901,34 @@
     "url": "https://www.theamethyststore.com/products/flower-rakhi?variant=gid://shopify/ProductVariant/43147126472931",
     "stock": 8
   },
+  "gid://shopify/ProductVariant/43147130536163": {
+    "product_title": "Adair Rakhi",
+    "product_handle": "adair-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/43147130536163",
+    "global_id": "gid://shopify/ProductVariant/43147130536163",
+    "variant_title": "Default Title",
+    "sku": "AMS-116-0018",
+    "price": 2500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0018.jpg?v=1658320044",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/adair-rakhi?variant=gid://shopify/ProductVariant/43147130536163",
+    "stock": 6
+  },
+  "gid://shopify/ProductVariant/43147137515747": {
+    "product_title": "Leaf Designed Rakhi",
+    "product_handle": "leaf-designed-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/43147137515747",
+    "global_id": "gid://shopify/ProductVariant/43147137515747",
+    "variant_title": "Default Title",
+    "sku": "AMS-116-0017",
+    "price": 3700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0017.jpg?v=1658320188",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/leaf-designed-rakhi?variant=gid://shopify/ProductVariant/43147137515747",
+    "stock": 4
+  },
   "gid://shopify/ProductVariant/43147144003811": {
     "product_title": "Thilagam Siloni",
     "product_handle": "thilagam-siloni",
@@ -3957,6 +3985,20 @@
     "url": "https://www.theamethyststore.com/products/square-silver-rakhi?variant=gid://shopify/ProductVariant/43147160682723",
     "stock": 7
   },
+  "gid://shopify/ProductVariant/43147178639587": {
+    "product_title": "Plentiful King Rakhi",
+    "product_handle": "plentiful-king-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/43147178639587",
+    "global_id": "gid://shopify/ProductVariant/43147178639587",
+    "variant_title": "Default Title",
+    "sku": "AMS-116-0012",
+    "price": 1500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0012.jpg?v=1658321731",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/plentiful-king-rakhi?variant=gid://shopify/ProductVariant/43147178639587",
+    "stock": 16
+  },
   "gid://shopify/ProductVariant/43147190370531": {
     "product_title": "Swastik Rakhi",
     "product_handle": "swastik-rakhi",
@@ -3998,6 +4040,20 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fancy-silver-rakhi?variant=gid://shopify/ProductVariant/43147218583779",
     "stock": 5
+  },
+  "gid://shopify/ProductVariant/43147231199459": {
+    "product_title": "Bryant Silver Rakhi",
+    "product_handle": "bryant-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/43147231199459",
+    "global_id": "gid://shopify/ProductVariant/43147231199459",
+    "variant_title": "Default Title",
+    "sku": "AMS-116-0008",
+    "price": 1800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-116-0008.jpg?v=1658322302",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/bryant-silver-rakhi?variant=gid://shopify/ProductVariant/43147231199459",
+    "stock": 6
   },
   "gid://shopify/ProductVariant/43164554756323": {
     "product_title": "Lalit Kundan Necklace",
@@ -18928,7 +18984,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1748.jpg?v=1721293649",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/amethyst-leafy-pendant?variant=gid://shopify/ProductVariant/45281021427939",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45281177403619": {
     "product_title": "Purple Garnet Long Earrings",
@@ -18956,7 +19013,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6302.jpg?v=1721297356",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/alluring-hook-drops?variant=gid://shopify/ProductVariant/45281198932195",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45281301954787": {
     "product_title": "Monolith Avikam Tikka",
@@ -37952,9 +38010,10 @@
     "price": 10648.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-120-0030.jpg?v=1748180802",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/formals-cufflinks?variant=gid://shopify/ProductVariant/46395773386979",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46395775647971": {
     "product_title": "Parallel Strips Cufflinks",
@@ -38148,9 +38207,10 @@
     "price": 13840.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0650.jpg?v=1748501978",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/lucky-joint-mens-bracelet?variant=gid://shopify/ProductVariant/46407147749603",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46407471857891": {
     "product_title": "Rithika Kundan Maatal",
@@ -59320,7 +59380,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1810.jpg?v=1756114901",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kiavisha-stone-maangtikka?variant=gid://shopify/ProductVariant/47061524906211",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47061538504931": {
     "product_title": "Amvika Nagas Tikka",
@@ -154466,9 +154527,10 @@
     "price": 20328.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16207.jpg?v=1782822621",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/glowing-avikam-short-necklace-set-3?variant=gid://shopify/ProductVariant/49334672654563",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49334675177699": {
     "product_title": "Facinate Avikam Short Necklace Set",
@@ -155688,9 +155750,9 @@
     "price": 20400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16217.jpg?v=1783081260",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-short-necklace-set-20?variant=gid://shopify/ProductVariant/49359635448035",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49359640264931": {
@@ -162399,9 +162461,10 @@
     "price": 5600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16559.jpg?v=1783852363",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-96?variant=gid://shopify/ProductVariant/49396889944291",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49396892172515": {
     "product_title": "Shri Hasli Necklace",
@@ -176690,6 +176753,90 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jada-billa-11?variant=gid://shopify/ProductVariant/49498808910051",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/49500970909923": {
+    "product_title": "Amazing Stone Ring",
+    "product_handle": "stone-ring-21",
+    "variant_id": "gid://shopify/ProductVariant/49500970909923",
+    "global_id": "gid://shopify/ProductVariant/49500970909923",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-2193",
+    "price": 2300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-2193.jpg?v=1785904951",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/stone-ring-21?variant=gid://shopify/ProductVariant/49500970909923",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49501001154787": {
+    "product_title": "Pranitha Pakshi Short Necklace Set",
+    "product_handle": "pranitha-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49501001154787",
+    "global_id": "gid://shopify/ProductVariant/49501001154787",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16869",
+    "price": 25200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16869.jpg?v=1785909777",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/pranitha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501001154787",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49501022028003": {
+    "product_title": "Heritha Pakshi Short Necklace Set",
+    "product_handle": "heritha-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49501022028003",
+    "global_id": "gid://shopify/ProductVariant/49501022028003",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16870",
+    "price": 21700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16870.jpg?v=1785909917",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/heritha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501022028003",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49501026058467": {
+    "product_title": "Shinning Pakshi Short Necklace Set",
+    "product_handle": "shinning-pakshi-short-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49501026058467",
+    "global_id": "gid://shopify/ProductVariant/49501026058467",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16872",
+    "price": 26300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16872.jpg?v=1785910198",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/shinning-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49501026058467",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49501026648291": {
+    "product_title": "Ishikha Pakshi Short Necklace Set",
+    "product_handle": "ishikha-pakshi-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49501026648291",
+    "global_id": "gid://shopify/ProductVariant/49501026648291",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16873",
+    "price": 16000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16873.jpg?v=1785910325",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/ishikha-pakshi-short-necklace-set?variant=gid://shopify/ProductVariant/49501026648291",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49501026844899": {
+    "product_title": "Mesmerizing Pakshi Short Necklace Set",
+    "product_handle": "mesmerizing-pakshi-short-necklace-set-2",
+    "variant_id": "gid://shopify/ProductVariant/49501026844899",
+    "global_id": "gid://shopify/ProductVariant/49501026844899",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-16875",
+    "price": 20700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16875.jpg?v=1785910451",
+    "available_for_sale": false,
+    "url": "https://www.theamethyststore.com/products/mesmerizing-pakshi-short-necklace-set-2?variant=gid://shopify/ProductVariant/49501026844899",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/45986791063779": {
     "product_title": "Red Stone Studs",
