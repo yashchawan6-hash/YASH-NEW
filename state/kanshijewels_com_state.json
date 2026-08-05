@@ -10923,7 +10923,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/KR__84.jpg?v=1722588864",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-56?variant=gid://shopify/ProductVariant/49513762423084",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/49945920307500": {
     "product_title": "Coral Jadau Mangalsutra",
@@ -15873,7 +15874,7 @@
     "variant_id": "gid://shopify/ProductVariant/51323587494188",
     "global_id": "gid://shopify/ProductVariant/51323587494188",
     "variant_title": "Green",
-    "sku": null,
+    "sku": "",
     "price": 759.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshiexclusiveearrings690_-_1.jpg?v=1751265428",
@@ -20356,7 +20357,7 @@
     "variant_id": "gid://shopify/ProductVariant/53368839962924",
     "global_id": "gid://shopify/ProductVariant/53368839962924",
     "variant_title": "Default Title",
-    "sku": null,
+    "sku": "",
     "price": 4400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantbluemossanitenecklace4400.jpg?v=1782213575",
@@ -20903,7 +20904,7 @@
     "stock": 20
   },
   "gid://shopify/ProductVariant/53418027286828": {
-    "product_title": "lotus jadau  motives invisible chain",
+    "product_title": "lotus jadau motives invisible chain",
     "product_handle": "lotus-jadau-motives-invisible-chsin",
     "variant_id": "gid://shopify/ProductVariant/53418027286828",
     "global_id": "gid://shopify/ProductVariant/53418027286828",
@@ -20914,7 +20915,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/590_-lotusjadaumotivesinvisiblechsin.jpg?v=1783513086",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/lotus-jadau-motives-invisible-chsin?variant=gid://shopify/ProductVariant/53418027286828",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/53418683334956": {
     "product_title": "gold look peacock motives buttu necklace",
@@ -20956,8 +20958,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1450_-elegantjadaubridesmaidschokar.jpg?v=1783572635",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-bridesmaids-chokar?variant=gid://shopify/ProductVariant/53420202950956",
-    "stock": 18,
-    "last_alerted_stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/53420204491052": {
     "product_title": "elegant jadau pearls fusion necklace earrings set_",

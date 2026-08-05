@@ -78,5 +78,61 @@
     "qty_sold": 1,
     "total_value": 5600.0,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-96?variant=gid://shopify/ProductVariant/49396889944291"
+  },
+  {
+    "timestamp_ist": "2026-08-05 15:00:48",
+    "product_title": "Pearl Studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42018690695395",
+    "sku": "AMS-106-2105-MS",
+    "price": 4048.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "prev_stock": 3,
+    "curr_stock": 1,
+    "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566"
+  },
+  {
+    "timestamp_ist": "2026-08-05 15:00:48",
+    "product_title": "Anita Stone Drops",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/43660155158755",
+    "sku": "AMS-106-4026",
+    "price": 4900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.theamethyststore.com/products/anita-stone-drops?variant=gid://shopify/ProductVariant/43660155158755",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4026.jpg?v=1673962181"
+  },
+  {
+    "timestamp_ist": "2026-08-05 15:00:48",
+    "product_title": "Lochitha Kundan Pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45671815905507",
+    "sku": "AMS-104-2022",
+    "price": 6262.2,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.theamethyststore.com/products/lochitha-kundan-pendant?variant=gid://shopify/ProductVariant/45671815905507",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2022.jpg?v=1730634915"
+  },
+  {
+    "timestamp_ist": "2026-08-05 15:00:48",
+    "product_title": "Fabulous Studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47044726980835",
+    "sku": "AMS-106-9048",
+    "price": 5104.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.theamethyststore.com/products/fabulous-studs?variant=gid://shopify/ProductVariant/47044726980835",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9048.jpg?v=1755780987"
   }
 ]

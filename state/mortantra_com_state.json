@@ -16565,21 +16565,6 @@
     "url": "https://www.mortantra.com/products/ms2161-green-color-gold-plated-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46093852573919",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/46093854441695": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Necklace Set with Peacock and Floral Motif - MS2166M",
-    "product_handle": "ms2166m-multicolor-gold-plated-jadau-kundan-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/46093854441695",
-    "global_id": "gid://shopify/ProductVariant/46093854441695",
-    "variant_title": "Default Title",
-    "sku": "MS2166M",
-    "price": 21000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2166M_1.jpg?v=1720445353",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/ms2166m-multicolor-gold-plated-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46093854441695",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/46093855817951": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Flower and Peacock Motif - MS2185M",
     "product_handle": "ms2185m-multicolor-gold-plated-jadau-kundan-necklace-set",
@@ -30972,7 +30957,7 @@
     "stock": 9999
   },
   "gid://shopify/ProductVariant/46798303330527": {
-    "product_title": "Abha Hasli Beige Potli Bag  - MBG14",
+    "product_title": "Abha Hasli Beige Potli Bag - MBG14",
     "product_handle": "abha-hasli-beige-potli-bag-mbg14",
     "variant_id": "gid://shopify/ProductVariant/46798303330527",
     "global_id": "gid://shopify/ProductVariant/46798303330527",
@@ -92731,7 +92716,7 @@
     "stock": 9999
   },
   "gid://shopify/ProductVariant/50602961862879": {
-    "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece)  - MBRAC94M",
+    "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece) - MBRAC94M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac94m",
     "variant_id": "gid://shopify/ProductVariant/50602961862879",
     "global_id": "gid://shopify/ProductVariant/50602961862879",
@@ -92986,7 +92971,7 @@
     "stock": 4
   },
   "gid://shopify/ProductVariant/50604648825055": {
-    "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece)  - MBRAC92M",
+    "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece) - MBRAC92M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac92m",
     "variant_id": "gid://shopify/ProductVariant/50604648825055",
     "global_id": "gid://shopify/ProductVariant/50604648825055",
@@ -93715,6 +93700,21 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46093854441695": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Necklace Set with Peacock and Floral Motif - MS2166M",
+    "product_handle": "ms2166m-multicolor-gold-plated-jadau-kundan-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/46093854441695",
+    "global_id": "gid://shopify/ProductVariant/46093854441695",
+    "variant_title": "Default Title",
+    "sku": "MS2166M",
+    "price": 21000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2166M_1.jpg?v=1720445353",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/ms2166m-multicolor-gold-plated-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46093854441695",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42362261766367": {
     "product_title": "White Pearl Gold-Plated Ear Chains - MKS25",
