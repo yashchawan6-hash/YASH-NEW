@@ -18251,9 +18251,10 @@
     "price": 1500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika1500.jpg?v=1766141053",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/mossanite-tika-5?variant=gid://shopify/ProductVariant/52445288104236",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445288988972": {
     "product_title": "Jadau tika",
