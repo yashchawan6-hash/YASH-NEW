@@ -2950,7 +2950,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/image-107.jpg?v=1762536380",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/falak-antique-necklace-set?variant=gid://shopify/ProductVariant/16198464667714",
-    "stock": 1
+    "stock": 5
   },
   "gid://shopify/ProductVariant/16212465942594": {
     "product_title": "Aaloka kundan Necklace Set",
@@ -20823,9 +20823,10 @@
     "price": 114.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNL1902XMC_e90ce8fc-ad6d-42c4-b415-53f59094eadb.jpg?v=1757074132",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/vaidehi-antique-long-necklace-set?variant=gid://shopify/ProductVariant/42417326915650",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42417326981186": {
     "product_title": "Mahika Antique Lakshmi Long Necklace Set",
