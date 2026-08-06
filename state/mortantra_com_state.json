@@ -37196,7 +37196,7 @@
     "price": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT509M.jpg?v=1747896608",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-maangteeka-mt509m?variant=gid://shopify/ProductVariant/47058722947295",
     "stock": 0
   },
@@ -41403,6 +41403,20 @@
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc10?variant=gid://shopify/ProductVariant/47039131746527",
     "stock": 3,
     "last_alerted_stock": 3
+  },
+  "gid://shopify/ProductVariant/47039137382623": {
+    "product_title": "Gold Plated Faux Diamond Brooch - MBRC16",
+    "product_handle": "gold-plated-faux-diamond-brooch-mbrc16",
+    "variant_id": "gid://shopify/ProductVariant/47039137382623",
+    "global_id": "gid://shopify/ProductVariant/47039137382623",
+    "variant_title": "White",
+    "sku": "MBRC16",
+    "price": 5000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC16.jpg?v=1749624632",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc16?variant=gid://shopify/ProductVariant/47039137382623",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/47039148064991": {
     "product_title": "Gold Plated Faux Diamond Brooch with Diamante - MBRC18",
@@ -55106,6 +55120,34 @@
     "url": "https://www.mortantra.com/products/gold-plated-mishr-maangteeka-mr-t107?variant=gid://shopify/ProductVariant/47629944914143",
     "stock": 0
   },
+  "gid://shopify/ProductVariant/47629950583007": {
+    "product_title": "White & Red Gold-Plated Jadau Kundan Maang Teeka with Floral and Crescent Motifs - MT547",
+    "product_handle": "gold-plated-jadau-kundan-maangteeka-mt547",
+    "variant_id": "gid://shopify/ProductVariant/47629950583007",
+    "global_id": "gid://shopify/ProductVariant/47629950583007",
+    "variant_title": "White",
+    "sku": "MT547Y",
+    "price": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT547Y.jpg?v=1764423348",
+    "available_for_sale": false,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt547?variant=gid://shopify/ProductVariant/47629950583007",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/47629950648543": {
+    "product_title": "White & Red Gold-Plated Jadau Kundan Maang Teeka with Floral and Crescent Motifs - MT547",
+    "product_handle": "gold-plated-jadau-kundan-maangteeka-mt547",
+    "variant_id": "gid://shopify/ProductVariant/47629950648543",
+    "global_id": "gid://shopify/ProductVariant/47629950648543",
+    "variant_title": "Red",
+    "sku": "MT547YR",
+    "price": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT547YR.jpg?v=1764423382",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt547?variant=gid://shopify/ProductVariant/47629950648543",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/47629951172831": {
     "product_title": "White Gold-Plated Jadau Kundan Oversized Maang Teeka with Moon Motif - MT551W",
     "product_handle": "white-color-gold-plated-jadau-kundan-maangteeka-mt551w",
@@ -61268,6 +61310,20 @@
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-hathphool-1-piece-mhp293?variant=gid://shopify/ProductVariant/48446143955167",
     "stock": 5,
     "last_alerted_stock": 5
+  },
+  "gid://shopify/ProductVariant/48446146773215": {
+    "product_title": "White Gold-Plated Moissanite Hasli Necklace Set with Kundan - MO-S180",
+    "product_handle": "gold-plated-moissanite-necklace-set-mo-s180",
+    "variant_id": "gid://shopify/ProductVariant/48446146773215",
+    "global_id": "gid://shopify/ProductVariant/48446146773215",
+    "variant_title": "White",
+    "sku": "MO-S180",
+    "price": 5000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S180-2.jpg?v=1770891310",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s180?variant=gid://shopify/ProductVariant/48446146773215",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/48446162895071": {
     "product_title": "Dark Green Gold-Plated Moissanite & Kundan Choker Necklace Set - MO-S181",
@@ -67697,6 +67753,34 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-moissanite-earrings-mo-ear87?variant=gid://shopify/ProductVariant/48674733621471",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48674734735583": {
+    "product_title": "Gold-Plated Moissanite Mala Ranihaar Necklace with Zircon Accents - MO-N28",
+    "product_handle": "gold-plated-moissanite-necklace-mo-n28",
+    "variant_id": "gid://shopify/ProductVariant/48674734735583",
+    "global_id": "gid://shopify/ProductVariant/48674734735583",
+    "variant_title": "Light Green",
+    "sku": "MO-N28LGR",
+    "price": 6000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N28LGR.jpg?v=1774248614",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-mo-n28?variant=gid://shopify/ProductVariant/48674734735583",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48674734833887": {
+    "product_title": "Gold-Plated Moissanite Mala Ranihaar Necklace with Zircon Accents - MO-N28",
+    "product_handle": "gold-plated-moissanite-necklace-mo-n28",
+    "variant_id": "gid://shopify/ProductVariant/48674734833887",
+    "global_id": "gid://shopify/ProductVariant/48674734833887",
+    "variant_title": "Maroon",
+    "sku": "MO-N28MR",
+    "price": 6000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N28MR.jpg?v=1774248626",
+    "available_for_sale": false,
+    "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-mo-n28?variant=gid://shopify/ProductVariant/48674734833887",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/48674739585247": {
     "product_title": "Gold-Plated Moissanite and Kundan Pendant Necklace Set with Lotus Motif - MO-S214",
@@ -74837,6 +74921,20 @@
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s202?variant=gid://shopify/ProductVariant/48944026878175",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/48944048832735": {
+    "product_title": "White Gold-Plated Moissanite & Kundan Princess Necklace Set - MO-S203",
+    "product_handle": "gold-plated-moissanite-necklace-set-mo-s203",
+    "variant_id": "gid://shopify/ProductVariant/48944048832735",
+    "global_id": "gid://shopify/ProductVariant/48944048832735",
+    "variant_title": "White",
+    "sku": "MO-S203",
+    "price": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S203-2.jpg?v=1776422001",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s203?variant=gid://shopify/ProductVariant/48944048832735",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/48944115908831": {
     "product_title": "Gold-Plated Moissanite and Kundan Princess Necklace Set with Floral Motif - MO-S222",
     "product_handle": "gold-plated-moissanite-necklace-set-mo-s222",
@@ -80279,6 +80377,34 @@
     "url": "https://www.mortantra.com/products/baby-pink-color-gold-plated-mens-necklace-mala-mn660lp?variant=gid://shopify/ProductVariant/49640450752735",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/49641455452383": {
+    "product_title": "Gold Plated Moissanite Men's Necklace/Mala - MO-N28",
+    "product_handle": "gold-plated-moissanite-mens-necklace-mala-mo-n28",
+    "variant_id": "gid://shopify/ProductVariant/49641455452383",
+    "global_id": "gid://shopify/ProductVariant/49641455452383",
+    "variant_title": "Light Green",
+    "sku": "MO-N28LGR",
+    "price": 6000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N28LGR_c0804fe7-4689-4505-af40-58b931fdaf00.jpg?v=1780031761",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-moissanite-mens-necklace-mala-mo-n28?variant=gid://shopify/ProductVariant/49641455452383",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49641455485151": {
+    "product_title": "Gold Plated Moissanite Men's Necklace/Mala - MO-N28",
+    "product_handle": "gold-plated-moissanite-mens-necklace-mala-mo-n28",
+    "variant_id": "gid://shopify/ProductVariant/49641455485151",
+    "global_id": "gid://shopify/ProductVariant/49641455485151",
+    "variant_title": "Maroon",
+    "sku": "MO-N28MR",
+    "price": 6000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-N28MR_7db00a2b-d1d9-4051-8177-1a4713abc139.jpg?v=1780031761",
+    "available_for_sale": false,
+    "url": "https://www.mortantra.com/products/gold-plated-moissanite-mens-necklace-mala-mo-n28?variant=gid://shopify/ProductVariant/49641455485151",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/49642858774751": {
     "product_title": "Gold Plated Moissanite Men's Necklace/Mala - MO-N29",
     "product_handle": "gold-plated-moissanite-mens-necklace-mala-mo-n29",
@@ -82815,7 +82941,7 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1572M.jpg?v=1781507390",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1572?variant=gid://shopify/ProductVariant/50116475027679",
     "stock": 1
   },

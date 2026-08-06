@@ -2339,6 +2339,20 @@
     "url": "https://www.paksha.in/products/dogri-jadau-gold-plated-silver-necklace?variant=gid://shopify/ProductVariant/41510757925015",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/42912304038039": {
+    "product_title": "Antika Jadau Kundan Silver Ring",
+    "product_handle": "antika-jadau-kundan-silver-ring",
+    "variant_id": "gid://shopify/ProductVariant/42912304038039",
+    "global_id": "gid://shopify/ProductVariant/42912304038039",
+    "variant_title": "Default Title",
+    "sku": "PLR0005XW2",
+    "price": 7510.3,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/IMGL6122.jpg?v=1641280385",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/antika-jadau-kundan-silver-ring?variant=gid://shopify/ProductVariant/42912304038039",
+    "stock": 2
+  },
   "gid://shopify/ProductVariant/41510760317079": {
     "product_title": "Malaya Gold Plated Silver Maangtika",
     "product_handle": "malaya-gold-plated-silver-maangtika",
@@ -2492,6 +2506,20 @@
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/vajrama-grand-layered-silver-long-necklace?variant=gid://shopify/ProductVariant/41510766215319",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/41510768246935": {
+    "product_title": "Kvan Silver Gold Plated Silver Ring",
+    "product_handle": "kvan-silver-gold-plated-silver-ring",
+    "variant_id": "gid://shopify/ProductVariant/41510768246935",
+    "global_id": "gid://shopify/ProductVariant/41510768246935",
+    "variant_title": "Default Title",
+    "sku": "PLR0016XW2",
+    "price": 4191.2,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/IMGL5708copycopy.jpg?v=1762863155",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/kvan-silver-gold-plated-silver-ring?variant=gid://shopify/ProductVariant/41510768246935",
+    "stock": 2
   },
   "gid://shopify/ProductVariant/41510770442391": {
     "product_title": "Mrinala Gold Plated Silver Drop Earrings",
@@ -4257,7 +4285,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/3O9A0371copycopy.jpg?v=1672922984",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/pyramid-dainty-open-style-silver-bracelet?variant=gid://shopify/ProductVariant/41789726130327",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/41789861920919": {
     "product_title": "Pyramid Minimal Silver Pendant Necklace",
@@ -15137,6 +15166,20 @@
     "url": "https://www.paksha.in/products/forever-together-silver-cz-couple-rings?variant=gid://shopify/ProductVariant/43616540000407",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/43616566640791": {
+    "product_title": "Soulmates Silver CZ Couple Rings",
+    "product_handle": "soulmates-silver-cz-couple-rings",
+    "variant_id": "gid://shopify/ProductVariant/43616566640791",
+    "global_id": "gid://shopify/ProductVariant/43616566640791",
+    "variant_title": "Default Title",
+    "sku": "PTCR0002FWO",
+    "price": 5775.2,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PTCR0002F.jpg?v=1706519264",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/soulmates-silver-cz-couple-rings?variant=gid://shopify/ProductVariant/43616566640791",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/43616645152919": {
     "product_title": "Classic Love CZ Silver Couple Rings",
     "product_handle": "classic-love-cz-silver-couple-rings",
@@ -16144,20 +16187,6 @@
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/orchid-essence-cz-silver-cocktail-ring?variant=gid://shopify/ProductVariant/44145469325463",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/44145859330199": {
-    "product_title": "Celestial Fusion CZ Silver Cocktail Ring",
-    "product_handle": "celestial-fusion-cz-silver-cocktail-ring",
-    "variant_id": "gid://shopify/ProductVariant/44145859330199",
-    "global_id": "gid://shopify/ProductVariant/44145859330199",
-    "variant_title": "Default Title",
-    "sku": "CCR0646XCT",
-    "price": 7729.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/CCR0646X.jpg?v=1714394075",
-    "available_for_sale": true,
-    "url": "https://www.paksha.in/products/celestial-fusion-cz-silver-cocktail-ring?variant=gid://shopify/ProductVariant/44145859330199",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/44149042184343": {
     "product_title": "Vanda Floral CZ Silver Stud Earrings",
@@ -17964,20 +17993,6 @@
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/aurelia-cz-silver-chandelier-earrings?variant=gid://shopify/ProductVariant/44754437865623",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/44754502254743": {
-    "product_title": "Solara CZ Silver Bracelet",
-    "product_handle": "solara-cz-silver-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/44754502254743",
-    "global_id": "gid://shopify/ProductVariant/44754502254743",
-    "variant_title": "Default Title",
-    "sku": "PMCZ0016BW6",
-    "price": 5559.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMCZ0016BW6.jpg?v=1730958047",
-    "available_for_sale": true,
-    "url": "https://www.paksha.in/products/solara-cz-silver-bracelet?variant=gid://shopify/ProductVariant/44754502254743",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/44754517622935": {
     "product_title": "Solara CZ Gold Plated Silver Bracelet",
@@ -24446,5 +24461,89 @@
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/pihu-silver-drop-earrings?variant=gid://shopify/ProductVariant/47696177791127",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48101050351767": {
+    "product_title": "Ganesha CZ Silver Rakhi",
+    "product_handle": "ganesha-cz-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48101050351767",
+    "global_id": "gid://shopify/ProductVariant/48101050351767",
+    "variant_title": "Default Title",
+    "sku": "SBR0044DW6",
+    "price": 3509.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0001DW6_79acfeb1-23cd-4761-927e-a72698424b6f.png?v=1785924731",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/ganesha-cz-silver-rakhi?variant=gid://shopify/ProductVariant/48101050351767",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48101050384535": {
+    "product_title": "Trividh Rudraksha Silver Rakhi",
+    "product_handle": "trividh-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48101050384535",
+    "global_id": "gid://shopify/ProductVariant/48101050384535",
+    "variant_title": "Default Title",
+    "sku": "SBR0045DT6",
+    "price": 1139.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0002DT6.png?v=1785924673",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/trividh-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/48101050384535",
+    "stock": 10
+  },
+  "gid://shopify/ProductVariant/48101050450071": {
+    "product_title": "Mahadev Rudraksha Silver Rakhi",
+    "product_handle": "mahadev-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48101050450071",
+    "global_id": "gid://shopify/ProductVariant/48101050450071",
+    "variant_title": "Default Title",
+    "sku": "SBR0046DT6",
+    "price": 1139.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0003DT6.png?v=1785924625",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/mahadev-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/48101050450071",
+    "stock": 10
+  },
+  "gid://shopify/ProductVariant/48101050482839": {
+    "product_title": "Trinetra Rudraksha Silver Rakhi",
+    "product_handle": "trinetra-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48101050482839",
+    "global_id": "gid://shopify/ProductVariant/48101050482839",
+    "variant_title": "Default Title",
+    "sku": "SBR0047DT6",
+    "price": 1139.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0004DT6.png?v=1785924512",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/48101050482839",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44145859330199": {
+    "product_title": "Celestial Fusion CZ Silver Cocktail Ring",
+    "product_handle": "celestial-fusion-cz-silver-cocktail-ring",
+    "variant_id": "gid://shopify/ProductVariant/44145859330199",
+    "global_id": "gid://shopify/ProductVariant/44145859330199",
+    "variant_title": "Default Title",
+    "sku": "CCR0646XCT",
+    "price": 7729.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/CCR0646X.jpg?v=1714394075",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/celestial-fusion-cz-silver-cocktail-ring?variant=gid://shopify/ProductVariant/44145859330199",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/44754502254743": {
+    "product_title": "Solara CZ Silver Bracelet",
+    "product_handle": "solara-cz-silver-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/44754502254743",
+    "global_id": "gid://shopify/ProductVariant/44754502254743",
+    "variant_title": "Default Title",
+    "sku": "PMCZ0016BW6",
+    "price": 5559.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMCZ0016BW6.jpg?v=1730958047",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/solara-cz-silver-bracelet?variant=gid://shopify/ProductVariant/44754502254743",
+    "stock": 1
   }
 }

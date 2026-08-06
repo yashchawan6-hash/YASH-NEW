@@ -292,10 +292,10 @@
     "price": 1500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/87866a5a-d48c-4ad6-9714-5128e40bd297.webp?v=1768465419",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-full-white-peacock-studs?variant=gid://shopify/ProductVariant/52628421935420",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52878921335100": {
     "product_title": "Jadau kundan Double layer bangles",

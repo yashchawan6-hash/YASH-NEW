@@ -10627,10 +10627,10 @@
     "price": 5549.65,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A9536copycopy.jpg?v=1662998783",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/40415893946404",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40415893913636": {
     "product_title": "Temple Classic Antique Choker Set",
@@ -23276,21 +23276,6 @@
     "url": "https://www.tarinika.in/products/siya-antique-maang-tikka?variant=gid://shopify/ProductVariant/53636899242352",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/53636899471728": {
-    "product_title": "Suhani Delicate Antique Necklace",
-    "product_handle": "suhani-delicate-antique-necklace",
-    "variant_id": "gid://shopify/ProductVariant/53636899471728",
-    "global_id": "gid://shopify/ProductVariant/53636899471728",
-    "variant_title": "Default Title",
-    "sku": "MALA0007XTC",
-    "price": 2169.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/MXX0007X.jpg?v=1779964321",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/53636899471728",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/53636899897712": {
     "product_title": "Elira Dual Line Antique Chain",
     "product_handle": "elira-dual-line-antique-chain",
@@ -23304,5 +23289,61 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/elira-dual-line-antique-chain?variant=gid://shopify/ProductVariant/53636899897712",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/54109948608880": {
+    "product_title": "Ganesha CZ Silver Rakhi",
+    "product_handle": "ganesha-cz-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/54109948608880",
+    "global_id": "gid://shopify/ProductVariant/54109948608880",
+    "variant_title": "Default Title",
+    "sku": "SBR0044DW6",
+    "price": 3509.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/SBR0001DW6_8dc1351a-7fc1-486c-af9c-e184916066fd.png?v=1785923734",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/ganesha-cz-silver-rakhi?variant=gid://shopify/ProductVariant/54109948608880",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/54109948805488": {
+    "product_title": "Trividh Rudraksha Silver Rakhi",
+    "product_handle": "trividh-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/54109948805488",
+    "global_id": "gid://shopify/ProductVariant/54109948805488",
+    "variant_title": "Default Title",
+    "sku": "SBR0045DT6",
+    "price": 1139.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/SBR0002DT6.png?v=1785926260",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/trividh-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/54109948805488",
+    "stock": 10
+  },
+  "gid://shopify/ProductVariant/54109949034864": {
+    "product_title": "Mahadev Rudraksha Silver Rakhi",
+    "product_handle": "mahadev-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/54109949034864",
+    "global_id": "gid://shopify/ProductVariant/54109949034864",
+    "variant_title": "Default Title",
+    "sku": "SBR0046DT6",
+    "price": 1139.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/SBR0003DT6.png?v=1785926708",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/mahadev-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/54109949034864",
+    "stock": 10
+  },
+  "gid://shopify/ProductVariant/54109949264240": {
+    "product_title": "Trinetra Rudraksha Silver Rakhi",
+    "product_handle": "trinetra-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/54109949264240",
+    "global_id": "gid://shopify/ProductVariant/54109949264240",
+    "variant_title": "Default Title",
+    "sku": "SBR0047DT6",
+    "price": 1139.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/SBR0004DT6.png?v=1785927030",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/54109949264240",
+    "stock": 10
   }
 }

@@ -521,7 +521,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FNX0534XM.jpg?v=1762526601",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/arina-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/39652716642370",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/12216739987564": {
     "product_title": "Koena Nakshatra CZ Necklace Set",
@@ -8481,13 +8482,13 @@
     "variant_id": "gid://shopify/ProductVariant/41478883770434",
     "global_id": "gid://shopify/ProductVariant/41478883770434",
     "variant_title": "White Red",
-    "sku": "US-FNX1514XCC",
+    "sku": "FNX1514XCC",
     "price": 124.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FNX1514XCY.jpg?v=1741697505",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anusri-antique-choker-set?variant=gid://shopify/ProductVariant/41478883770434",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483163172930": {
@@ -10618,10 +10619,10 @@
     "price": 106.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9536copycopy.jpg?v=1662998639",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/39961196724290",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41664457965634": {
     "product_title": "Temple Classic Antique Choker Set",
@@ -12967,8 +12968,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0220XDS.jpg?v=1741696874",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/eveline-nakshatra-cz-choker?variant=gid://shopify/ProductVariant/40382267981890",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40382268014658": {
     "product_title": "Eveline Nakshatra CZ Choker",
@@ -13935,9 +13936,10 @@
     "price": 16.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ARX2589X_eff32494-060d-4123-b2e6-be0875842a38.jpg?v=1695459690",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/kuvala-antique-temple-finger-ring?variant=gid://shopify/ProductVariant/40432414687298",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40432429137986": {
     "product_title": "Josika Antique Hair Brooch",
@@ -14471,7 +14473,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ZHMN0048.jpg?v=1697183135",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/pulina-antique-necklace-set?variant=gid://shopify/ProductVariant/40464106389570",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/40464144531522": {
     "product_title": "Apri Nakshatra CZ Mini Jhumki",
@@ -20821,13 +20824,13 @@
     "variant_id": "gid://shopify/ProductVariant/42417326915650",
     "global_id": "gid://shopify/ProductVariant/42417326915650",
     "variant_title": "Default Title",
-    "sku": "US-FNL1902XMC",
+    "sku": "FNL1902XMC",
     "price": 114.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNL1902XMC_e90ce8fc-ad6d-42c4-b415-53f59094eadb.jpg?v=1757074132",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/vaidehi-antique-long-necklace-set?variant=gid://shopify/ProductVariant/42417326915650",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42417326981186": {
@@ -21621,13 +21624,13 @@
     "variant_id": "gid://shopify/ProductVariant/42431020990530",
     "global_id": "gid://shopify/ProductVariant/42431020990530",
     "variant_title": "2.6",
-    "sku": "US-KBX4146XTC6",
-    "price": 89.24,
+    "sku": "KBX4146XTC6",
+    "price": 104.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/KBX4146XTC.jpg?v=1757138927",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/indira-antique-bangles?variant=gid://shopify/ProductVariant/42431020990530",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42431021023298": {
@@ -23682,20 +23685,6 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
-  "gid://shopify/ProductVariant/42782904385602": {
-    "product_title": "Charlotte CZ Antique Necklace Set",
-    "product_handle": "charlotte-cz-antique-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/42782904385602",
-    "global_id": "gid://shopify/ProductVariant/42782904385602",
-    "variant_title": "Default Title",
-    "sku": "US-1NX0074XWV",
-    "price": 44.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1NX0074XWV.png?v=1766208358",
-    "available_for_sale": true,
-    "url": "https://www.tarinika.com/products/charlotte-cz-antique-necklace-set?variant=gid://shopify/ProductVariant/42782904385602",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/42782904549442": {
     "product_title": "Brija Antique Long Necklace Set",
     "product_handle": "brija-antique-long-necklace-set",
@@ -25124,21 +25113,6 @@
     "url": "https://www.tarinika.com/products/siya-antique-maang-tikka?variant=gid://shopify/ProductVariant/43652296179778",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/43652296769602": {
-    "product_title": "Suhani Delicate Antique Necklace",
-    "product_handle": "suhani-delicate-antique-necklace",
-    "variant_id": "gid://shopify/ProductVariant/43652296769602",
-    "global_id": "gid://shopify/ProductVariant/43652296769602",
-    "variant_title": "Default Title",
-    "sku": "MALA0007XTC",
-    "price": 39.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0007X.jpg?v=1779964134",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
-    "stock": 1,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/43764316110914": {
     "product_title": "Simmi Antique Maang Tikka",
     "product_handle": "simmi-antique-maang-tikka",
@@ -26084,6 +26058,91 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/vikata-antique-hair-brooch?variant=gid://shopify/ProductVariant/44136953643074",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/44672206635074": {
+    "product_title": "Ganesha CZ Silver Rakhi",
+    "product_handle": "ganesha-cz-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206635074",
+    "global_id": "gid://shopify/ProductVariant/44672206635074",
+    "variant_title": "Default Title",
+    "sku": "SBR0044DW6",
+    "price": 59.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001DW6_0df3945f-db13-4e20-9bc3-43a1c17c3705.png?v=1785923699",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/ganesha-cz-silver-rakhi?variant=gid://shopify/ProductVariant/44672206635074",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206667842": {
+    "product_title": "Trividh Rudraksha Silver Rakhi",
+    "product_handle": "trividh-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206667842",
+    "global_id": "gid://shopify/ProductVariant/44672206667842",
+    "variant_title": "Default Title",
+    "sku": "SBR0045DT6",
+    "price": 19.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002DT6.png?v=1785926242",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/trividh-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/44672206667842",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206700610": {
+    "product_title": "Mahadev Rudraksha Silver Rakhi",
+    "product_handle": "mahadev-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206700610",
+    "global_id": "gid://shopify/ProductVariant/44672206700610",
+    "variant_title": "Default Title",
+    "sku": "SBR0046DT6",
+    "price": 19.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003DT6.png?v=1785926695",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/mahadev-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/44672206700610",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206897218": {
+    "product_title": "Trinetra Rudraksha Silver Rakhi",
+    "product_handle": "trinetra-rudraksha-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206897218",
+    "global_id": "gid://shopify/ProductVariant/44672206897218",
+    "variant_title": "Default Title",
+    "sku": "SBR0047DT6",
+    "price": 19.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004DT6.png?v=1785927017",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/44672206897218",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/42782904385602": {
+    "product_title": "Charlotte CZ Antique Necklace Set",
+    "product_handle": "charlotte-cz-antique-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/42782904385602",
+    "global_id": "gid://shopify/ProductVariant/42782904385602",
+    "variant_title": "Default Title",
+    "sku": "US-1NX0074XWV",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1NX0074XWV.png?v=1766208358",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/charlotte-cz-antique-necklace-set?variant=gid://shopify/ProductVariant/42782904385602",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/43652296769602": {
+    "product_title": "Suhani Delicate Antique Necklace",
+    "product_handle": "suhani-delicate-antique-necklace",
+    "variant_id": "gid://shopify/ProductVariant/43652296769602",
+    "global_id": "gid://shopify/ProductVariant/43652296769602",
+    "variant_title": "Default Title",
+    "sku": "MALA0007XTC",
+    "price": 39.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0007X.jpg?v=1779964134",
+    "available_for_sale": false,
+    "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
+    "stock": 1,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40285698654274": {
     "product_title": "Ketak Antique Choker Set",

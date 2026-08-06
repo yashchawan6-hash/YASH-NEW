@@ -127,7 +127,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-solitaire-attrangi-1.jpg?v=1739812459",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659501737",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40411659567273": {
@@ -722,9 +722,10 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/potta-ruby-emerald-bangle-set-attrangi-4.jpg?v=1739812557",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/potta-ruby-emerald-bangle-set?variant=gid://shopify/ProductVariant/40411670675625",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411670708393": {
     "product_title": "Potta Ruby/ Emerald Bangle Set",
@@ -1306,7 +1307,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/haseena-tri-drop-jhumka-attrangi-1.jpg?v=1739812775",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haseena-tri-drop-jhumka?variant=gid://shopify/ProductVariant/41567444631721",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41567444664489": {
     "product_title": "Haseena Tri Drop Jhumka",
@@ -3115,7 +3117,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG03115G_101900.jpg?v=1779885331",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/charming-lara-solitaire-set?variant=gid://shopify/ProductVariant/47992208457940",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47992215896276": {
     "product_title": "Charming Lara Solitaire Set",
@@ -3522,7 +3524,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sleek-jadaau-bangle-attrangi-2-31818036019412.jpg?v=1739813308",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sleek-jadaau-bangle-set?variant=gid://shopify/ProductVariant/48256934805716",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43764610891988": {
     "product_title": "Sleek Jadaau Bangle(GREEN)",
@@ -10124,7 +10127,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diana-invisible-setting-floral-ring-attrangi-4.jpg?v=1739815512",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-invisible-setting-floral-ring?variant=gid://shopify/ProductVariant/44248104075476",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44248104042708": {
     "product_title": "Diana Invisible Setting Floral Ring",
@@ -10606,7 +10610,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/filigree-plain-gold-thick-bangle-or-kada-attrangi-1.jpg?v=1739815590",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/filigree-plain-gold-thick-bangle-kada?variant=gid://shopify/ProductVariant/48003664642260",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44447512494292": {
     "product_title": "Slim Coloured Moissanite Polki Bangle Set | Antique Gold",
@@ -18996,8 +19001,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-06_at_9.21.34_AM_1.jpg?v=1774271352",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ritukala-necklace-set-natural-gemstones?variant=gid://shopify/ProductVariant/46381882900692",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46381883687124": {
     "product_title": "Ritukala Necklace Set | Natural Gemstones",
@@ -22495,7 +22500,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_12.55.58_AM.jpg?v=1744969041",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/aahana-diamond-bangles-with-coloured-crystals-copy?variant=gid://shopify/ProductVariant/46189327483092",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46189327515860": {
     "product_title": "Aahana Diamond Bangles With Coloured Crystals",
@@ -22535,10 +22541,10 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-29at5.33.08PM.jpg?v=1744969053",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/antique-gold-polki-hathpan-hand-harness-copy?variant=gid://shopify/ProductVariant/46189460586708",
-    "stock": 3,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46189460619476": {
     "product_title": "Antique Gold Polki Hathpan | Hand Harness",
@@ -22550,9 +22556,9 @@
     "price": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-29at5.33.08PM.jpg?v=1744969053",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/antique-gold-polki-hathpan-hand-harness-copy?variant=gid://shopify/ProductVariant/46189460619476",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46203187560660": {
@@ -26077,8 +26083,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-01_at_10.47.21_PM.jpg?v=1764655991",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/srilekha-indian-delicate-polki-hand-harness-hathpan?variant=gid://shopify/ProductVariant/46491646492884",
-    "stock": 3,
-    "last_alerted_stock": 1
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46496818921684": {
     "product_title": "Hoor Si Tu Diamond Kannauti | EarChain",
@@ -32545,7 +32551,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-11-18at6.23.44PM.jpg?v=1763472040",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/claire-delicate-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47276429181140",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47276447727828": {
     "product_title": "Heartfelt Wrap Diamond Solitaire Ring",
@@ -34720,8 +34727,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-07at5.18.42PM_1.jpg?v=1767793885",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rajgharana-polki-designer-earring-indian-earcuff?variant=gid://shopify/ProductVariant/47422290690260",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47422355964116": {
     "product_title": "Samantha Diamond Floral Coloured Stone Studs",
@@ -42954,19 +42961,47 @@
     "url": "https://www.attrangi.in/products/mini-jayati-moissanite-gajra-indian-polki-bracelet?variant=gid://shopify/ProductVariant/47909233524948",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/47909383241940": {
+  "gid://shopify/ProductVariant/48427811668180": {
     "product_title": "Sakuntala Long Gold Haar Set | Sone Pe Suhaga",
     "product_handle": "sakuntala-long-gold-haar-set-sone-pe-suhaga",
-    "variant_id": "gid://shopify/ProductVariant/47909383241940",
-    "global_id": "gid://shopify/ProductVariant/47909383241940",
-    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48427811668180",
+    "global_id": "gid://shopify/ProductVariant/48427811668180",
+    "variant_title": "Multi-color",
     "sku": "SHM2335-NLS",
     "price": 7850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-05-09_at_4.30.56_PM.jpg?v=1778324720",
     "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/sakuntala-long-gold-haar-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/47909383241940",
+    "url": "https://www.attrangi.in/products/sakuntala-long-gold-haar-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48427811668180",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/48427820351700": {
+    "product_title": "Sakuntala Long Gold Haar Set | Sone Pe Suhaga",
+    "product_handle": "sakuntala-long-gold-haar-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48427820351700",
+    "global_id": "gid://shopify/ProductVariant/48427820351700",
+    "variant_title": "Red",
+    "sku": "SHM2335R-NLS",
+    "price": 7850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-06_at_12.35.12_PM_1.jpg?v=1785999988",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/sakuntala-long-gold-haar-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48427820351700",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/48427820384468": {
+    "product_title": "Sakuntala Long Gold Haar Set | Sone Pe Suhaga",
+    "product_handle": "sakuntala-long-gold-haar-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48427820384468",
+    "global_id": "gid://shopify/ProductVariant/48427820384468",
+    "variant_title": "Green",
+    "sku": "SHM2335GR-NLS",
+    "price": 7850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-06_at_12.35.13_PM_1.jpg?v=1785999988",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/sakuntala-long-gold-haar-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48427820384468",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47927050666196": {
     "product_title": "Aaashvi Diamond Thick Bangle (GREEN)",
@@ -44820,7 +44855,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-11at3.20.41PM_1.jpg?v=1783769645",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-peary-designer-cocktail-ring-daily-wear-bling?variant=gid://shopify/ProductVariant/48256054067412",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48256054100180": {
     "product_title": "Diamond Peary Designer Cocktail Ring | Daily Wear Bling",
@@ -46638,7 +46674,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.58PM_1.jpg?v=1784893183",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559375060",
     "stock": 1,
     "last_alerted_stock": 1
@@ -48180,7 +48216,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715223764",
     "stock": 3
   },
@@ -49389,6 +49425,20 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/deenana-kada?variant=gid://shopify/ProductVariant/48424806777044",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47909383241940": {
+    "product_title": "Sakuntala Long Gold Haar Set | Sone Pe Suhaga",
+    "product_handle": "sakuntala-long-gold-haar-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/47909383241940",
+    "global_id": "gid://shopify/ProductVariant/47909383241940",
+    "variant_title": "Default Title",
+    "sku": "SHM2335-NLS",
+    "price": 7850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-05-09_at_4.30.56_PM.jpg?v=1778324720",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/sakuntala-long-gold-haar-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/47909383241940",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48006745030868": {
     "product_title": "Giza Round Solitaire Cocktail Diamond Ring | Baguettes",
