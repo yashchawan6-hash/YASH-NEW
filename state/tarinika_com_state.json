@@ -1486,13 +1486,13 @@
     "variant_id": "gid://shopify/ProductVariant/14266155434050",
     "global_id": "gid://shopify/ProductVariant/14266155434050",
     "variant_title": "White",
-    "sku": "US-ZBX0082XW2",
+    "sku": "ZBX0082XW2",
     "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7355.jpg?v=1640782549",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mana-nakshatra-cz-bracelet?variant=gid://shopify/ProductVariant/14266155434050",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/14266155466818": {
@@ -3129,13 +3129,13 @@
     "variant_id": "gid://shopify/ProductVariant/31411253641282",
     "global_id": "gid://shopify/ProductVariant/31411253641282",
     "variant_title": "White Green",
-    "sku": "US-1NX0021XD7",
-    "price": 80.49,
+    "sku": "1NX0021XD7",
+    "price": 114.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/SRP_4172_copy_copy_b8bbe85d-1194-4774-a88f-5951643b69bb.jpg?v=1641061719",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/lillian-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/31411253641282",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/31411253608514": {
@@ -14406,7 +14406,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX2751XCY.jpg?v=1741696605",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sidhya-antique-necklace-set?variant=gid://shopify/ProductVariant/40464085942338",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40464100425794": {
     "product_title": "Nanda Antique Drop Earrings",
@@ -14991,13 +14992,13 @@
     "variant_id": "gid://shopify/ProductVariant/40617116467266",
     "global_id": "gid://shopify/ProductVariant/40617116467266",
     "variant_title": "Default Title",
-    "sku": "US-FEX3480XCS",
+    "sku": "FEX3480XCS",
     "price": 69.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FEX3480X.jpg?v=1703243320",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/aatreyi-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40617116467266",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40617118138434": {
@@ -15277,9 +15278,10 @@
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/AEX3574X_dd5a994c-7374-4b0c-bbb6-a07af0881db5.jpg?v=1707108491",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/ramisa-antique-earrings-with-chain?variant=gid://shopify/ProductVariant/40714067607618",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40714232463426": {
     "product_title": "Risay Antique Necklace Set",
@@ -16599,8 +16601,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0112XW5.jpg?v=1725353552",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/luna-nakshatra-cz-gold-plated-bracelet?variant=gid://shopify/ProductVariant/41607078412354",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/41607092633666": {
     "product_title": "Astra Nakshatra CZ Red Bracelet",

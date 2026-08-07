@@ -69,6 +69,20 @@
     "url": "https://www.paksha.in/products/rasika-classic-moissanite-silver-bangles?variant=gid://shopify/ProductVariant/41779803783319",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/41465396330647": {
+    "product_title": "Surati Kemp Jadau Silver Maangtika",
+    "product_handle": "surati-kemp-jadau-silver-maangtika",
+    "variant_id": "gid://shopify/ProductVariant/41465396330647",
+    "global_id": "gid://shopify/ProductVariant/41465396330647",
+    "variant_title": "Default Title",
+    "sku": "PLT0014XM2",
+    "price": 33129.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/IMGL4925.jpg?v=1744183387",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/surati-kemp-jadau-silver-maangtika?variant=gid://shopify/ProductVariant/41465396330647",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/41465396854935": {
     "product_title": "Arka Moissanite Silver Finger Ring",
     "product_handle": "arka-moissanite-silver-finger-ring",
@@ -2661,21 +2675,6 @@
     "url": "https://www.paksha.in/products/noor-gold-plated-silver-drop-earrings?variant=gid://shopify/ProductVariant/41510776209559",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/41510776471703": {
-    "product_title": "Ayla Gold Plated Silver Stud Earrings",
-    "product_handle": "ayla-gold-plated-silver-stud-earrings",
-    "variant_id": "gid://shopify/ProductVariant/41510776471703",
-    "global_id": "gid://shopify/ProductVariant/41510776471703",
-    "variant_title": "Default Title",
-    "sku": "PLE0110XW2",
-    "price": 7523.4,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/IMGL5679copycopy.jpg?v=1640015122",
-    "available_for_sale": false,
-    "url": "https://www.paksha.in/products/ayla-gold-plated-silver-stud-earrings?variant=gid://shopify/ProductVariant/41510776471703",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/41510776602775": {
     "product_title": "Shyama Jadau Silver Stud Earrings",
     "product_handle": "shyama-jadau-silver-stud-earrings",
@@ -4484,21 +4483,6 @@
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/ishwari-grand-moissanite-silver-choker?variant=gid://shopify/ProductVariant/42077164142743",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/42081414807703": {
-    "product_title": "Swara Three Layer Floral Silver Drop Earrings",
-    "product_handle": "swara-three-layer-floral-silver-drop-earrings",
-    "variant_id": "gid://shopify/ProductVariant/42081414807703",
-    "global_id": "gid://shopify/ProductVariant/42081414807703",
-    "variant_title": "Default Title",
-    "sku": "PAAZ0002DRY",
-    "price": 20071.2,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/IMG_5313copycopy.jpg?v=1664012800",
-    "available_for_sale": false,
-    "url": "https://www.paksha.in/products/swara-three-layer-floral-silver-drop-earrings?variant=gid://shopify/ProductVariant/42081414807703",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42081494728855": {
     "product_title": "Swara Statement Silver Long Necklace Set",
@@ -13529,21 +13513,6 @@
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/floral-harmony-beaded-cz-silver-stud-earrings?variant=gid://shopify/ProductVariant/43359438340247",
     "stock": 4
-  },
-  "gid://shopify/ProductVariant/43359484051607": {
-    "product_title": "Garden Blooms CZ Studs",
-    "product_handle": "garden-blooms-cz-studs",
-    "variant_id": "gid://shopify/ProductVariant/43359484051607",
-    "global_id": "gid://shopify/ProductVariant/43359484051607",
-    "variant_title": "Default Title",
-    "sku": "PUB0012SW6",
-    "price": 11360.3,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PUB0012S.jpg?v=1697558371",
-    "available_for_sale": false,
-    "url": "https://www.paksha.in/products/garden-blooms-cz-studs?variant=gid://shopify/ProductVariant/43359484051607",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43359520915607": {
     "product_title": "Floral Wreath CZ Front-Back Hoop Earrings",
@@ -24520,7 +24489,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0003WT6_290d8334-2496-4380-90b5-2973478bfa51.png?v=1785925667",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/boond-silver-rakhi?variant=gid://shopify/ProductVariant/48101049925783",
-    "stock": -1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48101049958551": {
     "product_title": "Kiran Silver Rakhi",
@@ -24534,7 +24503,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0004WT6_59132a1b-8df0-4bf8-8b28-92dfb0ca9ac7.png?v=1785925631",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/kiran-silver-rakhi?variant=gid://shopify/ProductVariant/48101049958551",
-    "stock": -1
+    "stock": 4
   },
   "gid://shopify/ProductVariant/48101050024087": {
     "product_title": "Shikhar Silver Rakhi",

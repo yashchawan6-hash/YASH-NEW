@@ -2157,6 +2157,20 @@
     "url": "https://www.paksha.com/products/arka-moissanite-silver-finger-ring?variant=gid://shopify/ProductVariant/41108096614552",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/41108100219032": {
+    "product_title": "Surati Kemp Jadau Silver Maangtika",
+    "product_handle": "surati-kemp-jadau-silver-maangtika",
+    "variant_id": "gid://shopify/ProductVariant/41108100219032",
+    "global_id": "gid://shopify/ProductVariant/41108100219032",
+    "variant_title": "Default Title",
+    "sku": "PLT0014XM2",
+    "price": 529.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4925copycopy.jpg?v=1774416795",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/surati-kemp-jadau-silver-maangtika?variant=gid://shopify/ProductVariant/41108100219032",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/42462217634028": {
     "product_title": "Rasika Classic Moissanite Silver Bangles",
     "product_handle": "rasika-classic-moissanite-silver-bangles",
@@ -2437,21 +2451,6 @@
     "url": "https://www.paksha.com/products/shyama-jadau-silver-stud-earrings?variant=gid://shopify/ProductVariant/42140503572716",
     "stock": 1,
     "last_alerted_stock": 1
-  },
-  "gid://shopify/ProductVariant/42140505932012": {
-    "product_title": "Ayla Gold Plated Silver Stud Earrings",
-    "product_handle": "ayla-gold-plated-silver-stud-earrings",
-    "variant_id": "gid://shopify/ProductVariant/42140505932012",
-    "global_id": "gid://shopify/ProductVariant/42140505932012",
-    "variant_title": "Default Title",
-    "sku": "PLE0110XW2",
-    "price": 119.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL5679copycopy.jpg?v=1774414817",
-    "available_for_sale": false,
-    "url": "https://www.paksha.com/products/ayla-gold-plated-silver-stud-earrings?variant=gid://shopify/ProductVariant/42140505932012",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42140509569260": {
     "product_title": "Noor Gold Plated Silver Drop Earrings",
@@ -4484,21 +4483,6 @@
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/ishwari-grand-moissanite-silver-choker?variant=gid://shopify/ProductVariant/42766204436716",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/42769888575724": {
-    "product_title": "Swara Three Layer Floral Silver Drop Earrings",
-    "product_handle": "swara-three-layer-floral-silver-drop-earrings",
-    "variant_id": "gid://shopify/ProductVariant/42769888575724",
-    "global_id": "gid://shopify/ProductVariant/42769888575724",
-    "variant_title": "Default Title",
-    "sku": "PAAZ0002DRY",
-    "price": 323.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMG_5313copycopy.jpg?v=1774417482",
-    "available_for_sale": false,
-    "url": "https://www.paksha.com/products/swara-three-layer-floral-silver-drop-earrings?variant=gid://shopify/ProductVariant/42769888575724",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42769906073836": {
     "product_title": "Swara Statement Silver Long Necklace Set",
@@ -13585,21 +13569,6 @@
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/floral-harmony-beaded-cz-silver-stud-earrings?variant=gid://shopify/ProductVariant/44010395959532",
     "stock": 4
-  },
-  "gid://shopify/ProductVariant/44010578116844": {
-    "product_title": "Garden Blooms CZ Studs",
-    "product_handle": "garden-blooms-cz-studs",
-    "variant_id": "gid://shopify/ProductVariant/44010578116844",
-    "global_id": "gid://shopify/ProductVariant/44010578116844",
-    "variant_title": "Default Title",
-    "sku": "PUB0012SW6",
-    "price": 181.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PUB0012S.jpg?v=1774334861",
-    "available_for_sale": false,
-    "url": "https://www.paksha.com/products/garden-blooms-cz-studs?variant=gid://shopify/ProductVariant/44010578116844",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44010629923052": {
     "product_title": "Floral Wreath CZ Front-Back Hoop Earrings",

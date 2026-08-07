@@ -671,9 +671,9 @@
     "price": 52000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-5_a0eff96e-fe22-40b9-a7cd-9794b5a21f19.jpg?v=1741783109",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/maharanis-treasure-necklace-set?variant=gid://shopify/ProductVariant/50023933116713",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50027366547753": {
@@ -1364,7 +1364,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08110_copy.jpg?v=1744463196",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/saubhagya-lakshmi-pendant?variant=gid://shopify/ProductVariant/50108983607593",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50133672263977": {
@@ -1408,7 +1408,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/13.jpg?v=1743683891",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ruby-snippets-studs?variant=gid://shopify/ProductVariant/50134598353193",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50140403073321": {
@@ -1525,7 +1525,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06339_copy.jpg?v=1744182993",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kiranaratna-studs?variant=gid://shopify/ProductVariant/50152979005737",
-    "stock": 7,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50153089728809": {
@@ -1583,7 +1583,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06233_copy.jpg?v=1744181839",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/morni-magic-studs?variant=gid://shopify/ProductVariant/50869115650345",
-    "stock": 8
+    "stock": 9
   },
   "gid://shopify/ProductVariant/50869167980841": {
     "product_title": "The Rosary Stud Earrings",
@@ -1597,7 +1597,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06486_copy.jpg?v=1744184967",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/the-rosary-studs?variant=gid://shopify/ProductVariant/50869167980841",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50869168013609": {
@@ -1654,7 +1654,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06544_copy.jpg?v=1744189000",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pure-essence-studs?variant=gid://shopify/ProductVariant/50158302298409",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50158398079273": {
@@ -2188,9 +2188,9 @@
     "price": 85100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP01460_copy.jpg?v=1769155586",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/peethambara-lakshmi?variant=gid://shopify/ProductVariant/50279279526185",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50279537246505": {
@@ -2317,7 +2317,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52263721697577",
-    "stock": 7,
+    "stock": 8,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50282935583017": {
@@ -5028,7 +5028,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20145843_119af41a-4086-405f-be19-59f97a7bb520.png?v=1749455078",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/green-whisper-studs-1?variant=gid://shopify/ProductVariant/50478674411817",
-    "stock": 20,
+    "stock": 22,
     "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/50513222533417": {
@@ -5209,9 +5209,9 @@
     "price": 44700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_1277e7f6-fe37-490e-af7a-9d235eadbe27.jpg?v=1751350725",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayurika-kusum-short-necklace?variant=gid://shopify/ProductVariant/50528929874217",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50529294942505": {
@@ -5476,9 +5476,9 @@
     "price": 31400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24273_resized.jpg?v=1757934036",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sundari-sarasa-necklace-set?variant=gid://shopify/ProductVariant/50559911919913",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50564035313961": {
@@ -5604,9 +5604,9 @@
     "price": 42700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_151c4280-1ea7-483f-a404-2de6944c9c60.jpg?v=1751631119",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/nritya-morini-necklace-set?variant=gid://shopify/ProductVariant/50564943053097",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50565151752489": {
@@ -6327,7 +6327,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_da4879bb-7a17-4632-baa8-ec4e1664fa94.jpg?v=1754112737",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gulaabsiya-studs?variant=gid://shopify/ProductVariant/50624754155817",
-    "stock": 7,
+    "stock": 8,
     "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/50624841056553": {
@@ -6653,7 +6653,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_13ed6f86-066f-4ab8-9a1b-93aba60325c9.jpg?v=1769155218",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ovalor-ring?variant=gid://shopify/ProductVariant/51472177725737",
-    "stock": 8,
+    "stock": 9,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50635362205993": {
@@ -6682,7 +6682,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_ecbe7020-e44d-45d0-b18a-f020c2669577.jpg?v=1754311883",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gulabika-ring?variant=gid://shopify/ProductVariant/50635362238761",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51471916794153": {
@@ -6727,7 +6727,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383046441",
-    "stock": 5,
+    "stock": 6,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50635383079209": {
@@ -6811,9 +6811,9 @@
     "price": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_a46833e5-54e8-4e2d-b96f-573a8f9499cd.jpg?v=1754308859",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/navora-studs?variant=gid://shopify/ProductVariant/50643117310249",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50643516784937": {
@@ -6884,7 +6884,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-3_f478139a-0244-4978-b152-93784f4cb5cd.jpg?v=1754029643",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kamala-ranjani-pendant?variant=gid://shopify/ProductVariant/50649020530985",
-    "stock": 3,
+    "stock": 7,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50649046614313": {
@@ -6913,7 +6913,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_bb5643c6-3b7f-4b51-a79c-d7b8fc3d15fb.jpg?v=1754038998",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/no-image-11?variant=gid://shopify/ProductVariant/50677089304873",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50680479744297": {
@@ -6926,9 +6926,9 @@
     "price": 1300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00637copy-2.jpg?v=1753351641",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/om-trishakti-rakhi?variant=gid://shopify/ProductVariant/50680479744297",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50680487412009": {
@@ -6955,9 +6955,9 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00642copy-2.jpg?v=1753352014",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ekadanta-rakhi?variant=gid://shopify/ProductVariant/50680497209641",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50690606301481": {
@@ -7281,7 +7281,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801",
-    "stock": 3,
+    "stock": 5,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52279182262569": {
@@ -7422,7 +7422,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
-    "stock": 16,
+    "stock": 18,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/50712092999977": {
@@ -7827,9 +7827,10 @@
     "price": 2500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_f505731f-4b73-4f94-96c7-5b55a638712a.jpg?v=1754894735",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/toerika?variant=gid://shopify/ProductVariant/50720707576105",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50720758497577": {
     "product_title": "Gulavi Toe Ring",
@@ -10301,7 +10302,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2542.jpg?v=1756538914",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ovalika-danglers?variant=gid://shopify/ProductVariant/50808249778473",
-    "stock": 9,
+    "stock": 10,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50808255381801": {
@@ -10485,9 +10486,9 @@
     "price": 32100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45861.jpg?v=1756808705",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ratna-alankaram-short-necklace?variant=gid://shopify/ProductVariant/50809013010729",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50809107087657": {
@@ -10659,7 +10660,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2484.jpg?v=1756543252",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/crimora-oval-studs?variant=gid://shopify/ProductVariant/50809673810217",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/50809700581673": {
@@ -11251,7 +11252,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP290.jpg?v=1756542039",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gaurangi-phool-studs?variant=gid://shopify/ProductVariant/51472911106345",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/51472911139113": {
@@ -11420,7 +11421,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP258_1.jpg?v=1756547897",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/empriva-studs?variant=gid://shopify/ProductVariant/50829261046057",
-    "stock": 15,
+    "stock": 16,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/50829296533801": {
@@ -11714,9 +11715,9 @@
     "price": 53800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP382.jpg?v=1756800354",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/manoharini-haaram?variant=gid://shopify/ProductVariant/50834386878761",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50834535416105": {
@@ -11785,9 +11786,9 @@
     "price": 41000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP318.jpg?v=1756797894",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/naksha-pushpini-short-necklace?variant=gid://shopify/ProductVariant/50835273417001",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50835291046185": {
@@ -16264,21 +16265,6 @@
     "url": "https://www.rasasilver.com/products/choker-18?variant=gid://shopify/ProductVariant/51248186720553",
     "stock": 0
   },
-  "gid://shopify/ProductVariant/51248193208617": {
-    "product_title": "Pearl & Elara Choker",
-    "product_handle": "choker-19",
-    "variant_id": "gid://shopify/ProductVariant/51248193208617",
-    "global_id": "gid://shopify/ProductVariant/51248193208617",
-    "variant_title": "Default Title",
-    "sku": "R14082",
-    "price": 13600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28075_1.jpg?v=1758961423",
-    "available_for_sale": false,
-    "url": "https://www.rasasilver.com/products/choker-19?variant=gid://shopify/ProductVariant/51248193208617",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/51248199958825": {
     "product_title": "Shreemukhi Temple Choker",
     "product_handle": "choker-20",
@@ -16823,7 +16809,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS59.jpg?v=1759819798",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kada-3?variant=gid://shopify/ProductVariant/51274420945193",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51274443260201": {
     "product_title": "Gulbadan Antique Kada",
@@ -20377,20 +20364,6 @@
     "url": "https://www.rasasilver.com/products/miralys-petal-studs?variant=gid://shopify/ProductVariant/51356770337065",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/51356869525801": {
-    "product_title": "Elara Fleur Studs",
-    "product_handle": "elara-fleur-studs",
-    "variant_id": "gid://shopify/ProductVariant/51356869525801",
-    "global_id": "gid://shopify/ProductVariant/51356869525801",
-    "variant_title": "Default Title",
-    "sku": "R16266",
-    "price": 2900.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0104copy_1_1.jpg?v=1761543420",
-    "available_for_sale": false,
-    "url": "https://www.rasasilver.com/products/elara-fleur-studs?variant=gid://shopify/ProductVariant/51356869525801",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/51356961669417": {
     "product_title": "Starora Stud Earrings",
     "product_handle": "starora-studs",
@@ -22461,7 +22434,7 @@
     "global_id": "gid://shopify/ProductVariant/51408715677993",
     "variant_title": "Default Title",
     "sku": "R16004",
-    "price": 34600.0,
+    "price": 33500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3176_resized.jpg?v=1762253734",
     "available_for_sale": true,
@@ -25875,9 +25848,10 @@
     "price": 13900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0525copy_resized.jpg?v=1762327664",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mahashritha-pendant?variant=gid://shopify/ProductVariant/51482613088553",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51482627572009": {
     "product_title": "Yugmika Beaded Mala",
@@ -27715,7 +27689,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0081copy_resized_1.jpg?v=1762931541",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/divine-bells-studs?variant=gid://shopify/ProductVariant/51488529056041",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/51488555303209": {
@@ -30513,7 +30487,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box07_10Nov0295.jpg?v=1763446627",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/shineflora-ace-necklace?variant=gid://shopify/ProductVariant/51509716386089",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51509724610857": {
@@ -32335,9 +32309,9 @@
     "price": 6800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0057copy_resized_110995b6-2213-49a9-838b-f77c59c2358a.jpg?v=1763628075",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/irae-regalia-studs?variant=gid://shopify/ProductVariant/51514815086889",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51514829373737": {
@@ -32546,9 +32520,9 @@
     "price": 6200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0277copy_resized_87859a09-6aab-4994-9792-2fadc1f74e8b.jpg?v=1763628461",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/prerana-drop-studs?variant=gid://shopify/ProductVariant/51517368172841",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51517368631593": {
     "product_title": "Dhanolika Necklace",
@@ -33220,9 +33194,9 @@
     "price": 36600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0526_resized.jpg?v=1763466090",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/paro-veda-necklace-set?variant=gid://shopify/ProductVariant/51526627098921",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51526702563625": {
@@ -33599,9 +33573,9 @@
     "price": 11965.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0153_resized.jpg?v=1770633420",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/harita-kiran-bangles?variant=gid://shopify/ProductVariant/51527062225193",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52274054234409": {
@@ -33614,9 +33588,9 @@
     "price": 11965.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa-10Nov_Sann0153_resized.jpg?v=1770633420",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/harita-kiran-bangles?variant=gid://shopify/ProductVariant/52274054234409",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52628992327977": {
@@ -34206,7 +34180,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0217_resized.jpg?v=1763374208",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/circle-of-grace-bangles?variant=gid://shopify/ProductVariant/51527393181993",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/51527395803433": {
     "product_title": "Florae Cuff Earrings",
@@ -34375,9 +34349,10 @@
     "price": 130800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2612_resized.jpg?v=1763470062",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mehermayur-oddiyanam?variant=gid://shopify/ProductVariant/51527421493545",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51527425196329": {
     "product_title": "Kundan Leela Oddiyanam",
@@ -36733,7 +36708,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0007copy_resized.jpg?v=1764062037",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/frost-bloom-ring?variant=gid://shopify/ProductVariant/52290959966505",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52274126061865": {
@@ -38458,9 +38433,10 @@
     "price": 95850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5543_resized.jpg?v=1772691372",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/hamsa-morika-choker?variant=gid://shopify/ProductVariant/52795442102569",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52279457808681": {
     "product_title": "Mor Kundan Choker",
@@ -38486,9 +38462,9 @@
     "price": 49200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_16Dec36283.jpg?v=1766127746",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/florya-bangles?variant=gid://shopify/ProductVariant/52279481794857",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52279496343849": {
@@ -40202,9 +40178,9 @@
     "price": 24500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0142copy_resized_2dea1ad0-0670-45bb-a3f9-43404efe2d3a.jpg?v=1769153891",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pear-drop-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362256417065",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52362139468073": {
@@ -40586,9 +40562,9 @@
     "price": 35400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0314copy_resized_02786852-737c-43c8-ba33-a8de641453c0.jpg?v=1767686565",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/cz-necklace-set-1?variant=gid://shopify/ProductVariant/52390300877097",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52390337577257": {
@@ -40814,7 +40790,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0154copy_resized_ca181686-531e-469d-a50a-39ac7a4f50c7.jpg?v=1767692729",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/morvya-kasu-necklace?variant=gid://shopify/ProductVariant/52393214705961",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52397469335849": {
@@ -42879,20 +42855,6 @@
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/antique-mayur-choker?variant=gid://shopify/ProductVariant/52450570567977",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/52450597044521": {
-    "product_title": "Victorian Elara Choker",
-    "product_handle": "victorian-elara-choker",
-    "variant_id": "gid://shopify/ProductVariant/52450597044521",
-    "global_id": "gid://shopify/ProductVariant/52450597044521",
-    "variant_title": "Default Title",
-    "sku": "R23315",
-    "price": 19530.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0901_resized.jpg?v=1768972111",
-    "available_for_sale": false,
-    "url": "https://www.rasasilver.com/products/victorian-elara-choker?variant=gid://shopify/ProductVariant/52450597044521",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/52450597962025": {
     "product_title": "Varalakshmi Temple Necklace",
@@ -46667,9 +46629,9 @@
     "price": 14760.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0142copy_e6c8c4e8-9283-4e51-bd53-04b4e0027bc0.jpg?v=1770099582",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vintage-antique-danglers?variant=gid://shopify/ProductVariant/52527443181865",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52527463170345": {
@@ -47343,7 +47305,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424123177",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52535424155945": {
@@ -47358,7 +47320,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4111_7119562b-42d1-4468-8fc4-c75af1e81c79.jpg?v=1770286970",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/garden-pear-victorian-bangles?variant=gid://shopify/ProductVariant/52535424155945",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52535462461737": {
@@ -47401,7 +47363,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4066.jpg?v=1770291787",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/peacock-dream-victorian-pendant-set?variant=gid://shopify/ProductVariant/52535593599273",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52535671324969": {
     "product_title": "Blooming Victorian Pendant Set",
@@ -48099,7 +48062,7 @@
     "sku": "R24394",
     "price": 26600.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2565_resized.jpg?v=1770379458",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2565_resized.jpg?v=1786013823",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/tara-stone-bangles?variant=gid://shopify/ProductVariant/52553600893225",
     "stock": 3,
@@ -48143,9 +48106,9 @@
     "price": 61650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_113_Pics_29Jan4125.jpg?v=1770289408",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/green-swan-victorian-bangles?variant=gid://shopify/ProductVariant/52553614754089",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52553623699753": {
@@ -48846,9 +48809,9 @@
     "price": 20160.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2435_resized.jpg?v=1770477158",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pear-of-fire-victorian-kanti?variant=gid://shopify/ProductVariant/52554371334441",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52554382475561": {
@@ -49003,9 +48966,9 @@
     "price": 11250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0128copy_resized_56c39ef5-92dd-416b-84f3-e164da39ea4e.jpg?v=1770272461",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/paradis-royale-cz-pendant?variant=gid://shopify/ProductVariant/52559962472745",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52559964864809": {
@@ -50678,7 +50641,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4200.jpg?v=1771089792",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/two-layers-antique-mala?variant=gid://shopify/ProductVariant/52668091892009",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52668113486121": {
@@ -52128,9 +52091,9 @@
     "price": 41500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4173.jpg?v=1771090902",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kanakprabha-short-necklace?variant=gid://shopify/ProductVariant/52682136355113",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52682145431849": {
@@ -53512,8 +53475,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2026-02-23at5_17_18PMcopy_jpg.jpg?v=1771847962",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/back-chain-copy?variant=gid://shopify/ProductVariant/52737922302249",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52737952383273": {
     "product_title": "Gulbagh Kundan Chandbali",
@@ -54132,9 +54095,10 @@
     "price": 95850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5264_1.jpg?v=1772540686",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/swan-floralika-kundan-necklace?variant=gid://shopify/ProductVariant/52750464254249",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52750851801385": {
     "product_title": "Rajmor Kundan Necklace",
@@ -54905,7 +54869,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00159copy_resized_1.jpg?v=1772800182",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/stone-bangles-6?variant=gid://shopify/ProductVariant/52765031203113",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52798111777065": {
     "product_title": "Shri-Nava Temple Bangles",
@@ -56473,9 +56438,10 @@
     "price": 76600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36850_resized.jpg?v=1773831579",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/chandani-kundan-bangles?variant=gid://shopify/ProductVariant/52847780921641",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52847758246185": {
     "product_title": "Anuradha Nakshi Bangles",
@@ -56991,9 +56957,10 @@
     "price": 90650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_158Pics_12Mar36955_resized.jpg?v=1774271879",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/berunda-pushpa-kundan-jada?variant=gid://shopify/ProductVariant/52819812614441",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52819818905897": {
     "product_title": "Kusum Spark Moissanites Hip Belt",
@@ -60252,7 +60219,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00471_resized.jpg?v=1775284771",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/chandrika-drop-necklace-set-copy?variant=gid://shopify/ProductVariant/52876117344553",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52876159844649": {
     "product_title": "Vaibhavi Temple Maang Tikka",
@@ -60762,9 +60729,9 @@
     "price": 34400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0636_resized.jpg?v=1775287635",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ovalora-noir-cz-necklace-set?variant=gid://shopify/ProductVariant/52881531011369",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52881728373033": {
@@ -61628,7 +61595,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0054_resized.jpg?v=1775555529",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rectina-florina-cz-necklace?variant=gid://shopify/ProductVariant/52886047686953",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52886051553577": {
@@ -62233,9 +62200,9 @@
     "price": 15200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20464_resized.jpg?v=1775472868",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mahika-temple-matil-copy?variant=gid://shopify/ProductVariant/52898722349353",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52898757574953": {
@@ -62360,9 +62327,10 @@
     "price": 28700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20278_resized.jpg?v=1775650462",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ovalora-victorian-kada-copy?variant=gid://shopify/ProductVariant/52911255716137",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52911257092393": {
     "product_title": "Shrinyra Kundan Daab",
@@ -64200,9 +64168,9 @@
     "price": 25400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0082_resized.jpg?v=1781856975",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rosalya-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103443181865",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/53103564554537": {
     "product_title": "Fleur Glow Hoops",
@@ -64284,9 +64252,9 @@
     "price": 20300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0091_resized.jpg?v=1781862079",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayuranshi-nakshi-jhumka-copy?variant=gid://shopify/ProductVariant/53103823487273",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53103858123049": {
@@ -64934,7 +64902,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0097_resized.jpg?v=1781007525",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/emerald-moissanite-jhumki-copy?variant=gid://shopify/ProductVariant/53131256299817",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53131747426601": {
     "product_title": "Aanya Petal Studs",
@@ -65002,9 +64971,9 @@
     "price": 4600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0286_resized.jpg?v=1781245008",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/myra-emerald-cz-studs?variant=gid://shopify/ProductVariant/53131822596393",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53132249923881": {
@@ -66048,9 +66017,9 @@
     "price": 15700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0672_resized.jpg?v=1780937878",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/floriva-oxidized-payal?variant=gid://shopify/ProductVariant/53149829857577",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53149878681897": {
@@ -66389,7 +66358,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11656_resized.jpg?v=1780728247",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pankhudi-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150242472233",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53150245552425": {
@@ -66432,7 +66401,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May116261_resized.jpg?v=1780831587",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/adiva-oxidised-jhumki?variant=gid://shopify/ProductVariant/53150291099945",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53150295097641": {
@@ -66489,7 +66458,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11645_resized.jpg?v=1780834189",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gulnaar-oxidised-jhumki-copy-2?variant=gid://shopify/ProductVariant/53158225707305",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53158304448809": {
@@ -66673,7 +66642,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11650_resized.jpg?v=1780835344",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vruksha-oxidised-jhumki-copy?variant=gid://shopify/ProductVariant/53160158036265",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53160236843305": {
@@ -67591,9 +67560,9 @@
     "price": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261852_resized.jpg?v=1781516804",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/aarvika-stone-jhumkis?variant=gid://shopify/ProductVariant/53266578833705",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53266582536489": {
@@ -67763,9 +67732,9 @@
     "price": 8000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262068_resized.jpg?v=1781530644",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/arka-chandra-kundan-set?variant=gid://shopify/ProductVariant/53266936070441",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53266936103209": {
@@ -69260,9 +69229,10 @@
     "price": 2700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1886_resized.jpg?v=1782128178",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/dazzle-stone-ring?variant=gid://shopify/ProductVariant/53282910044457",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53282916565289": {
     "product_title": "Stone Lumina Ring",
@@ -70084,7 +70054,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13287_resized.jpg?v=1782280274",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/lucky-bloom-bracelet?variant=gid://shopify/ProductVariant/53285938102569",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53285939872041": {
@@ -71023,7 +70993,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5559_resized_1.jpg?v=1785306379",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/orlina-studs?variant=gid://shopify/ProductVariant/53288902000937",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53288962851113": {
@@ -71236,7 +71206,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5818_resized.jpg?v=1782388692",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/flutter-grace-toe-ring?variant=gid://shopify/ProductVariant/53289183936809",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53289183969577": {
@@ -71333,9 +71303,9 @@
     "price": 5300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2252_resized.jpg?v=1782735821",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/zariya-green-stone-danglers?variant=gid://shopify/ProductVariant/53290441408809",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53290441441577": {
@@ -72646,9 +72616,9 @@
     "price": 9500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41450_resized.jpg?v=1783748068",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/green-flora-stone-kada?variant=gid://shopify/ProductVariant/53299596034345",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53299596689705": {
@@ -73003,9 +72973,9 @@
     "price": 16500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40114_resized.jpg?v=1783665913",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/charulata-mor-temple-necklace?variant=gid://shopify/ProductVariant/53305189826857",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53305325027625": {
@@ -73018,9 +72988,9 @@
     "price": 26000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40192_resized.jpg?v=1783681000",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/devalaya-mayura-temple-necklace?variant=gid://shopify/ProductVariant/53305325027625",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53306663993641": {
@@ -73033,9 +73003,9 @@
     "price": 47000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40196_resized.jpg?v=1783681259",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayura-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53306663993641",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53306733855017": {
@@ -73119,9 +73089,9 @@
     "price": 23900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40323_resized.jpg?v=1783683736",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/manikya-harita-stone-matil?variant=gid://shopify/ProductVariant/53307160953129",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53307229339945": {
@@ -73394,7 +73364,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40164_resized.jpg?v=1783673230",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/queens-lakshmi-temple-necklace-set?variant=gid://shopify/ProductVariant/53310655463721",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53310680301865": {
@@ -73541,7 +73511,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40222_resized.jpg?v=1783667620",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/suvarna-stone-necklace?variant=gid://shopify/ProductVariant/53312674595113",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53312818905385": {
@@ -73599,9 +73569,9 @@
     "price": 25400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41390_resized.jpg?v=1783749117",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/crystal-line-stone-bangles?variant=gid://shopify/ProductVariant/53315202253097",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53315243835689": {
@@ -73869,7 +73839,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41406_resized.jpg?v=1783749311",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/harini-grace-stone-bangles?variant=gid://shopify/ProductVariant/53324605587753",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53324632260905": {
@@ -74040,7 +74010,7 @@
     "price": 3900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41465_resized.jpg?v=1783759638",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ganesh-temple-ring?variant=gid://shopify/ProductVariant/53324731121961",
     "stock": 0,
     "last_alerted_stock": 0
@@ -74666,7 +74636,7 @@
     "price": 51600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42316_resized.jpg?v=1784182438",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/navil-krupa-jadau-necklace?variant=gid://shopify/ProductVariant/53333186314537",
     "stock": 0,
     "last_alerted_stock": 0
@@ -74681,7 +74651,7 @@
     "price": 17300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42563_resized.jpg?v=1784186650",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/dwi-pear-polki-kada?variant=gid://shopify/ProductVariant/53333198635305",
     "stock": 0,
     "last_alerted_stock": 0
@@ -74725,7 +74695,7 @@
     "price": 20600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42559_resized.jpg?v=1784182831",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/imperial-mint-victorian-kada?variant=gid://shopify/ProductVariant/53333219705129",
     "stock": 0,
     "last_alerted_stock": 0
@@ -75053,7 +75023,7 @@
     "price": 28500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0765_resized.jpg?v=1784187080",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ayodhya-royal-temple-pendant?variant=gid://shopify/ProductVariant/53336869732649",
     "stock": 0,
     "last_alerted_stock": 0
@@ -75097,7 +75067,7 @@
     "price": 8200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42599a_resized.jpg?v=1784187233",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/duo-hexa-pear-moissanite-ring?variant=gid://shopify/ProductVariant/53336883200297",
     "stock": 0,
     "last_alerted_stock": 0
@@ -75225,7 +75195,7 @@
     "price": 10000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0411_resized.jpg?v=1785919177",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/burgundy-crown-bracelet?variant=gid://shopify/ProductVariant/53346683355433",
     "stock": -1
   },
@@ -75309,7 +75279,7 @@
     "price": 19200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2654_resized.jpg?v=1785241973",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/moissanite-beaded-bracelet?variant=gid://shopify/ProductVariant/53346766946601",
     "stock": 0,
     "last_alerted_stock": 0
@@ -75338,7 +75308,7 @@
     "price": 6700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0372_resized.jpg?v=1785934742",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/blush-dial-watch?variant=gid://shopify/ProductVariant/53346801418537",
     "stock": -1
   },
@@ -75352,7 +75322,7 @@
     "price": 6700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0358_resized.jpg?v=1785934877",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/glam-wrist-watch-1?variant=gid://shopify/ProductVariant/53346804367657",
     "stock": -1
   },
@@ -75366,7 +75336,7 @@
     "price": 6700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0348_resized.jpg?v=1785934968",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/botani-dial-watch-1?variant=gid://shopify/ProductVariant/53346807447849",
     "stock": -1
   },
@@ -75380,7 +75350,7 @@
     "price": 6700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0386_resized.jpg?v=1785935171",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/brown-crystal-watch?variant=gid://shopify/ProductVariant/53346812363049",
     "stock": -1
   },
@@ -75408,7 +75378,7 @@
     "price": 10500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0367_resized.jpg?v=1785935454",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/time-shine-watch?variant=gid://shopify/ProductVariant/53346864070953",
     "stock": -1
   },
@@ -75548,7 +75518,7 @@
     "price": 8500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0176_resized.jpg?v=1785931736",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/royal-rose-victorian-ring?variant=gid://shopify/ProductVariant/53349330387241",
     "stock": -1
   },
@@ -75702,7 +75672,7 @@
     "price": 27800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2732_resized.jpg?v=1785919390",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/floral-fiesta-victorian-chain-set?variant=gid://shopify/ProductVariant/53350408978729",
     "stock": -1
   },
@@ -75814,7 +75784,7 @@
     "price": 16000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2686_resized.jpg?v=1785921292",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pendant-18?variant=gid://shopify/ProductVariant/53350813761833",
     "stock": -1
   },
@@ -75926,7 +75896,7 @@
     "price": 46000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2536_resized.jpg?v=1785242945",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/crimson-crown-moissanite-bangles?variant=gid://shopify/ProductVariant/53351215235369",
     "stock": 0,
     "last_alerted_stock": 0
@@ -76564,6 +76534,202 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0196_resized.jpg?v=1785927973",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/halfmoon-moissanite-ring?variant=gid://shopify/ProductVariant/53408288473385",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410084323625": {
+    "product_title": "Infinite Veera Rakhi",
+    "product_handle": "infinite-veera-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410084323625",
+    "global_id": "gid://shopify/ProductVariant/53410084323625",
+    "variant_title": "Yellow",
+    "sku": "R33569",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19635.jpg?v=1786020808",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/infinite-veera-rakhi?variant=gid://shopify/ProductVariant/53410084323625",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410084356393": {
+    "product_title": "Infinite Veera Rakhi",
+    "product_handle": "infinite-veera-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410084356393",
+    "global_id": "gid://shopify/ProductVariant/53410084356393",
+    "variant_title": "Blue",
+    "sku": "R33569",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19638.jpg?v=1786021175",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/infinite-veera-rakhi?variant=gid://shopify/ProductVariant/53410084356393",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410114437417": {
+    "product_title": "Infinite Bro Rakhi",
+    "product_handle": "infinite-bro-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410114437417",
+    "global_id": "gid://shopify/ProductVariant/53410114437417",
+    "variant_title": "Pink",
+    "sku": "R33573",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19641.jpg?v=1786021778",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/infinite-bro-rakhi?variant=gid://shopify/ProductVariant/53410114437417",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410114470185": {
+    "product_title": "Infinite Bro Rakhi",
+    "product_handle": "infinite-bro-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410114470185",
+    "global_id": "gid://shopify/ProductVariant/53410114470185",
+    "variant_title": "Red",
+    "sku": "R33573",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19642.jpg?v=1786021793",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/infinite-bro-rakhi?variant=gid://shopify/ProductVariant/53410114470185",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410106147113": {
+    "product_title": "Divine Trishul Rakhi",
+    "product_handle": "divine-trishul-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410106147113",
+    "global_id": "gid://shopify/ProductVariant/53410106147113",
+    "variant_title": "Blue",
+    "sku": "R33574",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19640.jpg?v=1786021467",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/divine-trishul-rakhi?variant=gid://shopify/ProductVariant/53410106147113",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410106179881": {
+    "product_title": "Divine Trishul Rakhi",
+    "product_handle": "divine-trishul-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410106179881",
+    "global_id": "gid://shopify/ProductVariant/53410106179881",
+    "variant_title": "Red",
+    "sku": "R33574",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19644.jpg?v=1786021517",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/divine-trishul-rakhi?variant=gid://shopify/ProductVariant/53410106179881",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410106212649": {
+    "product_title": "Divine Trishul Rakhi",
+    "product_handle": "divine-trishul-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410106212649",
+    "global_id": "gid://shopify/ProductVariant/53410106212649",
+    "variant_title": "Pink",
+    "sku": "R33574",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19645.jpg?v=1786021532",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/divine-trishul-rakhi?variant=gid://shopify/ProductVariant/53410106212649",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410123546921": {
+    "product_title": "Endless Sibling Bond Rakhi",
+    "product_handle": "endless-sibling-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410123546921",
+    "global_id": "gid://shopify/ProductVariant/53410123546921",
+    "variant_title": "Pink",
+    "sku": "R33568",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19643.jpg?v=1786021961",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/endless-sibling-rakhi?variant=gid://shopify/ProductVariant/53410123546921",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53410123579689": {
+    "product_title": "Endless Sibling Bond Rakhi",
+    "product_handle": "endless-sibling-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53410123579689",
+    "global_id": "gid://shopify/ProductVariant/53410123579689",
+    "variant_title": "Red",
+    "sku": "R33568",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19648.jpg?v=1786022736",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/endless-sibling-rakhi?variant=gid://shopify/ProductVariant/53410123579689",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53409731379497": {
+    "product_title": "Rudra Trishul Rakhi",
+    "product_handle": "rudra-trishul-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53409731379497",
+    "global_id": "gid://shopify/ProductVariant/53409731379497",
+    "variant_title": "Default Title",
+    "sku": "R33577",
+    "price": 1400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19647.jpg?v=1786022574",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/rudra-trishul-rakhi?variant=gid://shopify/ProductVariant/53409731379497",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53409733935401": {
+    "product_title": "Cool Bro Rakhi",
+    "product_handle": "cool-bro-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53409733935401",
+    "global_id": "gid://shopify/ProductVariant/53409733935401",
+    "variant_title": "Default Title",
+    "sku": "R33575",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19650.jpg?v=1786023083",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/cool-bro-rakhi?variant=gid://shopify/ProductVariant/53409733935401",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53409740456233": {
+    "product_title": "Rudra Om Rakhi",
+    "product_handle": "rudra-om-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53409740456233",
+    "global_id": "gid://shopify/ProductVariant/53409740456233",
+    "variant_title": "Default Title",
+    "sku": "R33576",
+    "price": 1400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19646.jpg?v=1786022134",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/rudra-om-rakhi?variant=gid://shopify/ProductVariant/53409740456233",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53409742586153": {
+    "product_title": "Raksha Bhai Rakhi",
+    "product_handle": "raksha-bhai-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53409742586153",
+    "global_id": "gid://shopify/ProductVariant/53409742586153",
+    "variant_title": "Default Title",
+    "sku": "R33571",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19649.jpg?v=1786022885",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/raksha-bhai-rakhi?variant=gid://shopify/ProductVariant/53409742586153",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53409745174825": {
+    "product_title": "Best Bro Rakhi",
+    "product_handle": "best-bro-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/53409745174825",
+    "global_id": "gid://shopify/ProductVariant/53409745174825",
+    "variant_title": "Default Title",
+    "sku": "R33572",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19651.jpg?v=1786020567",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/best-bro-rakhi?variant=gid://shopify/ProductVariant/53409745174825",
     "stock": -1
   }
 }

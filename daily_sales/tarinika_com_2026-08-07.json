@@ -166,5 +166,47 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/avyra-cz-necklace-set?variant=gid://shopify/ProductVariant/43640004509762",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/PRZ3693B_a29e79ad-2c9b-4914-89fe-0578fe973ac0.jpg?v=1778158664"
+  },
+  {
+    "timestamp_ist": "2026-08-07 11:32:06",
+    "product_title": "Sidhya Antique Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40464085942338",
+    "sku": "US-FNX2751XCC",
+    "price": 69.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.tarinika.com/products/sidhya-antique-necklace-set?variant=gid://shopify/ProductVariant/40464085942338",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX2751XCY.jpg?v=1741696605"
+  },
+  {
+    "timestamp_ist": "2026-08-07 11:32:06",
+    "product_title": "Ramisa Antique Earrings with Chain",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40714067607618",
+    "sku": "US-AEX3574XCC",
+    "price": 49.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/ramisa-antique-earrings-with-chain?variant=gid://shopify/ProductVariant/40714067607618",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/AEX3574X_dd5a994c-7374-4b0c-bbb6-a07af0881db5.jpg?v=1707108491"
+  },
+  {
+    "timestamp_ist": "2026-08-07 11:32:06",
+    "product_title": "Luna Nakshatra CZ Gold Plated Bracelet",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41607078412354",
+    "sku": "US-TBX0112XW5",
+    "price": 24.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.tarinika.com/products/luna-nakshatra-cz-gold-plated-bracelet?variant=gid://shopify/ProductVariant/41607078412354",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0112XW5.jpg?v=1725353552"
   }
 ]

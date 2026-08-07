@@ -11199,9 +11199,10 @@
     "price": 3850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-crystal-diamond-bracelet-attrangi-2.jpg?v=1739815776",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rudra-crystal-ruby-emerald-diamond-bracelet?variant=gid://shopify/ProductVariant/44459945722068",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44459957387476": {
     "product_title": "Starstruck Emerald Diamond Kada",
@@ -26199,7 +26200,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_3.40.27_PM.jpg?v=1774271927",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gulaab-single-line-sleek-polki-choker-set?variant=gid://shopify/ProductVariant/46519199695060",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46519235412180": {
@@ -26522,9 +26523,10 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-07-24at3.14.36PM_1.jpg?v=1753437029",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/dhadkan-polki-emerald-victorian-bangle-kada?variant=gid://shopify/ProductVariant/47648844775636",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46551416111316": {
     "product_title": "Dhadkan Polki Emerald Victorian Kada",
@@ -26936,8 +26938,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_10.25.26_PM.jpg?v=1757484814",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lilly-moissanite-crystal-empress-set?variant=gid://shopify/ProductVariant/46737972658388",
-    "stock": 5,
-    "last_alerted_stock": 2
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46719542526164": {
     "product_title": "Enchanted Baagh Polki Fusion Indian Diamond Set",
@@ -38802,9 +38804,9 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at6.32.42PM.jpg?v=1774360804",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/leaf-wrap-diamond-band-ring-daily-wear?variant=gid://shopify/ProductVariant/47716096868564",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47716096901332": {
@@ -41363,7 +41365,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01155_1.jpg?v=1775562460",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/niki-multi-solitaire-mixed-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47768843714772",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47768932876500": {
@@ -44320,7 +44322,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-06at2.49.15PM_1.jpg?v=1783333007",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/clover-diamond-multigemstone-rainbow-coloured-tennis-bracelet?variant=gid://shopify/ProductVariant/48216856002772",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48216976064724": {
     "product_title": "Eva Multi Solitaire Big Hoop Diamond Earrings",
@@ -47025,7 +47028,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712274644",
     "stock": 5,
     "last_alerted_stock": 2
@@ -47068,7 +47071,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712405716",
     "stock": 5,
     "last_alerted_stock": 2
@@ -48135,7 +48138,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715223764",
     "stock": 3
   },
@@ -49173,7 +49176,7 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-03at4.41.09PM.jpg?v=1785762221",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/gemstone-baubles-multicolour-daily-wear-bracelet-western?variant=gid://shopify/ProductVariant/48408441749716",
     "stock": -1
   },
