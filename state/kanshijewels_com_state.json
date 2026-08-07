@@ -2995,9 +2995,9 @@
     "price": 1365.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_1248.jpg?v=1687353079",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-50?variant=gid://shopify/ProductVariant/45462707863852",
-    "stock": 0,
+    "stock": 9,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45462707896620": {
@@ -4876,9 +4876,9 @@
     "price": 1470.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1400_1feb5993-3a67-4ded-8db7-fbb8406b17fe.jpg?v=1692611806",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-8?variant=gid://shopify/ProductVariant/46476569641260",
-    "stock": 0
+    "stock": 8
   },
   "gid://shopify/ProductVariant/46476612010284": {
     "product_title": "Jadau Kundan Maang Tikka",
@@ -8772,9 +8772,9 @@
     "price": 2310.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_1_eb971a6d-3041-4e84-bb23-a233dbec2650.jpg?v=1710925465",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-26?variant=gid://shopify/ProductVariant/48242842632492",
-    "stock": 0
+    "stock": 8
   },
   "gid://shopify/ProductVariant/48242852659500": {
     "product_title": "Jadau Kundan Earrings",
@@ -11529,7 +11529,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanchokar4990.jpg?v=1729764127",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-chokar-37?variant=gid://shopify/ProductVariant/50047807291692",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/50047813714220": {
     "product_title": "Jadau Kundan Choker",
@@ -11667,9 +11668,9 @@
     "price": 2835.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Haslinecklace2800.jpg?v=1729764679",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/hasli-necklace?variant=gid://shopify/ProductVariant/50047854018860",
-    "stock": 0
+    "stock": 9
   },
   "gid://shopify/ProductVariant/50047858671916": {
     "product_title": "Hasli necklace",
@@ -14139,9 +14140,9 @@
     "price": 546.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Multipurposechain490.heic?v=1741258068",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/multipurpose-chain?variant=gid://shopify/ProductVariant/50702819459372",
-    "stock": 0
+    "stock": 9
   },
   "gid://shopify/ProductVariant/50702824309036": {
     "product_title": "Multipurpose Flexible Gold Look Chain",
@@ -14783,9 +14784,9 @@
     "price": 619.5,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Bugadi590_-_1.jpg?v=1741684688",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/bugadi-2?variant=gid://shopify/ProductVariant/50724517347628",
-    "stock": 0,
+    "stock": 8,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50724518396204": {
@@ -14883,9 +14884,9 @@
     "price": 787.5,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0590.jpg?v=1744977123",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/real-pearls-maatil?variant=gid://shopify/ProductVariant/50955131945260",
-    "stock": 0
+    "stock": 8
   },
   "gid://shopify/ProductVariant/51119117959468": {
     "product_title": "Jadau ring",
@@ -14925,9 +14926,9 @@
     "price": 945.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_1215.jpg?v=1747980090",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-ear-cuffs?variant=gid://shopify/ProductVariant/51119124283692",
-    "stock": 0
+    "stock": 8
   },
   "gid://shopify/ProductVariant/51119128117548": {
     "product_title": "Jadau ear cuffs",
@@ -15251,8 +15252,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/51119706538284": {
     "product_title": "Jadau Necklace",
@@ -15586,9 +15587,9 @@
     "price": 1785.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1700_0126a915-af95-44b1-9d17-b28ea027d847.jpg?v=1747997362",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-jhumkas-36?variant=gid://shopify/ProductVariant/51119768076588",
-    "stock": 0
+    "stock": 9
   },
   "gid://shopify/ProductVariant/51119771681068": {
     "product_title": "Jadau Kundan Jhumkas",
@@ -15967,8 +15968,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0585_2.jpg?v=1751267542",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-204?variant=gid://shopify/ProductVariant/51295273025836",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/51337974317356": {
     "product_title": "11:11",
@@ -17581,9 +17582,9 @@
     "price": 1250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaupendant1250.jpg?v=1766064050",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-pendant-3?variant=gid://shopify/ProductVariant/52441954353452",
-    "stock": 0
+    "stock": 8
   },
   "gid://shopify/ProductVariant/52441955828012": {
     "product_title": "Jadau pendant",
@@ -17637,9 +17638,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaupendant1650.jpg?v=1766064225",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-pendant-7?variant=gid://shopify/ProductVariant/52441959596332",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/52441962381612": {
     "product_title": "Jadau pendant",
@@ -17749,9 +17750,9 @@
     "price": 2100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3027.jpg?v=1766137962",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/nakashi-hasli-necklace-copy?variant=gid://shopify/ProductVariant/52445222666540",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/52445222863148": {
     "product_title": "Mossanite necklace",
@@ -18239,9 +18240,9 @@
     "price": 810.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika810.jpg?v=1766141052",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/emerald-sleek-necklace-earring-set-copy?variant=gid://shopify/ProductVariant/52445287973164",
-    "stock": 0,
+    "stock": 8,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445288104236": {
@@ -18254,9 +18255,9 @@
     "price": 1500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika1500.jpg?v=1766141053",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/mossanite-tika-5?variant=gid://shopify/ProductVariant/52445288104236",
-    "stock": 0,
+    "stock": 10,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445288988972": {
@@ -19194,9 +19195,9 @@
     "price": 2700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUHASLI2700.jpg?v=1773122810",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-hasli-necklace?variant=gid://shopify/ProductVariant/52737286144300",
-    "stock": 0,
+    "stock": 9,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52737292402988": {
@@ -19237,9 +19238,9 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUJHUMKAS3650_a74fdff9-2784-4557-b73f-3d655eee4666.jpg?v=1773123553",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas-16?variant=gid://shopify/ProductVariant/52737312457004",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/52737314357548": {
     "product_title": "Jadau Jhumkas",
@@ -19335,9 +19336,9 @@
     "price": 2360.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUMAATIL2360.jpg?v=1773124887",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-maatil?variant=gid://shopify/ProductVariant/52737325662508",
-    "stock": 0,
+    "stock": 7,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52737328447788": {
@@ -20129,7 +20130,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_1cdfbc1d-c88a-4c12-962c-698eb6141ed2.png?v=1780318252",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/polki-fusion-set?variant=gid://shopify/ProductVariant/53255985856812",
-    "stock": 6
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/53255991755052": {
     "product_title": "Mossanite emeralds polki necklace earrings set",
@@ -20381,9 +20383,10 @@
     "price": 620.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdualtonegoldsilverchain620.jpg?v=1782213813",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/elegant-dual-tone-gold-silver-chain?variant=gid://shopify/ProductVariant/53368843338028",
-    "stock": 10
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53368852906284": {
     "product_title": "Elegant dulhan jadau kundan ball necklace",
@@ -20468,7 +20471,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantsheekjadaunecklaceandearringset1199.jpg?v=1782216299",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/elegant-sheek-jadau-necklace-and-earring-set?variant=gid://shopify/ProductVariant/53368929255724",
-    "stock": 5
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53368936956204": {
     "product_title": "Exquisite jadau fusion mango necklace",
@@ -20766,7 +20770,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DSC08186.jpg?v=1782220129",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/gold-look-dulhan-rani-necklace?variant=gid://shopify/ProductVariant/53369089786156",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/53369094799660": {
     "product_title": "Jadau chand necklace",
@@ -21402,8 +21407,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/kj23.3_57a59b18-52ff-40dc-9c7e-16d316a91259.jpg?v=1783587884",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/exclusive-jadau-western-fusion-danglers?variant=gid://shopify/ProductVariant/53420803129644",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/53420673237292": {
     "product_title": "Lotus motives bridal buttumala",

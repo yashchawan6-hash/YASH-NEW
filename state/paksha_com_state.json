@@ -2448,9 +2448,10 @@
     "price": 119.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL5679copycopy.jpg?v=1774414817",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.com/products/ayla-gold-plated-silver-stud-earrings?variant=gid://shopify/ProductVariant/42140505932012",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42140509569260": {
     "product_title": "Noor Gold Plated Silver Drop Earrings",
@@ -4494,9 +4495,10 @@
     "price": 323.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMG_5313copycopy.jpg?v=1774417482",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.com/products/swara-three-layer-floral-silver-drop-earrings?variant=gid://shopify/ProductVariant/42769888575724",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42769906073836": {
     "product_title": "Swara Statement Silver Long Necklace Set",
@@ -13594,9 +13596,10 @@
     "price": 181.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PUB0012S.jpg?v=1774334861",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.com/products/garden-blooms-cz-studs?variant=gid://shopify/ProductVariant/44010578116844",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44010629923052": {
     "product_title": "Floral Wreath CZ Front-Back Hoop Earrings",
@@ -15529,6 +15532,20 @@
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/bhavani-antique-temple-choker-set?variant=gid://shopify/ProductVariant/44375842095340",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/44375973363948": {
+    "product_title": "Simple Floral CZ Silver Finger Ring",
+    "product_handle": "simple-floral-cz-silver-finger-ring",
+    "variant_id": "gid://shopify/ProductVariant/44375973363948",
+    "global_id": "gid://shopify/ProductVariant/44375973363948",
+    "variant_title": "Default Title",
+    "sku": "PUB0049FW5",
+    "price": 79.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PUB0049F.jpg?v=1707799942",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/simple-floral-cz-silver-finger-ring?variant=gid://shopify/ProductVariant/44375973363948",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/44376044470508": {
     "product_title": "Floral Bloom CZ Silver Finger Ring",
@@ -18664,7 +18681,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PMCZ0051BW.jpg?v=1731748517",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/grace-gold-plated-cz-silver-bracelet?variant=gid://shopify/ProductVariant/45906775146732",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45907743441132": {
     "product_title": "Drop of Light CZ Silver Hoop Earrings",
@@ -24517,6 +24535,160 @@
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/pihu-silver-drop-earrings?variant=gid://shopify/ProductVariant/47542246473964",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48119831593196": {
+    "product_title": "Pushp Silver Rakhi",
+    "product_handle": "pushp-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119831593196",
+    "global_id": "gid://shopify/ProductVariant/48119831593196",
+    "variant_title": "Default Title",
+    "sku": "SBR0009WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0001WT6_db55beea-f4cc-4947-aa75-493329286fd8.png?v=1785924183",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/48119831593196",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119831691500": {
+    "product_title": "Blossom Silver Rakhi",
+    "product_handle": "blossom-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119831691500",
+    "global_id": "gid://shopify/ProductVariant/48119831691500",
+    "variant_title": "Default Title",
+    "sku": "SBR0010WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0002WT6_e3028ef7-9d07-499a-9941-8a4fcb70a7b0.png?v=1785924144",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/blossom-silver-rakhi?variant=gid://shopify/ProductVariant/48119831691500",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119831789804": {
+    "product_title": "Boond Silver Rakhi",
+    "product_handle": "boond-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119831789804",
+    "global_id": "gid://shopify/ProductVariant/48119831789804",
+    "variant_title": "Default Title",
+    "sku": "SBR0011WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0003WT6_a9149b41-a6ea-43c5-b95c-d290fc14ee11.png?v=1785924108",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/boond-silver-rakhi?variant=gid://shopify/ProductVariant/48119831789804",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119831920876": {
+    "product_title": "Kiran Silver Rakhi",
+    "product_handle": "kiran-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119831920876",
+    "global_id": "gid://shopify/ProductVariant/48119831920876",
+    "variant_title": "Default Title",
+    "sku": "SBR0012WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0004WT6_f9d1946c-8d23-4edf-822b-217f33440d25.png?v=1785924067",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/kiran-silver-rakhi?variant=gid://shopify/ProductVariant/48119831920876",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119832051948": {
+    "product_title": "Shikhar Silver Rakhi",
+    "product_handle": "shikhar-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119832051948",
+    "global_id": "gid://shopify/ProductVariant/48119832051948",
+    "variant_title": "Default Title",
+    "sku": "SBR0013WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0005WT6_3ab32599-027d-4f1b-92e1-c11d4c0cab5e.png?v=1785924025",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/shikhar-silver-rakhi?variant=gid://shopify/ProductVariant/48119832051948",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119832150252": {
+    "product_title": "Shiv Gold Plated Silver Rakhi",
+    "product_handle": "shiv-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119832150252",
+    "global_id": "gid://shopify/ProductVariant/48119832150252",
+    "variant_title": "Default Title",
+    "sku": "SBR0001OTE",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0001OTE.png?v=1785923953",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/shiv-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48119832150252",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119832215788": {
+    "product_title": "Trishul Gold Plated Silver Rakhi",
+    "product_handle": "trishul-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119832215788",
+    "global_id": "gid://shopify/ProductVariant/48119832215788",
+    "variant_title": "Default Title",
+    "sku": "SBR0002OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0002OW5_b0b79054-8d54-423a-a97e-217a2f807fec.png?v=1785923614",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/trishul-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48119832215788",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119832314092": {
+    "product_title": "Om Kiran Gold Plated Silver Rakhi",
+    "product_handle": "om-kiran-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119832314092",
+    "global_id": "gid://shopify/ProductVariant/48119832314092",
+    "variant_title": "Default Title",
+    "sku": "SBR0003OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0003OW5_4c2cbae6-38e5-4975-ace1-71ade79654c1.png?v=1785923452",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/om-kiran-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48119832314092",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119832445164": {
+    "product_title": "Swastik Gold Plated Silver Rakhi",
+    "product_handle": "swastik-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119832445164",
+    "global_id": "gid://shopify/ProductVariant/48119832445164",
+    "variant_title": "Default Title",
+    "sku": "SBR0004OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0004OW5.png?v=1786007016",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/swastik-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48119832445164",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119832576236": {
+    "product_title": "Ganesha Gold Plated Silver Rakhi",
+    "product_handle": "ganesha-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119832576236",
+    "global_id": "gid://shopify/ProductVariant/48119832576236",
+    "variant_title": "Default Title",
+    "sku": "SBR0005OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0005OW5_d17f2a07-f58a-4e7d-9ff4-c4947420a7bd.png?v=1785923313",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/ganesha-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48119832576236",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48119832674540": {
+    "product_title": "Ornate Om Gold Plated Silver Rakhi",
+    "product_handle": "ornate-om-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48119832674540",
+    "global_id": "gid://shopify/ProductVariant/48119832674540",
+    "variant_title": "Default Title",
+    "sku": "SBR0006OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0006OW5_74ca6eb3-5868-4dec-adaf-2b3aaa873e69.png?v=1785923141",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/ornate-om-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48119832674540",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/48119832772844": {
     "product_title": "Ganesha CZ Silver Rakhi",

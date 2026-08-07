@@ -1490,9 +1490,10 @@
     "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7355.jpg?v=1640782549",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/mana-nakshatra-cz-bracelet?variant=gid://shopify/ProductVariant/14266155434050",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/14266155466818": {
     "product_title": "Mana Nakshatra CZ Bracelet",
@@ -2951,7 +2952,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/image-107.jpg?v=1762536380",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/falak-antique-necklace-set?variant=gid://shopify/ProductVariant/16198464667714",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/16212465942594": {
     "product_title": "Aaloka kundan Necklace Set",
@@ -3131,10 +3133,10 @@
     "price": 80.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/SRP_4172_copy_copy_b8bbe85d-1194-4774-a88f-5951643b69bb.jpg?v=1641061719",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/lillian-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/31411253641282",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/31411253608514": {
     "product_title": "Lillian Nakshatra CZ Necklace Set",
@@ -3767,7 +3769,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/SRP-7_806f2abe-112f-4c00-b333-d82e52bc3a3e.jpg?v=1684240981",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/akshi-antique-choker-set?variant=gid://shopify/ProductVariant/32453532418114",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41483316199490": {
     "product_title": "Akshi Antique Choker Set",
@@ -4457,7 +4460,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/1EX0258XWP.jpg?v=1741697034",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sparkling-dancing-lady-cz-antique-earrings?variant=gid://shopify/ProductVariant/32657727389762",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/32657727356994": {
     "product_title": "Sparkling Dancing Lady CZ Antique Earrings",
@@ -10619,9 +10623,9 @@
     "price": 106.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9536copycopy.jpg?v=1662998639",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/39961196724290",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41664457965634": {
@@ -12615,8 +12619,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0298copycopy.jpg?v=1686811039",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anoush-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40308394721346",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/40308403273794": {
     "product_title": "Inca Antique Jadau Chandbali Earrings",
@@ -14964,8 +14968,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0006N_daa62999-6db9-4e13-a751-67f6e8aa24c0.jpg?v=1700548123",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/helia-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40548246585410",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40548246618178": {
     "product_title": "Helia Nakshatra CZ Necklace Set",
@@ -14991,9 +14995,10 @@
     "price": 69.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FEX3480X.jpg?v=1703243320",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/aatreyi-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40617116467266",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40617118138434": {
     "product_title": "Layered Nakshatra CZ Jhumka Earrings",
@@ -15245,7 +15250,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0303X_5062f006-1271-4502-9631-9f782922c777.jpg?v=1703563300",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/floral-bloom-garden-necklace?variant=gid://shopify/ProductVariant/40637729865794",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40714046144578": {
     "product_title": "Navaratna Floral Stud Earrings",
@@ -23303,7 +23309,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0003XC6.jpg?v=1766063098",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mayurakshi-nakshatra-white-cz-pendant-set?variant=gid://shopify/ProductVariant/42778124746818",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42778124943426": {
     "product_title": "Aarya Nakshatra Orange CZ Pendant Set",
@@ -23443,7 +23450,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0006XE6.jpg?v=1766143384",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/blossom-nakshatra-blue-cz-pendant-set?variant=gid://shopify/ProductVariant/42778125271106",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/42778125303874": {
     "product_title": "Blossom Nakshatra Orange CZ Pendant Set",
@@ -23849,9 +23857,10 @@
     "price": 89.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/PRZ3693B_a29e79ad-2c9b-4914-89fe-0578fe973ac0.jpg?v=1778158664",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/avyra-cz-necklace-set?variant=gid://shopify/ProductVariant/43640004509762",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43640005001282": {
     "product_title": "Aadhira Antique Black Beads Necklace Set",
@@ -26058,6 +26067,160 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/vikata-antique-hair-brooch?variant=gid://shopify/ProductVariant/44136953643074",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/44672206241858": {
+    "product_title": "Pushp Silver Rakhi",
+    "product_handle": "pushp-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206241858",
+    "global_id": "gid://shopify/ProductVariant/44672206241858",
+    "variant_title": "Default Title",
+    "sku": "SBR0009WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001WT6.png?v=1785926127",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/44672206241858",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206274626": {
+    "product_title": "Blossom Silver Rakhi",
+    "product_handle": "blossom-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206274626",
+    "global_id": "gid://shopify/ProductVariant/44672206274626",
+    "variant_title": "Default Title",
+    "sku": "SBR0010WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002WT6.png?v=1785926506",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/blossom-silver-rakhi?variant=gid://shopify/ProductVariant/44672206274626",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206307394": {
+    "product_title": "Boond Silver Rakhi",
+    "product_handle": "boond-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206307394",
+    "global_id": "gid://shopify/ProductVariant/44672206307394",
+    "variant_title": "Default Title",
+    "sku": "SBR0011WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003WT6.png?v=1785926873",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/boond-silver-rakhi?variant=gid://shopify/ProductVariant/44672206307394",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206340162": {
+    "product_title": "Kiran Silver Rakhi",
+    "product_handle": "kiran-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206340162",
+    "global_id": "gid://shopify/ProductVariant/44672206340162",
+    "variant_title": "Default Title",
+    "sku": "SBR0012WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004WT6.png?v=1785927112",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/kiran-silver-rakhi?variant=gid://shopify/ProductVariant/44672206340162",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206372930": {
+    "product_title": "Shikhar Silver Rakhi",
+    "product_handle": "shikhar-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206372930",
+    "global_id": "gid://shopify/ProductVariant/44672206372930",
+    "variant_title": "Default Title",
+    "sku": "SBR0013WT6",
+    "price": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0005WT6.png?v=1785927483",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/shikhar-silver-rakhi?variant=gid://shopify/ProductVariant/44672206372930",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206405698": {
+    "product_title": "Shiv Gold Plated Silver Rakhi",
+    "product_handle": "shiv-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206405698",
+    "global_id": "gid://shopify/ProductVariant/44672206405698",
+    "variant_title": "Default Title",
+    "sku": "SBR0001OTE",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001OTE_3f568656-87ed-4b1e-9e69-337f1cca83d9.png?v=1785926006",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/shiv-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206405698",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206438466": {
+    "product_title": "Trishul Gold Plated Silver Rakhi",
+    "product_handle": "trishul-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206438466",
+    "global_id": "gid://shopify/ProductVariant/44672206438466",
+    "variant_title": "Default Title",
+    "sku": "SBR0002OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002OW5_a7c8c629-06e2-4246-9593-97b5d05646b8.png?v=1785926329",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/trishul-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206438466",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206471234": {
+    "product_title": "Om Kiran Gold Plated Silver Rakhi",
+    "product_handle": "om-kiran-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206471234",
+    "global_id": "gid://shopify/ProductVariant/44672206471234",
+    "variant_title": "Default Title",
+    "sku": "SBR0003OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003OW5_77fa0d56-af77-4921-afaf-26531cd73fe2.png?v=1785926773",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/om-kiran-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206471234",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206504002": {
+    "product_title": "Swastik Gold Plated Silver Rakhi",
+    "product_handle": "swastik-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206504002",
+    "global_id": "gid://shopify/ProductVariant/44672206504002",
+    "variant_title": "Default Title",
+    "sku": "SBR0004OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004OW5_ae1ca96a-fd4c-4df5-abe1-6ee40ddbc46c.png?v=1786007128",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/swastik-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206504002",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206536770": {
+    "product_title": "Ganesha Gold Plated Silver Rakhi",
+    "product_handle": "ganesha-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206536770",
+    "global_id": "gid://shopify/ProductVariant/44672206536770",
+    "variant_title": "Default Title",
+    "sku": "SBR0005OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0005OW5.png?v=1785927375",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/ganesha-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206536770",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/44672206602306": {
+    "product_title": "Ornate Om Gold Plated Silver Rakhi",
+    "product_handle": "ornate-om-gold-plated-silver-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/44672206602306",
+    "global_id": "gid://shopify/ProductVariant/44672206602306",
+    "variant_title": "Default Title",
+    "sku": "SBR0006OW5",
+    "price": 44.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0006OW5.png?v=1785927606",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/ornate-om-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206602306",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/44672206635074": {
     "product_title": "Ganesha CZ Silver Rakhi",

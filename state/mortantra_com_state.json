@@ -34472,48 +34472,6 @@
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-necklace-set-czset403?variant=gid://shopify/ProductVariant/46952189100255",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/46952237957343": {
-    "product_title": "Silver Plated Faux Diamond Necklace Set with Diamante - CZSET409",
-    "product_handle": "silver-plated-faux-diamond-necklace-set-czset409",
-    "variant_id": "gid://shopify/ProductVariant/46952237957343",
-    "global_id": "gid://shopify/ProductVariant/46952237957343",
-    "variant_title": "White",
-    "sku": "CZSET409",
-    "price": 4500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZSET409-2.jpg?v=1746793513",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-necklace-set-czset409?variant=gid://shopify/ProductVariant/46952237957343",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/46952237990111": {
-    "product_title": "Silver Plated Faux Diamond Necklace Set with Diamante - CZSET409",
-    "product_handle": "silver-plated-faux-diamond-necklace-set-czset409",
-    "variant_id": "gid://shopify/ProductVariant/46952237990111",
-    "global_id": "gid://shopify/ProductVariant/46952237990111",
-    "variant_title": "Dark Green",
-    "sku": "CZSET409GR",
-    "price": 4500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZSET409GR-2.jpg?v=1746793522",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-necklace-set-czset409?variant=gid://shopify/ProductVariant/46952237990111",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/46952238022879": {
-    "product_title": "Silver Plated Faux Diamond Necklace Set with Diamante - CZSET409",
-    "product_handle": "silver-plated-faux-diamond-necklace-set-czset409",
-    "variant_id": "gid://shopify/ProductVariant/46952238022879",
-    "global_id": "gid://shopify/ProductVariant/46952238022879",
-    "variant_title": "Red",
-    "sku": "CZSET409R",
-    "price": 4500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZSET409R-2.jpg?v=1746793522",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-necklace-set-czset409?variant=gid://shopify/ProductVariant/46952238022879",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/46952250966239": {
     "product_title": "White Color Silver Plated Faux Diamond Necklace Set with Diamante - CZSET410",
     "product_handle": "white-color-silver-plated-faux-diamond-necklace-set-czset410",
@@ -78361,21 +78319,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-passa-mp227m?variant=gid://shopify/ProductVariant/49167539175647",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/49167631188191": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Passa with Moon Motif - MP228M",
-    "product_handle": "multicolor-gold-plated-jadau-kundan-passa-mp228m",
-    "variant_id": "gid://shopify/ProductVariant/49167631188191",
-    "global_id": "gid://shopify/ProductVariant/49167631188191",
-    "variant_title": "Default Title",
-    "sku": "MP228M",
-    "price": 6000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MP228M.jpg?v=1778666171",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-passa-mp228m?variant=gid://shopify/ProductVariant/49167631188191",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/49167750299871": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Passa with Floral and Moon Motifs - MP229M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-passa-mp229m",
@@ -84237,7 +84180,7 @@
     "price": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1574M.jpg?v=1781508372",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1574?variant=gid://shopify/ProductVariant/50116519755999",
     "stock": 1,
     "last_alerted_stock": 0
@@ -93838,6 +93781,35 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46952237957343": {
+    "product_title": "Silver Plated Faux Diamond Necklace Set with Diamante - CZSET409",
+    "product_handle": "silver-plated-faux-diamond-necklace-set-czset409",
+    "variant_id": "gid://shopify/ProductVariant/46952237957343",
+    "global_id": "gid://shopify/ProductVariant/46952237957343",
+    "variant_title": "White",
+    "sku": "CZSET409",
+    "price": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZSET409-2.jpg?v=1746793513",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-necklace-set-czset409?variant=gid://shopify/ProductVariant/46952237957343",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49167631188191": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Passa with Moon Motif - MP228M",
+    "product_handle": "multicolor-gold-plated-jadau-kundan-passa-mp228m",
+    "variant_id": "gid://shopify/ProductVariant/49167631188191",
+    "global_id": "gid://shopify/ProductVariant/49167631188191",
+    "variant_title": "Default Title",
+    "sku": "MP228M",
+    "price": 6000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MP228M.jpg?v=1778666171",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-passa-mp228m?variant=gid://shopify/ProductVariant/49167631188191",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47629414007007": {
     "product_title": "Kriti Sanon in Multicolor Gold-Plated Jadau Kundan Mortantra Braid Accessory with Moon Motif - MHA241M",

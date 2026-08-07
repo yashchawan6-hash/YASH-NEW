@@ -226,9 +226,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-1.jpg?v=1739812489",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661238441",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411661172905": {
@@ -243,7 +243,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-6.jpg?v=1739812494",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661172905",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/40411661205673": {
     "product_title": "Double Solitaire Earrings",
@@ -401,21 +402,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/tri-fall-danglers?variant=gid://shopify/ProductVariant/47687348650196",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/40411667693737": {
-    "product_title": "Snowflake Floral Earrings",
-    "product_handle": "snowflake-floral-earrings",
-    "variant_id": "gid://shopify/ProductVariant/40411667693737",
-    "global_id": "gid://shopify/ProductVariant/40411667693737",
-    "variant_title": "Rose Gold / Diamond",
-    "sku": "SS8422RG",
-    "price": 2350.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/snowflake-floral-earrings-attrangi-1.jpg?v=1739812528",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/snowflake-floral-earrings?variant=gid://shopify/ProductVariant/40411667693737",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42718855397588": {
     "product_title": "Stiff Pear Drop Earrings",
@@ -612,7 +598,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-bangle-set-attrangi-3.jpg?v=1739812554",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/classic-bangle-set?variant=gid://shopify/ProductVariant/40411669397673",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44351478399188": {
     "product_title": "Classic Bangle Set",
@@ -654,7 +641,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-bangle-set-attrangi-2.jpg?v=1739812553",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/classic-bangle-set?variant=gid://shopify/ProductVariant/40411669495977",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411669528745": {
     "product_title": "Classic Bangle Set",
@@ -795,6 +783,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/marquise-and-round-bangle-set-attrangi-1.jpg?v=1739812558",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marquise-round-bangle-set?variant=gid://shopify/ProductVariant/40411671330985",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/48432567746772": {
+    "product_title": "Marquise & Round Bangle Set",
+    "product_handle": "marquise-round-bangle-set",
+    "variant_id": "gid://shopify/ProductVariant/48432567746772",
+    "global_id": "gid://shopify/ProductVariant/48432567746772",
+    "variant_title": "Silver / Pair / 2.8",
+    "sku": "SS2244S8",
+    "price": 3650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/marquise-and-round-bangle-set-attrangi-1.jpg?v=1739812558",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/marquise-round-bangle-set?variant=gid://shopify/ProductVariant/48432567746772",
     "stock": 1
   },
   "gid://shopify/ProductVariant/47765821292756": {
@@ -1121,20 +1123,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/adaaonwaali?variant=gid://shopify/ProductVariant/47842592129236",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/40411686994089": {
-    "product_title": "Heer Maangtika",
-    "product_handle": "heer-maangtika",
-    "variant_id": "gid://shopify/ProductVariant/40411686994089",
-    "global_id": "gid://shopify/ProductVariant/40411686994089",
-    "variant_title": "Green",
-    "sku": "SS0079GR",
-    "price": 1650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/heer-maangtika-attrangi-2.jpg?v=1739812638",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/heer-maangtika?variant=gid://shopify/ProductVariant/40411686994089",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/40411687485609": {
     "product_title": "Taazgi Polki Oversized Maangtika",
@@ -1719,21 +1707,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jadaau-square-tukdi-studs?variant=gid://shopify/ProductVariant/40411701674153",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/43748615520468": {
-    "product_title": "Zeenat Jadaau Rani Haar",
-    "product_handle": "zeenat-jadaau-rani-haar",
-    "variant_id": "gid://shopify/ProductVariant/43748615520468",
-    "global_id": "gid://shopify/ProductVariant/43748615520468",
-    "variant_title": "White",
-    "sku": "QS0428W",
-    "price": 6250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeenat-jadaau-rani-haar-attrangi-1.jpg?v=1744966659",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/zeenat-jadaau-rani-haar?variant=gid://shopify/ProductVariant/43748615520468",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41567429132457": {
     "product_title": "Oversized Jhumka With Kannauti",
@@ -2961,7 +2934,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-ruby-emerald-studs-attrangi-1.jpg?v=1739813171",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rudra-ruby-emerald-studs?variant=gid://shopify/ProductVariant/40838553927849",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/40846418411689": {
     "product_title": "1 Carat Princess Cut Daily Wear Ring",
@@ -3004,20 +2977,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-princess-cut-daily-wear-ring?variant=gid://shopify/ProductVariant/40846418608297",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/40847682011305": {
-    "product_title": "Multi Gem-Stone Bali",
-    "product_handle": "multi-gem-stone-bali",
-    "variant_id": "gid://shopify/ProductVariant/40847682011305",
-    "global_id": "gid://shopify/ProductVariant/40847682011305",
-    "variant_title": "Default Title",
-    "sku": "WG00245",
-    "price": 1950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/multi-gem-stone-bali-attrangi-1.jpg?v=1739813192",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/multi-gem-stone-bali?variant=gid://shopify/ProductVariant/40847682011305",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/40856436474025": {
     "product_title": "Multi Slim Band Ring",
@@ -3314,7 +3273,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeenat-jadaau-oversized-earrings-with-kannauti-attrangi-1.jpg?v=1739813299",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zeenat-jadaau-oversized-earrings-with-kannauti?variant=gid://shopify/ProductVariant/43752778891476",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43752778858708": {
     "product_title": "Zeenat Jadaau Oversized Earrings with Kannauti",
@@ -3682,7 +3642,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/real-looking-90-cents-round-pendant-attrangi-2.jpg?v=1739813348",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/real-looking-90-cents-round-pendant?variant=gid://shopify/ProductVariant/42137043960020",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41190794657961": {
     "product_title": "Kaaveri Kada",
@@ -3766,7 +3727,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-choker-set-attrangi-1.jpg?v=1739813413",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rudra-choker-set?variant=gid://shopify/ProductVariant/42224696393940",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/42224696426708": {
     "product_title": "Rudra Choker Set",
@@ -4146,6 +4107,34 @@
     "url": "https://www.attrangi.in/products/hitashi-pearl-diamond-choker?variant=gid://shopify/ProductVariant/42196759412948",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/48432379822292": {
+    "product_title": "Ascher Cut Solitaire Ring",
+    "product_handle": "ascher-cut-solitaire-ring",
+    "variant_id": "gid://shopify/ProductVariant/48432379822292",
+    "global_id": "gid://shopify/ProductVariant/48432379822292",
+    "variant_title": "6 / Rose Gold",
+    "sku": "WG20234RG6",
+    "price": 1050.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ascher-cut-solitaire-ring-attrangi-1.jpg?v=1739813599",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ascher-cut-solitaire-ring?variant=gid://shopify/ProductVariant/48432379822292",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48432379855060": {
+    "product_title": "Ascher Cut Solitaire Ring",
+    "product_handle": "ascher-cut-solitaire-ring",
+    "variant_id": "gid://shopify/ProductVariant/48432379855060",
+    "global_id": "gid://shopify/ProductVariant/48432379855060",
+    "variant_title": "7 / Rose Gold",
+    "sku": "WG20234RG7",
+    "price": 1050.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ascher-cut-solitaire-ring-attrangi-1.jpg?v=1739813599",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ascher-cut-solitaire-ring?variant=gid://shopify/ProductVariant/48432379855060",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/42286872592596": {
     "product_title": "Ascher Cut Solitaire Ring",
     "product_handle": "ascher-cut-solitaire-ring",
@@ -4159,20 +4148,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ascher-cut-solitaire-ring?variant=gid://shopify/ProductVariant/42286872592596",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/43185005330644": {
-    "product_title": "Ascher Cut Solitaire Ring",
-    "product_handle": "ascher-cut-solitaire-ring",
-    "variant_id": "gid://shopify/ProductVariant/43185005330644",
-    "global_id": "gid://shopify/ProductVariant/43185005330644",
-    "variant_title": "8 / Silver",
-    "sku": "WG20234S8",
-    "price": 1050.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ascher-cut-solitaire-ring-attrangi-2.jpg?v=1739813600",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/ascher-cut-solitaire-ring?variant=gid://shopify/ProductVariant/43185005330644",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/46511635792084": {
     "product_title": "Navratna Western Ring",
@@ -4666,9 +4641,9 @@
     "price": 1350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ik-onkar-nazaria-mangalsutra-attrangi-1.jpg?v=1739813857",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ik-onkar-nazaria-mangalsutra?variant=gid://shopify/ProductVariant/42703366652116",
-    "stock": 0,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46070128017620": {
@@ -6204,6 +6179,34 @@
     "stock": 1,
     "last_alerted_stock": 0
   },
+  "gid://shopify/ProductVariant/48432544547028": {
+    "product_title": "Diamond Baguette Band Ring",
+    "product_handle": "diamond-baguette-band-ring",
+    "variant_id": "gid://shopify/ProductVariant/48432544547028",
+    "global_id": "gid://shopify/ProductVariant/48432544547028",
+    "variant_title": "5 / Rose Gold",
+    "sku": "WG001RG5",
+    "price": 1550.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diamond-baguette-band-ring-attrangi-2.jpg?v=1739814142",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/diamond-baguette-band-ring?variant=gid://shopify/ProductVariant/48432544547028",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48432544579796": {
+    "product_title": "Diamond Baguette Band Ring",
+    "product_handle": "diamond-baguette-band-ring",
+    "variant_id": "gid://shopify/ProductVariant/48432544579796",
+    "global_id": "gid://shopify/ProductVariant/48432544579796",
+    "variant_title": "5 / Gold",
+    "sku": "WG001G5",
+    "price": 1550.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diamond-baguette-band-ring-attrangi-3.jpg?v=1739814144",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/diamond-baguette-band-ring?variant=gid://shopify/ProductVariant/48432544579796",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/43209127821524": {
     "product_title": "Diamond Baguette Band Ring",
     "product_handle": "diamond-baguette-band-ring",
@@ -7366,21 +7369,6 @@
     "url": "https://www.attrangi.in/products/i-carat-round-diamond-bali-daily-wear?variant=gid://shopify/ProductVariant/48119346364628",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/43644425765076": {
-    "product_title": "Nimisha Uncut Polki Maangtika",
-    "product_handle": "nimisha-uncut-polki-maangtika",
-    "variant_id": "gid://shopify/ProductVariant/43644425765076",
-    "global_id": "gid://shopify/ProductVariant/43644425765076",
-    "variant_title": "Default Title",
-    "sku": "SM0375",
-    "price": 2150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/nimisha-uncut-polki-maangtika-attrangi-1.jpg?v=1739814485",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/nimisha-uncut-polki-maangtika?variant=gid://shopify/ProductVariant/43644425765076",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/44098331967700": {
     "product_title": "Marilyn Diamond Necklace Set with Pearls",
     "product_handle": "marilyn-diamond-necklace-set-with-pearls",
@@ -7807,6 +7795,20 @@
     "url": "https://www.attrangi.in/products/stacy-pendant-fall-diamond-set?variant=gid://shopify/ProductVariant/43775906185428",
     "stock": 3
   },
+  "gid://shopify/ProductVariant/48432482058452": {
+    "product_title": "Glazed Round Solitaire Diamond Ring with Split Shank",
+    "product_handle": "glazed-round-solitaire-diamond-ring-with-split-shank",
+    "variant_id": "gid://shopify/ProductVariant/48432482058452",
+    "global_id": "gid://shopify/ProductVariant/48432482058452",
+    "variant_title": "Silver / 6",
+    "sku": "WG21000S6",
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/glazed-round-solitaire-diamond-ring-with-split-shank-attrangi-1.jpg?v=1739814703",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/glazed-round-solitaire-diamond-ring-with-split-shank?variant=gid://shopify/ProductVariant/48432482058452",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/43811656663252": {
     "product_title": "Glazed Round Solitaire Diamond Ring with Split Shank",
     "product_handle": "glazed-round-solitaire-diamond-ring-with-split-shank",
@@ -7833,6 +7835,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/glazed-round-solitaire-diamond-ring-with-split-shank-attrangi-1.jpg?v=1739814703",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/glazed-round-solitaire-diamond-ring-with-split-shank?variant=gid://shopify/ProductVariant/43811656696020",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48432482091220": {
+    "product_title": "Glazed Round Solitaire Diamond Ring with Split Shank",
+    "product_handle": "glazed-round-solitaire-diamond-ring-with-split-shank",
+    "variant_id": "gid://shopify/ProductVariant/48432482091220",
+    "global_id": "gid://shopify/ProductVariant/48432482091220",
+    "variant_title": "Rose Gold / 6",
+    "sku": "WG21000RG6",
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/glazed-round-solitaire-diamond-ring-with-split-shank-attrangi-2.jpg?v=1739814704",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/glazed-round-solitaire-diamond-ring-with-split-shank?variant=gid://shopify/ProductVariant/48432482091220",
     "stock": 0
   },
   "gid://shopify/ProductVariant/43811665412308": {
@@ -7930,9 +7946,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sharda-maangtika-attrangi.jpg?v=1739814753",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sharda-maangtika?variant=gid://shopify/ProductVariant/43843915940052",
-    "stock": 9,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43855905784020": {
@@ -8331,21 +8347,6 @@
     "url": "https://www.attrangi.in/products/5-line-multi-polish-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/43891226673364",
     "stock": 3,
     "last_alerted_stock": 2
-  },
-  "gid://shopify/ProductVariant/43891246203092": {
-    "product_title": "Interlinked Diamond Tennis Bracelet",
-    "product_handle": "interlinked-diamond-tennis-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/43891246203092",
-    "global_id": "gid://shopify/ProductVariant/43891246203092",
-    "variant_title": "Silver",
-    "sku": "WG0888S",
-    "price": 2350.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/interlinked-diamond-tennis-bracelet-attrangi-1.jpg?v=1739814920",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/interlinked-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/43891246203092",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48267152621780": {
     "product_title": "Just Tiny Pear Diamond Tennis Bracelet",
@@ -9689,6 +9690,20 @@
     "url": "https://www.attrangi.in/products/brenda-coloured-stone-diamond-cocktail-ring?variant=gid://shopify/ProductVariant/44139072028884",
     "stock": 1,
     "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/48432558506196": {
+    "product_title": "Brenda Coloured Stone Diamond Cocktail Ring",
+    "product_handle": "brenda-coloured-stone-diamond-cocktail-ring",
+    "variant_id": "gid://shopify/ProductVariant/48432558506196",
+    "global_id": "gid://shopify/ProductVariant/48432558506196",
+    "variant_title": "Blue",
+    "sku": "WG2538B",
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG2538B_101900_2023112863411.jpg?v=1786023154",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/brenda-coloured-stone-diamond-cocktail-ring?variant=gid://shopify/ProductVariant/48432558506196",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/44139771986132": {
     "product_title": "Simple Clustered Diamond Band Ring",
@@ -11368,7 +11383,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kaamini-openable-indian-bangle-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815807",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kaamini-openable-indian-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44487649329364",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45275870068948": {
     "product_title": "Kaamini Openable Indian Bangle | Sone Pe Suhaga Collection",
@@ -12465,20 +12481,6 @@
     "stock": 3,
     "last_alerted_stock": 2
   },
-  "gid://shopify/ProductVariant/44691345146068": {
-    "product_title": "Sana Oversized Jadaau Multi Chandbali",
-    "product_handle": "sana-oversized-jadaau-multi-chandbali",
-    "variant_id": "gid://shopify/ProductVariant/44691345146068",
-    "global_id": "gid://shopify/ProductVariant/44691345146068",
-    "variant_title": "Default Title",
-    "sku": "JG02316MU",
-    "price": 4250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sana-oversized-jadaau-multi-chandbali-attrangi-1.jpg?v=1739816022",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/sana-oversized-jadaau-multi-chandbali?variant=gid://shopify/ProductVariant/44691345146068",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/44694536716500": {
     "product_title": "Ruby Mania Diamond Dangler Earrings | Daily Wear",
     "product_handle": "ruby-mania-diamond-dangler-earrings-daily-wear",
@@ -13167,9 +13169,9 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/nakshatra-diamond-studs-attrangi-2.jpg?v=1749452573",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nakshatra-diamond-studs?variant=gid://shopify/ProductVariant/45076690305236",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47990548037844": {
@@ -13367,21 +13369,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lavina-floral-diamond-maangtikka?variant=gid://shopify/ProductVariant/44982888464596",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/44982933029076": {
-    "product_title": "Sasha Single Line Polki Victorian Set",
-    "product_handle": "sasha-single-line-polki-victorian-set",
-    "variant_id": "gid://shopify/ProductVariant/44982933029076",
-    "global_id": "gid://shopify/ProductVariant/44982933029076",
-    "variant_title": "Default Title",
-    "sku": "SJO4214",
-    "price": 3650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-05-04at7.17.03PM.jpg?v=1739816354",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/sasha-single-line-polki-victorian-set?variant=gid://shopify/ProductVariant/44982933029076",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44982957703380": {
     "product_title": "Gitanjali long Single Line Sona Moti Mala",
@@ -13651,7 +13638,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_11.08.15_PM.jpg?v=1750781920",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/10-cent-daily-wear-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/45075445252308",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45075576324308": {
@@ -13891,7 +13878,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_10.21.22_PM.jpg?v=1757484323",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/preeta-thin-cnc-gold-plated-bangle?variant=gid://shopify/ProductVariant/45250594013396",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45250589294804": {
@@ -13976,7 +13963,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/shifa-jadaau-bridal-pearl-set-attrangi-1.jpg?v=1739816572",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shifa-jadaau-bridal-pearl-set?variant=gid://shopify/ProductVariant/45275688337620",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45762448687316": {
     "product_title": "Vanessa Floral Pearl Long Necklace Set",
@@ -14402,7 +14390,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sona-moti-rakhi-bracelet-or-bhaiya-bhaabhi-sister-attrangi-1.jpg?v=1739816807",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sona-moti-rakhi-bracelet-bhaiya-bhaabhi-sister?variant=gid://shopify/ProductVariant/45442902917332",
-    "stock": 5,
+    "stock": 6,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/45453862502612": {
@@ -15320,6 +15308,20 @@
     "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/45620675117268",
     "stock": 3
   },
+  "gid://shopify/ProductVariant/48432480780500": {
+    "product_title": "Giza Round Solitaire Cocktail Diamond Ring | Baguettes",
+    "product_handle": "giza-round-solitaire-cocktail-diamond-ring-baguettes",
+    "variant_id": "gid://shopify/ProductVariant/48432480780500",
+    "global_id": "gid://shopify/ProductVariant/48432480780500",
+    "variant_title": "9",
+    "sku": "WG13245SZ9-RI",
+    "price": 2450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/48432480780500",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/45629289365716": {
     "product_title": "Foolan Sone pe Suhaga Ring",
     "product_handle": "foolan-sone-pe-suhaga-ring",
@@ -15598,9 +15600,10 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-03-07_at_5.42.10_PM.jpg?v=1744967854",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/gloria-fused-diamond-coloured-stone-studs?variant=gid://shopify/ProductVariant/46130306711764",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45678667333844": {
     "product_title": "Aloha Diamond Statement Studs",
@@ -19940,50 +19943,6 @@
     "url": "https://www.attrangi.in/products/kamya-victorian-pendant-set-with-earrings?variant=gid://shopify/ProductVariant/46030274822356",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/46043675263188": {
-    "product_title": "Dressing Lola Coloured Stone Diamond Kada",
-    "product_handle": "dressing-lola-coloured-stone-diamond-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/46043675263188",
-    "global_id": "gid://shopify/ProductVariant/46043675263188",
-    "variant_title": "Pink / This kada comes in one size that fits most people within 2.2-2.6",
-    "sku": "WG13314PI-BG",
-    "price": 3450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-25at8.30.16PM.jpg?v=1775629456",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/dressing-lola-coloured-stone-diamond-bracelet?variant=gid://shopify/ProductVariant/46043675263188",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47770937950420": {
-    "product_title": "Dressing Lola Coloured Stone Diamond Kada",
-    "product_handle": "dressing-lola-coloured-stone-diamond-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/47770937950420",
-    "global_id": "gid://shopify/ProductVariant/47770937950420",
-    "variant_title": "Green / This kada comes in one size that fits most people within 2.2-2.6",
-    "sku": "WG13314GR-BG",
-    "price": 3450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-25_at_8.30.15_PM_1.jpg?v=1775629456",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/dressing-lola-coloured-stone-diamond-bracelet?variant=gid://shopify/ProductVariant/47770937950420",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/47939513745620": {
-    "product_title": "Dressing Lola Coloured Stone Diamond Kada",
-    "product_handle": "dressing-lola-coloured-stone-diamond-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/47939513745620",
-    "global_id": "gid://shopify/ProductVariant/47939513745620",
-    "variant_title": "Blue / This kada comes in one size that fits most people within 2.2-2.6",
-    "sku": "WG13314B-BG",
-    "price": 3450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-05-14_at_4.43.11_PM.jpg?v=1778762833",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/dressing-lola-coloured-stone-diamond-bracelet?variant=gid://shopify/ProductVariant/47939513745620",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/46045034086612": {
     "product_title": "Dorothy Diamond Choker Set with Mid Sized Earrings",
     "product_handle": "dorothy-diamond-choker-set-with-mid-sized-earrings",
@@ -20052,8 +20011,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-07at5.55.43PM.jpg?v=1757493869",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhilmil-diamond-mattel-diamond-hair-chain?variant=gid://shopify/ProductVariant/46229671248084",
-    "stock": 3,
-    "last_alerted_stock": 1
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46605344997588": {
     "product_title": "Jhilmil Diamond Mattel | Diamond Hair Chain",
@@ -20943,23 +20902,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-27at6.35.12PM_1.jpg?v=1740904556",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chandfall-jhumka-moissanite-indian-earring-antique-gold?variant=gid://shopify/ProductVariant/46107963228372",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
-  },
-  "gid://shopify/ProductVariant/46169838420180": {
-    "product_title": "Chand Sa Roshan Chehra Moissanite Tri Jhumka Drop Indian Earring",
-    "product_handle": "chand-sa-roshan-chehra-moissanite-tri-jhumka-drop-indian-earring",
-    "variant_id": "gid://shopify/ProductVariant/46169838420180",
-    "global_id": "gid://shopify/ProductVariant/46169838420180",
-    "variant_title": "Green",
-    "sku": "RP42518GR-ER",
-    "price": 4350.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-27at7.07.34PM.jpg?v=1740904566",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/chand-sa-roshan-chehra-moissanite-tri-jhumka-drop-indian-earring?variant=gid://shopify/ProductVariant/46169838420180",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46109969645780": {
     "product_title": "KinniNaari Mid Sized Moissanite Polki Chandbali Earrings",
@@ -24318,7 +24262,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.03_PM.jpg?v=1764671903",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pallavi-moissanite-polki-bridal-choker-set?variant=gid://shopify/ProductVariant/46325324513492",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46325326086356": {
     "product_title": "Pallavi Moissanite Polki Bridal Choker Set",
@@ -24418,6 +24363,20 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/blooming-floral-crush-diamond-cocktail-ring?variant=gid://shopify/ProductVariant/46336587038932",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/48432544415956": {
+    "product_title": "Whispers of a Rainbow Diamond Baguette Band Ring In Rose Gold",
+    "product_handle": "whispers-of-a-rainbow-diamond-baguette-band-ring-in-rose-gold",
+    "variant_id": "gid://shopify/ProductVariant/48432544415956",
+    "global_id": "gid://shopify/ProductVariant/48432544415956",
+    "variant_title": "5",
+    "sku": "WG3257RGZ5-RI",
+    "price": 1950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-05-21at4.26.21PM_1.jpg?v=1749411172",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/whispers-of-a-rainbow-diamond-baguette-band-ring-in-rose-gold?variant=gid://shopify/ProductVariant/48432544415956",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/46318098579668": {
     "product_title": "Whispers of a Rainbow Diamond Baguette Band Ring In Rose Gold",
@@ -25245,9 +25204,10 @@
     "price": 7650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_11.52.31_PM_1.jpg?v=1757501136",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/phoolkari-openable-gold-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/46400363495636",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46400384073940": {
     "product_title": "WildPlay Diamond Pearl Gemstone Earrings | GemZ Collection",
@@ -26424,21 +26384,6 @@
     "url": "https://www.attrangi.in/products/queen-of-hearts-diamond-cocktail-ring?variant=gid://shopify/ProductVariant/47708201058516",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/46525483843796": {
-    "product_title": "PolkiSi Moissanite Coloured Stone Indian Maangtika",
-    "product_handle": "polkisi-moissanite-coloured-stone-indian-maangtika",
-    "variant_id": "gid://shopify/ProductVariant/46525483843796",
-    "global_id": "gid://shopify/ProductVariant/46525483843796",
-    "variant_title": "Blue",
-    "sku": "ST038956B-MG",
-    "price": 1950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-01-21at2.42.55PM.jpg?v=1753275609",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/polkisi-moissanite-coloured-stone-indian-maangtika?variant=gid://shopify/ProductVariant/46525483843796",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/46531905913044": {
     "product_title": "Boho Tribe Gold Indowestern Funky Polki Set",
     "product_handle": "boho-tribe-gold-indowestern-funky-polki-set",
@@ -26564,8 +26509,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-07-24at3.14.36PM_1.jpg?v=1753437029",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/dhadkan-polki-emerald-victorian-bangle-kada?variant=gid://shopify/ProductVariant/47648844742868",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47648844775636": {
     "product_title": "Dhadkan Polki Emerald Victorian Kada",
@@ -26905,7 +26850,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-30_at_3.28.21_PM.jpg?v=1775207502",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nathan-diamond-set-in-gold-polish?variant=gid://shopify/ProductVariant/46644800979156",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46644801011924": {
     "product_title": "Nathan Diamond Set in Gold Polish",
@@ -27679,10 +27625,10 @@
     "price": 12450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-12at10.12.27AM.jpg?v=1757656397",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/mint-pink-polki-moissanite-russian-emerald-choker-set?variant=gid://shopify/ProductVariant/46901028290772",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46901109719252": {
     "product_title": "Polki Moissanite Classic Slim Uncut Diamond Bangles",
@@ -28362,20 +28308,6 @@
     "url": "https://www.attrangi.in/products/jannice-diamond-coloured-stone-studs-earrings?variant=gid://shopify/ProductVariant/46984442872020",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/46913920368852": {
-    "product_title": "Rasna Statement Indian Moissanite Polki Earring",
-    "product_handle": "rasna-statement-indian-moissanite-polki-earring",
-    "variant_id": "gid://shopify/ProductVariant/46913920368852",
-    "global_id": "gid://shopify/ProductVariant/46913920368852",
-    "variant_title": "Default Title",
-    "sku": "RP52623-ER",
-    "price": 4750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-15at11.17.49PM.jpg?v=1758025978",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/rasna-statement-indian-moissanite-polki-earring?variant=gid://shopify/ProductVariant/46913920368852",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/46984228864212": {
     "product_title": "Basanti Moissanite Polki Epoxy Meenakari Chandbali Indian Earring",
     "product_handle": "basanti-moissanite-polki-epoxy-meenakari-chandbali-indian-earring",
@@ -28873,6 +28805,20 @@
     "stock": 0,
     "last_alerted_stock": 0
   },
+  "gid://shopify/ProductVariant/48431962718420": {
+    "product_title": "Ray Round Soltiaire Marquise Jacket Diamond Ring | Daily Wear",
+    "product_handle": "ray-round-soltiaire-marquise-jacket-diamond-ring-daily-wear",
+    "variant_id": "gid://shopify/ProductVariant/48431962718420",
+    "global_id": "gid://shopify/ProductVariant/48431962718420",
+    "variant_title": "9 / Silver",
+    "sku": "WG3152SZ9-RI",
+    "price": 2150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-22_at_2.21.37_PM.jpg?v=1758531304",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ray-round-soltiaire-marquise-jacket-diamond-ring-daily-wear?variant=gid://shopify/ProductVariant/48431962718420",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/46958417641684": {
     "product_title": "Pastel Rainbow Multicoloured Diamond Band Ring | Daily Wear",
     "product_handle": "pastel-rainbow-multicoloured-diamond-band-ring-daily-wear",
@@ -29196,8 +29142,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at1.54.31PM_1.jpg?v=1758530275",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/wavy-diamond-solitaire-ring-with-band-daily-wear?variant=gid://shopify/ProductVariant/48348067496148",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48348067528916": {
     "product_title": "Wavy Diamond Solitaire Ring with Band | Daily Wear",
@@ -29341,7 +29287,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at1.47.50PM.jpg?v=1758539944",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marquise-around-thick-diamond-band-ring-daily-wear?variant=gid://shopify/ProductVariant/46960873799892",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/46960873832660": {
     "product_title": "Marquise around Thick Diamond Band Ring | Daily Wear",
@@ -29355,8 +29301,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at1.47.50PM.jpg?v=1758539944",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marquise-around-thick-diamond-band-ring-daily-wear?variant=gid://shopify/ProductVariant/46960873832660",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46960873898196": {
     "product_title": "Marquise around Thick Diamond Band Ring | Daily Wear",
@@ -30895,7 +30841,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770851540",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47027770884308": {
@@ -30923,9 +30869,9 @@
     "price": 5650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770949844",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47027770982612": {
@@ -30940,7 +30886,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770982612",
-    "stock": 1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47027771015380": {
     "product_title": "Rosy Moissanite Pacheli Style Thin Polki Bangle | Openable",
@@ -30952,9 +30898,9 @@
     "price": 5650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027771015380",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47045697175764": {
@@ -31418,8 +31364,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-01at10.44.22PM.jpg?v=1764655851",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/round-polki-sui-dhaaga-cuff-statement-earrings?variant=gid://shopify/ProductVariant/47113998434516",
-    "stock": 2,
-    "last_alerted_stock": 0
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47118714667220": {
     "product_title": "Reba Diamond Big Long Dangler Earrings",
@@ -31461,7 +31407,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-27_at_5.19.46_PM.jpg?v=1774943321",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sone-pe-suhaga-traditional-earcuff-with-indian-jhumka?variant=gid://shopify/ProductVariant/47118724694228",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47118770438356": {
     "product_title": "Hero Diamond Stiff Long Statement Earrings",
@@ -32111,9 +32058,9 @@
     "price": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-11-11at10.06.28PM.jpg?v=1762929012",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/radha-mint-red-kundan-mid-sized-choker-set?variant=gid://shopify/ProductVariant/47247042216148",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47257002770644": {
@@ -33369,9 +33316,9 @@
     "price": 8650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-10_at_2.04.02_PM.jpg?v=1776320469",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mystic-petal-diamond-pastel-set-enchanted-garden?variant=gid://shopify/ProductVariant/47808223903956",
-    "stock": 0,
+    "stock": 5,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47335901397204": {
@@ -33527,7 +33474,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-13at1.03.30PM.jpg?v=1765614338",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/glistening-blossom-diamond-pastel-bracelet-enchanted-garden?variant=gid://shopify/ProductVariant/47346146705620",
-    "stock": 2,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47408780083412": {
@@ -34727,7 +34674,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-07at5.18.42PM_1.jpg?v=1767793885",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rajgharana-polki-designer-earring-indian-earcuff?variant=gid://shopify/ProductVariant/47422290690260",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47422355964116": {
@@ -36163,10 +36110,10 @@
     "price": 4250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-06at2.37.20PM.jpg?v=1770618918",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/vivah-moissanite-uncut-diamond-classic-2-line-kada?variant=gid://shopify/ProductVariant/47530692051156",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47530692083924": {
     "product_title": "Vivah Moissanite Uncut Diamond Classic 2 Line Kada",
@@ -36381,20 +36328,6 @@
     "url": "https://www.attrangi.in/products/wrap-me-around-your-wrist-diamond-designer-bracelet-cuff?variant=gid://shopify/ProductVariant/47709781786836",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/47551293522132": {
-    "product_title": "Crowning glory diamond daily wear thin bracelet",
-    "product_handle": "crowning-glory-diamond-daily-wear-thin-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/47551293522132",
-    "global_id": "gid://shopify/ProductVariant/47551293522132",
-    "variant_title": "This kada comes in one size that fits most people from size 2.2 to 2.6",
-    "sku": "WG6263G-BG",
-    "price": 2450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-13at3.52.36PM.jpg?v=1770982176",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/crowning-glory-diamond-daily-wear-thin-bracelet?variant=gid://shopify/ProductVariant/47551293522132",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/47551302959316": {
     "product_title": "Bows & Ribbons Diamond Daily Wear Bracelet",
     "product_handle": "bows-ribbons-diamond-daily-wear-bracelet",
@@ -36518,9 +36451,9 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at12.06.26PM.jpg?v=1774097435",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jaisingh-mini-polki-moissanite-red-green-kalangi-brooch?variant=gid://shopify/ProductVariant/47578598899924",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47578629636308": {
@@ -36765,20 +36698,33 @@
     "url": "https://www.attrangi.in/products/gajajan-elephant-gold-polki-coloured-brooch-unisex?variant=gid://shopify/ProductVariant/47579097137364",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/47579125678292": {
+  "gid://shopify/ProductVariant/48429805011156": {
     "product_title": "Mehra Elephant Lotus Diamond Magnetic Brooch | Unisex",
     "product_handle": "mehra-elephant-lotus-diamond-magnetic-brooch-unisex",
-    "variant_id": "gid://shopify/ProductVariant/47579125678292",
-    "global_id": "gid://shopify/ProductVariant/47579125678292",
-    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48429805011156",
+    "global_id": "gid://shopify/ProductVariant/48429805011156",
+    "variant_title": "White",
     "sku": "RP47914-BR",
     "price": 4250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-06_at_1.21.29_PM_2.jpg?v=1772785628",
     "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/mehra-elephant-lotus-diamond-magnetic-brooch-unisex?variant=gid://shopify/ProductVariant/47579125678292",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "url": "https://www.attrangi.in/products/mehra-elephant-lotus-diamond-magnetic-brooch-unisex?variant=gid://shopify/ProductVariant/48429805011156",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/48429809696980": {
+    "product_title": "Mehra Elephant Lotus Diamond Magnetic Brooch | Unisex",
+    "product_handle": "mehra-elephant-lotus-diamond-magnetic-brooch-unisex",
+    "variant_id": "gid://shopify/ProductVariant/48429809696980",
+    "global_id": "gid://shopify/ProductVariant/48429809696980",
+    "variant_title": "Green",
+    "sku": "RP47914GR-BR",
+    "price": 4250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-06_at_2.33.57_PM.jpg?v=1786007326",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/mehra-elephant-lotus-diamond-magnetic-brooch-unisex?variant=gid://shopify/ProductVariant/48429809696980",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47579135606996": {
     "product_title": "Gamla Rose cut diamond and emerald Brooch | Unisex",
@@ -36847,9 +36793,9 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at1.24.43PM_198d5168-7e9b-4d36-8982-4e1087736589.jpg?v=1771684303",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/garuda-gold-polki-emerlad-ruby-brooch-unisex?variant=gid://shopify/ProductVariant/47579165393108",
-    "stock": 0,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47579185578196": {
@@ -36949,8 +36895,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.42.13_PM_2.jpg?v=1774269249",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kashmiri-daali-kannauti-indian-delicate-long-earrings?variant=gid://shopify/ProductVariant/47587776331988",
-    "stock": 5,
-    "last_alerted_stock": 0
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47587802972372": {
     "product_title": "Garuda Designer Polki Indo western Necklace Set",
@@ -37979,9 +37925,9 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-20at6.47.40PM.jpg?v=1774014117",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/47684226187476",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47684236804308": {
@@ -38277,7 +38223,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at4.44.16PM.jpg?v=1774274065",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zoe-multi-solitaire-diamond-cocktail-coloured-ring-adjustable?variant=gid://shopify/ProductVariant/47711920455892",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47711920488660": {
     "product_title": "Zoe Multi Solitaire Diamond Cocktail Coloured Ring | Adjustable",
@@ -38404,9 +38351,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at3.50.48PM.jpg?v=1774337360",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chamkeeli-moissanite-light-weight-polki-jhumki?variant=gid://shopify/ProductVariant/47776296992980",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47715545088212": {
@@ -38564,35 +38511,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/meher-muse-polki-moissanite-rich-pendant-set?variant=gid://shopify/ProductVariant/47776971522260",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/47715885351124": {
-    "product_title": "Meena Moissanite Polki Indo western Set",
-    "product_handle": "meena-moissanite-polki-indo-western-set",
-    "variant_id": "gid://shopify/ProductVariant/47715885351124",
-    "global_id": "gid://shopify/ProductVariant/47715885351124",
-    "variant_title": "Default Title",
-    "sku": "SJO0417-JS",
-    "price": 4650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at4.08.18PM.jpg?v=1774347648",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/meena-moissanite-polki-indo-western-set?variant=gid://shopify/ProductVariant/47715885351124",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47715950854356": {
-    "product_title": "Ikkattha Single Line Mangalsutra with Diamond Studs | Daily Wear",
-    "product_handle": "ikkattha-single-line-mangalsutra-with-diamond-studs-daily-wear",
-    "variant_id": "gid://shopify/ProductVariant/47715950854356",
-    "global_id": "gid://shopify/ProductVariant/47715950854356",
-    "variant_title": "Default Title",
-    "sku": "RP5562G",
-    "price": 2950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at4.02.05PM.jpg?v=1774351381",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/ikkattha-single-line-mangalsutra-with-diamond-studs-daily-wear?variant=gid://shopify/ProductVariant/47715950854356",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47715958128852": {
     "product_title": "Forever Vow Single Line Diamond Mangalsutra | Daily Wear",
@@ -38884,9 +38802,9 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at6.32.42PM.jpg?v=1774360804",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/leaf-wrap-diamond-band-ring-daily-wear?variant=gid://shopify/ProductVariant/47716096868564",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47716096901332": {
@@ -39067,9 +38985,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-04-04_at_5.17.27_PM.jpg?v=1775303317",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-multigemstone-thick-3-line-band-ring?variant=gid://shopify/ProductVariant/48057288720596",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/47716518035668": {
     "product_title": "Rainbow MultiGemstone Thick 3 Line Band Ring",
@@ -39081,9 +38999,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-04-04_at_5.17.27_PM.jpg?v=1775303317",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-multigemstone-thick-3-line-band-ring?variant=gid://shopify/ProductVariant/47716518035668",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48057288753364": {
@@ -39096,9 +39014,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at6.43.38PM.jpg?v=1774378506",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-multigemstone-thick-3-line-band-ring?variant=gid://shopify/ProductVariant/48057288753364",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/48057288786132": {
     "product_title": "Rainbow MultiGemstone Thick 3 Line Band Ring",
@@ -39110,9 +39028,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at6.43.38PM.jpg?v=1774378506",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-multigemstone-thick-3-line-band-ring?variant=gid://shopify/ProductVariant/48057288786132",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/48057288818900": {
     "product_title": "Rainbow MultiGemstone Thick 3 Line Band Ring",
@@ -39124,9 +39042,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at6.43.38PM.jpg?v=1774378506",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-multigemstone-thick-3-line-band-ring?variant=gid://shopify/ProductVariant/48057288818900",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47716564697300": {
     "product_title": "Belezza Baguette 90 Cent Solitaire Ring with Band | Daily Wear(SILVER)",
@@ -41445,7 +41363,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01155_1.jpg?v=1775562460",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/niki-multi-solitaire-mixed-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47768843714772",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47768932876500": {
@@ -42279,9 +42197,9 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-15at4.41.50PM.jpg?v=1776319402",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/prita-thin-gold-cnc-gold-plated-classic-bangle-set?variant=gid://shopify/ProductVariant/47808168788180",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47808168820948": {
     "product_title": "Prita Thin Gold CNC Gold Plated Classic Bangle Set",
@@ -42420,9 +42338,9 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-20at2.29.55PM.jpg?v=1776690732",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/floral-diamond-on-pearl-western-party-wear-gold-twistable-bracelet?variant=gid://shopify/ProductVariant/47825774936276",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/47825600807124": {
     "product_title": "Goa Golden Lotus Sunray Party Wear Western EarCuff",
@@ -42805,20 +42723,6 @@
     "url": "https://www.attrangi.in/products/inaaya-openable-diamond-bangles-rose-gold?variant=gid://shopify/ProductVariant/47895381606612",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/47895381803220": {
-    "product_title": "Inaaya Openable Diamond Bangles (ROSE GOLD)",
-    "product_handle": "inaaya-openable-diamond-bangles-rose-gold",
-    "variant_id": "gid://shopify/ProductVariant/47895381803220",
-    "global_id": "gid://shopify/ProductVariant/47895381803220",
-    "variant_title": "2.8 / Single",
-    "sku": "RP0014326RGZ8X1",
-    "price": 2950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-24_at_5.41.21_PM_1800x1800_4cb4fc0a-d69e-46ae-8732-dd42bd3ae455.jpg?v=1778059974",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/inaaya-openable-diamond-bangles-rose-gold?variant=gid://shopify/ProductVariant/47895381803220",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/47895489773780": {
     "product_title": "Nehru Rose Diamond Pearl Gold Brooch | Unisex",
     "product_handle": "nehru-rose-diamond-pearl-gold-brooch-unisex",
@@ -43112,9 +43016,9 @@
     "price": 6950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-12at2.08.30PM_1.jpg?v=1778579696",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sparkling-diva-2-line-diamond-necklace-with-long-earrings?variant=gid://shopify/ProductVariant/47927597170900",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47927629775060": {
@@ -43466,10 +43370,10 @@
     "price": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-17_at_4.44.38_PM_1.jpg?v=1784374391",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sharad-moissanite-earcuff-classic-indian-polki-earring?variant=gid://shopify/ProductVariant/47958778806484",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47958802071764": {
     "product_title": "Navya Polki Moissanite Delicate Jhumka Earcuff | Indian",
@@ -43582,7 +43486,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-28at12.31.02PM_1.jpg?v=1779954029",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/darshana-polki-tukdi-choker-set?variant=gid://shopify/ProductVariant/48005766971604",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48006146949332": {
     "product_title": "Chawla Sleek Polki Indian Choker Set with Studs",
@@ -44357,7 +44262,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-06at2.33.24PM.jpg?v=1783330695",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/eva-big-diamond-multi-solitaire-diamond-dangling-necklace?variant=gid://shopify/ProductVariant/48216635637972",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48216687739092": {
@@ -44742,7 +44647,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-10_at_5.13.59_PM.jpg?v=1783751016",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zoobiya-super-big-chandbalis?variant=gid://shopify/ProductVariant/48250054213844",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/48250054246612": {
     "product_title": "Zoobiya Super Big Chandbalis",
@@ -45742,6 +45647,20 @@
     "url": "https://www.attrangi.in/products/raksha-ratna-uncut-diamond-polki-bracelet-rakhi?variant=gid://shopify/ProductVariant/48295540130004",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/48428002312404": {
+    "product_title": "Raksha Ratna Uncut Diamond Polki Bracelet Rakhi",
+    "product_handle": "raksha-ratna-uncut-diamond-polki-bracelet-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48428002312404",
+    "global_id": "gid://shopify/ProductVariant/48428002312404",
+    "variant_title": "Blue",
+    "sku": "SJO9027B",
+    "price": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-06_at_1.37.51_PM.jpg?v=1786003774",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/raksha-ratna-uncut-diamond-polki-bracelet-rakhi?variant=gid://shopify/ProductVariant/48428002312404",
+    "stock": 9999
+  },
   "gid://shopify/ProductVariant/48296987656404": {
     "product_title": "Atoot Bandhan Uncut Diamond Polki Peacock Rakhi Bracelet",
     "product_handle": "atoot-bandhan-uncut-diamond-polki-peacock-rakhi-bracelet",
@@ -45965,9 +45884,9 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at4.49.22PM.jpg?v=1784291551",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pink-rose-heavy-designer-floral-cocktail-diamond-ring-adjustable?variant=gid://shopify/ProductVariant/48318667358420",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48318821302484": {
     "product_title": "Riti Oversized Dramatic Big Floral Hand Harness | Antique Polish",
@@ -45982,20 +45901,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/riti-oversized-dramatic-big-floral-hand-harness-antique-polish?variant=gid://shopify/ProductVariant/48318821302484",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/48319063490772": {
-    "product_title": "Farida Moissanite Thin Polki Gokhru Kada | Next To Real",
-    "product_handle": "farida-moissanite-thin-polki-gokhru-kada-next-to-real",
-    "variant_id": "gid://shopify/ProductVariant/48319063490772",
-    "global_id": "gid://shopify/ProductVariant/48319063490772",
-    "variant_title": "Single / 2.2",
-    "sku": "NP52741Z2-BN",
-    "price": 4350.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at5.28.04PM_1.jpg?v=1784292676",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/farida-moissanite-thin-polki-gokhru-kada-next-to-real?variant=gid://shopify/ProductVariant/48319063490772",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/48319063523540": {
     "product_title": "Farida Moissanite Thin Polki Gokhru Kada | Next To Real",
@@ -46021,7 +45926,7 @@
     "price": 4350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at5.28.04PM_1.jpg?v=1784292676",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/farida-moissanite-thin-polki-gokhru-kada-next-to-real?variant=gid://shopify/ProductVariant/48319063556308",
     "stock": 0,
     "last_alerted_stock": 0
@@ -46565,6 +46470,20 @@
     "url": "https://www.attrangi.in/products/parallel-band-2-carat-diamond-solitaire-ring?variant=gid://shopify/ProductVariant/48344730271956",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/48432553033940": {
+    "product_title": "Parallel Band 2 Carat Diamond Solitaire Ring(SILVER)",
+    "product_handle": "parallel-band-2-carat-diamond-solitaire-ring",
+    "variant_id": "gid://shopify/ProductVariant/48432553033940",
+    "global_id": "gid://shopify/ProductVariant/48432553033940",
+    "variant_title": "7",
+    "sku": "WG6036SZ7-RI",
+    "price": 2150.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-22at1.09.08PM.jpg?v=1784706695",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/parallel-band-2-carat-diamond-solitaire-ring?variant=gid://shopify/ProductVariant/48432553033940",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/48344730304724": {
     "product_title": "Parallel Band 2 Carat Diamond Solitaire Ring(SILVER)",
     "product_handle": "parallel-band-2-carat-diamond-solitaire-ring",
@@ -46659,7 +46578,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.58PM.jpg?v=1784893183",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559342292",
     "stock": 0,
     "last_alerted_stock": 0
@@ -46674,7 +46593,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.58PM_1.jpg?v=1784893183",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559375060",
     "stock": 1,
     "last_alerted_stock": 1
@@ -46689,7 +46608,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.59PM.jpg?v=1784893183",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559407828",
     "stock": 1,
     "last_alerted_stock": 1
@@ -46704,7 +46623,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.58PM.jpg?v=1784893183",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559440596",
     "stock": 0,
     "last_alerted_stock": 0
@@ -46719,7 +46638,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.58PM_1.jpg?v=1784893183",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559473364",
     "stock": 0,
     "last_alerted_stock": 0
@@ -46734,7 +46653,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.59PM.jpg?v=1784893183",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559506132",
     "stock": 0,
     "last_alerted_stock": 0
@@ -48216,7 +48135,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715223764",
     "stock": 3
   },
@@ -48637,7 +48556,7 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.39.29PM.jpg?v=1785503726",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haathi-saathi-gold-rajwada-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48401058201812",
     "stock": 0,
     "last_alerted_stock": 0
@@ -48988,7 +48907,7 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-31at5.23.03PM_3.jpg?v=1785571109",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pragya-gold-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403180421332",
     "stock": 0
   },
@@ -49425,6 +49344,35 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/deenana-kada?variant=gid://shopify/ProductVariant/48424806777044",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/48432551493844": {
+    "product_title": "Clustered Band Daily Wear Ring",
+    "product_handle": "clustered-band-daily-wear-ring-1",
+    "variant_id": "gid://shopify/ProductVariant/48432551493844",
+    "global_id": "gid://shopify/ProductVariant/48432551493844",
+    "variant_title": "Default Title",
+    "sku": "WG03739RG7",
+    "price": 1550.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG03739RG6_101900.jpg?v=1786022371",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/clustered-band-daily-wear-ring-1?variant=gid://shopify/ProductVariant/48432551493844",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/47579125678292": {
+    "product_title": "Mehra Elephant Lotus Diamond Magnetic Brooch | Unisex",
+    "product_handle": "mehra-elephant-lotus-diamond-magnetic-brooch-unisex",
+    "variant_id": "gid://shopify/ProductVariant/47579125678292",
+    "global_id": "gid://shopify/ProductVariant/47579125678292",
+    "variant_title": "Default Title",
+    "sku": "RP47914-BR",
+    "price": 4250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-06_at_1.21.29_PM_2.jpg?v=1772785628",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/mehra-elephant-lotus-diamond-magnetic-brooch-unisex?variant=gid://shopify/ProductVariant/47579125678292",
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47909383241940": {
     "product_title": "Sakuntala Long Gold Haar Set | Sone Pe Suhaga",
