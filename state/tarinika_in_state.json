@@ -10642,9 +10642,9 @@
     "price": 5549.65,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A9536copycopy.jpg?v=1662998783",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/40415893946404",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40415893913636": {
@@ -14160,7 +14160,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/FNX2751X.jpg?v=1697179846",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/sidhya-antique-necklace-set?variant=gid://shopify/ProductVariant/40768587956260",
-    "stock": 11
+    "stock": 12
   },
   "gid://shopify/ProductVariant/40768655687716": {
     "product_title": "Nanda Antique Drop Earrings",
@@ -23529,5 +23529,19 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/54109949264240",
     "stock": 10
+  },
+  "gid://shopify/ProductVariant/54118333219184": {
+    "product_title": "Muralika Antique Drop Earrings",
+    "product_handle": "muralika-antique-drop",
+    "variant_id": "gid://shopify/ProductVariant/54118333219184",
+    "global_id": "gid://shopify/ProductVariant/54118333219184",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 0.0,
+    "currency": "INR",
+    "image_url": null,
+    "available_for_sale": true,
+    "url": "https://www.tarinika.in/products/muralika-antique-drop?variant=gid://shopify/ProductVariant/54118333219184",
+    "stock": 9999
   }
 }

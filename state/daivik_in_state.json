@@ -2562,7 +2562,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec8ee790-b3fb-4402-bf03-f7332cd006df.jpg?v=1641476828",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/light-weight-long-kemp-balis?variant=gid://shopify/ProductVariant/40878997438617",
-    "stock": 27
+    "stock": 26,
+    "last_alerted_stock": 26
   },
   "gid://shopify/ProductVariant/40886249291929": {
     "product_title": "Peacock Kemp Earcuffs",
@@ -10589,8 +10590,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_ee2b36b9-e729-480d-81bf-bf88b3f0d671.heic?v=1684498714",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/multicolour-pearl-chain?variant=gid://shopify/ProductVariant/44195427713246",
-    "stock": 35,
-    "last_alerted_stock": 35
+    "stock": 34,
+    "last_alerted_stock": 34
   },
   "gid://shopify/ProductVariant/44196925898974": {
     "product_title": "Antique Lakshmi bangles",
@@ -17337,7 +17338,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0238.jpg?v=1779468897",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45204086161630",
-    "stock": 29
+    "stock": 28,
+    "last_alerted_stock": 28
   },
   "gid://shopify/ProductVariant/45763463839966": {
     "product_title": "Victorian AD Pendant Choker with Earrings",
@@ -19035,8 +19037,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/29294781-9E0B-4FC1-B8E6-5E28C878A22D.jpg?v=1720710101",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/untitled-jul11_20-28?variant=gid://shopify/ProductVariant/45721350930654",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/45724741468382": {
     "product_title": "Premium Silver Replica Mossanite Hipbel",
@@ -22900,10 +22902,10 @@
     "price": 1299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7184C6A1-C3DA-44CC-A1C8-A4F0542CB634.jpg?v=1729613139",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/premium-ad-mattal?variant=gid://shopify/ProductVariant/45974972793054",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45977953566942": {
     "product_title": "Ghungroo Ball Anklets in 2 Variants",
@@ -23496,7 +23498,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B62A49AA-4305-4543-BDAB-9F7DCD47E774.jpg?v=1731166676",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-peacock-pendant-long-chain-in-2-colours?variant=gid://shopify/ProductVariant/46024692564190",
-    "stock": 13
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/46024692596958": {
     "product_title": "Simple Peacock pendant long chain in 2 colours",
@@ -25487,8 +25490,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/54D5EEC3-F4EE-4ED4-9208-69B25E51DBDC.jpg?v=1736713873",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/multi-color-ad-pattern-necklace-with-earrings?variant=gid://shopify/ProductVariant/46211734667486",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/46211740926174": {
     "product_title": "Lakshmi Green Beads Choker with Jhumkas",
@@ -25715,8 +25718,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/382D24A8-252E-4668-808B-883976C9F1AA.jpg?v=1737555341",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/three-line-green-golden-beads-chain?variant=gid://shopify/ProductVariant/46238039572702",
-    "stock": 49,
-    "last_alerted_stock": 49
+    "stock": 48,
+    "last_alerted_stock": 48
   },
   "gid://shopify/ProductVariant/46240256721118": {
     "product_title": "Short Jada Billa in 2 variants (Price for Each)",
@@ -28693,8 +28696,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_2d9b64ea-6bd6-41c0-bd8f-1237103231ca.jpg?v=1772450184",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/moon-chandiran-kemp-jadau-bugadi?variant=gid://shopify/ProductVariant/47941914231006",
-    "stock": 47,
-    "last_alerted_stock": 47
+    "stock": 46,
+    "last_alerted_stock": 46
   },
   "gid://shopify/ProductVariant/46641514021086": {
     "product_title": "Kemp Jadau Bugadi",
@@ -30444,8 +30447,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5AACDAE4-D336-4F2B-AC77-29B691F420BF.jpg?v=1751179958",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings?variant=gid://shopify/ProductVariant/47043956310238",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47044263805150": {
     "product_title": "Pure Kemp Brass Pendant Hasli Necklace",
@@ -39050,7 +39053,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7C310ED8-B3AD-499B-AA4F-59FA9E222426.jpg?v=1762879079",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-studs-in-5-colours-price-for-each?variant=gid://shopify/ProductVariant/47669942223070",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47669942190302": {
     "product_title": "AD Mesh Necklace with Studs in 5 Colours ( Price for Each )",
@@ -41575,10 +41579,10 @@
     "price": 7499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/18DFD212-9E7A-466A-8912-107E4BC889D0.jpg?v=1769340031",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/pure-kemp-brass-ruby-green-jhumka-with-mattals?variant=gid://shopify/ProductVariant/47856914628830",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47858169479390": {
     "product_title": "Simple Floral Antique Bugadi in 2 Colours",
@@ -43115,8 +43119,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/714FE7F9-2484-4B71-87EE-D2E7981905EC.jpg?v=1772728689",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/lakshmi-pendant-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/47950387085534",
-    "stock": 44,
-    "last_alerted_stock": 44
+    "stock": 43,
+    "last_alerted_stock": 43
   },
   "gid://shopify/ProductVariant/47960555389150": {
     "product_title": "AD Pendant Droplet Necklace with Earrings in 2 Colors (Price for Each)",
@@ -45446,7 +45450,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5117.jpg?v=1776594364",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/heritage-pearl-watch-bracelet-1?variant=gid://shopify/ProductVariant/48128940638430",
-    "stock": 22
+    "stock": 26
   },
   "gid://shopify/ProductVariant/48128940671198": {
     "product_title": "Heritage Watch Bracelet",
@@ -45489,8 +45493,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5123.jpg?v=1776594365",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-8?variant=gid://shopify/ProductVariant/48128940736734",
-    "stock": 41,
-    "last_alerted_stock": 41
+    "stock": 39,
+    "last_alerted_stock": 39
   },
   "gid://shopify/ProductVariant/48129394671838": {
     "product_title": "Kids / Adult Antique Jhumkas",
@@ -45504,8 +45508,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3A9B8E45-FE6F-4859-B896-8C7099DE99DB.jpg?v=1776599140",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kids-adult-antique-jhumkas?variant=gid://shopify/ProductVariant/48129394671838",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/48133143757022": {
     "product_title": "Antique Lakshmi Chariot Kumkum Box",
@@ -46251,8 +46255,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CF4CC19F-42B5-4786-BFF0-3476E06D63F1.jpg?v=1779290628",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-31?variant=gid://shopify/ProductVariant/48267346772190",
-    "stock": 53,
-    "last_alerted_stock": 53
+    "stock": 52,
+    "last_alerted_stock": 52
   },
   "gid://shopify/ProductVariant/48276351320286": {
     "product_title": "Kids / Adult Antique AD Green Jhumkas",
@@ -46702,8 +46706,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5BA575AD-2A27-44C6-8335-632E20AD4BCC.jpg?v=1780498806",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/three-line-mala-with-ad-flower-pendant-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48304138977502",
-    "stock": 23,
-    "last_alerted_stock": 23
+    "stock": 22,
+    "last_alerted_stock": 22
   },
   "gid://shopify/ProductVariant/48306973311198": {
     "product_title": "AD Pearl Flower Bangles",
@@ -46761,8 +46765,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3AF4828D-ADA0-4FE0-B1FA-C6BC7EE0AD33.jpg?v=1780659624",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/lotus-ruby-green-invisible-chain-with-earrings?variant=gid://shopify/ProductVariant/48308560658654",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/48309043429598": {
     "product_title": "Premium AD Rice Pearl Jada Billa",
@@ -46877,8 +46881,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5559BE28-C131-43FE-95A7-2AD11F666379.jpg?v=1781190679",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/premium-traditional-pure-kemp-brass-phoenix-long-necklace-with-lakshmi-coin-drops?variant=gid://shopify/ProductVariant/48328321532126",
-    "stock": 2,
-    "last_alerted_stock": 0
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48332854886622": {
     "product_title": "Kemp Flower Rice Pearl Hair Clip",
@@ -47123,8 +47127,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912387806",
-    "stock": 35,
-    "last_alerted_stock": 35
+    "stock": 33,
+    "last_alerted_stock": 33
   },
   "gid://shopify/ProductVariant/48341912420574": {
     "product_title": "AD Non Piercing Nosepin in 3 Colors (Price for Each)",
@@ -47152,8 +47156,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
-    "stock": 39,
-    "last_alerted_stock": 39
+    "stock": 38,
+    "last_alerted_stock": 38
   },
   "gid://shopify/ProductVariant/48344007049438": {
     "product_title": "Premium Temple Style Antique Brass Bell with Lakshmi, Hanuman & Ganesha Idols (Price for Each)",
@@ -48644,6 +48648,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6DA6C7AA-A5E7-4462-BC6E-2696131F7CF4.jpg?v=1786031745",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/moissanite-simple-droplet-necklace-with-studs-in-3-colours?variant=gid://shopify/ProductVariant/48555218436318",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   }
 }
