@@ -5111,9 +5111,9 @@
     "price": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/de23e32-Copy-Copy.jpg?v=1750761848",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507173673",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52247507206441": {
     "product_title": "Twist & Shine Stone Bangles",
@@ -5125,9 +5125,9 @@
     "price": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/de23e32-Copy-Copy.jpg?v=1750761848",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507206441",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52263711146281": {
     "product_title": "Twist & Shine Stone Bangles",
@@ -13315,9 +13315,9 @@
     "price": 9100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP904.jpg?v=1758003821",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/dream-weaver-link-bracelet?variant=gid://shopify/ProductVariant/51172972724521",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51173032460585": {
@@ -13879,7 +13879,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS51.jpg?v=1759733833",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/evermore-infinity-kada?variant=gid://shopify/ProductVariant/51198163026217",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51198209622313": {
     "product_title": "Glitter Rosette Ring",
@@ -20362,7 +20363,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0100_copy.jpg?v=1761372447",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/miralys-petal-studs?variant=gid://shopify/ProductVariant/51356770337065",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51356961669417": {
     "product_title": "Starora Stud Earrings",
@@ -34349,9 +34351,9 @@
     "price": 130800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2612_resized.jpg?v=1763470062",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mehermayur-oddiyanam?variant=gid://shopify/ProductVariant/51527421493545",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51527425196329": {
@@ -40790,7 +40792,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0154copy_resized_ca181686-531e-469d-a50a-39ac7a4f50c7.jpg?v=1767692729",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/morvya-kasu-necklace?variant=gid://shopify/ProductVariant/52393214705961",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52397469335849": {
@@ -43373,9 +43375,10 @@
     "price": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_159Pics_14Jan3238_resized.jpg?v=1768976700",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/chitradevi-temple-necklace?variant=gid://shopify/ProductVariant/52451505209641",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52451515924777": {
     "product_title": "Ruby-Lakshmi Temple Necklace",
@@ -51275,9 +51278,9 @@
     "price": 900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0095_copy_1.jpg?v=1771185315",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/meher-kundan-septum-ring?variant=gid://shopify/ProductVariant/52680471871785",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52679268434217": {
@@ -56438,9 +56441,9 @@
     "price": 76600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36850_resized.jpg?v=1773831579",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/chandani-kundan-bangles?variant=gid://shopify/ProductVariant/52847780921641",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52847758246185": {
@@ -58067,7 +58070,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar01761_resized.jpg?v=1774595248",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vrittangi-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828296741161",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52828368896297": {
@@ -58910,9 +58913,9 @@
     "price": 14150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16251_resized.jpg?v=1774336567",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayurina-kundan-pendant?variant=gid://shopify/ProductVariant/52838555910441",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52838580093225": {
@@ -61170,8 +61173,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0052_resized.jpg?v=1775481316",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/squarica-dropira-cz-necklace-set?variant=gid://shopify/ProductVariant/52885501247785",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52885509144873": {
     "product_title": "Crystal Shine CZ Necklace",
@@ -61975,9 +61978,10 @@
     "price": 10300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20453_resized.jpg?v=1775484676",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/maathang-matil?variant=gid://shopify/ProductVariant/52897915371817",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52897919926569": {
     "product_title": "Lalatika Kundan Matil",
@@ -68075,8 +68079,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_261974_resized.jpg?v=1781594395",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/suhasini-temple-maang-tikka?variant=gid://shopify/ProductVariant/53269237727529",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53269237760297": {
     "product_title": "Suhasini Temple Maang Tikka",
@@ -72887,9 +72891,9 @@
     "price": 11400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40120_resized.jpg?v=1783664001",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/temple-hemambari-necklace?variant=gid://shopify/ProductVariant/53305036276009",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/53305055871273": {
     "product_title": "Temple Kamalika Necklace",
@@ -74439,7 +74443,7 @@
     "price": 900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0095_copy_1.jpg?v=1771185315",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/meher-kundan-septum-ring-1?variant=gid://shopify/ProductVariant/53329663263017",
     "stock": 1
   },
@@ -76730,6 +76734,76 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19651.jpg?v=1786020567",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/best-bro-rakhi?variant=gid://shopify/ProductVariant/53409745174825",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411271180585": {
+    "product_title": "Dhan-Lakshmi Temple Necklace",
+    "product_handle": "dhan-lakshmi-temple-necklace",
+    "variant_id": "gid://shopify/ProductVariant/53411271180585",
+    "global_id": "gid://shopify/ProductVariant/53411271180585",
+    "variant_title": "Default Title",
+    "sku": "R28183",
+    "price": 10000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_42_37PM.png?v=1786090421",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/dhan-lakshmi-temple-necklace?variant=gid://shopify/ProductVariant/53411271180585",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411271541033": {
+    "product_title": "Kamalika Devi Temple Necklace",
+    "product_handle": "temple-necklace-4",
+    "variant_id": "gid://shopify/ProductVariant/53411271541033",
+    "global_id": "gid://shopify/ProductVariant/53411271541033",
+    "variant_title": "Default Title",
+    "sku": "R31297",
+    "price": 13000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_49_56PM.png?v=1786090812",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/temple-necklace-4?variant=gid://shopify/ProductVariant/53411271541033",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411273081129": {
+    "product_title": "Devi Madhulika Temple Necklace",
+    "product_handle": "devi-madhulika-temple-necklace",
+    "variant_id": "gid://shopify/ProductVariant/53411273081129",
+    "global_id": "gid://shopify/ProductVariant/53411273081129",
+    "variant_title": "Default Title",
+    "sku": "R27333",
+    "price": 19200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_01_57_56PM.png?v=1786091296",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/devi-madhulika-temple-necklace?variant=gid://shopify/ProductVariant/53411273081129",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411275800873": {
+    "product_title": "Dhanmaya Kaasu Temple Necklace",
+    "product_handle": "dhanmaya-kaasu-temple-necklace-1",
+    "variant_id": "gid://shopify/ProductVariant/53411275800873",
+    "global_id": "gid://shopify/ProductVariant/53411275800873",
+    "variant_title": "Default Title",
+    "sku": "R25329",
+    "price": 12700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_02_01_39PM.png?v=1786091533",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/dhanmaya-kaasu-temple-necklace-1?variant=gid://shopify/ProductVariant/53411275800873",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411277046057": {
+    "product_title": "Shree Sampada Temple Necklace",
+    "product_handle": "shree-sampada-temple-necklace",
+    "variant_id": "gid://shopify/ProductVariant/53411277046057",
+    "global_id": "gid://shopify/ProductVariant/53411277046057",
+    "variant_title": "Default Title",
+    "sku": "R10029",
+    "price": 25000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/ChatGPTImageAug7_2026_02_17_08PM.png?v=1786092451",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/shree-sampada-temple-necklace?variant=gid://shopify/ProductVariant/53411277046057",
     "stock": -1
   }
 }

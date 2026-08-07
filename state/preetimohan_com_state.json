@@ -826,7 +826,7 @@
     "stock": -1
   },
   "gid://shopify/ProductVariant/47587662201025": {
-    "product_title": "GAUTAMI BANGLES",
+    "product_title": "GAUTAMI BANGLE",
     "product_handle": "gold-plated-red-green-peacock-temple-bangles",
     "variant_id": "gid://shopify/ProductVariant/47587662201025",
     "global_id": "gid://shopify/ProductVariant/47587662201025",
@@ -840,7 +840,7 @@
     "stock": -1
   },
   "gid://shopify/ProductVariant/47587662233793": {
-    "product_title": "GAUTAMI BANGLES",
+    "product_title": "GAUTAMI BANGLE",
     "product_handle": "gold-plated-red-green-peacock-temple-bangles",
     "variant_id": "gid://shopify/ProductVariant/47587662233793",
     "global_id": "gid://shopify/ProductVariant/47587662233793",
@@ -854,7 +854,7 @@
     "stock": -1
   },
   "gid://shopify/ProductVariant/47587662266561": {
-    "product_title": "GAUTAMI BANGLES",
+    "product_title": "GAUTAMI BANGLE",
     "product_handle": "gold-plated-red-green-peacock-temple-bangles",
     "variant_id": "gid://shopify/ProductVariant/47587662266561",
     "global_id": "gid://shopify/ProductVariant/47587662266561",
@@ -868,7 +868,7 @@
     "stock": -1
   },
   "gid://shopify/ProductVariant/47587662299329": {
-    "product_title": "GAUTAMI BANGLES",
+    "product_title": "GAUTAMI BANGLE",
     "product_handle": "gold-plated-red-green-peacock-temple-bangles",
     "variant_id": "gid://shopify/ProductVariant/47587662299329",
     "global_id": "gid://shopify/ProductVariant/47587662299329",
@@ -5511,7 +5511,7 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/154A7220copy.jpg?v=1756142016",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/hinal-double-finger-polki-ring?variant=gid://shopify/ProductVariant/48147692290241",
     "stock": 0
   },
@@ -15546,7 +15546,7 @@
     "global_id": "gid://shopify/ProductVariant/49644972966081",
     "variant_title": "Default Title",
     "sku": "WNKSRG482",
-    "price": 24000.0,
+    "price": 34000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/168_4ec295e3-3596-4e6d-ab8b-4c8c49a6995d.png?v=1762783311",
     "available_for_sale": false,

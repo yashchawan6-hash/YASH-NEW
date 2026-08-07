@@ -2686,6 +2686,20 @@
     "url": "https://www.tarinika.com/products/bhumi-antique-choker?variant=gid://shopify/ProductVariant/15051634704450",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/15301769560130": {
+    "product_title": "Gauri Nakshatra CZ Kids Maang Tikkas",
+    "product_handle": "gauri-nakshatra-cz-kids-maang-tikkas",
+    "variant_id": "gid://shopify/ProductVariant/15301769560130",
+    "global_id": "gid://shopify/ProductVariant/15301769560130",
+    "variant_title": "White Red",
+    "sku": "ZNT1459XC2",
+    "price": 19.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A3923_copy_copy_728ec89e-2272-4597-9d50-79206a5fd717.jpg?v=1641062478",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/gauri-nakshatra-cz-kids-maang-tikkas?variant=gid://shopify/ProductVariant/15301769560130",
+    "stock": 3
+  },
   "gid://shopify/ProductVariant/15313295441986": {
     "product_title": "Saanvi Nakshatra CZ Kids Waist Band",
     "product_handle": "saanvi-nakshatra-cz-kids-waist-band",
@@ -5384,9 +5398,10 @@
     "price": 35.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2626copy.jpg?v=1640780096",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/classic-delicate-cz-bangles?variant=gid://shopify/ProductVariant/39652711366722",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39652711333954": {
     "product_title": "Classic Delicate CZ Bangles",
@@ -13936,13 +13951,13 @@
     "variant_id": "gid://shopify/ProductVariant/40432414687298",
     "global_id": "gid://shopify/ProductVariant/40432414687298",
     "variant_title": "Default Title",
-    "sku": "US-ARX2589XCC",
-    "price": 16.99,
+    "sku": "ARX2589XCC",
+    "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ARX2589X_eff32494-060d-4123-b2e6-be0875842a38.jpg?v=1695459690",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/kuvala-antique-temple-finger-ring?variant=gid://shopify/ProductVariant/40432414687298",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40432429137986": {
@@ -23855,13 +23870,13 @@
     "variant_id": "gid://shopify/ProductVariant/43640004509762",
     "global_id": "gid://shopify/ProductVariant/43640004509762",
     "variant_title": "Default Title",
-    "sku": "US-PRZ3693BP6",
-    "price": 89.24,
+    "sku": "PRZ3693BP6",
+    "price": 104.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/PRZ3693B_a29e79ad-2c9b-4914-89fe-0578fe973ac0.jpg?v=1778158664",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/avyra-cz-necklace-set?variant=gid://shopify/ProductVariant/43640004509762",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43640005001282": {
@@ -26079,7 +26094,7 @@
     "sku": "SBR0009WT6",
     "price": 24.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001WT6.png?v=1785926127",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001WT6-T.png?v=1785931815",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/44672206241858",
     "stock": -1
@@ -26093,7 +26108,7 @@
     "sku": "SBR0010WT6",
     "price": 24.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002WT6.png?v=1785926506",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002WT6.jpg?v=1785924718",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/blossom-silver-rakhi?variant=gid://shopify/ProductVariant/44672206274626",
     "stock": -1
@@ -26107,7 +26122,7 @@
     "sku": "SBR0011WT6",
     "price": 24.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003WT6.png?v=1785926873",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003WT6.jpg?v=1785925720",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/boond-silver-rakhi?variant=gid://shopify/ProductVariant/44672206307394",
     "stock": -1
@@ -26121,7 +26136,7 @@
     "sku": "SBR0012WT6",
     "price": 24.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004WT6.png?v=1785927112",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004WT6_2333d8c7-202b-4115-8234-ad67b87ea3e2.png?v=1786015476",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/kiran-silver-rakhi?variant=gid://shopify/ProductVariant/44672206340162",
     "stock": -1
@@ -26135,7 +26150,7 @@
     "sku": "SBR0013WT6",
     "price": 24.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0005WT6.png?v=1785927483",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0005WT6_c3f2227c-db8e-437f-b0bf-ac0d8dc648cc.png?v=1785930136",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/shikhar-silver-rakhi?variant=gid://shopify/ProductVariant/44672206372930",
     "stock": -1
@@ -26149,7 +26164,7 @@
     "sku": "SBR0001OTE",
     "price": 44.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001OTE_3f568656-87ed-4b1e-9e69-337f1cca83d9.png?v=1785926006",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001OTE.png?v=1785923112",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/shiv-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206405698",
     "stock": -1
@@ -26163,7 +26178,7 @@
     "sku": "SBR0002OW5",
     "price": 44.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002OW5_a7c8c629-06e2-4246-9593-97b5d05646b8.png?v=1785926329",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002OW5.png?v=1785923530",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/trishul-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206438466",
     "stock": -1
@@ -26177,7 +26192,7 @@
     "sku": "SBR0003OW5",
     "price": 44.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003OW5_77fa0d56-af77-4921-afaf-26531cd73fe2.png?v=1785926773",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003OW5_ae7bbcd8-4ba8-4a45-a361-c43c62dde465.png?v=1785925056",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/om-kiran-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206471234",
     "stock": -1
@@ -26191,7 +26206,7 @@
     "sku": "SBR0004OW5",
     "price": 44.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004OW5_ae1ca96a-fd4c-4df5-abe1-6ee40ddbc46c.png?v=1786007128",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004OW5.png?v=1785928843",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/swastik-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206504002",
     "stock": -1
@@ -26205,7 +26220,7 @@
     "sku": "SBR0005OW5",
     "price": 44.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0005OW5.png?v=1785927375",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0005OW5.jpg?v=1785929894",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ganesha-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206536770",
     "stock": -1
@@ -26219,7 +26234,7 @@
     "sku": "SBR0006OW5",
     "price": 44.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0006OW5.png?v=1785927606",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0006O.png?v=1785930532",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ornate-om-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206602306",
     "stock": -1
@@ -26233,7 +26248,7 @@
     "sku": "SBR0044DW6",
     "price": 59.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001DW6_0df3945f-db13-4e20-9bc3-43a1c17c3705.png?v=1785923699",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001DW6_5e524399-3f90-4849-8ceb-7362fbe9671a.png?v=1785922863",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ganesha-cz-silver-rakhi?variant=gid://shopify/ProductVariant/44672206635074",
     "stock": -1
@@ -26247,7 +26262,7 @@
     "sku": "SBR0045DT6",
     "price": 19.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002DT6.png?v=1785926242",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0002DT6.jpg?v=1785923313",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/trividh-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/44672206667842",
     "stock": -1
@@ -26261,7 +26276,7 @@
     "sku": "SBR0046DT6",
     "price": 19.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003DT6.png?v=1785926695",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0003DT6_fc6b24e0-6c61-4456-9deb-b4de042593b2.png?v=1785934334",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mahadev-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/44672206700610",
     "stock": -1
@@ -26275,7 +26290,7 @@
     "sku": "SBR0047DT6",
     "price": 19.99,
     "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004DT6.png?v=1785927017",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0004DT6.jpg?v=1785927582",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/44672206897218",
     "stock": -1
