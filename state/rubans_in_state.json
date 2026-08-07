@@ -22803,7 +22803,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10ED406233.jpg?v=1767159553",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22kt-gold-plated-emerald-green-cubic-zirconia-studded-chandelie-with-pearl-drops?variant=gid://shopify/ProductVariant/46074100482222",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/46074100514990": {
@@ -22846,7 +22846,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22-kt-gold-plated-ruby-pink-cubic-zirconia-studded-chandelier-with-pearl-drops-earrings-37357752451246.jpg?v=1755716994",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22-kt-gold-plated-ruby-pink-cubic-zirconia-studded-chandelier-with-pearl-drops?variant=gid://shopify/ProductVariant/45834759012526",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/45834759045294": {
@@ -30236,10 +30236,10 @@
     "price": 1309.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-gemstone-cubic-zirconia-studded-bangles-bangles-bracelets-37927583613102.jpg?v=1770807206",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-2-22k-gold-plated-gemstone-cubic-zirconia-studded-bangles-re13b407361?variant=gid://shopify/ProductVariant/47084607242414",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084607275182": {
     "product_title": "Rubans Set Of 2 22K Gold-Plated Multicolor Gemstone & Cubic Zirconia-Studded Bangles",
@@ -33083,7 +33083,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-multicolor-ad-cubic-zirconia-studded-heart-charm-tennis-necklace-necklace-chain-38046476599470.jpg?v=1765203009",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-cubic-zirconia-studded-floral-charm-tennis-necklace-copy?variant=gid://shopify/ProductVariant/46147670442158",
-    "stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/46147684204718": {
     "product_title": "Radiant Diva American Diamond Zirconia Studded Necklace",
@@ -48182,8 +48183,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rose-gold-plated-cubic-zirconia-bangle-style-bracelet-bracelet-1144176240.jpg?v=1755713728",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-cubic-zirconia-bangle-style-bracelet-1?variant=gid://shopify/ProductVariant/46266745061550",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/46266746437806": {
     "product_title": "Rubans 18K Gold-Plated Cuff Bracelet with Sparkling AD & Cubic Zirconia Stones",
@@ -52095,8 +52096,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-emerald-kundan-studded-choker-necklace-set-with-green-cream-beads-for-women-choker-choker-set-kundan-choker-set-1158520620.jpg?v=1755713483",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-glossy-pearl-beaded-kundan-handcrafted-choker-necklace-set-copy?variant=gid://shopify/ProductVariant/46412841517230",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/46412954730670": {
     "product_title": "Bridal-Ready Pearl Pink Sheeshphool",
@@ -72891,7 +72892,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410831.jpg?v=1769064546",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16ns410831?variant=gid://shopify/ProductVariant/47198390878382",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47198390943918": {
@@ -73046,7 +73047,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30NS410439.jpg?v=1767077428",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rv30ns410439?variant=gid://shopify/ProductVariant/47198391435438",
-    "stock": 14
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47478443573422": {
     "product_title": "Triple Layer Eternity Band",
