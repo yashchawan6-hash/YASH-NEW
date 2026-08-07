@@ -5951,7 +5951,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sona-moti-gold-bangle-set-attrangi-2.jpg?v=1739814052",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/aafreen-jadaau-pearl-gold-bangle-set?variant=gid://shopify/ProductVariant/43072149127380",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43072149160148": {
     "product_title": "Sona Moti Gold Bangle Set",
@@ -19324,9 +19325,10 @@
     "price": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-22_at_12.51.07_PM.jpg?v=1739818345",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/basic-jadau-kada?variant=gid://shopify/ProductVariant/46017924792532",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46017924825300": {
     "product_title": "Basic Thick Jadaau Kada",
@@ -22555,8 +22557,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-29at5.33.08PM.jpg?v=1744969053",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/antique-gold-polki-hathpan-hand-harness-copy?variant=gid://shopify/ProductVariant/46189460586708",
-    "stock": 4,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46189460619476": {
     "product_title": "Antique Gold Polki Hathpan | Hand Harness",
@@ -23777,7 +23779,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-04-30_at_12.39.56_PM_1.jpg?v=1749411042",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bhumika-polki-small-indian-ring?variant=gid://shopify/ProductVariant/46265285607636",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46267383382228": {
     "product_title": "Jayapradha Moissanite Slim Kada In Meenakari | Openable",
@@ -25841,8 +25844,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-07-08at2.44.02PM.jpg?v=1774358783",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/tri-solitaire-diamond-studs?variant=gid://shopify/ProductVariant/46470509002964",
-    "stock": 4,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46470570574036": {
     "product_title": "Navratna Rich Pendant Set | Beaded Mala & Earrings",
@@ -35034,7 +35037,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-08at4.12.50PM.jpg?v=1767874655",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lykaa-moissanite-half-gokhru-polki-bracelet?variant=gid://shopify/ProductVariant/47426212528340",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47426254143700": {
     "product_title": "Sarva Gun Sampann Red Green Bridal Moissanite Heavy Set",
@@ -36970,8 +36974,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.42.13_PM_2.jpg?v=1774269249",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kashmiri-daali-kannauti-indian-delicate-long-earrings?variant=gid://shopify/ProductVariant/47587776331988",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47587802972372": {
     "product_title": "Garuda Designer Polki Indo western Necklace Set",
@@ -42584,7 +42588,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-06at8.12.15PM_1.jpg?v=1777109163",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/round-pearl-drop-earring?variant=gid://shopify/ProductVariant/47838923260116",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47838923292884": {
@@ -44410,7 +44414,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/charming-lara-solitaire-set-attrangi-5_877560c0-bf95-4576-b807-b9d5c55a58d3.jpg?v=1783596081",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/charming-lara-solitaire-earrings?variant=gid://shopify/ProductVariant/48234959306964",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48234971988180": {
