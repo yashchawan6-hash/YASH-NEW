@@ -93,9 +93,9 @@
     "price": 8075.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/161.png?v=1756142626",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/manjushree-gold-bangles?variant=gid://shopify/ProductVariant/47587652272321",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/47587652305089": {
     "product_title": "Manjushree Bangles",

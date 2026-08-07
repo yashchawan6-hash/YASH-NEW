@@ -322,7 +322,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0059XM.jpg?v=1762526566",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sarang-antique-bangles?variant=gid://shopify/ProductVariant/12215597301868",
-    "stock": 12,
+    "stock": 11,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/12215597269100": {
@@ -604,9 +604,10 @@
     "price": 44.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/AEX0244XR.jpg?v=1731578751",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/dhvani-antique-jhumka-earrings?variant=gid://shopify/ProductVariant/40834112127042",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/12227661955180": {
     "product_title": "Makul Antique Necklace Set",
@@ -26096,7 +26097,7 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001WT6-T.png?v=1785931815",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/44672206241858",
     "stock": -1
   },
