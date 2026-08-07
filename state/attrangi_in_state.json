@@ -143,7 +143,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-solitaire-attrangi-4.jpg?v=1774011394",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659567273",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48172004442324": {
@@ -6416,9 +6416,10 @@
     "price": 850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-04-10_at_12.24.17_PM_2.jpg?v=1775804445",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/mini-diamond-nath-1?variant=gid://shopify/ProductVariant/47780203987156",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43311233630420": {
     "product_title": "Bhavana Victorian Statement Polki Set",
@@ -15893,7 +15894,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-10-06at12.45.20AM_1.jpg?v=1750782837",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/heer-kannauti-indian-polki-earrings?variant=gid://shopify/ProductVariant/45698326757588",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45698502099156": {
@@ -33659,7 +33660,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-18at11.28.22AM.jpg?v=1766042201",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sabhya-bijooriya-multicolour-gemstone-kada-gemz?variant=gid://shopify/ProductVariant/47368749547732",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47368749580500": {
@@ -33674,8 +33675,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-18at11.28.22AM.jpg?v=1766042201",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sabhya-bijooriya-multicolour-gemstone-kada-gemz?variant=gid://shopify/ProductVariant/47368749580500",
-    "stock": 3,
-    "last_alerted_stock": 1
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47770914324692": {
     "product_title": "Sabhya Bijooriya Multicolour Gemstone Kada | GemZ",
@@ -34339,7 +34340,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-29at1.39.59PM_1.jpg?v=1766998137",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/grace-2-layered-marquise-diamond-set?variant=gid://shopify/ProductVariant/47400243724500",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47400601616596": {
     "product_title": "Gesu Floral Polki Indian kannauti | Kaanchain",
@@ -42582,7 +42584,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-06at8.12.15PM_1.jpg?v=1777109163",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/round-pearl-drop-earring?variant=gid://shopify/ProductVariant/47838923260116",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47838923292884": {
     "product_title": "Round Pearl Drop Earring",
@@ -43385,9 +43388,9 @@
     "price": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-17_at_4.44.38_PM_1.jpg?v=1784374391",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sharad-moissanite-earcuff-classic-indian-polki-earring?variant=gid://shopify/ProductVariant/47958778806484",
-    "stock": 3,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47958802071764": {
@@ -45915,10 +45918,10 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at7.07.44PM_1.jpg?v=1784355459",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/kumari-polki-moissanite-chand-clip-hair-accessory?variant=gid://shopify/ProductVariant/48323477110996",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48323512762580": {
     "product_title": "Aarti Vijay Big Polki Traditional Clip | Hair Accessory",
@@ -47000,7 +47003,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712405716",
     "stock": 5,
     "last_alerted_stock": 2
@@ -47938,7 +47941,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714863316",
     "stock": 5,
     "last_alerted_stock": 1

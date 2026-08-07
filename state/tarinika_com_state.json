@@ -1406,9 +1406,10 @@
     "price": 47.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7631_copy_copy_3fb717b3-1a4c-4ff8-8486-f5b0d0ad665d.jpg?v=1762532318",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/devya-nakshatra-cz-bangles?variant=gid://shopify/ProductVariant/32608826032194",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32608826097730": {
     "product_title": "Devya Nakshatra CZ Bangles",
@@ -4362,8 +4363,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2317copycopy.jpg?v=1640780820",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/oma-antique-bangles?variant=gid://shopify/ProductVariant/32658595381314",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40733635969090": {
     "product_title": "Oma Antique Bangles",
@@ -14986,7 +14987,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0006N_daa62999-6db9-4e13-a751-67f6e8aa24c0.jpg?v=1700548123",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/helia-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40548246585410",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40548246618178": {
@@ -16323,7 +16324,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TEX0292XHY.jpg?v=1724750601",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/aaravi-antique-red-green-kempu-chandbali-earrings?variant=gid://shopify/ProductVariant/41605156929602",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/41605178130498": {
     "product_title": "Riva Antique Red Kempu Chandbali Earrings",

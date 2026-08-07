@@ -81,9 +81,10 @@
     "price": 900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2850bee8-c573-4af3-8519-98453135b6cd.webp?v=1768386052",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-lotus-studs-with-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52626165891388",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52626172576060": {
     "product_title": "Jadau Kundan Lotus Chand Bali with Natural strawberry beads",
