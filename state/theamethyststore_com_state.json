@@ -16485,9 +16485,10 @@
     "price": 29905.2,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1146.jpg?v=1713785646",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nivasi-pair-bangles?variant=gid://shopify/ProductVariant/44843861737699",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44874211688675": {
     "product_title": "Modish Stone Pair Bangles",
@@ -23068,7 +23069,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1398.jpg?v=1726312260",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jivitha-kundan-pair-bangle?variant=gid://shopify/ProductVariant/45514112631011",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47194135822563": {
     "product_title": "Jivitha Kundan Pair Bangle",
@@ -27544,7 +27546,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1558-_2.jpg?v=1733484363",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nitra-kundan-pair-bangle?variant=gid://shopify/ProductVariant/46159133245667",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45779190644963": {
     "product_title": "Nitra Kundan Pair Bangle",
@@ -29646,7 +29649,7 @@
     "price": 79652.06,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1744.jpg?v=1738408250",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/liora-kundan-pair-bangle?variant=gid://shopify/ProductVariant/45966440726755",
     "stock": 1
   },
@@ -32381,7 +32384,7 @@
     "price": 22717.16,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1304.jpg?v=1741782518",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/pavika-stone-maatal?variant=gid://shopify/ProductVariant/46117296931043",
     "stock": 1
   },
@@ -37793,7 +37796,7 @@
     "price": 15049.16,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-114-0519.jpg?v=1747980453",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/heart-designed-kundan-anklet?variant=gid://shopify/ProductVariant/46390791864547",
     "stock": 1
   },
@@ -78553,10 +78556,10 @@
     "global_id": "gid://shopify/ProductVariant/47304334737635",
     "variant_title": "Default Title",
     "sku": "AMS-102-11661",
-    "price": 68816.0,
+    "price": 89400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11661.jpg?v=1760175054",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fancy-look-long-necklace-set?variant=gid://shopify/ProductVariant/47304334737635",
     "stock": 0
   },
@@ -82607,7 +82610,7 @@
     "price": 22434.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11027.jpg?v=1761809322",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/divine-nagas-drops-earrings-1?variant=gid://shopify/ProductVariant/47422037197027",
     "stock": 1
   },
@@ -86617,7 +86620,7 @@
     "price": 44697.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12794.jpg?v=1763037592",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shalini-short-necklace-set-1?variant=gid://shopify/ProductVariant/47521388855523",
     "stock": 1
   },
@@ -103464,7 +103467,7 @@
     "price": 3649.4,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12374.jpg?v=1768998379",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/cutest-stone-studs-6?variant=gid://shopify/ProductVariant/47859818463459",
     "stock": 1
   },
@@ -109490,7 +109493,7 @@
     "price": 51300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14659.jpg?v=1770537848",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dhashikha-kundan-short-necklace-1?variant=gid://shopify/ProductVariant/48033738424547",
     "stock": 1
   },
@@ -114071,7 +114074,7 @@
     "price": 15500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1536-_2.jpg?v=1771157122",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nagas-chain-3?variant=gid://shopify/ProductVariant/48276920565987",
     "stock": 1
   },
@@ -115501,7 +115504,7 @@
     "price": 6776.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12188.jpg?v=1771497102",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/chic-trendy-long-earrings-4?variant=gid://shopify/ProductVariant/48288267337955",
     "stock": 1
   },
@@ -115515,7 +115518,7 @@
     "price": 4822.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12189.jpg?v=1771497410",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/admirable-hook-drop-earrings?variant=gid://shopify/ProductVariant/48288271630563",
     "stock": 1
   },
@@ -145337,7 +145340,7 @@
     "price": 60850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16177.jpg?v=1781854134",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shinning-kundan-necklace-set?variant=gid://shopify/ProductVariant/49278966005987",
     "stock": 1
   },
@@ -150773,7 +150776,7 @@
     "price": 39400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3316_2.jpg?v=1782545537",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-13?variant=gid://shopify/ProductVariant/49320152695011",
     "stock": 1
   },
@@ -158522,7 +158525,7 @@
     "price": 12170.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2364.jpg?v=1783246611",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kundan-maangtikka-8?variant=gid://shopify/ProductVariant/49365878079715",
     "stock": 1
   },
@@ -159364,7 +159367,7 @@
     "price": 62700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3319.jpg?v=1783419742",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-16?variant=gid://shopify/ProductVariant/49373455810787",
     "stock": 1
   },
@@ -159392,7 +159395,7 @@
     "price": 62750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3321.jpg?v=1783420090",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kundan-pair-bangle-18?variant=gid://shopify/ProductVariant/49373457416419",
     "stock": 1
   },

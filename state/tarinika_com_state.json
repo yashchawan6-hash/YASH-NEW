@@ -2969,7 +2969,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/image-107.jpg?v=1762536380",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/falak-antique-necklace-set?variant=gid://shopify/ProductVariant/16198464667714",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/16212465942594": {
@@ -7513,7 +7513,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5274.jpg?v=1750755464",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/bella-nakshatra-cz-pearl-choker-set?variant=gid://shopify/ProductVariant/39634188533826",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/39634236047426": {
     "product_title": "Anna Nakshatra CZ Pearl Choker Set",
@@ -10615,7 +10616,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9534copycopy.jpg?v=1662822393",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/glory-antique-cz-premium-choker-set?variant=gid://shopify/ProductVariant/39961177948226",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/40909969784898": {
     "product_title": "Glory Antique CZ Premium Choker Set",
@@ -16591,9 +16593,10 @@
     "price": 29.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0110XC5.jpg?v=1725252811",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/lahari-nakshatra-cz-red-bracelet?variant=gid://shopify/ProductVariant/41607068090434",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41607074644034": {
     "product_title": "Luna Nakshatra CZ Rhodium Plated Bracelet",

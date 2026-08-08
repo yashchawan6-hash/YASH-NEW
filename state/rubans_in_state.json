@@ -7543,10 +7543,10 @@
     "price": 989.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-azure-frontier-magic-multicolored-blue-stone-western-necklace-set-34468599857326.jpg?v=1755717788",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-azure-frontier-magic-multicolored-blue-stone-western-necklace-set?variant=gid://shopify/ProductVariant/44168035926190",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44168055161006": {
     "product_title": "Multi Colored Crystal Necklace Set",
@@ -15286,10 +15286,10 @@
     "price": 1024.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13V404938_Model_1.jpg?v=1774606792",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/22kt-gold-cubic-zirconia-studded-bangle-style-bracelet-re13v404938?variant=gid://shopify/ProductVariant/45315730342062",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45315730374830": {
     "product_title": "Rubans 22KT Gold-Plated Cubic Zirconia Studded Floral Bangle-Style Bracelet",
@@ -15554,10 +15554,10 @@
     "price": 1012.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-emerald-green-stone-studded-traditional-handcrafted-bangle-bangles-bracelets-1151970256.jpg?v=1767509253",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/22k-gold-plated-emerald-stone-studded-set-of-2-bangles?variant=gid://shopify/ProductVariant/47084618940590",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084618973358": {
     "product_title": "Rubans Set of 2 22K Gold-Plated Emerald Green Stone Studded Traditional Handcrafted Bangle",
@@ -21654,8 +21654,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04EC406563-Model.jpg?v=1765519945",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-emerald-cubic-zirconia-studded-pearl-chandbali-earring?variant=gid://shopify/ProductVariant/45816338972846",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45816339136686": {
     "product_title": "Pearl Drop Layered Choker Set",
@@ -23905,8 +23905,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02B405926_eca34851-602b-4878-bf23-e1b6a405f182.jpg?v=1770888876",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans18k-mehandi-gold-plated-multicolor-kundan-and-cubic-zirconia-studed-bangles-re02b405926?variant=gid://shopify/ProductVariant/45980041412782",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47084617269422": {
     "product_title": "Ivory Affair Designer Kundan Bangles",
@@ -27770,8 +27770,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13ES405033-Model.jpg?v=1773816317",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-rose-gold-plated-cubic-zirconia-studded-emerald-green-drop-earrings-copy?variant=gid://shopify/ProductVariant/46006644506798",
-    "stock": 17,
-    "last_alerted_stock": 17
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/46006720561326": {
     "product_title": "High-Fashion Black Crystal Earrings",
@@ -35551,7 +35551,7 @@
     "price": 459.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30RO407974_7d8ff271-06de-471c-a1a2-220734f800ef.jpg?v=1770709799",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-voguish-18k-gold-plated-textured-ribbon-statement-adjustable-ring-rv30ro407974?variant=gid://shopify/ProductVariant/46172498493614",
     "stock": 1
   },
@@ -38293,7 +38293,7 @@
     "price": 874.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-cubic-zirconia-floral-dangle-earrings-earrings-1127636842.jpg?v=1755714659",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-cubic-zirconia-floral-dangle-earrings-rw04ed407414?variant=gid://shopify/ProductVariant/46187626954926",
     "stock": 1
   },
@@ -54121,7 +54121,7 @@
     "price": 689.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE59MS408684_7d705f20-4c4f-494a-baea-d6b167c39c7d.jpg?v=1771994645",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-18k-rose-gold-plated-white-cubic-zirconia-studded-round-pendant-mangalsutra-with-black-beaded-chain?variant=gid://shopify/ProductVariant/46532235362478",
     "stock": 1,
     "last_alerted_stock": 1
@@ -54899,7 +54899,7 @@
     "price": 490.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rv30es403966-model.jpg?v=1765282430",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-voguish-gold-plated-circular-studs-copy?variant=gid://shopify/ProductVariant/46543889957038",
     "stock": 1,
     "last_alerted_stock": 1
