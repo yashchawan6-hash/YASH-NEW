@@ -4096,8 +4096,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL9598copycopy.jpg?v=1765953653",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/jayna-nakshatra-cz-choker-set?variant=gid://shopify/ProductVariant/32505810288706",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/32505810321474": {
     "product_title": "Jayna Nakshatra CZ Choker Set",
@@ -11234,9 +11234,10 @@
     "price": 9.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A8244copycopy.jpg?v=1675081816",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/pansy-floral-cz-band-style-finger-ring?variant=gid://shopify/ProductVariant/40150770384962",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40176988028994": {
     "product_title": "Antique Gold Plated Lalita CZ Pendant Dori Necklace Earrings Set",
@@ -14429,8 +14430,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX2751XCY.jpg?v=1741696605",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sidhya-antique-necklace-set?variant=gid://shopify/ProductVariant/40464085942338",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40464100425794": {
     "product_title": "Nanda Antique Drop Earrings",
@@ -15667,9 +15668,10 @@
     "price": 14.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VST0015N.jpg?v=1706768215",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/cynara-kundan-stud-earrings?variant=gid://shopify/ProductVariant/40743116111938",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40743314817090": {
     "product_title": "Alyssa Statement Kundan Necklace Set",
