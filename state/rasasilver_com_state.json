@@ -7246,7 +7246,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_12687dec-4ab7-4203-946e-32ad4882a522.jpg?v=1754917046",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/18-1?variant=gid://shopify/ProductVariant/50712467964201",
-    "stock": 11,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/50712467996969": {
@@ -69459,7 +69459,7 @@
     "price": 3600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1831_resized.jpg?v=1782192957",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/starfall-cz-danglers?variant=gid://shopify/ProductVariant/53283752411433",
     "stock": 1
   },

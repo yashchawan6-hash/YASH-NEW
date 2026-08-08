@@ -1377,8 +1377,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKS26_675490b8-3fec-4237-a88c-fedd9ebbbd8d.jpg?v=1785147416",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mks26-jadau-kundan-earchains?variant=gid://shopify/ProductVariant/42362278346975",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/42362985775327": {
     "product_title": "Deep Green Gold-Plated Jadau Kundan Haath Phool with Moon Motif - MHP132M",
@@ -87278,20 +87278,6 @@
     "url": "https://www.mortantra.com/products/pink-color-gold-plated-faux-polki-maangteeka-pk-t58wp?variant=gid://shopify/ProductVariant/50510028308703",
     "stock": 6
   },
-  "gid://shopify/ProductVariant/50511907815647": {
-    "product_title": "White Color Gold Plated Thappa Jadau Kundan Earrings - TJ-E105",
-    "product_handle": "white-color-gold-plated-thappa-jadau-kundan-earrings-tj-e105",
-    "variant_id": "gid://shopify/ProductVariant/50511907815647",
-    "global_id": "gid://shopify/ProductVariant/50511907815647",
-    "variant_title": "Default Title",
-    "sku": "TJ-E105",
-    "price": 5000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E105.jpg?v=1782967267",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-thappa-jadau-kundan-earrings-tj-e105?variant=gid://shopify/ProductVariant/50511907815647",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50512139682015": {
     "product_title": "White Color Gold Plated Temple Bangles (One Pair) - TMPBAN120",
     "product_handle": "white-color-gold-plated-temple-bangles-one-pair-tmpban120",
@@ -94286,6 +94272,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/50511907815647": {
+    "product_title": "White Color Gold Plated Thappa Jadau Kundan Earrings - TJ-E105",
+    "product_handle": "white-color-gold-plated-thappa-jadau-kundan-earrings-tj-e105",
+    "variant_id": "gid://shopify/ProductVariant/50511907815647",
+    "global_id": "gid://shopify/ProductVariant/50511907815647",
+    "variant_title": "Default Title",
+    "sku": "TJ-E105",
+    "price": 5000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E105.jpg?v=1782967267",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-thappa-jadau-kundan-earrings-tj-e105?variant=gid://shopify/ProductVariant/50511907815647",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45881452986591": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Nosepin with Peacock Motif - MNTH104MB",
