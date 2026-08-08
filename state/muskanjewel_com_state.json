@@ -394,10 +394,10 @@
     "price": 800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/cf9b40a2-ca95-4149-991b-9a4a482f69aa_6603336c-52cb-4a23-97b7-f9df73c48f85.webp?v=1768470533",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-tika-with-pearl-drop-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628585251132",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52628688765244": {
     "product_title": "Jadau Kundan floral tika with pearls drops and natural strawberry beads",

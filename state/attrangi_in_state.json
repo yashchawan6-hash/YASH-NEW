@@ -1181,9 +1181,10 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/foolwa-jadaau-ring-attrangi-1.jpg?v=1739812681",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/multi-coloured-jadaau-ring?variant=gid://shopify/ProductVariant/40411687780521",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411688501417": {
     "product_title": "Blooming Ring",
@@ -2923,7 +2924,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-ruby-emerald-studs-attrangi-1.jpg?v=1739813171",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rudra-ruby-emerald-studs?variant=gid://shopify/ProductVariant/40838553927849",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40846418411689": {
     "product_title": "1 Carat Princess Cut Daily Wear Ring",
@@ -3729,7 +3731,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rudra-choker-set-attrangi-1.jpg?v=1739813413",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rudra-choker-set?variant=gid://shopify/ProductVariant/42224696393940",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42224696426708": {
     "product_title": "Rudra Choker Set",
@@ -6733,7 +6736,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ubeida-tikdi-earrings-attrangi-3.jpg?v=1739814283",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ubeida-tikdi-earrings?variant=gid://shopify/ProductVariant/43403650826452",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43403650859220": {
     "product_title": "Ubeida Tikdi Earrings",
@@ -12265,7 +12269,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/saanvi-necklace-set-with-gold-beads-or-sone-pe-suhaga-attrangi-3.jpg?v=1739815937",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/saanvi-necklace-set-with-gold-beads-sone-pe-suhaga?variant=gid://shopify/ProductVariant/44553548497108",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44553548529876": {
     "product_title": "Saanvi Necklace Set With Gold Beads | Sone Pe Suhaga",
@@ -17232,8 +17237,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-10_at_12.01.22_AM.jpg?v=1757503545",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lata-2-line-diamond-hair-chain-mattel?variant=gid://shopify/ProductVariant/46229663842516",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45860523180244": {
     "product_title": "Drizella Beaded Diamond Pastel Kada | Lala Land Collection",
@@ -33196,10 +33201,10 @@
     "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-09at11.33.48AM.jpg?v=1765264549",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/floral-mirage-peacock-pastel-diamond-earrings-enchanted-garden?variant=gid://shopify/ProductVariant/47331274096852",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47431045611732": {
     "product_title": "Floral Mirage Peacock Pastel Diamond Earrings | Enchanted Garden",
@@ -33410,8 +33415,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-10_at_2.04.02_PM.jpg?v=1776320469",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mystic-petal-diamond-pastel-set-enchanted-garden?variant=gid://shopify/ProductVariant/47808223903956",
-    "stock": 5,
-    "last_alerted_stock": 0
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47335901397204": {
     "product_title": "Emerald Rose Bloom Diamond Pastel Set | Enchanted Garden",
@@ -33680,8 +33685,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-18at11.28.22AM.jpg?v=1766042201",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sabhya-bijooriya-multicolour-gemstone-kada-gemz?variant=gid://shopify/ProductVariant/47368749580500",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47770914324692": {
     "product_title": "Sabhya Bijooriya Multicolour Gemstone Kada | GemZ",
@@ -38008,8 +38013,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-20at6.47.40PM.jpg?v=1774014117",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/47684226187476",
-    "stock": 3,
-    "last_alerted_stock": 0
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47684236804308": {
     "product_title": "Vachan Single Line Diamond Mangalsutra with Coloured Stone | Daily Wear",
@@ -38432,10 +38437,10 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at3.50.48PM.jpg?v=1774337360",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/chamkeeli-moissanite-light-weight-polki-jhumki?variant=gid://shopify/ProductVariant/47776296992980",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47715545088212": {
     "product_title": "Fooldhaar Delicate Polki Long Indian Earrings | Indo western",

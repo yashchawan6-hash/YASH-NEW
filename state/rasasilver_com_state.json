@@ -1538,10 +1538,10 @@
     "price": 4200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2082.jpg?v=1751363979",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/navarise-studs?variant=gid://shopify/ProductVariant/50153089728809",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50153089761577": {
     "product_title": "Vedika Vyom Short Necklace",
@@ -5945,9 +5945,10 @@
     "price": 33800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-4_a51319ae-4f79-45ae-b0c0-64c9d518750a.jpg?v=1753960206",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pearlush-necklace-set?variant=gid://shopify/ProductVariant/50599276478761",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50599854965033": {
     "product_title": "Portrait Polki Dangle Earrings",
@@ -25301,9 +25302,10 @@
     "price": 11900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0024copy_resized.jpg?v=1761805321",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/sumira-matil?variant=gid://shopify/ProductVariant/51445303574825",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51445324972329": {
     "product_title": "Auralia Gem Matil",
@@ -52139,9 +52141,10 @@
     "price": 22400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4461.jpg?v=1771400252",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/manikaara-victorian-necklace-set?variant=gid://shopify/ProductVariant/52682196648233",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52682205331753": {
     "product_title": "Swarnaprada Pear Stone Necklace",
@@ -65346,9 +65349,10 @@
     "price": 1600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0259_resized.jpg?v=1781162746",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ziva-spark-cz-ring-copy?variant=gid://shopify/ProductVariant/53138415517993",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53138461032745": {
     "product_title": "Florika Toe Ring",
@@ -65388,10 +65392,10 @@
     "price": 2100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0220_resized.jpg?v=1781163837",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ziva-spark-cz-ring-copy-2?variant=gid://shopify/ProductVariant/53138602393897",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53138757845289": {
     "product_title": "Square-Floral Toe Ring",
@@ -75160,7 +75164,7 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1072.jpg?v=1786101070",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/starlit-blue-bracelet?variant=gid://shopify/ProductVariant/53346351317289",
     "stock": -1
   },
@@ -75174,7 +75178,7 @@
     "price": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1052.jpg?v=1786102354",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/abstract-bracelet?variant=gid://shopify/ProductVariant/53346354200873",
     "stock": -1
   },
@@ -75258,7 +75262,7 @@
     "price": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1034.jpg?v=1786103754",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/dusky-gleam-bracelet?variant=gid://shopify/ProductVariant/53346676736297",
     "stock": -1
   },

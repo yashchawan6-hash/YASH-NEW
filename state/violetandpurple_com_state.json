@@ -3553,7 +3553,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/2.1_f0e54b45-97dc-4de8-b1a7-a9875e0997ff.jpg?v=1714215589",
     "available_for_sale": true,
     "url": "https://www.violetandpurple.com/products/designer-lakshmi-devi-stone-bangles-1?variant=gid://shopify/ProductVariant/48763716665637",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/48763716698405": {
     "product_title": "Designer Lakshmi Devi Matt Stone Bangles",
@@ -5695,7 +5696,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/3.0_36740ef4-ec2b-4f8c-942d-7a6352f5d049.jpg?v=1765197788",
     "available_for_sale": true,
     "url": "https://www.violetandpurple.com/products/designer-lakshmi-devi-matt-stone-bangles-zbgl11089?variant=gid://shopify/ProductVariant/49783913578789",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/49783913611557": {
     "product_title": "Designer Lakshmi Devi Matt Stone Bangles ZBGL11089",
@@ -5765,7 +5767,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/5.0_958e9217-4bd4-4994-8f80-04bb65ac3889.jpg?v=1729594473",
     "available_for_sale": true,
     "url": "https://www.violetandpurple.com/products/designer-matt-kempu-stone-bangles-zbgl11195?variant=gid://shopify/ProductVariant/49805220282661",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/49805220315429": {
     "product_title": "Designer Matt Kempu Stone Bangles",
@@ -8675,7 +8678,7 @@
     "price": 625.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/1.1_b4f72916-dbed-40fe-bcf7-41c4b23ced37.jpg?v=1765278906",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.violetandpurple.com/products/designer-floral-temple-jhumka-earrings?variant=gid://shopify/ProductVariant/50578189582629",
     "stock": 1
   },

@@ -1402,13 +1402,13 @@
     "variant_id": "gid://shopify/ProductVariant/32608826032194",
     "global_id": "gid://shopify/ProductVariant/32608826032194",
     "variant_title": "White Red Green / 2.4",
-    "sku": "US-ZBX0055XM24",
-    "price": 47.99,
+    "sku": "ZBX0055XM24",
+    "price": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7631_copy_copy_3fb717b3-1a4c-4ff8-8486-f5b0d0ad665d.jpg?v=1762532318",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/devya-nakshatra-cz-bangles?variant=gid://shopify/ProductVariant/32608826032194",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32608826097730": {
@@ -5397,13 +5397,13 @@
     "variant_id": "gid://shopify/ProductVariant/39652711366722",
     "global_id": "gid://shopify/ProductVariant/39652711366722",
     "variant_title": "Yellow Gold polish with Red variant / 2.6",
-    "sku": "US-TBX0001XR2",
-    "price": 35.99,
+    "sku": "TBX0001XR2",
+    "price": 44.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2626copy.jpg?v=1640780096",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/classic-delicate-cz-bangles?variant=gid://shopify/ProductVariant/39652711366722",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39652711333954": {
@@ -10638,12 +10638,12 @@
     "global_id": "gid://shopify/ProductVariant/39961196724290",
     "variant_title": "White Red Green",
     "sku": "ANX2287XMC",
-    "price": 106.24,
+    "price": 124.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9536copycopy.jpg?v=1662998639",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/39961196724290",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41664457965634": {
@@ -12985,13 +12985,13 @@
     "variant_id": "gid://shopify/ProductVariant/40382267981890",
     "global_id": "gid://shopify/ProductVariant/40382267981890",
     "variant_title": "White Green",
-    "sku": "US-TNX0220XDS",
-    "price": 45.0,
+    "sku": "TNX0220XDS",
+    "price": 149.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0220XDS.jpg?v=1741696874",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/eveline-nakshatra-cz-choker?variant=gid://shopify/ProductVariant/40382267981890",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40382268014658": {
@@ -15293,13 +15293,13 @@
     "variant_id": "gid://shopify/ProductVariant/40714067607618",
     "global_id": "gid://shopify/ProductVariant/40714067607618",
     "variant_title": "Default Title",
-    "sku": "US-AEX3574XCC",
+    "sku": "AEX3574XCC",
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/AEX3574X_dd5a994c-7374-4b0c-bbb6-a07af0881db5.jpg?v=1707108491",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ramisa-antique-earrings-with-chain?variant=gid://shopify/ProductVariant/40714067607618",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40714232463426": {
@@ -20562,9 +20562,10 @@
     "price": 114.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/KNX4572XDC.jpg?v=1757319100",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/malathi-antique-necklace-set?variant=gid://shopify/ProductVariant/42417282252866",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42417282351170": {
     "product_title": "Mayura Layered Antique Necklace Set",
@@ -26100,7 +26101,7 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SBR0001WT6-T.png?v=1785931815",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/44672206241858",
     "stock": -1
   },

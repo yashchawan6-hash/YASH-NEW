@@ -10640,12 +10640,12 @@
     "global_id": "gid://shopify/ProductVariant/40415893946404",
     "variant_title": "White Red Green",
     "sku": "ANX2287XMC",
-    "price": 5549.65,
+    "price": 6529.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A9536copycopy.jpg?v=1662998783",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.in/products/temple-classic-antique-choker-set?variant=gid://shopify/ProductVariant/40415893946404",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40415893913636": {
@@ -23331,9 +23331,9 @@
     "price": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/SBR0001WT6-T.png?v=1786017689",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.in/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/54109945921904",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/54109946282352": {
