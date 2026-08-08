@@ -15346,9 +15346,10 @@
     "price": 144.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FEX3768X_1468c833-6b96-4a06-869e-1f5caeb235d8.jpg?v=1715920708",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/mansi-kempu-jadau-jhumka-earrings?variant=gid://shopify/ProductVariant/40715056349250",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40715205705794": {
     "product_title": "Udhay Kempu Antique Jhumki Earrings",
