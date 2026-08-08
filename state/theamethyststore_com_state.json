@@ -1204,8 +1204,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-104-0492.jpg?v=1747546974",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/trishikha-pendant?variant=gid://shopify/ProductVariant/40110978400406",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40125386260630": {
     "product_title": "Aathesh Pendant",
@@ -63142,7 +63142,7 @@
     "price": 39160.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11299.jpg?v=1756723841",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/vikitha-kundan-short-necklace-set?variant=gid://shopify/ProductVariant/47081602908387",
     "stock": 1
   },
@@ -115686,7 +115686,7 @@
     "price": 136800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14472.jpg?v=1771503861",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shervin-kaasu-malai-necklace?variant=gid://shopify/ProductVariant/48289010155747",
     "stock": 1
   },

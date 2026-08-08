@@ -96,5 +96,33 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/lahari-nakshatra-cz-red-bracelet?variant=gid://shopify/ProductVariant/41607068090434",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0110XC5.jpg?v=1725252811"
+  },
+  {
+    "timestamp_ist": "2026-08-08 20:33:40",
+    "product_title": "Arki Antique Choker Set",
+    "variant_title": "White Red Green",
+    "variant_id": "gid://shopify/ProductVariant/39720696086594",
+    "sku": "US-IJN0282XMC",
+    "price": 129.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.tarinika.com/products/arki-antique-choker-set?variant=gid://shopify/ProductVariant/39720696086594",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL5417.jpg?v=1739528009"
+  },
+  {
+    "timestamp_ist": "2026-08-08 20:33:40",
+    "product_title": "Jalaja Single Layer Floral Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40382344626242",
+    "sku": "TNX0287XWH",
+    "price": 39.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.tarinika.com/products/jalaja-single-layer-floral-necklace?variant=gid://shopify/ProductVariant/40382344626242",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0287X.jpg?v=1691141697"
   }
 ]
