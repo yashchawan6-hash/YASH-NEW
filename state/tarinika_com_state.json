@@ -12989,10 +12989,10 @@
     "price": 45.0,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0220XDS.jpg?v=1741696874",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/eveline-nakshatra-cz-choker?variant=gid://shopify/ProductVariant/40382267981890",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40382268014658": {
     "product_title": "Eveline Nakshatra CZ Choker",
