@@ -11377,9 +11377,10 @@
     "price": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/3_d5834aaa-4f64-4e7a-bb66-e7355bdc3a09.jpg?v=1756141258",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/supriya-gold-plated-polki-bracelet?variant=gid://shopify/ProductVariant/49150844731585",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49150849777857": {
     "product_title": "BHAWNA GREEN POLKI BRACELET",
@@ -17511,7 +17512,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/181_12bf202d-cb24-480d-bd8d-6e77d373323e.png?v=1762972216",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/rudra-red-green-moissanite-katar?variant=gid://shopify/ProductVariant/49668559634625",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/49668575428801": {
     "product_title": "CHAAYA GOLD PLATED POLKI BANGLES",
@@ -17525,7 +17526,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/17_f1800423-6911-495c-9439-7c84a6a9b6ac.png?v=1762972835",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chaaya-gold-plated-polki-bangles?variant=gid://shopify/ProductVariant/49668575428801",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49940037271745": {
     "product_title": "Partial Payment",
@@ -17539,7 +17540,7 @@
     "image_url": null,
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/partial-payment?variant=gid://shopify/ProductVariant/49940037271745",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50069883715777": {
     "product_title": "CHAHAK RED & GREEN LEATHER KUNDAN HAND BAG",
@@ -17553,7 +17554,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/41_8b18d4bf-b26e-418e-a96b-905ed221fdaa.png?v=1779710135",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chahak-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069883715777",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069883879617": {
     "product_title": "ADITRI RED & GREEN LEATHER KUNDAN HAND BAG",
@@ -17567,7 +17568,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/7_eb199cc8-c32a-411b-9b00-bab342706222.png?v=1779710140",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/aditri-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069883879617",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069885026497": {
     "product_title": "MISHIKA RED & GREEN LEATHER KUNDAN HAND BAG",
@@ -17581,7 +17582,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0220.jpg?v=1774272356",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mishika-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069885026497",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069885354177": {
     "product_title": "SAANVI RED & GREEN KUNDAN HAND BAG",
@@ -17595,7 +17596,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0242.jpg?v=1774272403",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/saanvi-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069885354177",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069885681857": {
     "product_title": "SAMAR RED & GREEN KUNDAN HAND BAG",
@@ -17609,7 +17610,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0901.jpg?v=1774271885",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/samar-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069885681857",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069886075073": {
     "product_title": "MIRA RED & GREEN KUNDAN HAND BAG",
@@ -17623,7 +17624,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0920.jpg?v=1774271977",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mira-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069886075073",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069886632129": {
     "product_title": "NITARA RED & GREEN KUNDAN HAND BAG",
@@ -17637,7 +17638,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/46_125d6825-4adf-4ca7-b230-2d84dfa90b49.png?v=1785485119",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/nitara-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069886632129",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069886959809": {
     "product_title": "TANIA RED & GREEN KUNDAN HAND BAG",
@@ -17651,7 +17652,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0956.jpg?v=1774272188",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/tania-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069886959809",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50069889548481": {
     "product_title": "RANI RED & GREEN KUNDAN HAND BAG",
@@ -17665,7 +17666,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0982.jpg?v=1774272938",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/rani-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069889548481",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50127957229761": {
     "product_title": "Partial Payment",
@@ -17679,7 +17680,7 @@
     "image_url": null,
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/partial-payment-1?variant=gid://shopify/ProductVariant/50127957229761",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50127958900929": {
     "product_title": "Partial Payment",
@@ -17693,7 +17694,7 @@
     "image_url": null,
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/partial-payment-2?variant=gid://shopify/ProductVariant/50127958900929",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50127959949505": {
     "product_title": "Partial Payment",
@@ -17707,7 +17708,7 @@
     "image_url": null,
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/partial-payment-3?variant=gid://shopify/ProductVariant/50127959949505",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50160388669633": {
     "product_title": "ALKA GOLD PLATED ORNATE BOX",
@@ -17721,7 +17722,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11453.jpg?v=1777123409",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/alka-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50160388669633",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50160391291073": {
     "product_title": "DOLI GOLD PLATED ORNATE BOX",
@@ -17735,7 +17736,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11461.jpg?v=1777123813",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/doli-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50160391291073",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50160391946433": {
     "product_title": "GANESHA GOLD PALTED ORNATE BOX",
@@ -17749,7 +17750,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11493.jpg?v=1777124071",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/ganesha-gold-palted-ornate-box?variant=gid://shopify/ProductVariant/50160391946433",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163655803073": {
     "product_title": "SHREE VENKATESWARA GOLD PALTED ORNATE BOX",
@@ -17763,7 +17764,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11512.jpg?v=1777267817",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/niharika-gold-palted-brass-ornate-box?variant=gid://shopify/ProductVariant/50163655803073",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163661242561": {
     "product_title": "LORD RAM RED GOLD PLATED ORNATE BOX",
@@ -17777,7 +17778,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11536.jpg?v=1777268730",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/lord-ram-red-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50163661242561",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163663962305": {
     "product_title": "GOLD PLATED RED & GREEN LAKSHMI ORNATE BOX",
@@ -17791,7 +17792,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/5NGP11558.jpg?v=1777269298",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/jhoomer-gold-plated-red-green-ornate-box?variant=gid://shopify/ProductVariant/50163663962305",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163721863361": {
     "product_title": "GOLD PLATED RED & GREEN GANESHA ORNATE BOX",
@@ -17805,7 +17806,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/2NGP11570.jpg?v=1777269700",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gold-plated-red-green-ganesha-ornate-box?variant=gid://shopify/ProductVariant/50163721863361",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163754664129": {
     "product_title": "GOLD PLATED RED & GREEN SHIV PARVATI ORNATE BOX",
@@ -17819,7 +17820,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/5NGP11587.jpg?v=1777269899",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gold-plated-red-green-shiv-parvati-ornate-box?variant=gid://shopify/ProductVariant/50163754664129",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163769737409": {
     "product_title": "KRISHNA GOLD PLATED ORNATE BOX",
@@ -17833,7 +17834,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11603.jpg?v=1777270083",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/krishna-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50163769737409",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163809386689": {
     "product_title": "KAMATH RED & GREEN GOLDPLATED ORNATE BOX",
@@ -17847,7 +17848,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/3NGP11614.jpg?v=1777270601",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/vedika-red-green-kundan-ornate-box?variant=gid://shopify/ProductVariant/50163809386689",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163914637505": {
     "product_title": "AMBIKA RUBY GOLD PLATED ORNATE BOX",
@@ -17861,7 +17862,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/5NGP11651.jpg?v=1777271758",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/ambika-ruby-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50163914637505",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163920535745": {
     "product_title": "GANESHA GOLD PALTED MINT ORNATE BOX",
@@ -17875,7 +17876,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11666.jpg?v=1777271984",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/ganesha-gold-palted-mint-ornate-box?variant=gid://shopify/ProductVariant/50163920535745",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163927023809": {
     "product_title": "GOLD PLATED GREEN TORTOISE ORNATE BOX",
@@ -17889,7 +17890,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/6NGP11682.jpg?v=1777272775",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gold-plated-green-kamath-ornate-box?variant=gid://shopify/ProductVariant/50163927023809",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163931807937": {
     "product_title": "RUBY GOLD PLATED RED & GREEN KUNDAN ORNATE BOX",
@@ -17903,7 +17904,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11711.jpg?v=1777273250",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/ruby-gold-plated-red-green-kundan-ornate-box?variant=gid://shopify/ProductVariant/50163931807937",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163935477953": {
     "product_title": "GOLD PLATED RED & GREEN KALASH ORNATE BOX",
@@ -17917,7 +17918,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11697.jpg?v=1777273428",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/kruttika-red-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50163935477953",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163940262081": {
     "product_title": "VEDA GOLD PLATED RED & GREEN ORNATE BOX",
@@ -17931,7 +17932,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11740.jpg?v=1777273923",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/veda-gold-plated-red-green-ornate-box?variant=gid://shopify/ProductVariant/50163940262081",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50163944620225": {
     "product_title": "MOHINI GOLD PLATED RED & GREEN ORNATE BOX",
@@ -17945,7 +17946,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11754.jpg?v=1777274848",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mohini-gold-plated-red-green-ornate-box?variant=gid://shopify/ProductVariant/50163944620225",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50164054425793": {
     "product_title": "GOLD PLATED MAHALAKSHIMI ORNATE BOX",
@@ -17959,7 +17960,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11784.jpg?v=1777276120",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gold-plated-mahalakshimi-ornate-box?variant=gid://shopify/ProductVariant/50164054425793",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50164532936897": {
     "product_title": "VEDANATHA GOLD PLATED ORNATE BOX",
@@ -17973,7 +17974,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11796.jpg?v=1777276411",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/vedanatha-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50164532936897",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50164665254081": {
     "product_title": "GOLD PLATED RED & GREEN ORNATE BOX",
@@ -17987,7 +17988,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/7NGP11826.jpg?v=1777278064",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/ishika-green-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50164665254081",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50164946403521": {
     "product_title": "VIGNESHWARA RED & GREEN GOLD PLATED ORNATE BOX",
@@ -18001,7 +18002,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP11623.jpg?v=1777281229",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/vigneshwara-red-green-gold-plated-ornate-box?variant=gid://shopify/ProductVariant/50164946403521",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50171558494401": {
     "product_title": "BHUMI RED & GREEN KALGI",
@@ -18015,7 +18016,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP1239.jpg?v=1777547872",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/bhumi-red-green-kalgi?variant=gid://shopify/ProductVariant/50171558494401",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50171611250881": {
     "product_title": "GITANJALI GREEN KALGI",
@@ -18029,7 +18030,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP1248.jpg?v=1777548091",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gitanjali-green-kalgi?variant=gid://shopify/ProductVariant/50171611250881",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50171619901633": {
     "product_title": "SADHIKA RUBY GOLD PLATED MOISSANITE KALGI",
@@ -18043,7 +18044,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP02698.jpg?v=1777548962",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/sadhika-ruby-gold-plated-moissanite-kalgi?variant=gid://shopify/ProductVariant/50171619901633",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50171689730241": {
     "product_title": "HETAL GREEN GOLD PLATED MOISSANITE KALGI",
@@ -18057,7 +18058,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP02705.jpg?v=1777549233",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/hetal-green-gold-plated-moissanite-kalgi?variant=gid://shopify/ProductVariant/50171689730241",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50171711291585": {
     "product_title": "DEVISHA GOLD PLATED MOISSANITE KALGI",
@@ -18071,7 +18072,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0641.jpg?v=1777549517",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/devisha-gold-plated-moissanite-kalgi?variant=gid://shopify/ProductVariant/50171711291585",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50178982936769": {
     "product_title": "NITARA RED & GREEN GOLD PLATED CHOTI",
@@ -18085,7 +18086,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Gemini_Generated_Image_gavpf7gavpf7gavp.png?v=1781612475",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/nitara-red-green-gold-plated-choti?variant=gid://shopify/ProductVariant/50178982936769",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50179277422785": {
     "product_title": "TANIA RED GOLD PLATED CHOTI",
@@ -18099,7 +18100,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Gemini_Generated_Image_4ietri4ietri4iet.png?v=1781613560",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/tania-red-gold-plated-choti?variant=gid://shopify/ProductVariant/50179277422785",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50179293479105": {
     "product_title": "MISHIKA GOLD PLATED CHOTI",
@@ -18113,7 +18114,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Gemini_Generated_Image_jhhjakjhhjakjhhj.png?v=1781611958",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mishika-gold-plated-choti?variant=gid://shopify/ProductVariant/50179293479105",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50179377823937": {
     "product_title": "MIRA RED GOLD PLATED CHOTI",
@@ -18127,7 +18128,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP04841.jpg?v=1777881279",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mira-red-gold-plated-choti?variant=gid://shopify/ProductVariant/50179377823937",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50179397124289": {
     "product_title": "SAMAR RED & GREEN KUNDAN CHOTI",
@@ -18141,7 +18142,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP02588.jpg?v=1777881387",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/samar-red-green-kundan-choti?variant=gid://shopify/ProductVariant/50179397124289",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50179435233473": {
     "product_title": "AVNI GOLD PLATED BAJU BANDH",
@@ -18155,7 +18156,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0337.jpg?v=1777881839",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/avni-gold-plated-baju-bandh?variant=gid://shopify/ProductVariant/50179435233473",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50179504373953": {
     "product_title": "BHAVINI RED GOLD PLATED BAJU BANDH",
@@ -18169,7 +18170,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0345.jpg?v=1777881965",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/bhavini-red-gold-plated-baju-bandh?variant=gid://shopify/ProductVariant/50179504373953",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50179534127297": {
     "product_title": "MAHEK RED & GREEN BAJU BANDH",
@@ -18197,7 +18198,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/12_ec7ad1d6-2ee4-4b6c-b566-418843baa388.png?v=1779704190",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/vinayaka-green-brooch?variant=gid://shopify/ProductVariant/50190066188481",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50190238843073": {
     "product_title": "NIHARIKA GREEN BROOCH",
@@ -18211,7 +18212,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/9_c7615971-0da1-4d81-9c11-8d44229f4926.png?v=1779704178",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/niharika-green-moissanite-brooch?variant=gid://shopify/ProductVariant/50190238843073",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50190241071297": {
     "product_title": "ASHA ANTIQUE FINISH GREEN POLKI BROOCH",
@@ -18225,7 +18226,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/NGP02639.jpg?v=1778148514",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/asha-antique-finish-green-polki-brooch?variant=gid://shopify/ProductVariant/50190241071297",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50242719088833": {
     "product_title": "RIDVI MINT POLKI NECKLACE SET",
@@ -18239,7 +18240,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/10_3964d363-f68e-4c2b-acd4-32a1c557d885.png?v=1779704141",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/ridvi-mint-polki-necklace-set?variant=gid://shopify/ProductVariant/50242719088833",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50242773319873": {
     "product_title": "YASHIKA MINT POLKI NECKLACE SET",
@@ -18253,7 +18254,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/3_ebc95783-2704-4397-ac60-8da1a0d5b38c.png?v=1779704112",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/yashika-mint-polki-necklace-set?variant=gid://shopify/ProductVariant/50242773319873",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50242929950913": {
     "product_title": "KEYA MINT ROSE CUT NECKLACE SET",
@@ -18267,7 +18268,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/19_bdbd0afb-3b18-4882-a60a-78f117ad2941.png?v=1779704066",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/keya-mint-rose-cut-necklace-set?variant=gid://shopify/ProductVariant/50242929950913",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50242950660289": {
     "product_title": "MANSI ANTIQUE FINISH POLKI NECKLACE SET",
@@ -18281,7 +18282,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1_b3db5c5d-bc46-40e6-ad69-95c36f636184.png?v=1779704025",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mansi-antique-finish-polki-necklace-set?variant=gid://shopify/ProductVariant/50242950660289",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50242956951745": {
     "product_title": "BHUMI PINK ROSE CUT NECKLACE SET",
@@ -18295,7 +18296,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/37_7d5c85f4-454c-4ab7-a1c9-b1d220e4bd3f.png?v=1779703992",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/bhumi-pink-rose-cut-necklace-set?variant=gid://shopify/ProductVariant/50242956951745",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50242968387777": {
     "product_title": "ANAYA GREEN ROSE CUT NECKLACE SET",
@@ -18309,7 +18310,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/6_588616a2-7e31-4736-88f6-404508000999.png?v=1779703937",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/anaya-green-rose-cut-necklace-set?variant=gid://shopify/ProductVariant/50242968387777",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50255208612033": {
     "product_title": "MISHKA PINK ZIRCON NECKLACE SET",
@@ -18323,7 +18324,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/2_9ec0c1ce-d109-4f9f-81e6-be7605db9561.png?v=1779703833",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mishka-pink-zircon-necklace-set?variant=gid://shopify/ProductVariant/50255208612033",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50255208644801": {
     "product_title": "MISHKA PINK ZIRCON NECKLACE SET",
@@ -18337,7 +18338,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/14_1bb6df08-1eab-49f4-ad43-bd6adac5603f.png?v=1779703900",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mishka-pink-zircon-necklace-set?variant=gid://shopify/ProductVariant/50255208644801",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50255200846017": {
     "product_title": "RIYANA PINK ZIRCON NECKLACE SET",
@@ -18351,7 +18352,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/27_22144352-0160-41d9-8d25-f1c65f936b08.png?v=1779703606",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/riyana-pink-zircon-necklace-set?variant=gid://shopify/ProductVariant/50255200846017",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50255200878785": {
     "product_title": "RIYANA PINK ZIRCON NECKLACE SET",
@@ -18365,7 +18366,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1_3d07aecd-84f4-442b-8e6e-4d6ca84d8298.png?v=1779703594",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/riyana-pink-zircon-necklace-set?variant=gid://shopify/ProductVariant/50255200878785",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50243310420161": {
     "product_title": "RIVA MINT ROSE CUT NECKLACE SET",
@@ -18379,7 +18380,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/35_1ae4fb94-b44e-4160-b2ce-5db4bdf71f44.png?v=1779703405",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/riva-green-zircon-necklace-set?variant=gid://shopify/ProductVariant/50243310420161",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50243323101377": {
     "product_title": "ANVI PINK ROSE CUT NECKLACE SET",
@@ -18393,7 +18394,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/26_b784910e-11bb-41fa-a5af-42eeb8fa16a5.png?v=1779703067",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/anvi-pink-rose-cut-necklace-set?variant=gid://shopify/ProductVariant/50243323101377",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50243328540865": {
     "product_title": "HARITA GREEN ZIRCON NECKLACE SET",
@@ -18407,7 +18408,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/30_d7ac5020-cd70-42f8-bcd9-3e03e3c06628.png?v=1779703014",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/harita-green-zircon-necklace-set?variant=gid://shopify/ProductVariant/50243328540865",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50243363832001": {
     "product_title": "SHRESHTA MINT ROSE CUT RING",
@@ -18421,7 +18422,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/18_27c2ac39-e476-471d-b9f6-64c8f0b61f25.png?v=1779702864",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/shreshta-mint-rose-cut-ring?variant=gid://shopify/ProductVariant/50243363832001",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50243364749505": {
     "product_title": "JESSICA GREEN ROSE CUT RING",
@@ -19068,7 +19069,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP1256.jpg?v=1781184058",
     "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/brinda-red-green-kundan-juda-pin?variant=gid://shopify/ProductVariant/50322724389057",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50340803772609": {
     "product_title": "ANVITHA GOLD PLATED POLKI STUD",

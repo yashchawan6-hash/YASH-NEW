@@ -600,9 +600,9 @@
     "price": 547.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE03MT270618.jpg?v=1765280075",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-plated-pearl-statement-maangtika?variant=gid://shopify/ProductVariant/43043847340206",
-    "stock": 0,
+    "stock": 20,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43043846946990": {
@@ -15288,8 +15288,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13V404938_Model_1.jpg?v=1774606792",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22kt-gold-cubic-zirconia-studded-bangle-style-bracelet-re13v404938?variant=gid://shopify/ProductVariant/45315730342062",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45315730374830": {
     "product_title": "Rubans 22KT Gold-Plated Cubic Zirconia Studded Floral Bangle-Style Bracelet",
@@ -18485,7 +18485,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14B405042_Model_ea605962-cc9e-4480-9b10-2adba214e673.jpg?v=1765202456",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/set-of-2-rhodium-plated-ad-cubic-zirconia-studded-premium-bangles?variant=gid://shopify/ProductVariant/45846056763566",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45846056796334": {
     "product_title": "Set of 2 Rhodium Plated AD & Cubic Zirconia Studded Premium Bangles",
@@ -20665,7 +20666,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B405191.jpg?v=1765460139",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-crystal-white-ad-cubic-zirconia-studded-premium-bangles?variant=gid://shopify/ProductVariant/47084617629870",
-    "stock": 6
+    "stock": 7
   },
   "gid://shopify/ProductVariant/47084617662638": {
     "product_title": "Rubans Set of 2 Rhodium-Plated Crystal White AD & Cubic Zirconia Studded Premium Bangles",
@@ -27190,8 +27191,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-cubic-zirconia-studded-hoop-earrings-hoop-earrings-37663088541870.jpg?v=1755716556",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-red-green-stone-studded-elephant-motif-earring-with-pearl-accents-copy?variant=gid://shopify/ProductVariant/45973908652206",
-    "stock": 18,
-    "last_alerted_stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/45979719205038": {
     "product_title": "Rubans Oxidized Silver Handcrafted Carved Blue Gem Stone Studded Drop Earring",
@@ -27627,7 +27628,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-glamorous-ad-cubic-zirconia-studded-multilayered-drop-earrings-earrings-1203222638.jpg?v=1774606909",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-silver-tone-zircon-drop-earrings-copy?variant=gid://shopify/ProductVariant/46004191690926",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46004211187886": {
@@ -28162,7 +28163,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS407006_848d3921-1988-47a4-8aab-f37e4bbf7688.jpg?v=1770877766",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-cubic-zirconia-studded-necklace-earrings-set-with-blue-pearl-bead-accents-copy?variant=gid://shopify/ProductVariant/46012000633006",
-    "stock": 19
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/46012004171950": {
     "product_title": "Floral Canvas Multicolour Necklace Set",
@@ -92654,7 +92656,7 @@
     "price": 1565.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10EF410735Model1.jpg?v=1772102450",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ef410735?variant=gid://shopify/ProductVariant/47556452843694",
     "stock": 0
   },
@@ -95393,7 +95395,7 @@
     "price": 1429.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10KB411082Model01_3.jpg?v=1774274293",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10kb411082?variant=gid://shopify/ProductVariant/47662488780974",
     "stock": 0
   },

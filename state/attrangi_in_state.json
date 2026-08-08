@@ -6690,9 +6690,9 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/jharoka-small-chandbali-attrangi-1.jpg?v=1739814271",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jharoka-small-chandbali?variant=gid://shopify/ProductVariant/43390646157524",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43403625398484": {
@@ -7021,7 +7021,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/30-cents-solitaire-tennis-bracelet-attrangi-1.jpg?v=1739814435",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/30-cent-solitaire-tennis-bracelet?variant=gid://shopify/ProductVariant/43593120973012",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43593125560532": {
     "product_title": "25 cents Round Solitaire Tennis Bracelet| 4mm",
@@ -7915,7 +7916,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/lilo-beaded-diamond-pastel-bracelet-or-lala-land-collection-attrangi-1.jpg?v=1739814729",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lilo-beaded-diamond-pastel-bracelet-lala-land-collection?variant=gid://shopify/ProductVariant/43830438789332",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43830220783828": {
     "product_title": "Sasha Antique Gold Studs",
@@ -9189,7 +9191,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/stacy-diamond-bracelet-with-coloured-stone-attrangi-1.jpg?v=1739815181",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/stacy-diamond-bracelet-with-coloured-stone?variant=gid://shopify/ProductVariant/43974004670676",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43976312357076": {
     "product_title": "Jadaau Unisex Reusable Rakhi",
@@ -11240,7 +11243,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/starstruck-emerald-diamond-bracelet-attrangi-5.jpg?v=1739815781",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/starstruck-emerald-diamond-bracelet?variant=gid://shopify/ProductVariant/44464343154900",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44473953943764": {
     "product_title": "Orla Multi Coloured Screwless Studs",
@@ -12224,9 +12228,9 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kavia-slim-gold-bangle-set-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815920",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kavia-slim-gold-bangle-set-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/46101349761236",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44547188031700": {
@@ -12834,7 +12838,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-05-12_at_11.35.24_PM.jpg?v=1749409231",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/siania-moissanite-pendant-set-rose-gold-polish?variant=gid://shopify/ProductVariant/44863665602772",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46104757141716": {
     "product_title": "Jabri Moissanite Kada with Diamonds | Rose Gold Polish",
@@ -17939,9 +17944,10 @@
     "price": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_12.59.46_AM.jpg?v=1739817853",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/moissanite-3d-floral-polki-indian-kada-in-gold-polish?variant=gid://shopify/ProductVariant/46060060672212",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46060060704980": {
     "product_title": "Moissanite 3D floral Polki Indian Kada In Gold Polish",
@@ -17953,9 +17959,10 @@
     "price": 7850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_12.59.46_AM.jpg?v=1739817853",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/moissanite-3d-floral-polki-indian-kada-in-gold-polish?variant=gid://shopify/ProductVariant/46060060704980",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45889368293588": {
     "product_title": "Velma Lala Land Pastel Beaded Diamond Set | Lala Land Collection",
@@ -17997,7 +18004,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-12-20_at_8.45.15_PM.jpg?v=1739817860",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/velma-lala-land-pastel-beaded-diamond-set-lala-land-collection?variant=gid://shopify/ProductVariant/45951990005972",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45889397719252": {
     "product_title": "Lola Oversized Pastel Beaded Diamond Earrings | Lala Land Collection",
@@ -20073,7 +20081,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_11.06.06_PM.jpg?v=1757493869",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhilmil-diamond-mattel-diamond-hair-chain?variant=gid://shopify/ProductVariant/46605344997588",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46062012039380": {
@@ -23587,9 +23595,10 @@
     "price": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-04-30at6.53.28PM.jpg?v=1749411015",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/draupadi-moissanite-polki-rich-mid-thick-kada-next-to-real?variant=gid://shopify/ProductVariant/46254528397524",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46254528430292": {
     "product_title": "Draupadi Moissanite Polki Rich Mid-Thick Kada | Next To Real",
@@ -26277,7 +26286,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_3.40.27_PM.jpg?v=1774271927",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gulaab-single-line-sleek-polki-choker-set?variant=gid://shopify/ProductVariant/46519199695060",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46519235412180": {
@@ -30864,7 +30873,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.12.27_PM_8.jpg?v=1764765886",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/abhilasha-uncut-diamond-ruby-mint-polki-moissanite-bangle-set-openable?variant=gid://shopify/ProductVariant/47808623706324",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47011899539668": {
     "product_title": "Kharbuja Bead Pearl Rich Heavy Hairchain | Mattel",
@@ -46902,7 +46912,7 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712176340",
     "stock": 5,
     "last_alerted_stock": 2
