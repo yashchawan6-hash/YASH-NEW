@@ -241,7 +241,7 @@ def check_stock_in_batches(domain, token, active_variants):
     """
 
     results = {}
-    batch_size = 250
+    batch_size = 100
     total_variants = len(active_variants)
 
     for i in range(0, total_variants, batch_size):
