@@ -83,9 +83,10 @@
     "price": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/43535590293716",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411659337897": {
     "product_title": "50 Cent Small Round Solitaires Halo| Screwback",
@@ -1167,7 +1168,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-2.jpg?v=1739812669",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/42145342324948",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411687780521": {
     "product_title": "Foolwa Jadaau Ring",
@@ -26949,10 +26951,10 @@
     "price": 5950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-30_at_3.28.21_PM.jpg?v=1775207502",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/nathan-diamond-set-in-gold-polish?variant=gid://shopify/ProductVariant/46644800979156",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46644801011924": {
     "product_title": "Nathan Diamond Set in Gold Polish",
@@ -48986,7 +48988,7 @@
     "price": 3150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at4.30.31PM.jpg?v=1785589678",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lopamudra-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403607224532",
     "stock": 0
   },
