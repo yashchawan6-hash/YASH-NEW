@@ -494,6 +494,23 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
     except Exception as e:
         print(f"[{domain}] Error saving state file: {e}", flush=True)
 
+
+def trigger_next_loop():
+    if os.environ.get('GITHUB_ACTIONS') == 'true':
+        print("[Auto-Loop] Dispatching next 5-minute sales tracker cycle...", flush=True)
+        github_token = os.environ.get('GITHUB_TOKEN') or ''
+        repo = os.environ.get('GITHUB_REPOSITORY', 'yashchawan6-hash/YASH-NEW')
+        url = f"https://api.github.com/repos/{repo}/actions/workflows/tracker.yml/dispatches"
+        headers = {
+            'Authorization': f'token {github_token}',
+            'Accept': 'application/vnd.github.v3+json'
+        }
+        try:
+            r = requests.post(url, headers=headers, json={'ref': 'main'}, timeout=10)
+            print(f"[Auto-Loop] Dispatch response status: {r.status_code}", flush=True)
+        except Exception as e:
+            print(f"[Auto-Loop] Dispatch exception: {e}", flush=True)
+
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     config_path = os.path.join(script_dir, 'config.json')
@@ -525,6 +542,7 @@ def main():
                 print(f"Store thread generated an exception: {e}", flush=True)
 
     print("All store tracking scans completed successfully!", flush=True)
+    trigger_next_loop()
 
 if __name__ == '__main__':
     main()
