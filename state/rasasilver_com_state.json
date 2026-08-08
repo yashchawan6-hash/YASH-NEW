@@ -164,9 +164,9 @@
     "price": 50700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP07410copy.jpg?v=1744198886",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/earring?variant=gid://shopify/ProductVariant/49851016184105",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49851322171689": {
@@ -404,9 +404,9 @@
     "price": 133830.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1458.jpg?v=1751361001",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sri-hari-priya-daab?variant=gid://shopify/ProductVariant/49901861110057",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49901877035305": {
     "product_title": "Kamakshi Jadau Oddiyanam/Hip Belts",
@@ -589,7 +589,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-6_f3e9b960-82fd-4303-af16-158555679126.jpg?v=1741177313",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/eternal-halo-ring?variant=gid://shopify/ProductVariant/49967818834217",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49968363274537": {
     "product_title": "Dewdrop Dia Ring",
@@ -6244,9 +6245,9 @@
     "price": 51500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_271c24f1-e96b-4041-9b7b-bb4df8c2d25f.jpg?v=1754306127",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rangmayura-pendant?variant=gid://shopify/ProductVariant/50615516791081",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50615550902569": {
     "product_title": "Mor Sundari Kundan Pendant",
@@ -12941,7 +12942,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_79_Pc_25Aug0517.jpg?v=1756884179",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/moonbeam-allure-short-necklace-copy?variant=gid://shopify/ProductVariant/50907092615465",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50958827094313": {
@@ -14275,7 +14276,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0261_870daf8f-9e70-4093-b2b8-b3c60dd93889.jpg?v=1759150587",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/raj-kusum-jhumkis?variant=gid://shopify/ProductVariant/51205608177961",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51205652250921": {
@@ -22765,9 +22766,9 @@
     "price": 72200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3392_resized.jpg?v=1762256117",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/nirva-mor-short-necklace?variant=gid://shopify/ProductVariant/51418403701033",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51418427719977": {
     "product_title": "Ishaaya Aam Necklace",
@@ -29423,9 +29424,9 @@
     "price": 46500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34868_resized.jpg?v=1763556528",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayurashri-necklace-set?variant=gid://shopify/ProductVariant/51500255543593",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51500256461097": {
     "product_title": "Pavika Oxidised Payal",
@@ -45348,7 +45349,7 @@
     "price": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_55.jpg?v=1773750484",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/nauka-kundan-danglers-copy?variant=gid://shopify/ProductVariant/52511283478825",
     "stock": 0,
     "last_alerted_stock": 0
@@ -48313,7 +48314,7 @@
     "price": 41310.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2301_resized.jpg?v=1770452376",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/tiny-petal-cz-necklace-set?variant=gid://shopify/ProductVariant/52553878503721",
     "stock": 0,
     "last_alerted_stock": 0
@@ -52654,7 +52655,7 @@
     "price": 11550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00236copy_resized.jpg?v=1772196862",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/cz-necklace-1?variant=gid://shopify/ProductVariant/52712634122537",
     "stock": 0
   },
@@ -60495,7 +60496,7 @@
     "price": 29300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0043_resized.jpg?v=1775286775",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/peravia-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/52880284614953",
     "stock": 0,
     "last_alerted_stock": 0

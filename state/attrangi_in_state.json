@@ -2137,7 +2137,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-12-20_at_9.02.14_PM_1.jpg?v=1750781250",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/baano-kannauti-earrings?variant=gid://shopify/ProductVariant/45943177806036",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43640950161620": {
     "product_title": "Jaspreet Solid Pacheli",
@@ -3292,7 +3293,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeenat-jadaau-oversized-earrings-with-kannauti-attrangi-1.jpg?v=1739813299",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zeenat-jadaau-oversized-earrings-with-kannauti?variant=gid://shopify/ProductVariant/43752778891476",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43752778858708": {
@@ -6636,7 +6637,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-uncut-diamond-polki-necklace-set-attrangi-1.jpg?v=1739814244",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-uncut-diamond-polki-necklace?variant=gid://shopify/ProductVariant/43363874767060",
-    "stock": 8
+    "stock": 9
   },
   "gid://shopify/ProductVariant/46203248607444": {
     "product_title": "Sicily Western Daily Wear Kada",
@@ -15371,7 +15372,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/45620675117268",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48432480780500": {
     "product_title": "Giza Round Solitaire Cocktail Diamond Ring | Baguettes",
@@ -49202,7 +49204,7 @@
     "price": 11850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-04at12.03.21PM.jpg?v=1785829479",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/morni-in-baagh-gold-polki-designer-necklace-set-with-jhumka?variant=gid://shopify/ProductVariant/48421237850324",
     "stock": 0
   },
