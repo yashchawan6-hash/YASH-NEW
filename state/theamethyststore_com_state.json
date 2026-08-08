@@ -52090,7 +52090,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10821-_2_6955a4b8-dc72-471a-bb90-2ae619ffba79.jpg?v=1773051853",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/dhruthikha-attigai-necklace?variant=gid://shopify/ProductVariant/46976686457059",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/46976687931619": {
     "product_title": "Aurelia Kundan Ring",
@@ -139860,7 +139861,7 @@
     "price": 40650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15883.jpg?v=1780402731",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-37?variant=gid://shopify/ProductVariant/49103265005795",
     "stock": 1
   },

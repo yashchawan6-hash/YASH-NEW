@@ -2433,9 +2433,10 @@
     "price": 73.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL5672copycopy.jpg?v=1774415021",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.com/products/kritika-gold-plated-silver-earrings?variant=gid://shopify/ProductVariant/42140491710700",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42140503572716": {
     "product_title": "Shyama Jadau Silver Stud Earrings",

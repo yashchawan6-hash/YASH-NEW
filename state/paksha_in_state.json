@@ -2700,9 +2700,10 @@
     "price": 4493.3,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/IMGL5672copycopy.jpg?v=1640015133",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/kritika-gold-plated-silver-earrings?variant=gid://shopify/ProductVariant/41510778601623",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41510778732695": {
     "product_title": "Anyata Jadau Silver Stud Earrings",

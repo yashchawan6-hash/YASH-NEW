@@ -8508,20 +8508,6 @@
     "url": "https://www.mortantra.com/products/me1089m-multicolor-gold-plated-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/47011161112799",
     "stock": 6
   },
-  "gid://shopify/ProductVariant/45001128018143": {
-    "product_title": "White Gold-Plated Jadau Kundan EarCuff / Kanphool with Moon Motif - ME1185",
-    "product_handle": "me1185-white-color-gold-plated-jadau-kundan-earrings",
-    "variant_id": "gid://shopify/ProductVariant/45001128018143",
-    "global_id": "gid://shopify/ProductVariant/45001128018143",
-    "variant_title": "Default Title",
-    "sku": "ME1185",
-    "price": 2000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1185_1.jpg?v=1709642181",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/me1185-white-color-gold-plated-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/45001128018143",
-    "stock": -1
-  },
   "gid://shopify/ProductVariant/45001129263327": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Bugadi Ear Cuff with Moon Motif - ME1185P",
     "product_handle": "me1185p-pink-color-gold-plated-jadau-kundan-earrings",
@@ -10303,6 +10289,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfset261m-multicolor-tribal-necklace-set?variant=gid://shopify/ProductVariant/45594886504671",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/45596050227423": {
+    "product_title": "Pink Color Gold Plated Ring with Kundan - TK-RNG21WP",
+    "product_handle": "tk-rng21wp-pink-color-gold-plated-tver-ring",
+    "variant_id": "gid://shopify/ProductVariant/45596050227423",
+    "global_id": "gid://shopify/ProductVariant/45596050227423",
+    "variant_title": "Default Title",
+    "sku": "TK-RNG21WP",
+    "price": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TK-RNG21WP-1.jpg?v=1750660138",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/tk-rng21wp-pink-color-gold-plated-tver-ring?variant=gid://shopify/ProductVariant/45596050227423",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/45596322431199": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Nosering - MNTH180M",
@@ -50222,7 +50222,7 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFEAR488A.jpg?v=1753349159",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/tribal-earrings-ek-sfear488?variant=gid://shopify/ProductVariant/47159167811807",
     "stock": 1,
     "last_alerted_stock": 1
@@ -57692,20 +57692,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1677?variant=gid://shopify/ProductVariant/48339347603679",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/48339685146847": {
-    "product_title": "Dark Green Gold-Plated Jadau Kundan Fish Motif Earrings - ME1681",
-    "product_handle": "gold-plated-jadau-kundan-earrings-me1681",
-    "variant_id": "gid://shopify/ProductVariant/48339685146847",
-    "global_id": "gid://shopify/ProductVariant/48339685146847",
-    "variant_title": "Dark Green",
-    "sku": "ME1681W",
-    "price": 2000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1681W.jpg?v=1767170062",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1681?variant=gid://shopify/ProductVariant/48339685146847",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/48339690422495": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff with Floral Kundan Setting - ME1683",
@@ -94370,6 +94356,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/48339685146847": {
+    "product_title": "Dark Green Gold-Plated Jadau Kundan Fish Motif Earrings - ME1681",
+    "product_handle": "gold-plated-jadau-kundan-earrings-me1681",
+    "variant_id": "gid://shopify/ProductVariant/48339685146847",
+    "global_id": "gid://shopify/ProductVariant/48339685146847",
+    "variant_title": "Dark Green",
+    "sku": "ME1681W",
+    "price": 2000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1681W.jpg?v=1767170062",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1681?variant=gid://shopify/ProductVariant/48339685146847",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45888635896031": {
     "product_title": "Green Color Gold Plated Jadau Kundan Earrings - ME1224Y",

@@ -82,5 +82,47 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/ziva-spark-cz-ring-copy-2?variant=gid://shopify/ProductVariant/53138602393897",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0220_resized.jpg?v=1781163837"
+  },
+  {
+    "timestamp_ist": "2026-08-08 13:40:53",
+    "product_title": "Navaratna Petal Ring",
+    "variant_title": "5",
+    "variant_id": "gid://shopify/ProductVariant/52291033399593",
+    "sku": "R17388",
+    "price": 3000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 8,
+    "curr_stock": 7,
+    "url": "https://www.rasasilver.com/products/navaratna-petal-ring?variant=gid://shopify/ProductVariant/52291033399593",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0201copy_resized_e7247351-ac67-4af7-bee1-9248d889004e.jpg?v=1763636587"
+  },
+  {
+    "timestamp_ist": "2026-08-08 13:40:53",
+    "product_title": "Rosivelle CZ Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52383703007529",
+    "sku": "R21303",
+    "price": 54000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/cz-necklace-set?variant=gid://shopify/ProductVariant/52383703007529",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0245copy_resized_74cbcd79-7b35-4f1c-9a6d-b87872df726e.jpg?v=1767684945"
+  },
+  {
+    "timestamp_ist": "2026-08-08 13:40:53",
+    "product_title": "Amayra CZ Danglers",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53126267765033",
+    "sku": "R28412",
+    "price": 8100.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.rasasilver.com/products/amayra-cz-danglers?variant=gid://shopify/ProductVariant/53126267765033",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0041_resized.jpg?v=1781004515"
   }
 ]
