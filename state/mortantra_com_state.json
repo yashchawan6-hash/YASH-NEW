@@ -12638,10 +12638,10 @@
     "price": 2500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MNTH178M_2_320e850f-b08c-4dc0-b9cf-7170e39c9ba4.jpg?v=1717239478",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/mnth178m-multicolor-gold-plated-jadau-kundan-nosepin?variant=gid://shopify/ProductVariant/47001569198303",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47001571295455": {
     "product_title": "Gold-Plated Jadau Kundan Chand Nosepin - MNTH178",
@@ -40752,7 +40752,7 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1449B.jpg?v=1749475587",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1449?variant=gid://shopify/ProductVariant/47037443408095",
     "stock": 1
   },
