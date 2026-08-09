@@ -7341,7 +7341,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-diamond-bali-or-daily-wear-attrangi-3.jpg?v=1739814457",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/i-carat-round-diamond-bali-daily-wear?variant=gid://shopify/ProductVariant/43615173804244",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48119346331860": {
@@ -14255,7 +14255,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_4.58.11_PM_1.jpg?v=1750782037",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/floral-plethora-mid-sizes-diamond-earrings-light-sized?variant=gid://shopify/ProductVariant/45407570067668",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45407602278612": {
     "product_title": "Blooming Rose Diamond Hasli Set | Flexi",
@@ -21072,10 +21073,10 @@
     "price": 4250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.21.02_PM.jpg?v=1774263062",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/vishwamitra-moissanite-polki-jhaalar-paasa?variant=gid://shopify/ProductVariant/46112386580692",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46112388972756": {
     "product_title": "Hazoori Moissanite Designer Polki Paasa",
