@@ -2294,7 +2294,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52247476601129",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52247504388393": {
     "product_title": "Mani Bandha Bangles",
@@ -2308,7 +2309,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52247504388393",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52263643152681": {
     "product_title": "Mani Bandha Bangles",
@@ -2322,7 +2324,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52263643152681",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52263721697577": {
     "product_title": "Mani Bandha Bangles",
@@ -5131,9 +5134,10 @@
     "price": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/de23e32-Copy-Copy.jpg?v=1750761848",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507173673",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52247507206441": {
     "product_title": "Twist & Shine Stone Bangles",
@@ -5145,9 +5149,10 @@
     "price": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/de23e32-Copy-Copy.jpg?v=1750761848",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507206441",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52263711146281": {
     "product_title": "Twist & Shine Stone Bangles",
@@ -10513,7 +10518,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_24Pics_20Aug21644.jpg?v=1756537405",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/back-belt?variant=gid://shopify/ProductVariant/50808980635945",
-    "stock": 12,
+    "stock": 11,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/50809013010729": {
@@ -30608,7 +30613,7 @@
     "price": 26500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_297_Pics_7Oct1838_resized.jpg?v=1763536721",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/hanumant-prem-jhumki?variant=gid://shopify/ProductVariant/51509809086761",
     "stock": 1
   },
@@ -45282,7 +45287,7 @@
     "price": 2600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0088copy_resized_c39efe91-0c35-4099-8b12-cb4d55c26eb4.jpg?v=1769490479",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/cz-ring?variant=gid://shopify/ProductVariant/52495156019497",
     "stock": 1
   },
@@ -62442,7 +62447,7 @@
     "price": 99750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20655_resized.jpg?v=1775648266",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/seshadri-temple-daab?variant=gid://shopify/ProductVariant/52911502950697",
     "stock": 1
   },
@@ -70244,7 +70249,7 @@
     "price": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13344_resized.jpg?v=1782282485",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/dazzle-bracelet?variant=gid://shopify/ProductVariant/53286015238441",
     "stock": 1,
     "last_alerted_stock": 1

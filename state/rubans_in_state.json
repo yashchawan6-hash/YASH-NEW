@@ -1599,7 +1599,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/aefef56f-bd89-4fb9-9ede-5f8280382b0a1627627164175-Rubans-Oxidized-Silver-Plated-Pink-Stone-Studded-Handcrafte-4.jpg?v=1765287259",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-oxidised-silver-plated-handcrafted-pink-stone-filigree-bangle?variant=gid://shopify/ProductVariant/47084622282926",
-    "stock": 13,
+    "stock": 14,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/43043748249774": {
@@ -2879,8 +2879,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-gold-plated-red-enamelled-bangles-bangles-bracelets-35074453012654.jpg?v=1776255079",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-plated-red-enamel-set-of-2-bangles?variant=gid://shopify/ProductVariant/43043681239214",
-    "stock": 18,
-    "last_alerted_stock": 13
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/45983064555694": {
     "product_title": "Rubans Set of 2 18K Gold Plated Ruby Studded Geru Polish Finish Traditional Bangles",
@@ -3486,9 +3486,9 @@
     "price": 920.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-ruby-pink-emerald-green-stone-studded-bangles-bangles-bracelets-1171024628.jpg?v=1774252411",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-handcrafted-pink-green-stone-studded-bangle?variant=gid://shopify/ProductVariant/42389818704046",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42389818736814": {
     "product_title": "Rubans Set of 2 22K Gold Plated Ruby Pink & Emerald Green Stone Studded Bangles",
@@ -8023,8 +8023,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain-jewellery-sets-34518077079726.jpg?v=1755722304",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain?variant=gid://shopify/ProductVariant/44173336903854",
-    "stock": 15,
-    "last_alerted_stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/44173341720750": {
     "product_title": "Chic Blue Cascade Danglers",
@@ -15556,9 +15556,9 @@
     "price": 1012.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-emerald-green-stone-studded-traditional-handcrafted-bangle-bangles-bracelets-1151970256.jpg?v=1767509253",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/22k-gold-plated-emerald-stone-studded-set-of-2-bangles?variant=gid://shopify/ProductVariant/47084618940590",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084618973358": {
@@ -27196,8 +27196,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-cubic-zirconia-studded-hoop-earrings-hoop-earrings-37663088541870.jpg?v=1755716556",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-red-green-stone-studded-elephant-motif-earring-with-pearl-accents-copy?variant=gid://shopify/ProductVariant/45973908652206",
-    "stock": 17,
-    "last_alerted_stock": 17
+    "stock": 16,
+    "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/45979719205038": {
     "product_title": "Rubans Oxidized Silver Handcrafted Carved Blue Gem Stone Studded Drop Earring",
@@ -69209,7 +69209,7 @@
     "price": 3455.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410947_Model.jpg?v=1769154793",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-emerald-green-white-cz-stones-crescent-necklace-set-re10ns410947?variant=gid://shopify/ProductVariant/47144257585326",
     "stock": 0,
     "last_alerted_stock": 0
@@ -104524,7 +104524,7 @@
     "price": 574.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02RO412733-Model.jpg?v=1779882225",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re02ro412733?variant=gid://shopify/ProductVariant/47914241032366",
     "stock": 2
   },
