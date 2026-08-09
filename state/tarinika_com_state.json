@@ -1436,9 +1436,10 @@
     "price": 47.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7631_copy_copy_3fb717b3-1a4c-4ff8-8486-f5b0d0ad665d.jpg?v=1762532318",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/devya-nakshatra-cz-bangles?variant=gid://shopify/ProductVariant/32608826163266",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/14265696518210": {
     "product_title": "Devya Nakshatra CZ Bangles",
@@ -6822,10 +6823,10 @@
     "price": 29.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0108XTE.jpg?v=1741696994",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/jalaja-lotus-motifs-layered-pearl-necklace?variant=gid://shopify/ProductVariant/39613737730114",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39652710121538": {
     "product_title": "Ainara Delicate CZ Earrings",
@@ -25200,8 +25201,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FPX0662XHC.jpg?v=1781777598",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/madhavika-antique-pendant-set?variant=gid://shopify/ProductVariant/43868858089538",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43868858515522": {
     "product_title": "Yalini Antique Maang Tikka",
