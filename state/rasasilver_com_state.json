@@ -7323,8 +7323,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801",
-    "stock": 5,
-    "last_alerted_stock": 3
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52279182262569": {
     "product_title": "Mogralika Stud Earrings",
@@ -23024,9 +23024,10 @@
     "price": 37400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3196_resized.jpg?v=1762257026",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/tisha-kundan-choker?variant=gid://shopify/ProductVariant/51418985791785",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51418990084393": {
     "product_title": "Arvya Pasalu Haaram Set",
@@ -32522,7 +32523,7 @@
     "price": 154800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1658_resized.jpg?v=1763616501",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kanaka-srihaarini-necklace?variant=gid://shopify/ProductVariant/51517307912489",
     "stock": 1
   },
@@ -36484,7 +36485,7 @@
     "price": 10400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0090copy_resized_67adb6be-d474-4fb9-81e4-fde479406bff.jpg?v=1763980151",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ruby-florin-studs?variant=gid://shopify/ProductVariant/52167125106985",
     "stock": 0
   },
@@ -56051,7 +56052,7 @@
     "price": 17000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0976_resized.jpg?v=1773829149",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/gajraj-mahalakshmi-earring-copy?variant=gid://shopify/ProductVariant/52804783833385",
     "stock": 1
   },
@@ -61981,7 +61982,7 @@
     "price": 18850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20511_resized.jpg?v=1775484372",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/althira-matil?variant=gid://shopify/ProductVariant/52897925660969",
     "stock": 1
   },
@@ -72741,7 +72742,7 @@
     "price": 15500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41324_resized.jpg?v=1783603213",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/temple-mop-chain?variant=gid://shopify/ProductVariant/53302493905193",
     "stock": 1,
     "last_alerted_stock": 1

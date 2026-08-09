@@ -96,5 +96,33 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/20?variant=gid://shopify/ProductVariant/52247507206441",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/de23e32-Copy-Copy.jpg?v=1750761848"
+  },
+  {
+    "timestamp_ist": "2026-08-09 16:56:16",
+    "product_title": "Mogralika Stud Earrings",
+    "variant_title": "GREEN",
+    "variant_id": "gid://shopify/ProductVariant/52279182229801",
+    "sku": "R20364",
+    "price": 4900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.rasasilver.com/products/21-1?variant=gid://shopify/ProductVariant/52279182229801",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_57c28a5f-b6b0-4127-98ca-bf2c9cc67662.jpg?v=1754913752"
+  },
+  {
+    "timestamp_ist": "2026-08-09 16:56:16",
+    "product_title": "Tisha Kundan Choker",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/51418985791785",
+    "sku": "R14988",
+    "price": 37400.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/tisha-kundan-choker?variant=gid://shopify/ProductVariant/51418985791785",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3196_resized.jpg?v=1762257026"
   }
 ]
