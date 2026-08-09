@@ -2542,9 +2542,10 @@
     "price": 4750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_151046_0b17a928-3e9a-484f-92d6-f6a098309d08.webp?v=1776428002",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-and-natural-strawberry-beads-dropwithout-earrings?variant=gid://shopify/ProductVariant/52991105139004",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52991345721660": {
     "product_title": "Jadau kundan+moissonite polki chain necklace with pearl (With Earrings)",

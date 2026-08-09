@@ -208,7 +208,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/1d18a00d-8228-4351-9eee-1beb007ee8e51702272430768-Rubans-Set-Of-2-Gold-Plated-White-Pearls-Studded-Handcrafte-2.jpg?v=1765287176",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-traditional-gold-plated-studded-with-pearls-set-of-2-bangle-set?variant=gid://shopify/ProductVariant/46649611518126",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/43043869753518": {
     "product_title": "Rubans Oxidised Silver Toned Faux Ruby Studded Embellished With Pearl Chandbali Earrings",
@@ -4681,8 +4682,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-pearls-cubic-zirconia-studded-oversized-premium-floral-stud-earrings-studs-earrings-1150858252.jpg?v=1755718877",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-plated-stud-earrings-studded-with-american-diamonds-and-pearls?variant=gid://shopify/ProductVariant/43580471181486",
-    "stock": 10,
-    "last_alerted_stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/43581890658478": {
     "product_title": "Rubans Gold Plated Necklace Set With Studded Mirror Design And Pink Stones",
@@ -10608,8 +10609,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/elegance-in-radiance-rhodium-plated-zirconia-studded-bracelet-bangles-bracelets-34847890145454.jpg?v=1774003632",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/elegance-in-radiance-rhodium-plated-zirconia-studded-bracelet?variant=gid://shopify/ProductVariant/44330879778990",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44330881450158": {
     "product_title": "Eternal Shine American Diamond Zirconia Danglers",
@@ -12157,8 +12158,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/18k-gold-plated-handcrafted-pearl-beaded-choker-necklace-set-necklace-35331885138094.jpg?v=1755721058",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/copy-of-rubans-18k-gold-plated-pearl-bedded-crystal-studded-minimal-necklace-set?variant=gid://shopify/ProductVariant/44596567670958",
-    "stock": 15,
-    "last_alerted_stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/44629737341102": {
     "product_title": "Pastel Poetry Kundan Pearl Danglers",
@@ -19531,8 +19532,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rhodium-plated-cubic-zirconia-studded-chandelier-with-blue-aqua-blue-ad-drops-chandbalis-36992362971310.jpg?v=1755717367",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rhodium-plated-cubic-zirconia-studded-chandelier-with-blue-aqua-blue-ad-drops?variant=gid://shopify/ProductVariant/45715437453486",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/45715451969710": {
     "product_title": "Luxe Prism Bloom Multicolour Drops",
@@ -21432,7 +21433,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-cubic-zirconia-studded-luxurious-bracelet-bracelet-37263004434606.jpg?v=1755717180",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-cubic-zirconia-studded-luxurious-bracelet?variant=gid://shopify/ProductVariant/45813141930158",
-    "stock": 19,
+    "stock": 18,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/45814555017390": {
@@ -24277,7 +24278,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-4-rhodium-plated-crystal-ad-cubic-zirconia-stone-studded-premium-bangles-bangles-1172951332.jpg?v=1774846682",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-rhodium-plated-crystal-cubic-zirconia-studded-bangles-re14b406217?variant=gid://shopify/ProductVariant/47084615139502",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47084614942894": {
     "product_title": "Minimal Whisper Pearl Bangles",
@@ -45972,7 +45974,7 @@
     "price": 2140.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-pastel-pink-stone-cubic-zirconia-handcrafted-premium-jewellery-set-necklace-set-1143857212.jpg?v=1755713990",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-pastel-pink-stone-cubic-zirconia-handcrafted-premium-jewellery-set-re20ns406733-re20ns406733?variant=gid://shopify/ProductVariant/46245145739438",
     "stock": 3,
     "last_alerted_stock": 3
@@ -62256,7 +62258,7 @@
     "price": 459.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-voguish-18k-gold-plated-stainless-steel-tarnish-free-waterproof-bold-dome-textured-adjustable-statement-ring-finger-rings-1190847207.jpg?v=1769754873",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-18k-gold-plated-stainless-steel-tarnish-free-waterproof-bold-dome-textured-adjustable-statement-ring?variant=gid://shopify/ProductVariant/46854552584366",
     "stock": 0
   },
@@ -91411,7 +91413,7 @@
     "price": 518.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54EF411974-Model-1.jpg?v=1770978364",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re54ef411974?variant=gid://shopify/ProductVariant/47502233960622",
     "stock": 1
   },

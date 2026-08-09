@@ -16646,8 +16646,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC54M_1.jpg?v=1760078532",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mbrac54m-multicolor-gold-plated-jadau-kundan-bracelet?variant=gid://shopify/ProductVariant/46093739327711",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/46093739786463": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Gold Belt Bracelet with Floral Kundan Setting - MHP237M",
@@ -41844,21 +41844,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-payal-one-pair-tmpmpyl14?variant=gid://shopify/ProductVariant/47039227461855",
     "stock": 7
-  },
-  "gid://shopify/ProductVariant/47039241093343": {
-    "product_title": "Gold Plated Temple Payal (One Pair) with Geometric Motif - TMPMPYL17",
-    "product_handle": "gold-plated-temple-payal-one-pair-tmpmpyl17",
-    "variant_id": "gid://shopify/ProductVariant/47039241093343",
-    "global_id": "gid://shopify/ProductVariant/47039241093343",
-    "variant_title": "Gold",
-    "sku": "TMPMPYL17",
-    "price": 4000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPMPYL17.jpg?v=1750929596",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-temple-payal-one-pair-tmpmpyl17?variant=gid://shopify/ProductVariant/47039241093343",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47039242895583": {
     "product_title": "Gold Plated Temple Payal (One Pair) with Geometric Motif - TMPMPYL18",
@@ -88449,20 +88434,6 @@
     "url": "https://www.mortantra.com/products/pichwai-inspired-multicolor-gold-plated-jadau-kundan-necklace-set-tn-s23?variant=gid://shopify/ProductVariant/50542728347871",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/50542736113887": {
-    "product_title": "White Antique-Finish Victorian Bangle with Faux Polki and Zircon Setting - VC-BAN28",
-    "product_handle": "white-color-victorian-bangles-1-piece-vc-ban28",
-    "variant_id": "gid://shopify/ProductVariant/50542736113887",
-    "global_id": "gid://shopify/ProductVariant/50542736113887",
-    "variant_title": "White / 2.4",
-    "sku": "VC-BAN28|2.4",
-    "price": 4500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-BAN28-2.jpg?v=1783587636",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-victorian-bangles-1-piece-vc-ban28?variant=gid://shopify/ProductVariant/50542736113887",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50542741192927": {
     "product_title": "Baby Pink Gold-Plated Victorian Ring with Cabochon and Zircon Halo - VCSL925-RNG15",
     "product_handle": "baby-pink-color-925-silver-victorian-ring-vcsl925-rng15",
@@ -94244,6 +94215,35 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47039241093343": {
+    "product_title": "Gold Plated Temple Payal (One Pair) with Geometric Motif - TMPMPYL17",
+    "product_handle": "gold-plated-temple-payal-one-pair-tmpmpyl17",
+    "variant_id": "gid://shopify/ProductVariant/47039241093343",
+    "global_id": "gid://shopify/ProductVariant/47039241093343",
+    "variant_title": "Gold",
+    "sku": "TMPMPYL17",
+    "price": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPMPYL17.jpg?v=1750929596",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-temple-payal-one-pair-tmpmpyl17?variant=gid://shopify/ProductVariant/47039241093343",
+    "stock": 1,
+    "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/50542736113887": {
+    "product_title": "White Antique-Finish Victorian Bangle with Faux Polki and Zircon Setting - VC-BAN28",
+    "product_handle": "white-color-victorian-bangles-1-piece-vc-ban28",
+    "variant_id": "gid://shopify/ProductVariant/50542736113887",
+    "global_id": "gid://shopify/ProductVariant/50542736113887",
+    "variant_title": "White / 2.4",
+    "sku": "VC-BAN28|2.4",
+    "price": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-BAN28-2.jpg?v=1783587636",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-victorian-bangles-1-piece-vc-ban28?variant=gid://shopify/ProductVariant/50542736113887",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46260412940511": {
     "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Kundan and Elephant Motif - EK-SFSET310M",

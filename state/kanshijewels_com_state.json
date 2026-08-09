@@ -12947,10 +12947,10 @@
     "price": 1470.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanhairpin1400.jpg?v=1734346578",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-hair-pin?variant=gid://shopify/ProductVariant/50321645142316",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50321645961516": {
     "product_title": "Jadau kundan hair pin",
@@ -15258,8 +15258,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaunecklace2900.jpg?v=1747995028",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-necklace-5?variant=gid://shopify/ProductVariant/51119705325868",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51119706538284": {
     "product_title": "Jadau Necklace",
@@ -21193,7 +21193,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantjadaupendantwithricepearlschain1690.jpg?v=1783576834",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-pendant-with-rice-pearls-chain?variant=gid://shopify/ProductVariant/53420265996588",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/53420268323116": {
     "product_title": "Ganda berunda pendant with matar mala",

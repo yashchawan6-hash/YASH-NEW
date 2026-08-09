@@ -243,10 +243,10 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-6.jpg?v=1739812494",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661172905",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411661205673": {
     "product_title": "Double Solitaire Earrings",
@@ -289,7 +289,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/cluster-of-marquise-with-pearl-drop-attrangi-1.jpg?v=1739812501",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/cluster-of-marquise-with-pearl-drop?variant=gid://shopify/ProductVariant/40411662319785",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40411662516393": {
@@ -445,7 +445,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.10_PM_2.jpg?v=1764745911",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/flawless-diamond-danglers?variant=gid://shopify/ProductVariant/47312783966420",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44351478268116": {
     "product_title": "Classic Bangle Set",
@@ -1154,7 +1155,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-4.jpg?v=1739812671",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/41492438745257",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42145342324948": {
@@ -9621,7 +9622,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-25_at_6.43.28_PM_1.jpg?v=1750781552",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mini-diamond-jhumkis-with-pearls?variant=gid://shopify/ProductVariant/44116705149140",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46126159102164": {
@@ -13005,8 +13006,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_6.19.55_PM.jpg?v=1750781861",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/5-claw-small-diamond-bali?variant=gid://shopify/ProductVariant/45200988307668",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44904639693012": {
     "product_title": "Diana Band Ring with Diamond Floral Motif",
@@ -18496,7 +18497,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-20at12.47.55AM_1.jpg?v=1750783657",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/star-studded-diamond-hoops-in-pave-setting-sparkling-tara?variant=gid://shopify/ProductVariant/45928328724692",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45928328757460": {
     "product_title": "Star Studded Diamond Hoops in Pave Setting | Sparkling Tara",
@@ -18510,7 +18512,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-20at12.47.32AM.jpg?v=1750783660",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/star-studded-diamond-hoops-in-pave-setting-sparkling-tara?variant=gid://shopify/ProductVariant/45928328757460",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45939554713812": {
     "product_title": "Misu Alphabet Monogram Dainty Daily Wear Pendant Chain",
@@ -20531,10 +20534,10 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-10at6.18.23PM.jpg?v=1739818574",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/aakriti-gold-polki-moissanite-hathpan-hand-harness?variant=gid://shopify/ProductVariant/46144533790932",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46144533823700": {
     "product_title": "Aakriti Gold Polki Moissanite Hathpan | Hand Harness",
@@ -25831,8 +25834,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.42.14_PM_2.jpg?v=1774269521",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chidiya-udd-long-polki-light-weight-earrings?variant=gid://shopify/ProductVariant/46470485868756",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46470509002964": {
     "product_title": "Tri Solitaire Diamond Studs",
@@ -27151,10 +27154,10 @@
     "price": 4250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-08-23_at_1.10.48_PM_202b3734-b314-436a-8ebd-42361227dc23.jpg?v=1757666744",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/jugni-earcuff-big-polki-indian-jhumka?variant=gid://shopify/ProductVariant/46770910855380",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46892782223572": {
     "product_title": "Poonam Polki Moissanite Classic Indian Choker Set",
@@ -27478,7 +27481,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-10at3.20.15PM.jpg?v=1757571419",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chaand-aur-taare-saare-polki-necklace-choker-set?variant=gid://shopify/ProductVariant/46895697821908",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46895697854676": {
@@ -29061,7 +29064,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-29_at_4.01.49_PM_1.jpg?v=1759214853",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rohini-polki-blob-coloured-halo-moissanite-ring-adjustable?variant=gid://shopify/ProductVariant/46984328249556",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/46960273522900": {
     "product_title": "Multi Solitaire Diamond Band Ring | Daily Wear",
@@ -32466,7 +32469,7 @@
     "price": 1850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-11-17at11.24.09AM.jpg?v=1763373283",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bling-me-diamond-band-everyday-wear-ring?variant=gid://shopify/ProductVariant/47272966979796",
     "stock": 1
   },
@@ -40068,7 +40071,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at5.58.17PM.jpg?v=1774611084",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rock-roll-diamond-designer-band-ring-daily-wear-gold?variant=gid://shopify/ProductVariant/47727313977556",
     "stock": 1
   },
