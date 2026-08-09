@@ -161135,7 +161135,7 @@
     "price": 10900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17084.jpg?v=1783670499",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-33?variant=gid://shopify/ProductVariant/49389195952355",
     "stock": 1
   },
@@ -166485,7 +166485,7 @@
     "price": 17600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2401.jpg?v=1784465221",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/victorian-maangtikka-5?variant=gid://shopify/ProductVariant/49426834129123",
     "stock": 1
   },
@@ -166963,7 +166963,7 @@
     "price": 70100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17024.jpg?v=1784529982",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/lumina-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/49429967339747",
     "stock": 2
   },
@@ -179889,6 +179889,48 @@
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-41?variant=gid://shopify/ProductVariant/49508880351459",
     "stock": -1
   },
+  "gid://shopify/ProductVariant/49508885299427": {
+    "product_title": "Ashvikaa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-28",
+    "variant_id": "gid://shopify/ProductVariant/49508885299427",
+    "global_id": "gid://shopify/ProductVariant/49508885299427",
+    "variant_title": "2.4\"",
+    "sku": "AMS-107-3355-2.4",
+    "price": 60200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3355.jpg?v=1786104719",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-28?variant=gid://shopify/ProductVariant/49508885299427",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49508885332195": {
+    "product_title": "Ashvikaa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-28",
+    "variant_id": "gid://shopify/ProductVariant/49508885332195",
+    "global_id": "gid://shopify/ProductVariant/49508885332195",
+    "variant_title": "2.6\"",
+    "sku": "AMS-107-3355-2.6",
+    "price": 60400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3355.jpg?v=1786104719",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-28?variant=gid://shopify/ProductVariant/49508885332195",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49508885496035": {
+    "product_title": "Ashvikaa Avikam Pair Bangles",
+    "product_handle": "avikam-pair-bangles-28",
+    "variant_id": "gid://shopify/ProductVariant/49508885496035",
+    "global_id": "gid://shopify/ProductVariant/49508885496035",
+    "variant_title": "2.8\"",
+    "sku": "AMS-107-3355-2.8",
+    "price": 63600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3355.jpg?v=1786104719",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-pair-bangles-28?variant=gid://shopify/ProductVariant/49508885496035",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/49508885627107": {
     "product_title": "Luxurious Nagas Long Necklace",
     "product_handle": "luxurious-nagas-long-necklace-10",
@@ -180769,6 +180811,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17429.jpg?v=1786260759",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/admirable-kundan-short-necklace-4?variant=gid://shopify/ProductVariant/49514633003235",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49514633953507": {
+    "product_title": "Amazing Kundan Short Necklace",
+    "product_handle": "amazing-kundan-short-necklace-2",
+    "variant_id": "gid://shopify/ProductVariant/49514633953507",
+    "global_id": "gid://shopify/ProductVariant/49514633953507",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17433",
+    "price": 105530.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17433.jpg?v=1786261007",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/amazing-kundan-short-necklace-2?variant=gid://shopify/ProductVariant/49514633953507",
     "stock": -1
   },
   "gid://shopify/ProductVariant/49476112056547": {

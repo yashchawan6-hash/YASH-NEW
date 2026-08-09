@@ -3649,10 +3649,10 @@
     "price": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/real-looking-90-cents-round-pendant-attrangi-2.jpg?v=1739813348",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/real-looking-90-cents-round-pendant?variant=gid://shopify/ProductVariant/42137043960020",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41190794657961": {
     "product_title": "Kaaveri Kada",
@@ -10941,7 +10941,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-02-12_at_3.06.23_PM.jpg?v=1770889507",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nasim-big-oversized-jadaau-jhumka-with-kannauti?variant=gid://shopify/ProductVariant/47545617416404",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45474030715092": {
     "product_title": "Kunti Gold Polki Necklace Set | Sone Pe Suhaga",
@@ -25958,7 +25959,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-07-10_at_8.57.02_PM.jpg?v=1752227082",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pear-oval-marquise-diamond-solitaire-bracelet-35-cents?variant=gid://shopify/ProductVariant/47962881851604",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46482404475092": {
     "product_title": "Multi Shaped Diamond Solitaire Dangling Necklace",

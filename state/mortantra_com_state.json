@@ -17142,7 +17142,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFEAR319G.jpg?v=1720508406",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfear319g-multicolor-gold-plated-tribal-earrings?variant=gid://shopify/ProductVariant/46096610623711",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46096826859743": {
     "product_title": "White Gold-Plated Thappa Jadau Kundan Bangle Pair with Flower Motif - TJ-B18",
@@ -19623,20 +19624,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfset308m-multicolor-tribal-necklace-set?variant=gid://shopify/ProductVariant/46260399833311",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/46260412940511": {
-    "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Kundan and Elephant Motif - EK-SFSET310M",
-    "product_handle": "ek-sfset310m-multicolor-tribal-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/46260412940511",
-    "global_id": "gid://shopify/ProductVariant/46260412940511",
-    "variant_title": "Default Title",
-    "sku": "EK-SFSET310M",
-    "price": 13000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET310M-4.jpg?v=1724503546",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/ek-sfset310m-multicolor-tribal-necklace-set?variant=gid://shopify/ProductVariant/46260412940511",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/46263560700127": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Chandbali Earrings with Floral Motif - ME881Y",
@@ -51347,21 +51334,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-tribal-juda-ek-sfj9m?variant=gid://shopify/ProductVariant/47256286200031",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/47256295801055": {
-    "product_title": "Multicolor Dual-Tone Tribal Bangle with Floral Motif, Screw Fastening - EK-SFBANGLE73",
-    "product_handle": "multicolor-tribal-bangle-1-piece-ek-sfbangle73",
-    "variant_id": "gid://shopify/ProductVariant/47256295801055",
-    "global_id": "gid://shopify/ProductVariant/47256295801055",
-    "variant_title": "Default Title",
-    "sku": "EK-SFBANGLE73",
-    "price": 3500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFBANGLE73-2.jpg?v=1755846600",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-tribal-bangle-1-piece-ek-sfbangle73?variant=gid://shopify/ProductVariant/47256295801055",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47256341315807": {
     "product_title": "Multicolor Dual-Tone Navratna Tribal Necklace Set with Jadau Kundan - EK-SFSET413N",
@@ -94272,6 +94244,35 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46260412940511": {
+    "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Kundan and Elephant Motif - EK-SFSET310M",
+    "product_handle": "ek-sfset310m-multicolor-tribal-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/46260412940511",
+    "global_id": "gid://shopify/ProductVariant/46260412940511",
+    "variant_title": "Default Title",
+    "sku": "EK-SFSET310M",
+    "price": 13000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET310M-4.jpg?v=1724503546",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/ek-sfset310m-multicolor-tribal-necklace-set?variant=gid://shopify/ProductVariant/46260412940511",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/47256295801055": {
+    "product_title": "Multicolor Dual-Tone Tribal Bangle with Floral Motif, Screw Fastening - EK-SFBANGLE73",
+    "product_handle": "multicolor-tribal-bangle-1-piece-ek-sfbangle73",
+    "variant_id": "gid://shopify/ProductVariant/47256295801055",
+    "global_id": "gid://shopify/ProductVariant/47256295801055",
+    "variant_title": "Default Title",
+    "sku": "EK-SFBANGLE73",
+    "price": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFBANGLE73-2.jpg?v=1755846600",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-tribal-bangle-1-piece-ek-sfbangle73?variant=gid://shopify/ProductVariant/47256295801055",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50511907815647": {
     "product_title": "White Color Gold Plated Thappa Jadau Kundan Earrings - TJ-E105",

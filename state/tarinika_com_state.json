@@ -4097,8 +4097,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL9598copycopy.jpg?v=1765953653",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/jayna-nakshatra-cz-choker-set?variant=gid://shopify/ProductVariant/32505810288706",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/32505810321474": {
     "product_title": "Jayna Nakshatra CZ Choker Set",
@@ -21514,9 +21514,10 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FPX0539XMC_61f4343f-2e74-4720-82f1-55f9ff1dade1.jpg?v=1757486304",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/manjari-black-beads-pendant-set?variant=gid://shopify/ProductVariant/42419479281730",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42419480100930": {
     "product_title": "Eshanika Antique Pendant Set",
