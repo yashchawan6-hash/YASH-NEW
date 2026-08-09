@@ -2928,8 +2928,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SRP3557.jpg?v=1747378925",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/cira-antique-necklace-set?variant=gid://shopify/ProductVariant/41664462880834",
-    "stock": 14,
-    "last_alerted_stock": 14
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/41483412439106": {
     "product_title": "Cira Antique Necklace Set",
@@ -3985,9 +3985,10 @@
     "price": 74.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL9592copycopy.jpg?v=1640781226",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/cyne-nakshatra-cz-choker-set?variant=gid://shopify/ProductVariant/32475505786946",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32475505754178": {
     "product_title": "Cyne Nakshatra CZ Choker Set",
@@ -15745,10 +15746,10 @@
     "price": 65.0,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANL2754XHY_b65ea6b8-f6e1-4e07-8473-ec7221d1f440.jpg?v=1739168665",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/govind-antique-temple-long-necklace-set?variant=gid://shopify/ProductVariant/41113675432002",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41113711738946": {
     "product_title": "Gana Lakshmi Antique Temple Necklace Set",
@@ -19624,9 +19625,10 @@
     "price": 50.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0376XHY_e1b4f183-cb5f-40d0-86cc-22b4ba7bd4ee.jpg?v=1757059408",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/shyla-kempu-red-green-antique-necklace-set?variant=gid://shopify/ProductVariant/42415070576706",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42415075754050": {
     "product_title": "Pragya Red Antique Necklace Set",

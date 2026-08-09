@@ -26,5 +26,61 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/jaanvi-antique-hair-brooch?variant=gid://shopify/ProductVariant/43652287856706",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANR4107X_821d62df-9158-4220-a6b0-04336b6152d8.jpg?v=1777889250"
+  },
+  {
+    "timestamp_ist": "2026-08-10 02:35:20",
+    "product_title": "Cira Antique Necklace Set",
+    "variant_title": "Red Green",
+    "variant_id": "gid://shopify/ProductVariant/41664462880834",
+    "sku": "US-ANX0829XHC",
+    "price": 80.49,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 14,
+    "curr_stock": 13,
+    "url": "https://www.tarinika.com/products/cira-antique-necklace-set?variant=gid://shopify/ProductVariant/41664462880834",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SRP3557.jpg?v=1747378925"
+  },
+  {
+    "timestamp_ist": "2026-08-10 02:35:20",
+    "product_title": "Cyne Nakshatra CZ Choker Set",
+    "variant_title": "White Green",
+    "variant_id": "gid://shopify/ProductVariant/32475505786946",
+    "sku": "US-ZNX1795XD5",
+    "price": 74.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/cyne-nakshatra-cz-choker-set?variant=gid://shopify/ProductVariant/32475505786946",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL9592copycopy.jpg?v=1640781226"
+  },
+  {
+    "timestamp_ist": "2026-08-10 02:35:20",
+    "product_title": "Govind Antique Temple Long Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41113675432002",
+    "sku": "US-ANL2754XHC",
+    "price": 65.0,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/govind-antique-temple-long-necklace-set?variant=gid://shopify/ProductVariant/41113675432002",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANL2754XHY_b65ea6b8-f6e1-4e07-8473-ec7221d1f440.jpg?v=1739168665"
+  },
+  {
+    "timestamp_ist": "2026-08-10 02:35:20",
+    "product_title": "Shyla Kempu Red Green Antique Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42415070576706",
+    "sku": "US-TNX0376XHC",
+    "price": 50.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/shyla-kempu-red-green-antique-necklace-set?variant=gid://shopify/ProductVariant/42415070576706",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0376XHY_e1b4f183-cb5f-40d0-86cc-22b4ba7bd4ee.jpg?v=1757059408"
   }
 ]
