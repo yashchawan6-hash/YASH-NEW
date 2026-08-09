@@ -39,7 +39,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/SRP_9659.jpg?v=1739526990",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/saroja-antique-necklace-set?variant=gid://shopify/ProductVariant/37294720402",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/37294720338": {
     "product_title": "Saroja Antique Necklace Set",
@@ -81,8 +82,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/BBN0010XA1.jpg?v=1762525714",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/falgu-antique-black-beads-necklace-set?variant=gid://shopify/ProductVariant/43173079250",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/31747546906690": {
     "product_title": "Falgu Antique Black Beads Necklace Set",
@@ -12672,7 +12673,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0618copycopy.jpg?v=1686812528",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/janaki-antique-necklace-set?variant=gid://shopify/ProductVariant/40311005577282",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40311007084610": {
     "product_title": "Sara Antique Necklace Set",
@@ -15742,8 +15744,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANL2754XHY_b65ea6b8-f6e1-4e07-8473-ec7221d1f440.jpg?v=1739168665",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/govind-antique-temple-long-necklace-set?variant=gid://shopify/ProductVariant/41113675432002",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41113711738946": {
     "product_title": "Gana Lakshmi Antique Temple Necklace Set",
@@ -18638,7 +18640,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX1854XM1_4.jpg?v=1745575969",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-latika-necklace-earrings-set?variant=gid://shopify/ProductVariant/42118722388034",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/42292208402498": {
     "product_title": "Lakshmi Grace Antique Rakhi",
@@ -23338,10 +23341,10 @@
     "price": 25.5,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0003XC6.jpg?v=1766063098",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/mayurakshi-nakshatra-white-cz-pendant-set?variant=gid://shopify/ProductVariant/42778124746818",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42778124943426": {
     "product_title": "Aarya Nakshatra Orange CZ Pendant Set",
@@ -23355,7 +23358,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0004XT6_696ecc22-dc2e-4965-9b67-c0ee2c2b4195.jpg?v=1766134864",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/aarya-nakshatra-orange-cz-pendant-set?variant=gid://shopify/ProductVariant/42778124943426",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42778124976194": {
     "product_title": "Aarya Nakshatra Light Green CZ Pendant Set",
@@ -25220,9 +25224,10 @@
     "price": 12.5,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071XWC4.jpg?v=1781779955",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/bhavya-antique-white-floral-bangles?variant=gid://shopify/ProductVariant/43868858679362",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43868858712130": {
     "product_title": "Bhavya Antique White Floral Bangles",

@@ -996,9 +996,10 @@
     "price": 2850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sleek-jadaau-bangle-attrangi-1.jpg?v=1739812596",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sleek-jadaau-bangle?variant=gid://shopify/ProductVariant/40411677982889",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411678113961": {
     "product_title": "Sleek Jadaau Bangle",
@@ -1539,7 +1540,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002G_101900_2026031640115.jpg?v=1779884617",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992150261972",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43098510754004": {
@@ -3406,7 +3407,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sleek-jadaau-bangle-in-multi-attrangi-1.jpg?v=1739813304",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sleek-jadaau-bangle-set-multi?variant=gid://shopify/ProductVariant/41024991363241",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43681132609748": {
     "product_title": "Sleek Jadaau bangle in Multi",
@@ -3418,9 +3420,10 @@
     "price": 5450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sleek-jadaau-bangle-in-multi-attrangi-1.jpg?v=1739813304",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sleek-jadaau-bangle-set-multi?variant=gid://shopify/ProductVariant/43681132609748",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43764610760916": {
     "product_title": "Sleek Jadaau Bangle(GREEN)",
@@ -10598,7 +10601,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/filigree-plain-gold-thick-bangle-or-kada-attrangi-1.jpg?v=1739815590",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/filigree-plain-gold-thick-bangle-kada?variant=gid://shopify/ProductVariant/44340669448404",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44340669481172": {
     "product_title": "Filigree Plain Gold Thick Kada",
@@ -10610,9 +10614,10 @@
     "price": 3050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/filigree-plain-gold-thick-bangle-or-kada-attrangi-1.jpg?v=1739815590",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/filigree-plain-gold-thick-bangle-kada?variant=gid://shopify/ProductVariant/44340669481172",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48003664609492": {
     "product_title": "Filigree Plain Gold Thick Kada",
@@ -13183,7 +13188,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/tehnaaz-jadaau-navarata-necklace-choker-set-attrangi-1.jpg?v=1739816241",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/tehnaaz-jadaau-navarata-necklace-choker-set?variant=gid://shopify/ProductVariant/44898825371860",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45076690305236": {
     "product_title": "Nakshatra Diamond Studs",
