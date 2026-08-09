@@ -7694,7 +7694,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2042Y_2_copy_39728506-d078-4463-962a-72224348ce7b.jpg?v=1706958964",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ms2042y-white-color-gold-plated-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46071569318111",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46071569350879": {
     "product_title": "Gold-Plated Jadau Kundan Choker Necklace Set with Peacock and Floral Motifs - MS2042",
@@ -44627,20 +44628,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/victorian-925-silver-ring-vc-rng10sl925?variant=gid://shopify/ProductVariant/48544061620447",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/47070427873503": {
-    "product_title": "White Gold-Plated Jadau Kundan Small Maang Teeka - MT521Y",
-    "product_handle": "white-color-gold-plated-jadau-kundan-maangteeka-mt521y",
-    "variant_id": "gid://shopify/ProductVariant/47070427873503",
-    "global_id": "gid://shopify/ProductVariant/47070427873503",
-    "variant_title": "Default Title",
-    "sku": "MT521Y",
-    "price": 2500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT521Y.jpg?v=1750327855",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-maangteeka-mt521y?variant=gid://shopify/ProductVariant/47070427873503",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/47070449991903": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Aadh Necklace Set with Floral Motifs - MS2852M",
@@ -94215,6 +94202,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47070427873503": {
+    "product_title": "White Gold-Plated Jadau Kundan Small Maang Teeka - MT521Y",
+    "product_handle": "white-color-gold-plated-jadau-kundan-maangteeka-mt521y",
+    "variant_id": "gid://shopify/ProductVariant/47070427873503",
+    "global_id": "gid://shopify/ProductVariant/47070427873503",
+    "variant_title": "Default Title",
+    "sku": "MT521Y",
+    "price": 2500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT521Y.jpg?v=1750327855",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-maangteeka-mt521y?variant=gid://shopify/ProductVariant/47070427873503",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47039241093343": {
     "product_title": "Gold Plated Temple Payal (One Pair) with Geometric Motif - TMPMPYL17",
