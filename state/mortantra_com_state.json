@@ -44917,6 +44917,21 @@
     "stock": 6,
     "last_alerted_stock": 6
   },
+  "gid://shopify/ProductVariant/47073077657823": {
+    "product_title": "Gold Plated Earchains with Flower Motif - MKS96",
+    "product_handle": "gold-plated-earchains-mks96",
+    "variant_id": "gid://shopify/ProductVariant/47073077657823",
+    "global_id": "gid://shopify/ProductVariant/47073077657823",
+    "variant_title": "White",
+    "sku": "MKS96",
+    "price": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKS96.jpg?v=1750401955",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-earchains-mks96?variant=gid://shopify/ProductVariant/47073077657823",
+    "stock": 10,
+    "last_alerted_stock": 10
+  },
   "gid://shopify/ProductVariant/47073078345951": {
     "product_title": "Gold Plated Earchains with Flower Motif - MKS97",
     "product_handle": "gold-plated-earchains-mks97",
@@ -94800,21 +94815,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-nosering-mnth208m?variant=gid://shopify/ProductVariant/47099140341983",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/47073077657823": {
-    "product_title": "Gold Plated Earchains with Flower Motif - MKS96",
-    "product_handle": "gold-plated-earchains-mks96",
-    "variant_id": "gid://shopify/ProductVariant/47073077657823",
-    "global_id": "gid://shopify/ProductVariant/47073077657823",
-    "variant_title": "White",
-    "sku": "MKS96",
-    "price": 3500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKS96.jpg?v=1750401955",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-earchains-mks96?variant=gid://shopify/ProductVariant/47073077657823",
-    "stock": 10,
-    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48997042847967": {
     "product_title": "Navratna Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Lotus Motif - MS2533N",

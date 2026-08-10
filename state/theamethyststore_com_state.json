@@ -3254,8 +3254,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09736.jpg?v=1695447654",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/rudhra-rope-necklace?variant=gid://shopify/ProductVariant/42926109982947",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42926110048483": {
     "product_title": "Rudhra Rope Necklace",
@@ -57680,7 +57680,7 @@
     "price": 56936.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10229.jpg?v=1755788532",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/glittering-long-necklace-set?variant=gid://shopify/ProductVariant/47045106172131",
     "stock": 1
   },
@@ -57792,7 +57792,7 @@
     "price": 15425.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1629.jpg?v=1755839355",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/classic-maangtikka?variant=gid://shopify/ProductVariant/47046722453731",
     "stock": 1
   },
@@ -58282,7 +58282,7 @@
     "price": 8475.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9194.jpg?v=1755859186",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/cute-floral-drop-earrings?variant=gid://shopify/ProductVariant/47049063104739",
     "stock": 1
   },
@@ -78579,7 +78579,7 @@
     "price": 89400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11661.jpg?v=1760175054",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/fancy-look-long-necklace-set?variant=gid://shopify/ProductVariant/47304334737635",
     "stock": 0
   },
@@ -84033,7 +84033,7 @@
     "price": 5100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10810.jpg?v=1762163345",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/mango-designed-bugadi-earrings?variant=gid://shopify/ProductVariant/47442181161187",
     "stock": 1
   },
@@ -127733,7 +127733,7 @@
     "price": 11900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-13663.jpg?v=1777297765",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nivara-stone-jhumkas?variant=gid://shopify/ProductVariant/48876739100899",
     "stock": 1
   },
@@ -137259,7 +137259,7 @@
     "price": 66350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15779_3.jpg?v=1778911685",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/jashvitha-reversible-short-necklace?variant=gid://shopify/ProductVariant/48968538554595",
     "stock": 1
   },
@@ -147699,7 +147699,7 @@
     "price": 24600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16152.jpg?v=1782105108",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nagas-short-necklace-set-42?variant=gid://shopify/ProductVariant/49289957179619",
     "stock": 1
   },
@@ -181866,6 +181866,104 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15568_bfb71801-8958-4908-8cad-a7df5b86ad38.jpg?v=1786360986",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/studs-30?variant=gid://shopify/ProductVariant/49517456818403",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49517853442275": {
+    "product_title": "Layer Charm Avikam Short Necklace",
+    "product_handle": "layer-charm-avikam-short-necklace",
+    "variant_id": "gid://shopify/ProductVariant/49517853442275",
+    "global_id": "gid://shopify/ProductVariant/49517853442275",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-17330",
+    "price": 57300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17330.jpg?v=1786367741",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/layer-charm-avikam-short-necklace?variant=gid://shopify/ProductVariant/49517853442275",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49517926514915": {
+    "product_title": "Floral Studs",
+    "product_handle": "studs-31",
+    "variant_id": "gid://shopify/ProductVariant/49517926514915",
+    "global_id": "gid://shopify/ProductVariant/49517926514915",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15569",
+    "price": 5900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15569.jpg?v=1786369235",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/studs-31?variant=gid://shopify/ProductVariant/49517926514915",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49517928087779": {
+    "product_title": "Pragalya Studs",
+    "product_handle": "studs-32",
+    "variant_id": "gid://shopify/ProductVariant/49517928087779",
+    "global_id": "gid://shopify/ProductVariant/49517928087779",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15570",
+    "price": 5700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15570.jpg?v=1786369505",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/studs-32?variant=gid://shopify/ProductVariant/49517928087779",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49517929857251": {
+    "product_title": "Ziyan Studs",
+    "product_handle": "studs-33",
+    "variant_id": "gid://shopify/ProductVariant/49517929857251",
+    "global_id": "gid://shopify/ProductVariant/49517929857251",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15571",
+    "price": 6200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15571.jpg?v=1786369668",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/studs-33?variant=gid://shopify/ProductVariant/49517929857251",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49517932970211": {
+    "product_title": "Dheeksha Studs",
+    "product_handle": "studs-34",
+    "variant_id": "gid://shopify/ProductVariant/49517932970211",
+    "global_id": "gid://shopify/ProductVariant/49517932970211",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15572",
+    "price": 5700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15572.jpg?v=1786369801",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/studs-34?variant=gid://shopify/ProductVariant/49517932970211",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49517933854947": {
+    "product_title": "Dhaksha Studs",
+    "product_handle": "studs-35",
+    "variant_id": "gid://shopify/ProductVariant/49517933854947",
+    "global_id": "gid://shopify/ProductVariant/49517933854947",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15573",
+    "price": 5900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15573.jpg?v=1786369915",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/studs-35?variant=gid://shopify/ProductVariant/49517933854947",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/49517935689955": {
+    "product_title": "Henisha Avikam Jhumkas",
+    "product_handle": "avikam-jhumkas-16",
+    "variant_id": "gid://shopify/ProductVariant/49517935689955",
+    "global_id": "gid://shopify/ProductVariant/49517935689955",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-15562",
+    "price": 7700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15562.jpg?v=1786370222",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avikam-jhumkas-16?variant=gid://shopify/ProductVariant/49517935689955",
     "stock": -1
   },
   "gid://shopify/ProductVariant/49476112056547": {
