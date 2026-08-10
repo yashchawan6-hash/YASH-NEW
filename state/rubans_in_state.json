@@ -2176,7 +2176,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14NS277179.jpg?v=1765520052",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-multicolour-zirconia-stone-studded-handcrafted-necklace-set-1?variant=gid://shopify/ProductVariant/43043686416558",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43043684024494": {
     "product_title": "Rubans 22K Gold-Plated Divine Lakshmi Motif Temple Jewellery Set with Gold Bead Accents",
@@ -3161,8 +3162,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-pearls-cubic-zirconia-studded-oversized-premium-floral-stud-earrings-studs-earrings-1150858252.jpg?v=1755718877",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-plated-stud-earrings-studded-with-american-diamonds-and-pearls?variant=gid://shopify/ProductVariant/43580471181486",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/43581890658478": {
     "product_title": "Rubans Gold Plated Necklace Set With Studded Mirror Design And Pink Stones",
@@ -26268,8 +26269,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-ruby-red-white-cubic-zirconia-studded-statement-bracelet-bangles-bracelets-1170727231.jpg?v=1770178747",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-emerald-green-white-cubic-zirconia-studded-designer-bracelet-copy?variant=gid://shopify/ProductVariant/46538759209134",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/46538763305134": {
     "product_title": "Rubans Rhodium-Plated Crystal Zirconia Studded Clover Motif Sleek Bracelet",
@@ -50408,7 +50409,7 @@
     "price": 1565.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20EN411115-Modal-1.jpg?v=1770111126",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re20en411115?variant=gid://shopify/ProductVariant/47454557864110",
     "stock": 5,
     "last_alerted_stock": 4
