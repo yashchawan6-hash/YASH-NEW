@@ -152,10 +152,10 @@
     "price": 1000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/bd8a288f-442a-49f7-8e87-3114b451436c.webp?v=1768391247",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52626224087356",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52626231230780": {
     "product_title": "Jadau kundan floral jhumkas with pearl and natural strawberry beads",
@@ -1777,7 +1777,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/Copyofhf_20260312_111557_fba73185-4b72-4c74-a3fa-5543b454e44a.jpg?v=1773743960",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-studs-with-pearl-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52887057105212",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52887099867452": {
     "product_title": "Jadau kundan Moon Jhumkas with pearl and natural strawberry beads",
@@ -2544,21 +2545,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_151046_0b17a928-3e9a-484f-92d6-f6a098309d08.webp?v=1776428002",
     "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-and-natural-strawberry-beads-dropwithout-earrings?variant=gid://shopify/ProductVariant/52991105139004",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/52991345721660": {
-    "product_title": "Jadau kundan+moissonite polki chain necklace with pearl (With Earrings)",
-    "product_handle": "jadau-kundan-moissonite-polki-chain-necklace-with-pearl-with-earrings",
-    "variant_id": "gid://shopify/ProductVariant/52991345721660",
-    "global_id": "gid://shopify/ProductVariant/52991345721660",
-    "variant_title": "Default Title",
-    "sku": "",
-    "price": 1600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_172557_34d4a702-f070-4481-99d3-9fbf5027b105.webp?v=1776428389",
-    "available_for_sale": false,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-moissonite-polki-chain-necklace-with-pearl-with-earrings?variant=gid://shopify/ProductVariant/52991345721660",
     "stock": 0,
     "last_alerted_stock": 0
   },

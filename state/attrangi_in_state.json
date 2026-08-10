@@ -230,7 +230,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-1.jpg?v=1739812489",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661238441",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411661172905": {
@@ -587,7 +587,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-bangle-set-attrangi-3.jpg?v=1739812554",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/classic-bangle-set?variant=gid://shopify/ProductVariant/40411669397673",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44351478399188": {
@@ -6384,9 +6384,9 @@
     "price": 850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mini-diamond-nath-attrangi-2.jpg?v=1775804445",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mini-diamond-nath-1?variant=gid://shopify/ProductVariant/43752992964820",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43752992997588": {
@@ -7950,10 +7950,10 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sharda-maangtika-attrangi.jpg?v=1739814753",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sharda-maangtika?variant=gid://shopify/ProductVariant/43843915940052",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43855905784020": {
     "product_title": "Vilaadi Polki Long Iconic Necklace Set | Antique Victorian Gold",
@@ -9818,7 +9818,7 @@
     "sku": "PS9678G",
     "price": 3450.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-22_at_3.31.47_PM.jpg?v=1739815407",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_12.30.45_PM.jpg?v=1786346010",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rotating-diamond-jhumka?variant=gid://shopify/ProductVariant/46018205548756",
     "stock": 2
@@ -10588,8 +10588,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/filigree-plain-gold-thick-bangle-or-kada-attrangi-2.jpg?v=1739815590",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/filigree-plain-gold-thick-bangle-kada?variant=gid://shopify/ProductVariant/44340669415636",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44340669448404": {
     "product_title": "Filigree Plain Gold Thick Kada",
@@ -11395,7 +11395,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kaamini-openable-indian-bangle-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815807",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kaamini-openable-indian-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44487649296596",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44487649329364": {
     "product_title": "Kaamini Openable Indian Bangle | Sone Pe Suhaga Collection",
@@ -11407,10 +11408,10 @@
     "price": 4650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kaamini-openable-indian-bangle-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815807",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/kaamini-openable-indian-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44487649329364",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45275870068948": {
     "product_title": "Kaamini Openable Indian Bangle | Sone Pe Suhaga Collection",
@@ -11961,20 +11962,6 @@
     "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521835987156",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/44521836019924": {
-    "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
-    "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
-    "variant_id": "gid://shopify/ProductVariant/44521836019924",
-    "global_id": "gid://shopify/ProductVariant/44521836019924",
-    "variant_title": "2.2 / Pair",
-    "sku": "SH01580Z2X2",
-    "price": 5850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulvanti-gold-openable-bangles-or-sone-pe-suhaga-collection-attrangi-3.jpg?v=1739815910",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521836019924",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48354992619732": {
     "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
     "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
@@ -11988,20 +11975,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/48354992619732",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/48354992652500": {
-    "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
-    "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
-    "variant_id": "gid://shopify/ProductVariant/48354992652500",
-    "global_id": "gid://shopify/ProductVariant/48354992652500",
-    "variant_title": "2.4 / Pair",
-    "sku": "SH01580Z4X2",
-    "price": 5850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulvanti-gold-openable-bangles-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815908",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/48354992652500",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/48354992685268": {
     "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
@@ -12018,21 +11991,6 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
-  "gid://shopify/ProductVariant/48354992718036": {
-    "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
-    "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
-    "variant_id": "gid://shopify/ProductVariant/48354992718036",
-    "global_id": "gid://shopify/ProductVariant/48354992718036",
-    "variant_title": "2.6 / Pair",
-    "sku": "SH01580Z6X2",
-    "price": 5850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulvanti-gold-openable-bangles-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815908",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/48354992718036",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/44521836183764": {
     "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
     "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
@@ -12046,20 +12004,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521836183764",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/44521836216532": {
-    "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
-    "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
-    "variant_id": "gid://shopify/ProductVariant/44521836216532",
-    "global_id": "gid://shopify/ProductVariant/44521836216532",
-    "variant_title": "2.8 / Pair",
-    "sku": "SH01580Z8X2",
-    "price": 5850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulvanti-gold-openable-bangles-or-sone-pe-suhaga-collection-attrangi-3.jpg?v=1739815910",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521836216532",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/48105518727380": {
     "product_title": "7 Carat Round Solitaire Earrings",
@@ -12367,7 +12311,7 @@
     "sku": "RP05132PIZ2X1",
     "price": 2950.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mishti-diamond-thick-coloured-bangles-attrangi-5.jpg?v=1739816003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_1.02.52_PM_2.jpg?v=1786355546",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mishti-diamond-bangles-with-coloured-crystals?variant=gid://shopify/ProductVariant/44751056732372",
     "stock": 3
@@ -12381,7 +12325,7 @@
     "sku": "RP05132PIZ4X1",
     "price": 2950.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mishti-diamond-thick-coloured-bangles-attrangi-5.jpg?v=1739816003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_1.02.52_PM_2.jpg?v=1786355546",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mishti-diamond-bangles-with-coloured-crystals?variant=gid://shopify/ProductVariant/44751056797908",
     "stock": 2
@@ -12395,7 +12339,7 @@
     "sku": "RP05132PIZ6X1",
     "price": 2950.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mishti-diamond-thick-coloured-bangles-attrangi-5.jpg?v=1739816003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_1.02.52_PM_2.jpg?v=1786355546",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mishti-diamond-bangles-with-coloured-crystals?variant=gid://shopify/ProductVariant/44751056863444",
     "stock": 3
@@ -12409,7 +12353,7 @@
     "sku": "RP05132PIZ8X1",
     "price": 2950.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/mishti-diamond-thick-coloured-bangles-attrangi-5.jpg?v=1739816003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_1.02.52_PM_2.jpg?v=1786355546",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mishti-diamond-bangles-with-coloured-crystals?variant=gid://shopify/ProductVariant/44751056928980",
     "stock": 3
@@ -13192,7 +13136,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/tehnaaz-jadaau-navarata-necklace-choker-set-attrangi-1.jpg?v=1739816241",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/tehnaaz-jadaau-navarata-necklace-choker-set?variant=gid://shopify/ProductVariant/44898825371860",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45076690305236": {
@@ -18754,7 +18698,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-03at7.15.59PM_1.jpg?v=1750783691",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/misu-alphabet-monogram-dainty-daily-wear-pendant-chain?variant=gid://shopify/ProductVariant/45939555303636",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45939555336404": {
     "product_title": "Misu Alphabet Monogram Dainty Daily Wear Pendant Chain",
@@ -20100,7 +20045,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_11.06.06_PM.jpg?v=1757493869",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhilmil-diamond-mattel-diamond-hair-chain?variant=gid://shopify/ProductVariant/46605344997588",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46062012039380": {
@@ -23787,7 +23732,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-04-30_at_12.39.56_PM_1.jpg?v=1749411042",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bhumika-polki-small-indian-ring?variant=gid://shopify/ProductVariant/46265285607636",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46267383382228": {
@@ -26153,8 +26098,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-01_at_10.47.21_PM.jpg?v=1764655991",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/srilekha-indian-delicate-polki-hand-harness-hathpan?variant=gid://shopify/ProductVariant/46491646492884",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46496818921684": {
     "product_title": "Hoor Si Tu Diamond Kannauti | EarChain",
@@ -26307,9 +26252,9 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_3.40.27_PM.jpg?v=1774271927",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gulaab-single-line-sleek-polki-choker-set?variant=gid://shopify/ProductVariant/46519199695060",
-    "stock": 0,
+    "stock": 9,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46519235412180": {
@@ -27301,7 +27246,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.36.57_PM_1.jpg?v=1764669258",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/crescent-multi-soltiaire-diamond-studs-30-cent?variant=gid://shopify/ProductVariant/46771079413972",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46773766455508": {
     "product_title": "Shivani Polki Fluorite Ruby Indian Choker Set",
@@ -30826,7 +30772,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.12.27_PM_6.jpg?v=1764753881",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable?variant=gid://shopify/ProductVariant/47011870015700",
     "stock": 0
   },
@@ -30970,7 +30916,7 @@
     "price": 5650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770949844",
     "stock": 2,
     "last_alerted_stock": 0
@@ -33407,7 +33353,7 @@
     "price": 8650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-10_at_2.04.02_PM.jpg?v=1776320469",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/mystic-petal-diamond-pastel-set-enchanted-garden?variant=gid://shopify/ProductVariant/47808223903956",
     "stock": 2,
     "last_alerted_stock": 2
@@ -35036,7 +34982,7 @@
     "price": 4250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-08at4.12.50PM.jpg?v=1767874655",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lykaa-moissanite-half-gokhru-polki-bracelet?variant=gid://shopify/ProductVariant/47426212528340",
     "stock": 1,
     "last_alerted_stock": 1
@@ -38431,7 +38377,7 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at3.50.48PM.jpg?v=1774337360",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chamkeeli-moissanite-light-weight-polki-jhumki?variant=gid://shopify/ProductVariant/47776296992980",
     "stock": 0,
     "last_alerted_stock": 0
@@ -44014,7 +43960,7 @@
     "price": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-17_at_4.57.13_PM.jpg?v=1784368309",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/navratna-polki-moissanite-uncut-diamond-bangle-set-gemz?variant=gid://shopify/ProductVariant/48234802020564",
     "stock": 1
   },
@@ -46520,7 +46466,7 @@
     "price": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-24at4.59.58PM.jpg?v=1784893183",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/faux-leather-men-daily-wear-bracelet-ik-onkar-khanda-om-rakhi?variant=gid://shopify/ProductVariant/48355559342292",
     "stock": 0,
     "last_alerted_stock": 0
@@ -49091,20 +49037,6 @@
     "url": "https://www.attrangi.in/products/navya-navratna-polki-moissanite-choker-set?variant=gid://shopify/ProductVariant/48408436113620",
     "stock": 0
   },
-  "gid://shopify/ProductVariant/48408441749716": {
-    "product_title": "Gemstone Baubles MultiColour Daily Wear Bracelet | Western",
-    "product_handle": "gemstone-baubles-multicolour-daily-wear-bracelet-western",
-    "variant_id": "gid://shopify/ProductVariant/48408441749716",
-    "global_id": "gid://shopify/ProductVariant/48408441749716",
-    "variant_title": "This kada comes in one size that fits most people from size 2.2 to 2.6",
-    "sku": "NPJ47115MU-BR",
-    "price": 3650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-03at4.41.09PM.jpg?v=1785762221",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/gemstone-baubles-multicolour-daily-wear-bracelet-western?variant=gid://shopify/ProductVariant/48408441749716",
-    "stock": -1
-  },
   "gid://shopify/ProductVariant/48408453578964": {
     "product_title": "Oh Laila Multicolour Beaded Pearl Choker | Fusion",
     "product_handle": "oh-laila-multicolour-beaded-pearl-choker-fusion",
@@ -49300,6 +49232,48 @@
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/baguette-solitaire-ring-with-band-rose-gold?variant=gid://shopify/ProductVariant/48436558823636",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/44521836019924": {
+    "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
+    "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
+    "variant_id": "gid://shopify/ProductVariant/44521836019924",
+    "global_id": "gid://shopify/ProductVariant/44521836019924",
+    "variant_title": "2.2 / Pair",
+    "sku": "SH01580Z2X2",
+    "price": 5850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulvanti-gold-openable-bangles-or-sone-pe-suhaga-collection-attrangi-3.jpg?v=1739815910",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521836019924",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/48354992652500": {
+    "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
+    "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
+    "variant_id": "gid://shopify/ProductVariant/48354992652500",
+    "global_id": "gid://shopify/ProductVariant/48354992652500",
+    "variant_title": "2.4 / Pair",
+    "sku": "SH01580Z4X2",
+    "price": 5850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulvanti-gold-openable-bangles-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815908",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/48354992652500",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/44521836216532": {
+    "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
+    "product_handle": "fulvanti-gold-openable-bangles-sone-pe-suhaga-collection",
+    "variant_id": "gid://shopify/ProductVariant/44521836216532",
+    "global_id": "gid://shopify/ProductVariant/44521836216532",
+    "variant_title": "2.8 / Pair",
+    "sku": "SH01580Z8X2",
+    "price": 5850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulvanti-gold-openable-bangles-or-sone-pe-suhaga-collection-attrangi-3.jpg?v=1739815910",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/fulvanti-gold-openable-bangles-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521836216532",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47579125678292": {
     "product_title": "Mehra Elephant Lotus Diamond Magnetic Brooch | Unisex",

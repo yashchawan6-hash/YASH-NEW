@@ -16526,8 +16526,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Pearlsbracelets299.jpg?v=1758797695",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/mossanite-92-5-pure-silver-nose-pin-copy?variant=gid://shopify/ProductVariant/52018498044204",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52018508955948": {
     "product_title": "Jadau fusion peacock jhumkas",
@@ -20145,7 +20145,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_1cdfbc1d-c88a-4c12-962c-698eb6141ed2.png?v=1780318252",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/polki-fusion-set?variant=gid://shopify/ProductVariant/53255985856812",
-    "stock": 3,
+    "stock": 10,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53255991755052": {
@@ -20158,9 +20158,10 @@
     "price": 2760.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_823ea1c4-69ff-479f-8abc-5772406cba1b.png?v=1780318559",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/mossanite-emeralds-polki-necklace-earrings-set?variant=gid://shopify/ProductVariant/53255991755052",
-    "stock": 6
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53255992475948": {
     "product_title": "Multipurpose hasli",
