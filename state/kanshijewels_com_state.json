@@ -14148,8 +14148,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Multipurposechain490.heic?v=1741258068",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/multipurpose-chain?variant=gid://shopify/ProductVariant/50702819459372",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/50702824309036": {
     "product_title": "Multipurpose Flexible Gold Look Chain",
@@ -18523,9 +18523,10 @@
     "price": 1800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaujhumkas1800.jpg?v=1766142934",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-jhumkas-3?variant=gid://shopify/ProductVariant/52445344858412",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445344956716": {
     "product_title": "Jadau studs",

@@ -2928,8 +2928,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SRP3557.jpg?v=1747378925",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/cira-antique-necklace-set?variant=gid://shopify/ProductVariant/41664462880834",
-    "stock": 13,
-    "last_alerted_stock": 13
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/41483412439106": {
     "product_title": "Cira Antique Necklace Set",
@@ -18562,7 +18562,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0006XMY_d212dd36-0265-4161-bfca-4b94f8def0b1.jpg?v=1752149620",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-flower-pattern-with-kempu-rakhi?variant=gid://shopify/ProductVariant/42292686454850",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/42292719550530": {
     "product_title": "Radiant CZ Rakhi",
@@ -18630,9 +18631,10 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0012XGY_f03795bb-f84a-4c70-ab8e-0a1c04fd5c23.jpg?v=1752149668",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/vira-antique-rakhi?variant=gid://shopify/ProductVariant/42292910686274",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42292963475522": {
     "product_title": "Shrishti Beaded Antique Rakhi",
@@ -18660,7 +18662,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0014XGY_311d439b-f69c-402e-9a2f-89dcde854ed0.jpg?v=1752149684",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mayura-heritage-antique-rakhi?variant=gid://shopify/ProductVariant/42294308110402",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/42294312140866": {
     "product_title": "Ruby Radiance CZ Rakhi",
