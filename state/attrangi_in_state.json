@@ -6826,10 +6826,10 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeenia-diamond-chandelier-earrings-attrangi-1.jpg?v=1739814327",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/zeenia-diamond-chandelier-earrings?variant=gid://shopify/ProductVariant/43459422191828",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43459426025684": {
     "product_title": "Tiny Diamond Bali\u2019s | Daily Wear | Limited Edition",
@@ -12510,7 +12510,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_6.02.55_PM.jpg?v=1750781743",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/samudra-fluorite-and-polki-necklace-set?variant=gid://shopify/ProductVariant/45766034260180",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44694536716500": {
@@ -15610,9 +15610,10 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-23at2.16.48AM_1.jpg?v=1750782672",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/meera-single-line-necklace-with-small-jhumkis-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/46018107474132",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45659011317972": {
     "product_title": "Nirupa Gold Necklace with Mid-Sized Jhumkis | Sone pe Suhaga Collection",
@@ -27355,9 +27356,10 @@
     "price": 3850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-10_at_12.03.16_AM.jpg?v=1757504387",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lopamudra-long-gold-traditional-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/46789300125908",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46792246493396": {
     "product_title": "Birdichant Polki Long Victorian Indian Earrings",
@@ -37241,7 +37243,7 @@
     "price": 4550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.42.11_PM_41ce7b7f-096e-49cc-937a-a4c4b27a83f0.jpg?v=1775296455",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/dildooba-moissanite-polki-meenakari-chandbali-earrings?variant=gid://shopify/ProductVariant/47760616489172",
     "stock": 1
   },

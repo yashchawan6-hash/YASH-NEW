@@ -3112,7 +3112,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/SRP_4172_copy_copy.jpg?v=1739529332",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/lillian-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40850877874212",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/40850877906980": {
     "product_title": "Lillian Nakshatra CZ Necklace Set",
@@ -23334,7 +23335,7 @@
     "price": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/SBR0001WT6-T.png?v=1786017689",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/54109945921904",
     "stock": 1,
     "last_alerted_stock": 0
