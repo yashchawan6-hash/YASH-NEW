@@ -1372,7 +1372,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/uncut-polki-rudra-ruby-and-emerald-ring-attrangi-1.jpg?v=1739812807",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/uncut-polki-ruby-and-emerald-ring?variant=gid://shopify/ProductVariant/40411692433577",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411692761257": {
     "product_title": "Samarth Borla",
@@ -3127,7 +3128,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/attrangi-box-with-roli-chawal-attrangi-31818029564116.jpg?v=1694856188",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/attrangi-box-with-roli-chawal?variant=gid://shopify/ProductVariant/40880201236649",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40888155865257": {
@@ -3621,9 +3622,9 @@
     "price": 4150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-21_at_6.18.29_PM.jpg?v=1774098445",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/multi-gem-stone-navratna-bracelet?variant=gid://shopify/ProductVariant/47454672945364",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41124626301097": {
@@ -7339,10 +7340,10 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-diamond-bali-or-daily-wear-attrangi-3.jpg?v=1739814457",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/i-carat-round-diamond-bali-daily-wear?variant=gid://shopify/ProductVariant/43615173804244",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48119346331860": {
     "product_title": "1 Carat Round Diamond Bali | Daily Wear",
@@ -7781,7 +7782,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/supernova-emerald-doublet-with-enamel-pendant-set-attrangi-8.jpg?v=1739814637",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/supernova-emerald-doublet-with-enamel-pendant-set?variant=gid://shopify/ProductVariant/43771479883988",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43775906185428": {
@@ -8294,20 +8295,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/baguette-diana-band-cocktail-diamond-ring?variant=gid://shopify/ProductVariant/44416153059540",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/48436501184724": {
-    "product_title": "Baguette Diana Band Cocktail Diamond Ring",
-    "product_handle": "baguette-diana-band-cocktail-diamond-ring",
-    "variant_id": "gid://shopify/ProductVariant/48436501184724",
-    "global_id": "gid://shopify/ProductVariant/48436501184724",
-    "variant_title": "Red / 7",
-    "sku": "WG2641R7",
-    "price": 1850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG2641R7_101900.jpg?v=1786089882",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/baguette-diana-band-cocktail-diamond-ring?variant=gid://shopify/ProductVariant/48436501184724",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/43891222773972": {
     "product_title": "3 Cent Round Diamond Super Slim Tennis Bracelet| 2mm",
@@ -11393,10 +11380,10 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kaamini-openable-indian-bangle-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815807",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/kaamini-openable-indian-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44487649296596",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44487649329364": {
     "product_title": "Kaamini Openable Indian Bangle | Sone Pe Suhaga Collection",
@@ -13275,7 +13262,7 @@
     "sku": "SASS012B-GZ4",
     "price": 2950.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/potta-blue-bangles-attrangi-3.jpg?v=1739816282",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_3.45.56_PM_1.jpg?v=1786357894",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/potta-blue-bangles?variant=gid://shopify/ProductVariant/44906633527508",
     "stock": 2
@@ -13289,7 +13276,7 @@
     "sku": "SASS012B-SZ2",
     "price": 2950.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/potta-blue-bangles-attrangi-1.jpg?v=1739816280",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_3.45.56_PM.jpg?v=1786357894",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/potta-blue-bangles?variant=gid://shopify/ProductVariant/44906633560276",
     "stock": 2
@@ -15105,7 +15092,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-09-03_at_10.55.52_AM.jpg?v=1750782514",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ram-darbaar-gold-handmade-kada-traditional-sone-pe-suhaga?variant=gid://shopify/ProductVariant/45590396829908",
-    "stock": 2
+    "stock": 6
   },
   "gid://shopify/ProductVariant/48437103952084": {
     "product_title": "Ram Darbaar Gold Handmade Kada | Traditional Sone Pe Suhaga",
@@ -15117,9 +15104,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-09-03_at_10.55.52_AM.jpg?v=1750782514",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ram-darbaar-gold-handmade-kada-traditional-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48437103952084",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/48437103984852": {
     "product_title": "Ram Darbaar Gold Handmade Kada | Traditional Sone Pe Suhaga",
@@ -15131,9 +15118,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-09-03_at_10.55.52_AM.jpg?v=1750782514",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ram-darbaar-gold-handmade-kada-traditional-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48437103984852",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/48437104017620": {
     "product_title": "Ram Darbaar Gold Handmade Kada | Traditional Sone Pe Suhaga",
@@ -18444,7 +18431,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-20at12.47.55AM_1.jpg?v=1750783657",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/star-studded-diamond-hoops-in-pave-setting-sparkling-tara?variant=gid://shopify/ProductVariant/45928328724692",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45928328757460": {
@@ -18459,7 +18446,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-20at12.47.32AM.jpg?v=1750783660",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/star-studded-diamond-hoops-in-pave-setting-sparkling-tara?variant=gid://shopify/ProductVariant/45928328757460",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45939554713812": {
@@ -19999,7 +19986,7 @@
     "sku": "PT5024GR-JS",
     "price": 6450.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-05-19_at_1.43.51_PM_d93b94de-5a04-4ee5-bc2b-ee0cbd97c294.jpg?v=1749410683",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-10_at_3.38.27_PM.jpg?v=1786357810",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/raspberry-violet-duet-diamond-necklace-set-rangnasheen?variant=gid://shopify/ProductVariant/46338954887380",
     "stock": 1
@@ -28180,8 +28167,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-14at1.21.48AM.jpg?v=1757941321",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/perplex-diamond-black-enamel-bali-earring?variant=gid://shopify/ProductVariant/47495358054612",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47495359365332": {
     "product_title": "Perplex Diamond Black Enamel Bali Earring",
@@ -28875,7 +28862,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at1.46.43PM.jpg?v=1758458464",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pastel-rainbow-multicoloured-diamond-band-ring-daily-wear?variant=gid://shopify/ProductVariant/46958417641684",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46958419116244": {
     "product_title": "Baguettes Band illusion Setting Diamond Ring | Daily Wear",
@@ -33353,7 +33341,7 @@
     "price": 8650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-12-10_at_2.04.02_PM.jpg?v=1776320469",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mystic-petal-diamond-pastel-set-enchanted-garden?variant=gid://shopify/ProductVariant/47808223903956",
     "stock": 2,
     "last_alerted_stock": 2
@@ -43651,7 +43639,7 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_12.55.57_AM_1_fc5ec743-e8ae-4187-acf8-8f46fcd7a791.jpg?v=1782208895",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/auro-classic-diamond-bangle-coloured-stones-1?variant=gid://shopify/ProductVariant/48163194929364",
     "stock": 3
   },
@@ -43665,7 +43653,7 @@
     "price": 4650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_12.55.57_AM_1_fc5ec743-e8ae-4187-acf8-8f46fcd7a791.jpg?v=1782208895",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/auro-classic-diamond-bangle-coloured-stones-1?variant=gid://shopify/ProductVariant/48163194962132",
     "stock": 3
   },
@@ -45572,7 +45560,7 @@
     "price": 850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-01_at_11.49.48_AM_1.jpg?v=1785740252",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/anant-bandhan-uncut-diamond-polki-bracelet-rakhi-bhaiya-rakhi?variant=gid://shopify/ProductVariant/48297259335892",
     "stock": 2,
     "last_alerted_stock": 1
@@ -45813,7 +45801,7 @@
     "price": 4350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at5.28.04PM_1.jpg?v=1784292676",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/farida-moissanite-thin-polki-gokhru-kada-next-to-real?variant=gid://shopify/ProductVariant/48319063556308",
     "stock": 0,
     "last_alerted_stock": 0
@@ -49089,7 +49077,7 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-03at11.57.50PM.jpg?v=1785825835",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/aashika-rajwadi-multi-gold-unisex-rakhi-bracelet?variant=gid://shopify/ProductVariant/48421139349716",
     "stock": 0
   },
@@ -49231,6 +49219,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG1172RG8_101900.jpg?v=1786090337",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/baguette-solitaire-ring-with-band-rose-gold?variant=gid://shopify/ProductVariant/48436558823636",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48448171770068": {
+    "product_title": "Baguette Diana Band Cocktail Diamond Ring (Pink)",
+    "product_handle": "baguette-diana-band-cocktail-diamond-ring-pink",
+    "variant_id": "gid://shopify/ProductVariant/48448171770068",
+    "global_id": "gid://shopify/ProductVariant/48448171770068",
+    "variant_title": "5",
+    "sku": "WG2641R",
+    "price": 1850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG2641R7_101900_1800x1800_46c53e20-ed8d-47f7-9b29-20b55f21cc18.webp?v=1786357346",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/baguette-diana-band-cocktail-diamond-ring-pink?variant=gid://shopify/ProductVariant/48448171770068",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48448171802836": {
+    "product_title": "Baguette Diana Band Cocktail Diamond Ring (Pink)",
+    "product_handle": "baguette-diana-band-cocktail-diamond-ring-pink",
+    "variant_id": "gid://shopify/ProductVariant/48448171802836",
+    "global_id": "gid://shopify/ProductVariant/48448171802836",
+    "variant_title": "8",
+    "sku": "WG2641R8",
+    "price": 1850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG2641R7_101900_1800x1800_46c53e20-ed8d-47f7-9b29-20b55f21cc18.webp?v=1786357346",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/baguette-diana-band-cocktail-diamond-ring-pink?variant=gid://shopify/ProductVariant/48448171802836",
     "stock": -1
   },
   "gid://shopify/ProductVariant/44521836019924": {

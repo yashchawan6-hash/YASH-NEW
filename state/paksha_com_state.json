@@ -14014,9 +14014,10 @@
     "price": 869.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PAKF0043G_87fba1c8-0caf-447c-8caf-273d214c8a88.jpg?v=1697718336",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.com/products/jadau-enchantments-silver-bangles?variant=gid://shopify/ProductVariant/44021597602028",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44114013028588": {
     "product_title": "Malachite Round Silver Drop Earrings",
@@ -19703,6 +19704,20 @@
     "url": "https://www.paksha.com/products/fringe-tiered-sparkle-gold-plated-silver-statement-earrings?variant=gid://shopify/ProductVariant/46492596502764",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/46492641525996": {
+    "product_title": "Fringe Aurelia Gold Plated Silver Earrings",
+    "product_handle": "fringe-aurelia-gold-plated-silver-earrings",
+    "variant_id": "gid://shopify/ProductVariant/46492641525996",
+    "global_id": "gid://shopify/ProductVariant/46492641525996",
+    "variant_title": "Default Title",
+    "sku": "PMFR0019DT-",
+    "price": 79.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PMFR0019HT.jpg?v=1774273153",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/fringe-aurelia-gold-plated-silver-earrings?variant=gid://shopify/ProductVariant/46492641525996",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/46492687859948": {
     "product_title": "Fringe Fiesta Gold Plated Silver Hasli Necklace",
     "product_handle": "fringe-fiesta-gold-plated-silver-hasli-necklace",
@@ -23789,7 +23804,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/47.png?v=1782197626",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/10gm-999-silver-goddess-lakshmi-coin?variant=gid://shopify/ProductVariant/47470330249452",
-    "stock": 16,
+    "stock": 17,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/47542219309292": {
