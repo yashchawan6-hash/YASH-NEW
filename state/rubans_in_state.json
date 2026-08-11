@@ -24553,10 +24553,10 @@
     "price": 1527.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-emerald-kundan-studded-choker-necklace-set-with-green-cream-beads-for-women-choker-choker-set-kundan-choker-set-1158520620.jpg?v=1755713483",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-glossy-pearl-beaded-kundan-handcrafted-choker-necklace-set-copy?variant=gid://shopify/ProductVariant/46412841517230",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46412956205230": {
     "product_title": "White Crystal with Pearls Hair Accessory",
@@ -63319,8 +63319,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10EF411438-Model-1.jpg?v=1779882002",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ef411438?variant=gid://shopify/ProductVariant/47914236444846",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47914236477614": {
     "product_title": "Emerald Glow Crystal Statement Drop Earrings",
@@ -64214,8 +64214,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04B413450-Model-01.jpg?v=1779882442",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re04b413450?variant=gid://shopify/ProductVariant/47914245652654",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/47914246701230": {
     "product_title": "Divine Temple Gold Statement Bangles",

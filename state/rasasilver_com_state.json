@@ -10970,10 +10970,10 @@
     "price": 3740.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP116.jpg?v=1756539730",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/back-chain-1?variant=gid://shopify/ProductVariant/50823753695529",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50823831781673": {
     "product_title": "Sri Kanaka Vaddanam",
@@ -54046,9 +54046,10 @@
     "price": 28100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5366_resized.jpg?v=1772538659",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pushpari-kundan-pendant?variant=gid://shopify/ProductVariant/52748119245097",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52748266471721": {
     "product_title": "Dakshina Kundan Pendant",
@@ -55724,9 +55725,10 @@
     "price": 12240.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0798_resized.jpg?v=1773739885",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/chair?variant=gid://shopify/ProductVariant/52799837536553",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52799852740905": {
     "product_title": "Garuda Temple Danglers",

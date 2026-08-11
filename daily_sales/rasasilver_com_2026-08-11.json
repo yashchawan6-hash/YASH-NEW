@@ -1468,5 +1468,47 @@
     "curr_stock": 3,
     "url": "https://www.rasasilver.com/products/rosy-maanga-studs?variant=gid://shopify/ProductVariant/51412295713065",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3_2ac6c7bd-28ec-4b43-bed0-96e9dc4b5446.jpg?v=1754033521"
+  },
+  {
+    "timestamp_ist": "2026-08-11 23:52:24",
+    "product_title": "Back Chain",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50823753695529",
+    "sku": "R25375",
+    "price": 3740.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/back-chain-1?variant=gid://shopify/ProductVariant/50823753695529",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP116.jpg?v=1756539730"
+  },
+  {
+    "timestamp_ist": "2026-08-11 23:52:24",
+    "product_title": "Pushpari Kundan Pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52748119245097",
+    "sku": "R21966",
+    "price": 28100.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/pushpari-kundan-pendant?variant=gid://shopify/ProductVariant/52748119245097",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5366_resized.jpg?v=1772538659"
+  },
+  {
+    "timestamp_ist": "2026-08-11 23:52:24",
+    "product_title": "Simple Chain",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52799837536553",
+    "sku": "R25881",
+    "price": 12240.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/chair?variant=gid://shopify/ProductVariant/52799837536553",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_9Mar0798_resized.jpg?v=1773739885"
   }
 ]
