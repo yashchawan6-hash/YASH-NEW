@@ -102,7 +102,6 @@ def fetch_catalog(domain, token):
         'Content-Type': 'application/json'
     }
 
-    # Safe GraphQL Complexity Query (50 products x 100 variants = 5000 nodes max)
     query = """
     query getAllProducts($cursor: String) {
       products(first: 50, after: $cursor) {
@@ -359,12 +358,13 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
 
     if image_url:
         payload['photo'] = image_url
-        try:
-            r = requests.post(api_url, json=payload, timeout=8)
-            if r.status_code == 200:
-                return
-        except Exception:
-            pass
+        for attempt in range(2):
+            try:
+                r = requests.post(api_url, json=payload, timeout=15)
+                if r.status_code == 200:
+                    return
+            except Exception:
+                time.sleep(1)
 
     text_api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     text_payload = {
@@ -373,10 +373,65 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
         'parse_mode': 'HTML',
         'disable_web_page_preview': False
     }
+    for attempt in range(2):
+        try:
+            r = requests.post(text_api_url, json=text_payload, timeout=15)
+            if r.status_code == 200:
+                return
+        except Exception:
+            time.sleep(1)
+
+def send_telegram_summary_alert(bot_token, chat_id, sales_detected, domain):
+    total_items_sold = sum(s['qty_sold'] for s in sales_detected)
+    total_revenue = sum(s['item'].get('price', 0.0) * s['qty_sold'] for s in sales_detected)
+    currency = sales_detected[0]['item'].get('currency', 'INR') if sales_detected else 'INR'
+    symbol = "₹" if currency == "INR" else "$"
+
+    msg = f"<b>🚀 SALES SPIKE SUMMARY REPORT!</b>\n\n"
+    msg += f"<b>Store:</b> {domain}\n"
+    msg += f"<b>Total Products Sold:</b> {len(sales_detected)} unique items\n"
+    msg += f"<b>Total Units Sold:</b> {total_items_sold} units\n"
+    msg += f"<b>Total Revenue:</b> {symbol}{total_revenue:,.2f}\n"
+    msg += f"<b>Time (IST):</b> {get_ist_now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    msg += f"<b>🔥 Top Recent Sales:</b>\n"
+
+    for i, sale in enumerate(sales_detected[:10], 1):
+        item = sale['item']
+        prod_title = item.get('product_title', 'Item')
+        var_title = item.get('variant_title', '')
+        p_name = f"{prod_title} ({var_title})" if var_title and var_title.lower() != 'default title' else prod_title
+        qty = sale['qty_sold']
+        price = item.get('price', 0.0)
+        url = item.get('url', f"https://www.{domain}")
+        msg += f"{i}. <a href=\"{url}\">{p_name[:35]}</a> - <b>{qty}x</b> ({symbol}{price:,.0f})\n"
+
+    if len(sales_detected) > 10:
+        msg += f"\n<i>...and {len(sales_detected) - 10} more sales recorded to daily accounting file.</i>"
+
+    text_api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    text_payload = {
+        'chat_id': chat_id,
+        'text': msg,
+        'parse_mode': 'HTML',
+        'disable_web_page_preview': True
+    }
     try:
-        requests.post(text_api_url, json=text_payload, timeout=8)
+        requests.post(text_api_url, json=text_payload, timeout=15)
     except Exception as e:
-        print(f"[{domain}] Telegram notification failed: {e}", flush=True)
+        print(f"[{domain}] Telegram summary alert failed: {e}", flush=True)
+
+def dispatch_sales_alerts(store_bot_token, chat_id, sales_detected, domain):
+    if not sales_detected:
+        return
+
+    # If sales spike > 10, send clean summary report to avoid Telegram API rate limits & timeouts
+    if len(sales_detected) > 10:
+        print(f"[{domain}] Sales spike detected ({len(sales_detected)} sales). Sending clean summary report...", flush=True)
+        send_telegram_summary_alert(store_bot_token, chat_id, sales_detected, domain)
+    else:
+        for sale in sales_detected:
+            send_telegram_alert(store_bot_token, chat_id, sale, domain)
+            time.sleep(0.1)
 
 def process_store(store_config, global_bot_token, state_dir, daily_dir):
     raw_domain = store_config.get('domain', '')
@@ -482,8 +537,7 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
         print(f"[{domain}] Scan complete. Sales detected: {len(sales_detected)}", flush=True)
         if sales_detected:
             record_daily_sales(clean_domain, sales_detected, daily_dir)
-            for sale in sales_detected:
-                send_telegram_alert(store_bot_token, chat_id, sale, domain)
+            dispatch_sales_alerts(store_bot_token, chat_id, sales_detected, domain)
 
     os.makedirs(state_dir, exist_ok=True)
     try:
