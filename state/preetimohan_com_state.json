@@ -14883,9 +14883,10 @@
     "price": 15000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/39_5ed9369e-5822-43f2-9fa8-c8e42651e489.png?v=1756140895",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/rosie-red-zircon-bangles?variant=gid://shopify/ProductVariant/49281598619841",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49281620082881": {
     "product_title": "ARISHA WHITE ZIRCON BANGLES",

@@ -26729,10 +26729,10 @@
     "price": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_10.25.26_PM.jpg?v=1757484814",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lilly-moissanite-crystal-empress-set?variant=gid://shopify/ProductVariant/46737972658388",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46719542526164": {
     "product_title": "Enchanted Baagh Polki Fusion Indian Diamond Set",
@@ -36641,8 +36641,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.42.13_PM_2.jpg?v=1774269249",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kashmiri-daali-kannauti-indian-delicate-long-earrings?variant=gid://shopify/ProductVariant/47587776331988",
-    "stock": 10,
-    "last_alerted_stock": 0
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47587802972372": {
     "product_title": "Garuda Designer Polki Indo western Necklace Set",
@@ -37589,7 +37589,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-21_at_6.47.28_PM.jpg?v=1774107287",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ear-full-of-flowers-diamond-designer-earcuffs?variant=gid://shopify/ProductVariant/47687955284180",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47668780040404": {
