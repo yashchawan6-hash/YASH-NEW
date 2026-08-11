@@ -75367,9 +75367,10 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July1079.jpg?v=1786100468",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/purple-grace-bracelet?variant=gid://shopify/ProductVariant/53346367439145",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53346506244393": {
     "product_title": "Padmavibhuti Temple Necklace",
