@@ -2449,7 +2449,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/ER3.jpg?v=1756191839",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/prakruti-single-line-polki-necklace-17?variant=gid://shopify/ProductVariant/47297356923073",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47297356988609": {
     "product_title": "Tanishka Red & Green Moissanite Necklace Set",
@@ -19120,9 +19121,10 @@
     "price": 19500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/11_fc8b4233-78de-4b26-aaf1-ae6389088bfe.png?v=1784122586",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/parnika-gold-plated-polki-necklace-set?variant=gid://shopify/ProductVariant/50282011918529",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50282037313729": {
     "product_title": "ANVI GOLD PLATED POLKI NECKLACE SET",
