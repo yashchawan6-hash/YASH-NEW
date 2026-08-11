@@ -59611,9 +59611,10 @@
     "price": 69600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0004_1_resized.jpg?v=1775224923",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/elovique-cz-necklace-copy?variant=gid://shopify/ProductVariant/52870897762601",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52870869811497": {
     "product_title": "Aadhira Stone Danglers",
