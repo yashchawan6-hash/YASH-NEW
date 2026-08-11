@@ -45422,9 +45422,9 @@
     "price": 1260.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0035copy_resized_07a56495-4b14-41b8-9ec9-07142f91e03a.jpg?v=1769495803",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pearl-butterflies-ring?variant=gid://shopify/ProductVariant/52511333613865",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52511371657513": {
@@ -65898,9 +65898,9 @@
     "price": 4600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0718_resized.jpg?v=1780925424",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/flora-pink-oxidized-payal?variant=gid://shopify/ProductVariant/53149276733737",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53149330932009": {
@@ -66652,9 +66652,10 @@
     "price": 7000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11600_resized.jpg?v=1780836706",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/boho-mayuri-oxidized-kada?variant=gid://shopify/ProductVariant/53158455640361",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53158514295081": {
     "product_title": "Morika Oxidised Kada",
@@ -70155,7 +70156,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13294_resized.jpg?v=1782279330",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/regal-rectangle-bracelet?variant=gid://shopify/ProductVariant/53285930828073",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53285938102569": {
     "product_title": "Lucky Bloom Bracelet",
@@ -70372,9 +70374,9 @@
     "price": 3800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13387_resized.jpg?v=1782287060",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/teddy-bear-chain-pendant-1?variant=gid://shopify/ProductVariant/53286040535337",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53286047318313": {
@@ -70700,8 +70702,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5734_resized_74b363fc-bf97-4f90-a6fb-0f7e7c1d2918.jpg?v=1782301238",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/tiny-shine-ring?variant=gid://shopify/ProductVariant/53286206964009",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53286206996777": {
     "product_title": "Couple Ring",
@@ -70730,7 +70732,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5695_resized.jpg?v=1782302127",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ivory-pear-cz-ring?variant=gid://shopify/ProductVariant/53286227444009",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53286235636009": {
     "product_title": "Elegant Frame Ring",
@@ -70831,7 +70834,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5701_resized.jpg?v=1782366536",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/prism-hex-ring?variant=gid://shopify/ProductVariant/53288171798825",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53288175075625": {
     "product_title": "Leaf Grace Ring",
@@ -76890,9 +76894,10 @@
     "price": 7000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0358.jpg?v=1786366884",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/yellow-shapes-antique-kanti?variant=gid://shopify/ProductVariant/53365601894697",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53365601927465": {
     "product_title": "Yellow-Shapes Kanti",
