@@ -260,8 +260,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-2.jpg?v=1739812490",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661205673",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411661566121": {
     "product_title": "Flower Pearl Drop Diamond Stud",
@@ -600,9 +600,10 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-bangle-set-attrangi-2.jpg?v=1739812553",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/classic-bangle-set?variant=gid://shopify/ProductVariant/44351478399188",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411669463209": {
     "product_title": "Classic Bangle Set",
@@ -1168,10 +1169,10 @@
     "price": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-2.jpg?v=1739812669",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/42145342324948",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411687780521": {
     "product_title": "Foolwa Jadaau Ring",
@@ -6897,7 +6898,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-08-08_at_3.54.04_PM.jpg?v=1774107553",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/30-cent-solitaire-tennis-bracelet?variant=gid://shopify/ProductVariant/45517636337876",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43599875342548": {
@@ -41235,9 +41236,10 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01110.jpg?v=1775717257",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sigma-coloured-stone-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47776179486932",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47776187252948": {
     "product_title": "Raining Christmas Diamond Tennis Bracelet",
@@ -43706,7 +43708,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-06_at_2.01.47_PM.jpg?v=1783328776",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/oval-pastel-rainbow-gemstone-tennis-bracelet?variant=gid://shopify/ProductVariant/48176850239700",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48183700193492": {
     "product_title": "Marquise & Round Bangle Set (ROSE GOLD)",

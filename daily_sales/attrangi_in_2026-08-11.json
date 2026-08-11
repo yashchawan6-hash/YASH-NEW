@@ -2602,5 +2602,61 @@
     "curr_stock": 1,
     "url": "https://www.attrangi.in/products/single-line-ruby-emerald-mala?variant=gid://shopify/ProductVariant/43078071156948",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/single-line-ruby-and-emerald-mala-attrangi-1.jpg?v=1739814058"
+  },
+  {
+    "timestamp_ist": "2026-08-11 20:36:38",
+    "product_title": "Double Solitaire Earrings",
+    "variant_title": "Silver / Diamond",
+    "variant_id": "gid://shopify/ProductVariant/40411661205673",
+    "sku": "SS01149S",
+    "price": 1650.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661205673",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-2.jpg?v=1739812490"
+  },
+  {
+    "timestamp_ist": "2026-08-11 20:36:38",
+    "product_title": "Classic Bangle Set",
+    "variant_title": "Silver / Pair / 2.0",
+    "variant_id": "gid://shopify/ProductVariant/44351478399188",
+    "sku": "SS9000S2.0",
+    "price": 2950.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.attrangi.in/products/classic-bangle-set?variant=gid://shopify/ProductVariant/44351478399188",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-bangle-set-attrangi-2.jpg?v=1739812553"
+  },
+  {
+    "timestamp_ist": "2026-08-11 20:36:38",
+    "product_title": "1 Carat Cushion Cut Bali",
+    "variant_title": "Gold",
+    "variant_id": "gid://shopify/ProductVariant/42145342324948",
+    "sku": "CUSBALI1G",
+    "price": 1750.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/42145342324948",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-2.jpg?v=1739812669"
+  },
+  {
+    "timestamp_ist": "2026-08-11 20:36:38",
+    "product_title": "Sigma Coloured Stone Diamond Tennis Bracelet",
+    "variant_title": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/47776179486932",
+    "sku": "WG8210PI-BG",
+    "price": 2650.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.attrangi.in/products/sigma-coloured-stone-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47776179486932",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01110.jpg?v=1775717257"
   }
 ]
