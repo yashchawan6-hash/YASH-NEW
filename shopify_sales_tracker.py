@@ -35,7 +35,7 @@ def harvest_storefront_token(domain):
 
     try:
         url = f"https://www.{domain}"
-        r = requests.get(url, headers=headers, timeout=15)
+        r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             html = r.text
             tokens = re.findall(r'"storefrontAccessToken":"([a-f0-9]{32})"', html)
@@ -49,7 +49,7 @@ def harvest_storefront_token(domain):
             prod_url_match = re.search(r'href=["\'](/products/[^"\'?]+)["\']', html)
             if prod_url_match:
                 prod_url = f"https://www.{domain}{prod_url_match.group(1)}"
-                r_prod = requests.get(prod_url, headers=headers, timeout=15)
+                r_prod = requests.get(prod_url, headers=headers, timeout=10)
                 if r_prod.status_code == 200:
                     html_prod = r_prod.text
                     tokens = re.findall(r'"storefrontAccessToken":"([a-f0-9]{32})"', html_prod)
@@ -64,12 +64,12 @@ def harvest_storefront_token(domain):
 
     return None
 
-def post_graphql_query(url, headers, payload, max_retries=3):
+def post_graphql_query(url, headers, payload, max_retries=2):
     for attempt in range(1, max_retries + 1):
         try:
-            r = requests.post(url, headers=headers, json=payload, timeout=20)
+            r = requests.post(url, headers=headers, json=payload, timeout=10)
             if r.status_code == 429:
-                time.sleep(1.0)
+                time.sleep(0.5)
                 continue
 
             if r.status_code == 200:
@@ -84,14 +84,14 @@ def post_graphql_query(url, headers, payload, max_retries=3):
                         break
 
                 if throttled:
-                    time.sleep(1.0)
+                    time.sleep(0.5)
                     continue
 
                 return data
             else:
-                time.sleep(1.0)
+                time.sleep(0.5)
         except Exception:
-            time.sleep(1.0)
+            time.sleep(0.5)
     return None
 
 def fetch_catalog(domain, token):
@@ -102,9 +102,10 @@ def fetch_catalog(domain, token):
         'Content-Type': 'application/json'
     }
 
+    # Safe GraphQL Complexity Query (50 products x 100 variants = 5000 nodes max)
     query = """
     query getAllProducts($cursor: String) {
-      products(first: 250, after: $cursor) {
+      products(first: 50, after: $cursor) {
         pageInfo {
           hasNextPage
           endCursor
@@ -116,7 +117,7 @@ def fetch_catalog(domain, token):
             featuredImage {
               url
             }
-            variants(first: 250) {
+            variants(first: 100) {
               edges {
                 node {
                   id
@@ -144,14 +145,9 @@ def fetch_catalog(domain, token):
     has_next = True
     page_num = 1
 
-    while has_next:
+    while has_next and page_num <= 100:
         payload = {'query': query, 'variables': {"cursor": cursor}}
-        data = None
-        for attempt in range(1, 3):
-            data = post_graphql_query(url, headers, payload)
-            if data:
-                break
-            time.sleep(1.0)
+        data = post_graphql_query(url, headers, payload)
 
         if not data:
             print(f"[{domain}] Page {page_num}: No GraphQL response, stopping catalog fetch.", flush=True)
@@ -233,7 +229,7 @@ def process_batch(domain, token, url, headers, mutation, batch):
     return batch_results
 
 def check_stock_in_batches(domain, token, variants_to_check):
-    print(f"[{domain}] Calculating stock via Cart API for {len(variants_to_check)} active/in-stock variants in high-speed parallel...", flush=True)
+    print(f"[{domain}] Calculating stock via Cart API for {len(variants_to_check)} variants in parallel...", flush=True)
     url = f"https://www.{domain}/api/2023-07/graphql.json"
     headers = {
         'X-Shopify-Storefront-Access-Token': token,
@@ -245,7 +241,7 @@ def check_stock_in_batches(domain, token, variants_to_check):
       cartCreate(input: $input) {
         cart {
           id
-          lines(first: 250) {
+          lines(first: 100) {
             edges {
               node {
                 quantity
@@ -263,12 +259,11 @@ def check_stock_in_batches(domain, token, variants_to_check):
     """
 
     results = {}
-    batch_size = 100
+    batch_size = 50
     total_variants = len(variants_to_check)
     batches = [variants_to_check[i:i+batch_size] for i in range(0, total_variants, batch_size)]
 
-    # High-speed internal threadpool for parallel Cart API requests
-    with ThreadPoolExecutor(max_workers=25) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         futures = [
             executor.submit(process_batch, domain, token, url, headers, mutation, b)
             for b in batches
@@ -365,7 +360,7 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
     if image_url:
         payload['photo'] = image_url
         try:
-            r = requests.post(api_url, json=payload, timeout=10)
+            r = requests.post(api_url, json=payload, timeout=8)
             if r.status_code == 200:
                 return
         except Exception:
@@ -379,7 +374,7 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
         'disable_web_page_preview': False
     }
     try:
-        requests.post(text_api_url, json=text_payload, timeout=10)
+        requests.post(text_api_url, json=text_payload, timeout=8)
     except Exception as e:
         print(f"[{domain}] Telegram notification failed: {e}", flush=True)
 
@@ -420,9 +415,6 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
         print(f"[{domain}] No active variants found.", flush=True)
         return
 
-    # High-Performance Active Variant Filter:
-    # Query Cart API for variants that are availableForSale OR had stock > 0 in previous_state
-    # If an out-of-stock variant is restocked on Shopify, availableForSale becomes True in catalog, catching restocks instantly!
     variants_to_check = []
     known_v_ids = set()
 
@@ -537,7 +529,7 @@ def main():
     stores = [s for s in config_data.get('stores', []) if s.get('enabled', True)]
     print(f"Starting sales tracker run for {len(stores)} enabled stores at {get_ist_now().strftime('%Y-%m-%d %H:%M:%S IST')}...", flush=True)
 
-    max_workers = 14
+    max_workers = 8
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [
             executor.submit(process_store, store, global_bot_token, state_dir, daily_dir)
