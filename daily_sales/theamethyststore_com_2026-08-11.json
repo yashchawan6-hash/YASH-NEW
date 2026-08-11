@@ -390,5 +390,33 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/anita-stone-drops?variant=gid://shopify/ProductVariant/43660155158755",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4026.jpg?v=1673962181"
+  },
+  {
+    "timestamp_ist": "2026-08-11 18:47:16",
+    "product_title": "Jivitha Kundan Pair Bangle",
+    "variant_title": "2.4\"",
+    "variant_id": "gid://shopify/ProductVariant/45514112631011",
+    "sku": "AMS-107-1398-2.4\"",
+    "price": 23770.8,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.theamethyststore.com/products/jivitha-kundan-pair-bangle?variant=gid://shopify/ProductVariant/45514112631011",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1398.jpg?v=1726312260"
+  },
+  {
+    "timestamp_ist": "2026-08-11 18:47:16",
+    "product_title": "Nitra Kundan Pair Bangle",
+    "variant_title": "2.4\"",
+    "variant_id": "gid://shopify/ProductVariant/46159133245667",
+    "sku": "AMS-107-1558-2.4\"",
+    "price": 23770.8,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.theamethyststore.com/products/nitra-kundan-pair-bangle?variant=gid://shopify/ProductVariant/46159133245667",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1558-_2.jpg?v=1733484363"
   }
 ]

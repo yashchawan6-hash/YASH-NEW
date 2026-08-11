@@ -6910,9 +6910,10 @@
     "price": 6850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/janani-polki-choker-set-with-oversized-studs-attrangi-1.jpg?v=1739814441",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/janani-polki-choker-set-with-oversized-studs?variant=gid://shopify/ProductVariant/43599875342548",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43744933314772": {
     "product_title": "Coloured Baguette Clustered Cocktail Ring",
@@ -15628,7 +15629,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-10-06at12.45.20AM_1.jpg?v=1750782837",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/heer-kannauti-indian-polki-earrings?variant=gid://shopify/ProductVariant/45698326757588",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45698502099156": {
