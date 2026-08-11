@@ -10587,7 +10587,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kachua-tortise-good-luck-ginni-box-or-gift-box-attrangi-1.jpg?v=1739815630",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kachua-tortise-good-luck-ginni-box-gift-box?variant=gid://shopify/ProductVariant/44390424903892",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/44390428049620": {
     "product_title": "Tulsi House Opening Ginni Box | Gift Box",
@@ -33430,7 +33431,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-18at11.29.28AM.jpg?v=1766044587",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/padma-multicolour-oversized-dramatic-earcuffs-gemz?variant=gid://shopify/ProductVariant/47368866037972",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47368906244308": {
     "product_title": "Bijooriya Sabhya Big Designer Multicolour Set | GemZ",
@@ -34789,9 +34791,10 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-11at10.20.00AM.jpg?v=1768110889",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/barse-phool-big-polki-indian-earcuff-jhumka?variant=gid://shopify/ProductVariant/47437896122580",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47440906158292": {
     "product_title": "Floral Whirl Pastel Beaded Diamond Long Earrings | LaLa Land 2.0",
@@ -36416,9 +36419,10 @@
     "price": 8250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-06-06_at_6.53.06_PM_646b4883-d138-4794-b93e-32c64ee1308a.jpg?v=1780905163",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/aparna-moissanite-uncut-diamond-indian-earcuff-earring?variant=gid://shopify/ProductVariant/48059604074708",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47687209156820": {
     "product_title": "Totas Treasure Emerald Diamond Brooch | Unisex",
