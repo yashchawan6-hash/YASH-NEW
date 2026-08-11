@@ -27192,8 +27192,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-10at3.20.15PM.jpg?v=1757571419",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chaand-aur-taare-saare-polki-necklace-choker-set?variant=gid://shopify/ProductVariant/46895697821908",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46895697854676": {
     "product_title": "Chaand Aur Taare Saare Polki Necklace | Choker Set",
@@ -37148,9 +37148,9 @@
     "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-04-02_at_2.17.42_PM_1_56d86273-d3fd-417b-aac7-d84729f473aa.jpg?v=1786450526",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/dennis-diamond-pearl-pendant-set-with-chain?variant=gid://shopify/ProductVariant/48453578424532",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47642161447124": {
     "product_title": "Tira Tiny Diamond Clusters Tennis Bracelet",
@@ -48873,6 +48873,20 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/baguette-diana-band-cocktail-diamond-ring-pink?variant=gid://shopify/ProductVariant/48448171802836",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/48453626593492": {
+    "product_title": "Ruby Grace Diamond Daily Wear Bracelet | Unisex| Rakhi",
+    "product_handle": "ruby-grace-diamond-daily-wear-bracelet-unisex-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48453626593492",
+    "global_id": "gid://shopify/ProductVariant/48453626593492",
+    "variant_title": "Default Title",
+    "sku": "DH8272-PI",
+    "price": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-11at5.08.54PM.jpg?v=1786450809",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ruby-grace-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48453626593492",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47426212528340": {
     "product_title": "Lykaa Moissanite Half Gokhru Polki Kada",
