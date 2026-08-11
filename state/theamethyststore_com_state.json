@@ -22986,9 +22986,10 @@
     "price": 87450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7171-_2_9ecf016c-1ea0-4578-b098-6903f141cea5.jpg?v=1735565670",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kimaya-choker-necklace?variant=gid://shopify/ProductVariant/45509384241379",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45513994043619": {
     "product_title": "Saaji Long Necklace",
@@ -50285,9 +50286,10 @@
     "price": 75338.1,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10939.jpg?v=1753517730",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/rani-nagas-short-necklace?variant=gid://shopify/ProductVariant/46943017009379",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46943020908771": {
     "product_title": "Sparkling Bracelet",
@@ -50453,9 +50455,10 @@
     "price": 153935.1,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10958.jpg?v=1753530886",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/avantika-nagas-long-necklace?variant=gid://shopify/ProductVariant/46943384469731",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46943385387235": {
     "product_title": "Bridal Look Necklace Set",
