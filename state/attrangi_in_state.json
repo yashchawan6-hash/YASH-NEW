@@ -1442,9 +1442,9 @@
     "price": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/aarushi-mid-sized-chandbali-attrangi-1.jpg?v=1739812852",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/aarushi-mid-sized-chandbali?variant=gid://shopify/ProductVariant/40411693908137",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/47104469434580": {
     "product_title": "Aarushi Mid-Sized Chandbali",
@@ -31569,7 +31569,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-10-24at5.25.10PM.jpg?v=1761310662",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/glora-thick-diamond-tennis-bracelet-pressure-setting?variant=gid://shopify/ProductVariant/47157954347220",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47310237499604": {
