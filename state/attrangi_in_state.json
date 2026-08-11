@@ -34792,9 +34792,9 @@
     "price": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-11at10.20.00AM.jpg?v=1768110889",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/barse-phool-big-polki-indian-earcuff-jhumka?variant=gid://shopify/ProductVariant/47437896122580",
-    "stock": 0,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47440906158292": {
