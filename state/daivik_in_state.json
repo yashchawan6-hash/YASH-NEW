@@ -32731,10 +32731,10 @@
     "price": 599.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3227D9E3-A3F4-463A-AF86-3E59E3A480DF.jpg?v=1756278736",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-flower-layer-jhumkas?variant=gid://shopify/ProductVariant/47471681732830",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47471681765598": {
     "product_title": "AD Flower Layer Jhumkas",
