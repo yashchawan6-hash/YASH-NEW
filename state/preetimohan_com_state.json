@@ -3456,7 +3456,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/3_ffa721bf-267e-4f52-8c4e-e46665ae04bd.jpg?v=1756142304",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/sadhika-red-green-kundan-tika?variant=gid://shopify/ProductVariant/47341750386881",
-    "stock": 1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/47341750747329": {
     "product_title": "Aprajita Polki Tika",
@@ -5218,9 +5218,10 @@
     "price": 12000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Capture0414-769.jpg?v=1756191758",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/menka-red-green-polki-necklace-set?variant=gid://shopify/ProductVariant/47809341063361",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47809394966721": {
     "product_title": "DIVYA GREEN POLKI NECKLACE SET",
@@ -10163,9 +10164,10 @@
     "price": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/NGP0814.jpg?v=1756141369",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/meenakshi-gold-plated-kundan-chandbali?variant=gid://shopify/ProductVariant/48884641562817",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48884657488065": {
     "product_title": "MAYA WHITE & PINK KUNDAN JHUMKA",
