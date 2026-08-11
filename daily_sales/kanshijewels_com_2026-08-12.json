@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp_ist": "2026-08-12 00:06:24",
+    "product_title": "Bugadi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50724521705772",
+    "sku": "ER176",
+    "price": 661.5,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/bugadi-4?variant=gid://shopify/ProductVariant/50724521705772",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Bugadi630_-_1.jpg?v=1741684933"
+  },
+  {
+    "timestamp_ist": "2026-08-12 00:06:24",
+    "product_title": "Elegant Polki fusion set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53368925651244",
+    "sku": "NK912",
+    "price": 2450.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.kanshijewels.com/products/elegant-polki-fusion-set?variant=gid://shopify/ProductVariant/53368925651244",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/ElegantPolkifusionset1999.jpg?v=1782216193"
+  }
+]
