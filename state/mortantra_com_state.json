@@ -7049,9 +7049,9 @@
     "price": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB180YP-1.jpg?v=1731668675",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mb180yp-pink-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/44699293581535",
-    "stock": 0
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/44699293614303": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Bangle Pair with Kundan Stone Setting - MB180YP",
@@ -7063,9 +7063,9 @@
     "price": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB180YP-1.jpg?v=1731668675",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mb180yp-pink-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/44699293614303",
-    "stock": 0
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/44699293647071": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Bangle Pair with Kundan Stone Setting - MB180YP",
@@ -7079,7 +7079,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB180YP-1.jpg?v=1731668675",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mb180yp-pink-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/44699293647071",
-    "stock": 2
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/44699312455903": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Bangle Pair with Floral Kundan Setting - MB181P",
