@@ -874,9 +874,10 @@
     "price": 50.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A6209_copy_copy_eabfd1d7-1f70-46bd-bc95-8ad6298d6dc7.jpg?v=1641063081",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/13874843910210",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/13845719711810": {
     "product_title": "Sira Antique Bangles",
@@ -18585,8 +18586,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0006XMY_d212dd36-0265-4161-bfca-4b94f8def0b1.jpg?v=1752149620",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-flower-pattern-with-kempu-rakhi?variant=gid://shopify/ProductVariant/42292686454850",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/42292719550530": {
     "product_title": "Radiant CZ Rakhi",

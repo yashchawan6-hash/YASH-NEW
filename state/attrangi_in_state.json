@@ -8923,10 +8923,10 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sushmi-antique-gold-moissanite-polki-bangles-attrangi-1.jpg?v=1739815153",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sushmi-antique-gold-moissanite-polki-bangle-set?variant=gid://shopify/ProductVariant/43947928453332",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43947928486100": {
     "product_title": "Sushmi Antique Gold Moissanite Polki Bangles",
