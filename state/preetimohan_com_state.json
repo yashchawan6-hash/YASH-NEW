@@ -14731,9 +14731,9 @@
     "price": 16000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/4_c994fc5f-ed42-4d65-9825-14e3a9a7d8f2_1.png?v=1756191475",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/aashima-red-kundan-choker?variant=gid://shopify/ProductVariant/49277549674689",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49277572448449": {
     "product_title": "ANAMIKA GREEN POLKI CHOKER",
