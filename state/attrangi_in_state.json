@@ -3128,7 +3128,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/attrangi-box-with-roli-chawal-attrangi-31818029564116.jpg?v=1694856188",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/attrangi-box-with-roli-chawal?variant=gid://shopify/ProductVariant/40880201236649",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40888155865257": {
@@ -36114,9 +36114,9 @@
     "price": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-13at3.57.55PM.jpg?v=1770985683",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jingle-diamond-dual-coloured-stone-bracelet?variant=gid://shopify/ProductVariant/47551385600212",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47551385632980": {
     "product_title": "Jingle Diamond Dual Coloured Stone Bracelet",
@@ -36329,8 +36329,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-02-21at1.22.18PM.jpg?v=1771684358",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rungta-elephant-diamond-emerald-drop-brooch-unisex?variant=gid://shopify/ProductVariant/47579035336916",
-    "stock": 17,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47579050442964": {
     "product_title": "Aparna Moissanite Uncut Diamond Indian Earcuff Earring",
@@ -47398,8 +47398,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714404564",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48379714437332": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
@@ -47541,10 +47541,10 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714732244",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48379714797780": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
