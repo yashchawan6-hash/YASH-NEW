@@ -18668,10 +18668,10 @@
     "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0011XGY_e679f9ac-a220-4d75-b0b4-c3a69c8092f5.jpg?v=1752149676",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/shrishti-beaded-antique-rakhi?variant=gid://shopify/ProductVariant/42292963475522",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42294308110402": {
     "product_title": "Mayura Heritage Antique Rakhi",
