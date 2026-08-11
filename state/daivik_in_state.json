@@ -27454,7 +27454,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3679.heic?v=1742104840",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-stone-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401150222558",
-    "stock": 44
+    "stock": 43,
+    "last_alerted_stock": 43
   },
   "gid://shopify/ProductVariant/46401150255326": {
     "product_title": "AD Stone Bangles (Price for a Pair)",
@@ -48540,6 +48541,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48590319288542": {
+    "product_title": "Floral Antique Ruby Green Jada Billai / Choti / Hair Accessory",
+    "product_handle": "floral-antique-ruby-green-jada-billai-choti-hair-accessory",
+    "variant_id": "gid://shopify/ProductVariant/48590319288542",
+    "global_id": "gid://shopify/ProductVariant/48590319288542",
+    "variant_title": "Default Title",
+    "sku": "1945",
+    "price": 799.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20D0FCB0-044B-469C-8ED1-6C62871BAF11.jpg?v=1786448879",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/floral-antique-ruby-green-jada-billai-choti-hair-accessory?variant=gid://shopify/ProductVariant/48590319288542",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47736604426462": {
