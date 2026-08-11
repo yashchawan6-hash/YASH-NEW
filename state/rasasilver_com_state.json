@@ -10600,9 +10600,10 @@
     "price": 1700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2623.jpg?v=1756544181",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/vankira-ring?variant=gid://shopify/ProductVariant/50809221775657",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50809224954153": {
     "product_title": "Rajamukuta Ratna Short Necklace",
@@ -18102,9 +18103,9 @@
     "price": 2040.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS415.jpg?v=1760351278",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/chain-pendant-5?variant=gid://shopify/ProductVariant/51317458600233",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51317473345833": {
@@ -42892,7 +42893,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0905_resized.jpg?v=1768971520",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/the-arc-chain?variant=gid://shopify/ProductVariant/52450533376297",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52450565226793": {
@@ -46040,9 +46041,9 @@
     "price": 1955.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0140copy_resized_aa8beda6-b6b2-4e69-84fb-94e81dc6ddc0.jpg?v=1769608938",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/loin-chain-pendant?variant=gid://shopify/ProductVariant/52520495841577",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52520512061737": {
@@ -65366,7 +65367,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0250_resized.jpg?v=1781160232",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/amara-shine-necklace-set?variant=gid://shopify/ProductVariant/53138163368233",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53138232312105": {
@@ -69477,9 +69478,10 @@
     "price": 2890.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1798_resized.jpg?v=1782135713",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pear-line-cz-danglers?variant=gid://shopify/ProductVariant/53283014672681",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53283020046633": {
     "product_title": "Oval-Floral CZ Danglers",
@@ -70262,9 +70264,9 @@
     "price": 1870.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13380_resized.jpg?v=1782282565",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pearl-glow-chain-pendant?variant=gid://shopify/ProductVariant/53285986992425",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53286003736873": {
@@ -71303,7 +71305,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5812_resized.jpg?v=1782387680",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/leaf-grace-toe-ring?variant=gid://shopify/ProductVariant/53289147859241",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53289149301033": {
@@ -71332,7 +71334,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5814_resized.jpg?v=1782388823",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vivid-band-toe-ring?variant=gid://shopify/ProductVariant/53289183543593",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53289183936809": {
@@ -75228,7 +75230,7 @@
     "global_id": "gid://shopify/ProductVariant/53336891064617",
     "variant_title": "Default Title",
     "sku": "R32106",
-    "price": 36300.0,
+    "price": 40300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42299_resized.jpg?v=1784187314",
     "available_for_sale": true,
@@ -75242,7 +75244,7 @@
     "global_id": "gid://shopify/ProductVariant/53336898371881",
     "variant_title": "Default Title",
     "sku": "R32107",
-    "price": 23300.0,
+    "price": 25900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42303_resized.jpg?v=1784187395",
     "available_for_sale": true,
@@ -75271,7 +75273,7 @@
     "global_id": "gid://shopify/ProductVariant/53336939430185",
     "variant_title": "GREEN",
     "sku": "R32196",
-    "price": 23000.0,
+    "price": 25600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0828_resized.jpg?v=1784187710",
     "available_for_sale": true,
@@ -75285,7 +75287,7 @@
     "global_id": "gid://shopify/ProductVariant/53336939462953",
     "variant_title": "Ruby Pink",
     "sku": "R32215",
-    "price": 23000.0,
+    "price": 25600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0834_resized.jpg?v=1784187782",
     "available_for_sale": true,
@@ -75538,7 +75540,7 @@
     "global_id": "gid://shopify/ProductVariant/53346739126569",
     "variant_title": "Default Title",
     "sku": "R30881",
-    "price": 42000.0,
+    "price": 46600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July26191_resized.jpg?v=1785241245",
     "available_for_sale": true,
@@ -75552,7 +75554,7 @@
     "global_id": "gid://shopify/ProductVariant/53346750398761",
     "variant_title": "Default Title",
     "sku": "R30884",
-    "price": 44200.0,
+    "price": 49100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2641_resized.jpg?v=1785241528",
     "available_for_sale": true,
@@ -75833,7 +75835,7 @@
     "global_id": "gid://shopify/ProductVariant/53349200396585",
     "variant_title": "Default Title",
     "sku": "R33288",
-    "price": 82400.0,
+    "price": 91500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0303_resized.jpg?v=1785933718",
     "available_for_sale": true,
@@ -75889,7 +75891,7 @@
     "global_id": "gid://shopify/ProductVariant/53349329469737",
     "variant_title": "Mint Green",
     "sku": "R30871",
-    "price": 8300.0,
+    "price": 9200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0122_resized.jpg?v=1785930902",
     "available_for_sale": true,
@@ -75903,7 +75905,7 @@
     "global_id": "gid://shopify/ProductVariant/53349329502505",
     "variant_title": "Pink",
     "sku": "R30876",
-    "price": 9300.0,
+    "price": 10300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0111_resized.jpg?v=1785930902",
     "available_for_sale": true,
@@ -77055,7 +77057,7 @@
     "global_id": "gid://shopify/ProductVariant/53365618180393",
     "variant_title": "Default Title",
     "sku": "R30845",
-    "price": 22800.0,
+    "price": 25300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2607_resized.jpg?v=1785239594",
     "available_for_sale": true,
@@ -77069,7 +77071,7 @@
     "global_id": "gid://shopify/ProductVariant/53365619491113",
     "variant_title": "Default Title",
     "sku": "R32819",
-    "price": 44100.0,
+    "price": 49000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2579Fa_resized.jpg?v=1785243789",
     "available_for_sale": true,
