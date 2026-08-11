@@ -7394,9 +7394,10 @@
     "price": 34700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3881.jpg?v=1673246364",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/mothika-red-stone-necklace?variant=gid://shopify/ProductVariant/43642226639075",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43642244399331": {
     "product_title": "Jogi Short Necklace",
