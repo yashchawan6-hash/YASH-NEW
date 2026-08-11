@@ -22270,10 +22270,10 @@
     "price": 29.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ATX2631XDC_4f51ea32-417b-4802-99fb-9f77582d059c.jpg?v=1757570776",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/amaya-green-antique-maang-tikka?variant=gid://shopify/ProductVariant/42419503824962",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42419503857730": {
     "product_title": "Anusuya Kempu Antique Maang Tikka",
