@@ -3788,10 +3788,10 @@
     "price": 46.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/SRP-7_806f2abe-112f-4c00-b333-d82e52bc3a3e.jpg?v=1684240981",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/akshi-antique-choker-set?variant=gid://shopify/ProductVariant/32453532418114",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483316199490": {
     "product_title": "Akshi Antique Choker Set",
@@ -11889,7 +11889,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A5031copycopy-Copy.jpg?v=1750747673",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/esther-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40223457968194",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40791483809858": {
     "product_title": "Esther Nakshatra CZ Jhumka Earrings",

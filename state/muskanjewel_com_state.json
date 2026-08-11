@@ -2134,7 +2134,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_183916_8feb0550-6efa-47c4-8cce-3e7391899c90.webp?v=1775743140",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-jhumkas-with-pearl-and-natural-strawberry-beads-3?variant=gid://shopify/ProductVariant/52969031270716",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52969053520188": {
     "product_title": "Jadau kundan fish shape full earcuff jhumkas with pearl and natural strawberry beads",
@@ -3574,10 +3575,10 @@
     "price": 1500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/51.webp?v=1785328831",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-lotus-earrings-drop-with-pearls?variant=gid://shopify/ProductVariant/53823489671484",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53824509608252": {
     "product_title": "Jadau Kundan Peacock Jhumkas with Pearls and Natural Strawberry Beads",
