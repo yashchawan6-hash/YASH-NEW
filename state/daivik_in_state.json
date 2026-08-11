@@ -44898,9 +44898,10 @@
     "price": 899.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5006.jpg?v=1776009128",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/triple-foam-handmade-artificial-lotus-kunjalam-hair-extension?variant=gid://shopify/ProductVariant/48082740019422",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48086454436062": {
     "product_title": "Manga Pure kemp Bangles",

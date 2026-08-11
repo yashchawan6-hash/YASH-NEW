@@ -37138,6 +37138,20 @@
     "url": "https://www.attrangi.in/products/dennis-diamond-pearl-pendant-set-with-chain?variant=gid://shopify/ProductVariant/47756054397140",
     "stock": 3
   },
+  "gid://shopify/ProductVariant/48453578424532": {
+    "product_title": "Dennis Diamond Pearl Pendant Set with Chain",
+    "product_handle": "dennis-diamond-pearl-pendant-set-with-chain",
+    "variant_id": "gid://shopify/ProductVariant/48453578424532",
+    "global_id": "gid://shopify/ProductVariant/48453578424532",
+    "variant_title": "Gold",
+    "sku": "NP33989G-PS",
+    "price": 3450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-04-02_at_2.17.42_PM_1_56d86273-d3fd-417b-aac7-d84729f473aa.jpg?v=1786450526",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/dennis-diamond-pearl-pendant-set-with-chain?variant=gid://shopify/ProductVariant/48453578424532",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/47642161447124": {
     "product_title": "Tira Tiny Diamond Clusters Tennis Bracelet",
     "product_handle": "tira-tiny-diamond-clusters-tennis-bracelet",
@@ -38763,7 +38777,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at6.43.38PM.jpg?v=1774378506",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-multigemstone-thick-3-line-band-ring?variant=gid://shopify/ProductVariant/48057288786132",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48057288818900": {
     "product_title": "Rainbow MultiGemstone Thick 3 Line Band Ring",
