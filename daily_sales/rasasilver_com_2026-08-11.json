@@ -1034,5 +1034,61 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/vzx?variant=gid://shopify/ProductVariant/50324161200425",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP823.jpg?v=1758608335"
+  },
+  {
+    "timestamp_ist": "2026-08-11 15:41:57",
+    "product_title": "Moissanika Choker",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/51239390118185",
+    "sku": "R4982",
+    "price": 39900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/choker-16?variant=gid://shopify/ProductVariant/51239390118185",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS74.jpg?v=1759747975"
+  },
+  {
+    "timestamp_ist": "2026-08-11 15:41:57",
+    "product_title": "Moti Chandrika Chandbali",
+    "variant_title": "Ruby Pink",
+    "variant_id": "gid://shopify/ProductVariant/52769605058857",
+    "sku": "R2681",
+    "price": 13400.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/moti-chandrika-chandbali?variant=gid://shopify/ProductVariant/52769605058857",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_5_Nov1261.jpg?v=1762589496"
+  },
+  {
+    "timestamp_ist": "2026-08-11 15:41:57",
+    "product_title": "Shubhra Stone Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52827910701353",
+    "sku": "R25892",
+    "price": 15300.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/shubhra-stone-short-necklace?variant=gid://shopify/ProductVariant/52827910701353",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0302_resized.jpg?v=1774520689"
+  },
+  {
+    "timestamp_ist": "2026-08-11 15:41:57",
+    "product_title": "Swarnika Antique Bangles",
+    "variant_title": "2.4",
+    "variant_id": "gid://shopify/ProductVariant/52915513458985",
+    "sku": "R26360",
+    "price": 30450.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/swarnika-jadau-bangles?variant=gid://shopify/ProductVariant/52915513458985",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_272Pics_19Mar37268_resized.jpg?v=1775114774"
   }
 ]
