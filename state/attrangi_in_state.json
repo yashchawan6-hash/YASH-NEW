@@ -42569,7 +42569,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-24at5.57.57PM_3.jpg?v=1778321527",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mini-jayati-moissanite-gajra-indian-polki-bracelet?variant=gid://shopify/ProductVariant/47909233492180",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47909233524948": {
     "product_title": "Mini Jayati Moissanite Gajra | Indian Polki Bracelet",
@@ -42581,9 +42582,10 @@
     "price": 8250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-24at5.57.57PM_3.jpg?v=1778321527",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/mini-jayati-moissanite-gajra-indian-polki-bracelet?variant=gid://shopify/ProductVariant/47909233524948",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48427811668180": {
     "product_title": "Sakuntala Long Gold Haar Set | Sone Pe Suhaga",
