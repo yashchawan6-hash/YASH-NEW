@@ -228,7 +228,7 @@ def process_batch(domain, token, url, headers, mutation, batch):
     return batch_results
 
 def check_stock_in_batches(domain, token, variants_to_check):
-    print(f"[{domain}] Calculating stock via Cart API for {len(variants_to_check)} variants in parallel...", flush=True)
+    print(f"[{domain}] Calculating stock via Cart API for {len(variants_to_check)} active variants in parallel...", flush=True)
     url = f"https://www.{domain}/api/2023-07/graphql.json"
     headers = {
         'X-Shopify-Storefront-Access-Token': token,
@@ -360,11 +360,11 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
         payload['photo'] = image_url
         for attempt in range(2):
             try:
-                r = requests.post(api_url, json=payload, timeout=15)
+                r = requests.post(api_url, json=payload, timeout=12)
                 if r.status_code == 200:
                     return
             except Exception:
-                time.sleep(1)
+                time.sleep(0.5)
 
     text_api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     text_payload = {
@@ -375,11 +375,11 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
     }
     for attempt in range(2):
         try:
-            r = requests.post(text_api_url, json=text_payload, timeout=15)
+            r = requests.post(text_api_url, json=text_payload, timeout=12)
             if r.status_code == 200:
                 return
         except Exception:
-            time.sleep(1)
+            time.sleep(0.5)
 
 def send_telegram_summary_alert(bot_token, chat_id, sales_detected, domain):
     total_items_sold = sum(s['qty_sold'] for s in sales_detected)
@@ -416,7 +416,7 @@ def send_telegram_summary_alert(bot_token, chat_id, sales_detected, domain):
         'disable_web_page_preview': True
     }
     try:
-        requests.post(text_api_url, json=text_payload, timeout=15)
+        requests.post(text_api_url, json=text_payload, timeout=12)
     except Exception as e:
         print(f"[{domain}] Telegram summary alert failed: {e}", flush=True)
 
@@ -424,7 +424,7 @@ def dispatch_sales_alerts(store_bot_token, chat_id, sales_detected, domain):
     if not sales_detected:
         return
 
-    # If sales spike > 10, send clean summary report to avoid Telegram API rate limits & timeouts
+    # If sales spike > 10, send clean summary report to avoid Telegram API rate limits
     if len(sales_detected) > 10:
         print(f"[{domain}] Sales spike detected ({len(sales_detected)} sales). Sending clean summary report...", flush=True)
         send_telegram_summary_alert(store_bot_token, chat_id, sales_detected, domain)
@@ -547,24 +547,6 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
     except Exception as e:
         print(f"[{domain}] Error saving state file: {e}", flush=True)
 
-def trigger_next_loop():
-    if os.environ.get('GITHUB_ACTIONS') == 'true':
-        print("[Auto-Loop] Dispatching next 5-minute sales tracker cycle...", flush=True)
-        p1 = 'ghp_n5dk1DhoS4Hwrsh'
-        p2 = 'HuKMbKMrWJWE24I2kGvh6'
-        github_token = os.environ.get('GITHUB_TOKEN') or (p1 + p2)
-        repo = os.environ.get('GITHUB_REPOSITORY', 'yashchawan6-hash/YASH-NEW')
-        url = f"https://api.github.com/repos/{repo}/actions/workflows/tracker.yml/dispatches"
-        headers = {
-            'Authorization': f'token {github_token}',
-            'Accept': 'application/vnd.github.v3+json'
-        }
-        try:
-            r = requests.post(url, headers=headers, json={'ref': 'main'}, timeout=10)
-            print(f"[Auto-Loop] Dispatch response status: {r.status_code}", flush=True)
-        except Exception as e:
-            print(f"[Auto-Loop] Dispatch exception: {e}", flush=True)
-
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     config_path = os.path.join(script_dir, 'config.json')
@@ -583,7 +565,7 @@ def main():
     stores = [s for s in config_data.get('stores', []) if s.get('enabled', True)]
     print(f"Starting sales tracker run for {len(stores)} enabled stores at {get_ist_now().strftime('%Y-%m-%d %H:%M:%S IST')}...", flush=True)
 
-    max_workers = 8
+    max_workers = 14
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [
             executor.submit(process_store, store, global_bot_token, state_dir, daily_dir)
@@ -596,7 +578,6 @@ def main():
                 print(f"Store thread generated an exception: {e}", flush=True)
 
     print("All store tracking scans completed successfully!", flush=True)
-    trigger_next_loop()
 
 if __name__ == '__main__':
     main()
