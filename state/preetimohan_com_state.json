@@ -18679,9 +18679,9 @@
     "price": 22000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/4_f0cdda18-1d04-4d4f-a22f-38d88b1edb88.png?v=1779702307",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/hetal-mint-polki-necklace-set?variant=gid://shopify/ProductVariant/50250967220417",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50251087773889": {
