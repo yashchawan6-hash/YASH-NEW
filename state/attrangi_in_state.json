@@ -26019,8 +26019,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_3.40.27_PM.jpg?v=1774271927",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gulaab-single-line-sleek-polki-choker-set?variant=gid://shopify/ProductVariant/46519199695060",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/46519235412180": {
     "product_title": "Florence Diamond Hasli Choker Set",
@@ -31043,9 +31043,10 @@
     "price": 3850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-10-15_at_5.36.10_PM.jpg?v=1760533342",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bhargavi-elevated-polki-moissanite-bracelet-kada?variant=gid://shopify/ProductVariant/47111419986132",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47879490961620": {
     "product_title": "Bhargavi Elevated Polki Moissanite Bracelet Kada",
