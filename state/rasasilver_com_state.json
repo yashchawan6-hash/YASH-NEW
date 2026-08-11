@@ -70669,9 +70669,9 @@
     "price": 1600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5730_resized.jpg?v=1782298375",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/solitaire-spark-cz-ring?variant=gid://shopify/ProductVariant/53286180323625",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53286192906537": {
