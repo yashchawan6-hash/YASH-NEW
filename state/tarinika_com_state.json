@@ -2731,7 +2731,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FNL0726XMP.jpg?v=1762534375",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/binal-antique-long-necklace-set?variant=gid://shopify/ProductVariant/15316897923138",
-    "stock": 21
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/32608825540674": {
     "product_title": "Canisa Kundan Jhumka Earrings",
@@ -11283,7 +11284,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANX1403XM1.jpg?v=1677239798",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-neera-choker-earrings-set?variant=gid://shopify/ProductVariant/40216369856578",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40216405803074": {
     "product_title": "Antique Gold Plated Floral Small Stud Earrings",
@@ -20711,9 +20713,10 @@
     "price": 109.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX3498XHC_95e544d8-7b66-4474-92a9-a5da03b4586a.jpg?v=1757073777",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/lavanya-antique-necklace-set?variant=gid://shopify/ProductVariant/42417326587970",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42417326686274": {
     "product_title": "Prisha Delicate Antique Necklace Set",
@@ -25082,10 +25085,10 @@
     "price": 20.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FPX0662XHC.jpg?v=1781777598",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/madhavika-antique-pendant-set?variant=gid://shopify/ProductVariant/43868858089538",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43868858515522": {
     "product_title": "Yalini Antique Maang Tikka",

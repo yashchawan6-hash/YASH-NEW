@@ -646,9 +646,10 @@
     "price": 10100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_d2d088b8-19ff-4df9-9675-45dc478adcb0.jpg?v=1741413414",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/sleek-spark-bracelet?variant=gid://shopify/ProductVariant/50006394994985",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50006442148137": {
     "product_title": "Bunny Ear Brooch",
@@ -67013,7 +67014,7 @@
     "price": 2400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_11May0232_resized.jpg?v=1780914836",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rosebud-cz-ring?variant=gid://shopify/ProductVariant/53163269423401",
     "stock": 1
   },
@@ -69190,7 +69191,7 @@
     "price": 5600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262328_resized.jpg?v=1782126451",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/oval-floral-cz-necklace?variant=gid://shopify/ProductVariant/53282891661609",
     "stock": 1
   },
