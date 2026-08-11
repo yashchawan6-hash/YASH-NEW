@@ -7634,10 +7634,10 @@
     "price": 4900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4026.jpg?v=1673962181",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/anita-stone-drops?variant=gid://shopify/ProductVariant/43660155158755",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43660164661475": {
     "product_title": "Vikshi Stone Drops",
@@ -85763,7 +85763,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0778.jpg?v=1763114436",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nitharshana-nagas-oddiyanam?variant=gid://shopify/ProductVariant/47527705018595",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47527718944995": {
     "product_title": "Royal Charm Nagas Oddiyanam",

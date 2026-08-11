@@ -2984,9 +2984,9 @@
     "price": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/multi-slim-band-ring-attrangi-1.jpg?v=1739813218",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/multi-slim-band-ring?variant=gid://shopify/ProductVariant/48436158005460",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48436158038228": {
     "product_title": "Multi Slim Band Ring",
@@ -4144,9 +4144,9 @@
     "price": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ascher-cut-solitaire-ring-attrangi-1.jpg?v=1739813599",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ascher-cut-solitaire-ring?variant=gid://shopify/ProductVariant/48432379855060",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42286872592596": {
     "product_title": "Ascher Cut Solitaire Ring",
@@ -6035,9 +6035,9 @@
     "price": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diamond-baguette-band-ring-attrangi-3.jpg?v=1739814144",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-baguette-band-ring?variant=gid://shopify/ProductVariant/48432544579796",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43209127821524": {
     "product_title": "Diamond Baguette Band Ring",
@@ -7632,9 +7632,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/glazed-round-solitaire-diamond-ring-with-split-shank-attrangi-1.jpg?v=1739814703",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/glazed-round-solitaire-diamond-ring-with-split-shank?variant=gid://shopify/ProductVariant/48432482058452",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43811656663252": {
     "product_title": "Glazed Round Solitaire Diamond Ring with Split Shank",
@@ -7674,9 +7674,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/glazed-round-solitaire-diamond-ring-with-split-shank-attrangi-2.jpg?v=1739814704",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/glazed-round-solitaire-diamond-ring-with-split-shank?variant=gid://shopify/ProductVariant/48432482091220",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/43811665412308": {
     "product_title": "Glazed Round Solitaire Diamond Ring with Split Shank",
@@ -9530,9 +9530,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG2538B_101900_2023112863411.jpg?v=1786023154",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/brenda-coloured-stone-diamond-cocktail-ring?variant=gid://shopify/ProductVariant/48432558506196",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/44139771986132": {
     "product_title": "Simple Clustered Diamond Band Ring",
@@ -14936,7 +14936,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-09-03_at_10.55.52_AM.jpg?v=1750782514",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ram-darbaar-gold-handmade-kada-traditional-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48437103984852",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48437104017620": {
     "product_title": "Ram Darbaar Gold Handmade Kada | Traditional Sone Pe Suhaga",
@@ -15146,9 +15146,9 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/48432480780500",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/45629289365716": {
     "product_title": "Foolan Sone pe Suhaga Ring",
@@ -24141,9 +24141,9 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-05-21at3.07.24PM_1.jpg?v=1749411156",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/glimmer-grace-40-cents-diamond-solitaire-ring?variant=gid://shopify/ProductVariant/48436153811156",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46336587038932": {
     "product_title": "Blooming Floral Crush Diamond Cocktail Ring",
@@ -24169,9 +24169,9 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-05-21at4.26.21PM_1.jpg?v=1749411172",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/whispers-of-a-rainbow-diamond-baguette-band-ring-in-rose-gold?variant=gid://shopify/ProductVariant/48432544415956",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/46318098579668": {
     "product_title": "Whispers of a Rainbow Diamond Baguette Band Ring In Rose Gold",
@@ -26266,7 +26266,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-07-22at2.10.07PM.jpg?v=1753364270",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/twisted-wave-diamond-cocktail-ring?variant=gid://shopify/ProductVariant/46536657600724",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46536657633492": {
@@ -28620,9 +28620,9 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-22_at_2.21.37_PM.jpg?v=1758531304",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ray-round-soltiaire-marquise-jacket-diamond-ring-daily-wear?variant=gid://shopify/ProductVariant/48431962718420",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/46958417641684": {
     "product_title": "Pastel Rainbow Multicoloured Diamond Band Ring | Daily Wear",
@@ -37149,9 +37149,10 @@
     "price": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-04-02_at_2.17.42_PM_1_56d86273-d3fd-417b-aac7-d84729f473aa.jpg?v=1786450526",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/dennis-diamond-pearl-pendant-set-with-chain?variant=gid://shopify/ProductVariant/48453578424532",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47642161447124": {
     "product_title": "Tira Tiny Diamond Clusters Tennis Bracelet",
@@ -48829,7 +48830,7 @@
     "price": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG03739RG6_101900.jpg?v=1786022371",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/clustered-band-daily-wear-ring-1?variant=gid://shopify/ProductVariant/48432551493844",
     "stock": 0
   },
@@ -48843,7 +48844,7 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG1172RG8_101900.jpg?v=1786090337",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/baguette-solitaire-ring-with-band-rose-gold?variant=gid://shopify/ProductVariant/48436558823636",
     "stock": 0
   },
@@ -48871,9 +48872,9 @@
     "price": 1850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG2641R7_101900_1800x1800_46c53e20-ed8d-47f7-9b29-20b55f21cc18.webp?v=1786357346",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/baguette-diana-band-cocktail-diamond-ring-pink?variant=gid://shopify/ProductVariant/48448171802836",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48453626593492": {
     "product_title": "Ruby Grace Diamond Daily Wear Bracelet | Unisex| Rakhi",

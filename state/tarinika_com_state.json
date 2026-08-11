@@ -12125,9 +12125,10 @@
     "price": 64.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0654copycopy.jpg?v=1682940386",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/kaveri-antique-pendant-set?variant=gid://shopify/ProductVariant/40285695770690",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40285698523202": {
     "product_title": "Samriddhi Antique Choker Set",
@@ -12893,7 +12894,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0588copycopy.jpg?v=1686816135",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mango-motif-lakshmi-antique-temple-necklace-set?variant=gid://shopify/ProductVariant/40327428636738",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40327428669506": {
