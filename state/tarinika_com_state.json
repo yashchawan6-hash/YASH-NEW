@@ -13934,9 +13934,10 @@
     "price": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANR2302X.jpg?v=1695459211",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/vaisnavi-antique-temple-finger-ring?variant=gid://shopify/ProductVariant/40432411443266",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40432414687298": {
     "product_title": "Kuvala Antique Temple Finger Ring",
@@ -18583,8 +18584,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0006XMY_d212dd36-0265-4161-bfca-4b94f8def0b1.jpg?v=1752149620",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-flower-pattern-with-kempu-rakhi?variant=gid://shopify/ProductVariant/42292686454850",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/42292719550530": {
     "product_title": "Radiant CZ Rakhi",
@@ -18626,7 +18627,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0013XHY_42d3b5d6-9332-4f1c-8dfa-7038aa375261.jpg?v=1752149650",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sanskriti-round-antique-rakhi?variant=gid://shopify/ProductVariant/42292840923202",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42292901347394": {
     "product_title": "Ritu Antique Rakhi",
@@ -18685,8 +18687,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0014XGY_311d439b-f69c-402e-9a2f-89dcde854ed0.jpg?v=1752149684",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mayura-heritage-antique-rakhi?variant=gid://shopify/ProductVariant/42294308110402",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42294312140866": {
     "product_title": "Ruby Radiance CZ Rakhi",
@@ -18714,7 +18716,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0004XRY_a15162ca-86ee-42a2-bc35-fce871549e25.jpg?v=1752149699",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/aakar-antique-rakhi?variant=gid://shopify/ProductVariant/42294317547586",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42294325280834": {
     "product_title": "Aranya Floral Antique Rakhi",
@@ -25765,7 +25768,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T075.png?v=1784358116",
     "available_for_sale": false,
     "url": "https://www.tarinika.com/products/myra-cz-red-drop-earrings?variant=gid://shopify/ProductVariant/44136936177730",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44136936243266": {
     "product_title": "Myra CZ ORANGE Drop Earrings",
