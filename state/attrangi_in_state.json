@@ -13062,7 +13062,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/malini-three-layer-uncut-diamond-hair-chain-attrangi-1.jpg?v=1739816268",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/malini-three-layer-uncut-diamond-hair-chain?variant=gid://shopify/ProductVariant/47422401413332",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48071791575252": {
     "product_title": "Sarah 3 Layer Polki Necklace",
@@ -42709,6 +42710,20 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/blooming-rose-diamond-pendant-set?variant=gid://shopify/ProductVariant/47927638819028",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/47927652876500": {
+    "product_title": "Eleganza Statement Diamond Necklace with Earcuffs",
+    "product_handle": "eleganza-statement-diamond-necklace-with-earcuffs",
+    "variant_id": "gid://shopify/ProductVariant/47927652876500",
+    "global_id": "gid://shopify/ProductVariant/47927652876500",
+    "variant_title": "Default Title",
+    "sku": "RC19733PI-JS",
+    "price": 9650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-12at2.57.10PM.jpg?v=1778581710",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/eleganza-statement-diamond-necklace-with-earcuffs?variant=gid://shopify/ProductVariant/47927652876500",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47927711138004": {
     "product_title": "Glitter Diamond Coloured Pendant Set with Earrings",
