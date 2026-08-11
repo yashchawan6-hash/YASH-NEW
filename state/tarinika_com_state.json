@@ -12323,9 +12323,9 @@
     "price": 89.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/Rawday23050.jpg?v=1683010257",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ratna-antique-bangles?variant=gid://shopify/ProductVariant/41590955114562",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/40291471523906": {
     "product_title": "Aanchal Antique Bangles",
@@ -18580,8 +18580,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0006XMY_d212dd36-0265-4161-bfca-4b94f8def0b1.jpg?v=1752149620",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-flower-pattern-with-kempu-rakhi?variant=gid://shopify/ProductVariant/42292686454850",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/42292719550530": {
     "product_title": "Radiant CZ Rakhi",
@@ -18637,7 +18637,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0001XAY_9efccc4c-e09c-4d16-9ff1-014c7f95aabe.jpg?v=1752149658",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ritu-antique-rakhi?variant=gid://shopify/ProductVariant/42292901347394",
-    "stock": 1,
+    "stock": 4,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42292910686274": {
@@ -18667,7 +18667,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0011XGY_e679f9ac-a220-4d75-b0b4-c3a69c8092f5.jpg?v=1752149676",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/shrishti-beaded-antique-rakhi?variant=gid://shopify/ProductVariant/42292963475522",
-    "stock": 4
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42294308110402": {
     "product_title": "Mayura Heritage Antique Rakhi",
