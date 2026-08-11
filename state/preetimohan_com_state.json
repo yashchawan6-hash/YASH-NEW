@@ -431,7 +431,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/products/NGP02736.jpg?v=1756191904",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gold-plated-kundan-multi-color-stone-necklace?variant=gid://shopify/ProductVariant/40891978612929",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40906839851201": {
     "product_title": "GOLD PLATED KUNDAN PASSA WITH WHITE PEARLS DROPS",
@@ -5513,7 +5514,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/154A7220copy.jpg?v=1756142016",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/hinal-double-finger-polki-ring?variant=gid://shopify/ProductVariant/48147692290241",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48147739836609": {
     "product_title": "AADHISHREE POLKI RING",
@@ -8873,7 +8875,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC09934.jpg?v=1756141591",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/malika-gold-plated-polki-stud?variant=gid://shopify/ProductVariant/48804757766337",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48804763041985": {
     "product_title": "VIRIKA MINT FLUORITE STUD",
@@ -9545,7 +9548,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC09913.jpg?v=1756191617",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/dayita-red-green-kundan-choker?variant=gid://shopify/ProductVariant/48817122803905",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49171735675073": {
     "product_title": "RISHA GREEN POLKI BANGLES",
@@ -13058,9 +13062,10 @@
     "price": 6000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/67_207e398a-1dcc-48c2-af10-026aacac2873.png?v=1756141054",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/everly-white-zircon-statement-earring?variant=gid://shopify/ProductVariant/49183181799617",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49183182553281": {
     "product_title": "RUHI GREEN KUNDAN EARCHAIN",
@@ -19266,7 +19271,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Gemini_Generated_Image_m4r78km4r78km4r7.png?v=1784111642",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/avni-red-green-polki-jhumka?variant=gid://shopify/ProductVariant/50292157874369",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50292161839297": {
     "product_title": "APARNA GREEN POLKI JHUMKA",
@@ -19378,7 +19384,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/23_973f9b12-4d83-48fa-8adb-7d5fa45bc6e8.png?v=1784111234",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/hemakanti-antique-finish-polki-earcuff-jhumka?variant=gid://shopify/ProductVariant/50292577599681",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50292586938561": {
     "product_title": "AASHIMA ANTIQUE FINISH WHITE POLKI CHANDBALI",
@@ -21855,9 +21862,10 @@
     "price": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP1727.jpg?v=1781783276",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/kavya-green-polki-necklace-set-1?variant=gid://shopify/ProductVariant/50343219200193",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50343224934593": {
     "product_title": "CHITRANI GREEN POLKI NECKLACE SET",
@@ -21996,9 +22004,10 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/79_a913a269-c68c-4569-94e1-ff06ecb5b83c.png?v=1783925545",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/ekanika-gold-plated-polki-tikka?variant=gid://shopify/ProductVariant/50365518708929",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50365524246721": {
     "product_title": "FALAK GOLD PLATED POLKI TIKA",
