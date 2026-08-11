@@ -40531,9 +40531,10 @@
     "price": 22620.6,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1938.jpg?v=1749380845",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/janvi-stone-pair-bangle?variant=gid://shopify/ProductVariant/46475309613283",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46475825610979": {
     "product_title": "Vinisha Stone Pair Bangle",
