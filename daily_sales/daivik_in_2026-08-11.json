@@ -3974,5 +3974,47 @@
     "curr_stock": 31,
     "url": "https://www.daivik.in/products/lotus-green-bangles?variant=gid://shopify/ProductVariant/47080033222878",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/23F9E59A-C58C-48EF-97B9-23FAD2DC94D8.jpg?v=1752584388"
+  },
+  {
+    "timestamp_ist": "2026-08-11 22:11:44",
+    "product_title": "Simple Ruby and pearl choker with earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/43546226196702",
+    "sku": "538",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684"
+  },
+  {
+    "timestamp_ist": "2026-08-11 22:11:44",
+    "product_title": "Kemp pastel Beads Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/46297625559262",
+    "sku": "1221",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 43,
+    "curr_stock": 42,
+    "url": "https://www.daivik.in/products/kemp-pastel-beads-necklace-with-earrings?variant=gid://shopify/ProductVariant/46297625559262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/85A815FD-178A-42CB-A800-6B78BF024451.jpg?v=1781336593"
+  },
+  {
+    "timestamp_ist": "2026-08-11 22:11:44",
+    "product_title": "Ruby Green Golden Beads Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47082102980830",
+    "sku": "1304",
+    "price": 1899.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 27,
+    "curr_stock": 26,
+    "url": "https://www.daivik.in/products/ruby-green-golden-beads-necklace-with-earrings?variant=gid://shopify/ProductVariant/47082102980830",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5013CAE9-80A4-4871-B41C-34F5CAD436EC.jpg?v=1752657056"
   }
 ]
