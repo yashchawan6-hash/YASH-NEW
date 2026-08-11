@@ -36500,9 +36500,9 @@
     "price": 3455.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410947_Model.jpg?v=1769154793",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-emerald-green-white-cz-stones-crescent-necklace-set-re10ns410947?variant=gid://shopify/ProductVariant/47144257585326",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47144266891438": {
@@ -39560,8 +39560,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410831.jpg?v=1769064546",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16ns410831?variant=gid://shopify/ProductVariant/47198390878382",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47198390943918": {
     "product_title": "Cascading Floral Rhodium Zirconia Chandelier Earrings",
