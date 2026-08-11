@@ -104,7 +104,7 @@ def fetch_catalog(domain, token):
 
     query = """
     query getAllProducts($cursor: String) {
-      products(first: 100, after: $cursor) {
+      products(first: 250, after: $cursor) {
         pageInfo {
           hasNextPage
           endCursor
@@ -268,7 +268,7 @@ def check_stock_in_batches(domain, token, variants_to_check):
     batches = [variants_to_check[i:i+batch_size] for i in range(0, total_variants, batch_size)]
 
     # High-speed internal threadpool for parallel Cart API requests
-    with ThreadPoolExecutor(max_workers=8) as executor:
+    with ThreadPoolExecutor(max_workers=25) as executor:
         futures = [
             executor.submit(process_batch, domain, token, url, headers, mutation, b)
             for b in batches
@@ -537,7 +537,7 @@ def main():
     stores = [s for s in config_data.get('stores', []) if s.get('enabled', True)]
     print(f"Starting sales tracker run for {len(stores)} enabled stores at {get_ist_now().strftime('%Y-%m-%d %H:%M:%S IST')}...", flush=True)
 
-    max_workers = 6
+    max_workers = 14
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [
             executor.submit(process_store, store, global_bot_token, state_dir, daily_dir)
