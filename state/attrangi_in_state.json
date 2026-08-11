@@ -16821,20 +16821,6 @@
     "url": "https://www.attrangi.in/products/amoora-floral-diamond-bracelet-daily-wear?variant=gid://shopify/ProductVariant/46203228782804",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/46162147246292": {
-    "product_title": "Evelyn Diamond Kada | Coloured Stone | Daily Wear",
-    "product_handle": "evelyn-diamond-bracelet-coloured-stone-daily-wear",
-    "variant_id": "gid://shopify/ProductVariant/46162147246292",
-    "global_id": "gid://shopify/ProductVariant/46162147246292",
-    "variant_title": "Blue / This kada comes in one size that fits most people from size 2.2 to 2.6",
-    "sku": "WG11590B-BG",
-    "price": 2750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_11.52.29_PM.jpg?v=1757500928",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/evelyn-diamond-bracelet-coloured-stone-daily-wear?variant=gid://shopify/ProductVariant/46162147246292",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/45826988998868": {
     "product_title": "Evelyn Diamond Kada | Coloured Stone | Daily Wear",
     "product_handle": "evelyn-diamond-bracelet-coloured-stone-daily-wear",
@@ -25127,7 +25113,7 @@
     "stock": 2
   },
   "gid://shopify/ProductVariant/46405328732372": {
-    "product_title": "Oval Sabhya Multicolour Gemstone Indo Western Ring| GemZ",
+    "product_title": "Oval Sabhya Multicolour Gemstone Indo Western Ring | GemZ",
     "product_handle": "oval-sabhya-multicolour-gemstone-indo-western-ring-gemz",
     "variant_id": "gid://shopify/ProductVariant/46405328732372",
     "global_id": "gid://shopify/ProductVariant/46405328732372",
@@ -35280,7 +35266,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-11at2.38.44PM_1.jpg?v=1774101070",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fool-3d-emerging-statement-diamond-studs?variant=gid://shopify/ProductVariant/47459111993556",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47459112026324": {
     "product_title": "Fool 3D Emerging Statement Diamond Studs",
