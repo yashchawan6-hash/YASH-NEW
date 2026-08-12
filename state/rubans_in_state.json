@@ -58309,9 +58309,10 @@
     "price": 3155.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410834.jpg?v=1770982911",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re16ns410834?variant=gid://shopify/ProductVariant/47502230519982",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47502230749358": {
     "product_title": "Crystal Cascade Silver Chandelier Earrings",
@@ -58395,7 +58396,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20N411697-Modal-01.jpg?v=1770978263",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re20n411697?variant=gid://shopify/ProductVariant/47502231666862",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47502231765166": {
@@ -58410,7 +58411,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20N411698-Model.jpg?v=1770978267",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re20n411698?variant=gid://shopify/ProductVariant/47502231765166",
-    "stock": 20,
+    "stock": 18,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47502231797934": {
@@ -70033,7 +70034,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW71C412324-Model-1.jpg?v=1779881756",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw71c412324?variant=gid://shopify/ProductVariant/47914228154542",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47914228711598": {
     "product_title": "Kundan Multicolor Drop Necklace Set",
