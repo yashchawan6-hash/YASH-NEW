@@ -60199,9 +60199,10 @@
     "price": 13260.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0232_resized.jpg?v=1775283682",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/padmalaya-florissa-antique-necklace?variant=gid://shopify/ProductVariant/52871899316521",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52872090288425": {
     "product_title": "Kamalvalli Kundan Ring",
