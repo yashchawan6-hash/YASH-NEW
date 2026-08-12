@@ -280,7 +280,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FEI0248X_2_92b13d96-dddc-4243-bb11-d479b5ebe897.jpg?v=1762526531",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/biana-nakshatra-cz-ear-chain?variant=gid://shopify/ProductVariant/40722125848642",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/12159151013996": {
     "product_title": "Biana Nakshatra CZ Ear Chain",
@@ -12478,7 +12479,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ATX0148.jpg?v=1731479046",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/leafy-classic-antique-maang-tikka?variant=gid://shopify/ProductVariant/40300665536578",
-    "stock": 26,
+    "stock": 40,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40300669599810": {
@@ -12890,7 +12891,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0588copycopy.jpg?v=1686816135",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mango-motif-lakshmi-antique-temple-necklace-set?variant=gid://shopify/ProductVariant/40327428636738",
-    "stock": 5,
+    "stock": 4,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40327428669506": {
@@ -18641,10 +18642,10 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0001XAY_9efccc4c-e09c-4d16-9ff1-014c7f95aabe.jpg?v=1752149658",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/ritu-antique-rakhi?variant=gid://shopify/ProductVariant/42292901347394",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42292910686274": {
     "product_title": "Vira Antique Rakhi",
@@ -18703,7 +18704,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0016XC5_69c2da80-2306-4686-b426-63006508809f.jpg?v=1752149691",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ruby-radiance-cz-rakhi?variant=gid://shopify/ProductVariant/42294312140866",
-    "stock": 2,
+    "stock": 5,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42294317547586": {
@@ -18803,7 +18804,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/Paksha6993_a7ac0294-98a2-4843-8a9d-0aa27d3c6ce3.jpg?v=1752151326",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sadashiv-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/42294927458370",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/42294943580226": {
     "product_title": "Pankaj Gold Plated Silver Rakhi",
@@ -18831,7 +18833,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/PTRK0017BC2_7604ef4f-b07f-4c82-bb9a-a1b6824ea415.jpg?v=1752151790",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/bhairav-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/42295004725314",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/42295023304770": {
     "product_title": "Divya Shankh Silver Rakhi",

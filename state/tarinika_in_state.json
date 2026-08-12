@@ -294,7 +294,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/FEI0248X_2.JPG?v=1580384971",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/biana-nakshatra-cz-ear-chain?variant=gid://shopify/ProductVariant/40959385403428",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/40850908315684": {
     "product_title": "Bani Antique Pendant Set",
@@ -12666,7 +12667,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/theme0588copycopy.jpg?v=1686815635",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/mango-motif-lakshmi-antique-temple-necklace-set?variant=gid://shopify/ProductVariant/40674724675620",
-    "stock": 5,
+    "stock": 4,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40674724708388": {
@@ -23311,9 +23312,9 @@
     "price": 1169.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PDH0008X_3a95b620-84fe-4113-9720-4b55d5a95d42.jpg?v=1779963090",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.in/products/elira-dual-line-antique-chain?variant=gid://shopify/ProductVariant/53636899897712",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/54109945921904": {

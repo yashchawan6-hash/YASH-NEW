@@ -14832,48 +14832,6 @@
     "stock": 0,
     "last_alerted_stock": 0
   },
-  "gid://shopify/ProductVariant/50761917923628": {
-    "product_title": "Diamond look Doublet CZ set",
-    "product_handle": "jadau-kundan-choker-copy",
-    "variant_id": "gid://shopify/ProductVariant/50761917923628",
-    "global_id": "gid://shopify/ProductVariant/50761917923628",
-    "variant_title": "Default Title",
-    "sku": "NK167",
-    "price": 997.5,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DiamondlookDoubletCZset950.heic?v=1742383312",
-    "available_for_sale": false,
-    "url": "https://www.kanshijewels.com/products/jadau-kundan-choker-copy?variant=gid://shopify/ProductVariant/50761917923628",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/50761922773292": {
-    "product_title": "Diamond look Doublet CZ set",
-    "product_handle": "diamond-look-doublet-cz-set",
-    "variant_id": "gid://shopify/ProductVariant/50761922773292",
-    "global_id": "gid://shopify/ProductVariant/50761922773292",
-    "variant_title": "Default Title",
-    "sku": "NK166",
-    "price": 997.5,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DiamondlookDoubletCZset950_-_1.heic?v=1742383387",
-    "available_for_sale": false,
-    "url": "https://www.kanshijewels.com/products/diamond-look-doublet-cz-set?variant=gid://shopify/ProductVariant/50761922773292",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/50761925427500": {
-    "product_title": "Diamond look Doublet CZ set",
-    "product_handle": "diamond-look-doublet-cz-set-1",
-    "variant_id": "gid://shopify/ProductVariant/50761925427500",
-    "global_id": "gid://shopify/ProductVariant/50761925427500",
-    "variant_title": "Default Title",
-    "sku": "NK165",
-    "price": 997.5,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DiamondlookDoubletCZset950_-_2.heic?v=1742383427",
-    "available_for_sale": false,
-    "url": "https://www.kanshijewels.com/products/diamond-look-doublet-cz-set-1?variant=gid://shopify/ProductVariant/50761925427500",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/50786625683756": {
     "product_title": "Jadau Kundan Choker",
     "product_handle": "jadau-kundan-choker-36",
@@ -15587,9 +15545,9 @@
     "price": 3990.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0578.jpg?v=1747997207",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/rani-haram-6?variant=gid://shopify/ProductVariant/51119758737708",
-    "stock": 0
+    "stock": 10
   },
   "gid://shopify/ProductVariant/51119768076588": {
     "product_title": "Jadau Kundan Jhumkas",
@@ -18189,9 +18147,9 @@
     "price": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Emeraldsleeknecklaceearringset999_0f86da88-3bec-4e18-8e4b-7ab132ec4e15.jpg?v=1766140608",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-chain-necklace-copy?variant=gid://shopify/ProductVariant/52445282894124",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52445284270380": {
     "product_title": "Mossanite tika",
@@ -18203,9 +18161,9 @@
     "price": 1190.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Mossanitetika1190.jpg?v=1766140723",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/mossanite-tika-1?variant=gid://shopify/ProductVariant/52445284270380",
-    "stock": 0
+    "stock": 6
   },
   "gid://shopify/ProductVariant/52445284696364": {
     "product_title": "Mossanite tika",
