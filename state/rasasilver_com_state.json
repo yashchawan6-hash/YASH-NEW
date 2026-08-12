@@ -16632,10 +16632,10 @@
     "price": 2295.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS503.jpg?v=1760359534",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/miraflor-chain-pendant?variant=gid://shopify/ProductVariant/51345546936617",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51345558405417": {
     "product_title": "Starlora Chain Pendant",
