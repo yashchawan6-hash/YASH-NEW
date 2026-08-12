@@ -59645,7 +59645,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47067941699811",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47063501045987": {
     "product_title": "Chic & Trendy Short Necklace",
@@ -74828,9 +74829,10 @@
     "price": 25879.5,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3360.jpg?v=1759582030",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kundan-pendant-5?variant=gid://shopify/ProductVariant/47236327178467",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47236337926371": {
     "product_title": "Hersitha Kundan Earrings",
@@ -94611,7 +94613,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12352.jpg?v=1767962748",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/majestic-stone-studs?variant=gid://shopify/ProductVariant/47807868895459",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47807874564323": {
     "product_title": "Dhishiya Stone Studs",

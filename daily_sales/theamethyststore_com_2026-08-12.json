@@ -82,5 +82,33 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/reyanshi-reversible-short-necklace?variant=gid://shopify/ProductVariant/47046721765603",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10495.jpg?v=1755839229"
+  },
+  {
+    "timestamp_ist": "2026-08-12 15:26:51",
+    "product_title": "Chic & Trendy Short Necklace",
+    "variant_title": "Black",
+    "variant_id": "gid://shopify/ProductVariant/47067941699811",
+    "sku": "AMS-102-7255-Black",
+    "price": 11300.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 10,
+    "curr_stock": 9,
+    "url": "https://www.theamethyststore.com/products/short-necklace-18?variant=gid://shopify/ProductVariant/47067941699811",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7255_6d6a33a3-6cd1-428e-9064-affc4d9dfc22.jpg?v=1756202475"
+  },
+  {
+    "timestamp_ist": "2026-08-12 15:26:51",
+    "product_title": "Priyasri Kundan Pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47236327178467",
+    "sku": "AMS-104-3360",
+    "price": 25879.5,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/kundan-pendant-5?variant=gid://shopify/ProductVariant/47236327178467",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3360.jpg?v=1759582030"
   }
 ]
