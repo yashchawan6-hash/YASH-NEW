@@ -3194,6 +3194,48 @@
     "url": "https://www.rubans.in/products/rubans-voguish-heart-drop-shimmery-fringe-earrings?variant=gid://shopify/ProductVariant/43656282898606",
     "stock": 7
   },
+  "gid://shopify/ProductVariant/43656302690478": {
+    "product_title": "Rubans Voguish Silver Shimmery Long Fringe Rubberband",
+    "product_handle": "rubans-voguish-silver-shimmery-long-fringe-rubberband",
+    "variant_id": "gid://shopify/ProductVariant/43656302690478",
+    "global_id": "gid://shopify/ProductVariant/43656302690478",
+    "variant_title": "Silver",
+    "sku": "VCW28HA400687",
+    "price": 861.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04HC406286.jpg?v=1767159718",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/rubans-voguish-silver-shimmery-long-fringe-rubberband?variant=gid://shopify/ProductVariant/43656302690478",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/46074162282670": {
+    "product_title": "Rubans Voguish Silver Shimmery Long Fringe Rubberband",
+    "product_handle": "rubans-voguish-silver-shimmery-long-fringe-rubberband",
+    "variant_id": "gid://shopify/ProductVariant/46074162282670",
+    "global_id": "gid://shopify/ProductVariant/46074162282670",
+    "variant_title": "Gold",
+    "sku": "RW30HC406285",
+    "price": 873.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04HC406286.jpg?v=1767159718",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/rubans-voguish-silver-shimmery-long-fringe-rubberband?variant=gid://shopify/ProductVariant/46074162282670",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/46074162315438": {
+    "product_title": "Rubans Voguish Silver Shimmery Long Fringe Rubberband",
+    "product_handle": "rubans-voguish-silver-shimmery-long-fringe-rubberband",
+    "variant_id": "gid://shopify/ProductVariant/46074162315438",
+    "global_id": "gid://shopify/ProductVariant/46074162315438",
+    "variant_title": "Black",
+    "sku": "RW04HC406286",
+    "price": 1035.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04HC406286.jpg?v=1767159718",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/rubans-voguish-silver-shimmery-long-fringe-rubberband?variant=gid://shopify/ProductVariant/46074162315438",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/43656356561070": {
     "product_title": "Rubans Voguish Multilayer Bracelet",
     "product_handle": "rubans-voguish-multilayer-bracelet",
@@ -59061,7 +59103,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414043_04.jpg?v=1776948886",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414043?variant=gid://shopify/ProductVariant/47769369804974",
-    "stock": 20,
+    "stock": 15,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47769370099886": {
@@ -59429,7 +59471,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414077_model.jpg?v=1782306642",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414077?variant=gid://shopify/ProductVariant/47769374687406",
-    "stock": 5,
+    "stock": 20,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47769375047854": {
@@ -59980,7 +60022,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30A414123-Model.jpg?v=1776949375",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30a414123?variant=gid://shopify/ProductVariant/47769387827374",
-    "stock": 20
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769387892910": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Heart Stud Earrings",
@@ -60107,7 +60150,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414136-Model.jpg?v=1776949443",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414136?variant=gid://shopify/ProductVariant/47769389596846",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769389727918": {
@@ -60800,7 +60843,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414215-Model.jpg?v=1776949801",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414215?variant=gid://shopify/ProductVariant/47769398083758",
-    "stock": 6,
+    "stock": 20,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769398116526": {
@@ -60815,7 +60858,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414216-Model.jpg?v=1776949800",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414216?variant=gid://shopify/ProductVariant/47769398116526",
-    "stock": 20,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769398214830": {
@@ -61325,7 +61368,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414158-Model.jpg?v=1777016497",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414158?variant=gid://shopify/ProductVariant/47774758469806",
-    "stock": 20
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774758764718": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Mini Floral Charm Chain Bracelet",
@@ -61508,7 +61552,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414113-Model.jpg?v=1777016570",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414113?variant=gid://shopify/ProductVariant/47774760927406",
-    "stock": 18,
+    "stock": 20,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774760960174": {
@@ -62449,7 +62493,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO414174-Model.jpg?v=1778585751",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro414174?variant=gid://shopify/ProductVariant/47848723382446",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47848723415214": {
@@ -62506,7 +62550,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414054-Model.jpg?v=1778838435",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414054?variant=gid://shopify/ProductVariant/47861803253934",
-    "stock": 20
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47861803286702": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Twisted Chain Heart Pendant Necklace",
@@ -64664,7 +64709,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414083-Model.jpg?v=1780047646",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414083?variant=gid://shopify/ProductVariant/47922728960174",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47922729713838": {
@@ -64892,8 +64937,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414164-Model.jpg?v=1780047761",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414164?variant=gid://shopify/ProductVariant/47922733744302",
-    "stock": 20,
-    "last_alerted_stock": 17
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47922733842606": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Twisted Snake Chain Necklace",
@@ -65048,7 +65093,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414107_Model.jpg?v=1782306697",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414107?variant=gid://shopify/ProductVariant/47922736300206",
-    "stock": 19,
+    "stock": 20,
     "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47922736693422": {
@@ -66642,7 +66687,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415281-Model.jpg?v=1781601470",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415281?variant=gid://shopify/ProductVariant/47989353480366",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47989353513134": {
@@ -66701,7 +66746,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415286-model.jpg?v=1781601504",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415286?variant=gid://shopify/ProductVariant/47989353611438",
-    "stock": 20
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47989353676974": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Hammered Muse Statement Studs Earrings",
@@ -67084,7 +67130,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415321-Model-1.jpg?v=1781601715",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415321?variant=gid://shopify/ProductVariant/47989371273390",
-    "stock": 20
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47989371306158": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Sweet Bow Stud Earrings",
@@ -67523,7 +67570,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R415282-Model.jpg?v=1781607934",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30r415282?variant=gid://shopify/ProductVariant/47989495627950",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47989495660718": {
@@ -68575,7 +68622,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30v414391-Model.jpg?v=1784290854",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414391?variant=gid://shopify/ProductVariant/48107698127022",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107698159790": {
@@ -69068,8 +69115,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414275-Model_01.jpg?v=1784291105",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414275?variant=gid://shopify/ProductVariant/48107701960878",
-    "stock": 20,
-    "last_alerted_stock": 10
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107702091950": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Spiral Shell Stud Earrings",
@@ -69806,7 +69853,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V416232_Model_5da9884b-1801-4b68-8c3f-70b2add69811.jpg?v=1785929445",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v416232?variant=gid://shopify/ProductVariant/48744155807918",
-    "stock": 20
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48744155840686": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Clover Charm Curb Chain Bracelet",
