@@ -58278,9 +58278,10 @@
     "price": 8400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9204.jpg?v=1755858644",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shalini-drops?variant=gid://shopify/ProductVariant/47048987017443",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47048987050211": {
     "product_title": "Amazing Stone Jhumkas",
@@ -102820,7 +102821,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12838.jpg?v=1770357195",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shinning-kundan-studs-3?variant=gid://shopify/ProductVariant/47989516697827",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47989618245859": {
     "product_title": "Starring Kundan Ring",
