@@ -63120,10 +63120,10 @@
     "price": 61600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11294.jpg?v=1756722060",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/rishitha-choker-set?variant=gid://shopify/ProductVariant/47081495560419",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47081503817955": {
     "product_title": "Akshana Stud",
@@ -97290,7 +97290,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11368.jpg?v=1768721842",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/grand-nagas-long-necklace-3?variant=gid://shopify/ProductVariant/47850414473443",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47850415554787": {
     "product_title": "Shrika Deep Nagas Short Necklace",
