@@ -1973,9 +1973,9 @@
     "price": 1680.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0240.jpg?v=1687856742",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/pearl-necklace-9?variant=gid://shopify/ProductVariant/45448715600172",
-    "stock": 0
+    "stock": 9
   },
   "gid://shopify/ProductVariant/45448715632940": {
     "product_title": "Pearl Necklace",
@@ -21485,19 +21485,5 @@
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/swaroski-pearls-multi-tumble-triple-layer-necklace?variant=gid://shopify/ProductVariant/53468191752492",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/53686835642668": {
-    "product_title": "test",
-    "product_handle": "test",
-    "variant_id": "gid://shopify/ProductVariant/53686835642668",
-    "global_id": "gid://shopify/ProductVariant/53686835642668",
-    "variant_title": "Default Title",
-    "sku": "",
-    "price": 1.0,
-    "currency": "INR",
-    "image_url": null,
-    "available_for_sale": false,
-    "url": "https://www.kanshijewels.com/products/test?variant=gid://shopify/ProductVariant/53686835642668",
-    "stock": 0
   }
 }
