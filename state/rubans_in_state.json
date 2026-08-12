@@ -20677,7 +20677,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/radiant-starburst-american-diamond-zirconia-pearl-studs-earrings-1203248087.jpg?v=1770622238",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-cubic-zirconia-floral-design-pearl-stud-statement-earrings-rw30es407747?variant=gid://shopify/ProductVariant/46194501058734",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46194501091502": {
@@ -20734,7 +20734,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04EH407756.jpg?v=1770380194",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-sparkling-cubic-zirconia-studded-hoop-earrings-rw04eh407756?variant=gid://shopify/ProductVariant/46194501583022",
-    "stock": 20
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/46194501812398": {
     "product_title": "Runway Ready Statenent Earrings",
@@ -20961,7 +20962,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-emerald-green-white-cubiczirconia-studded-adjustable-cocktail-ring-finger-rings-1143859824.jpg?v=1755714499",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-emerald-green-white-cubiczirconia-studded-adjustable-cocktail-ring-re20ro408219?variant=gid://shopify/ProductVariant/46197309898926",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46197310128302": {
@@ -60381,7 +60382,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE57B410982-Model_f454297d-76e9-4e32-a875-e49c809a77b4.jpg?v=1772099759",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re57b410983?variant=gid://shopify/ProductVariant/47556516511918",
-    "stock": 10,
+    "stock": 11,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47556518281390": {
@@ -60995,7 +60996,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10PO412436-Model.jpg?v=1773144964",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10po412436?variant=gid://shopify/ProductVariant/47624335753390",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47624336244910": {
@@ -77279,8 +77280,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56B412480-Model.jpg?v=1784889587",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re56b412480?variant=gid://shopify/ProductVariant/48236233359534",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/48236233392302": {
     "product_title": "Timeless Spark Gold Plated Bangles",
@@ -77395,8 +77396,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56B413785-Model.jpg?v=1784889600",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re56b413785?variant=gid://shopify/ProductVariant/48236266717358",
-    "stock": 10,
-    "last_alerted_stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/48236266750126": {
     "product_title": "Kashmiri Multicolor Ghungroo Bangle Stack Set",
@@ -77423,10 +77424,10 @@
     "price": 758.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56B413785-Model.jpg?v=1784889600",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re56b413785?variant=gid://shopify/ProductVariant/48236266782894",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48236266815662": {
     "product_title": "Kashmiri Multicolor Ghungroo Bangle Stack Set",

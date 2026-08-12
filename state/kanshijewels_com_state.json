@@ -13473,9 +13473,10 @@
     "price": 3045.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Handworkjadauset2900_-_14.jpg?v=1736757937",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/hand-work-jadau-set-20?variant=gid://shopify/ProductVariant/50454077440300",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50454087401772": {
     "product_title": "Hand work jadau set",
@@ -13487,9 +13488,10 @@
     "price": 3045.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Handworkjadauset2900_-_4.jpg?v=1736757987",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/hand-work-jadau-set-21?variant=gid://shopify/ProductVariant/50454087401772",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50490253803820": {
     "product_title": "Jadau Choker",
@@ -14827,9 +14829,9 @@
     "price": 661.5,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Bugadi630_-_1.jpg?v=1741684933",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/bugadi-4?variant=gid://shopify/ProductVariant/50724521705772",
-    "stock": 0,
+    "stock": 10,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50786625683756": {
