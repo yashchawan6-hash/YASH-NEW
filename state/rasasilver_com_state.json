@@ -70989,9 +70989,10 @@
     "price": 58100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42254_resized.jpg?v=1783497777",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/lakshmi-kripa-temple-set?variant=gid://shopify/ProductVariant/53318413779241",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53318417547561": {
     "product_title": "Lakshmi Rajyam Temple Set",
