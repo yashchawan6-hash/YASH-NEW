@@ -47629,10 +47629,10 @@
     "price": 1299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E8723323-DACF-49E7-87D5-C54E1E5554DD.jpg?v=1783614027",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/trisha-mam-inspired-ad-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/48417802617054",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48422119473374": {
     "product_title": "Openable Peacock Kada with Interchangeable Colour Bangles (10 Shades)",
@@ -48383,8 +48383,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4891DBA9-A6F9-450D-BAB6-A69C94E80743.jpg?v=1785928507",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/manga-pure-kemp-brass-earrings?variant=gid://shopify/ProductVariant/48550210273502",
-    "stock": 29,
-    "last_alerted_stock": 29
+    "stock": 28,
+    "last_alerted_stock": 28
   },
   "gid://shopify/ProductVariant/48550497583326": {
     "product_title": "Simple AD Green Pendant Necklace with Earrings",
