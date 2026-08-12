@@ -40324,9 +40324,10 @@
     "price": 23450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-31at12.33.32PM_1.jpg?v=1774941844",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bageecha-gold-nakshi-polki-bridal-set-with-tika?variant=gid://shopify/ProductVariant/47741161210068",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47747333226708": {
     "product_title": "Evermore Us Double Line Diamond Mangalsutra | Daily Wear",
