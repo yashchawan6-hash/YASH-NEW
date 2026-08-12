@@ -3883,10 +3883,10 @@
     "price": 1799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_12b001d9-912e-40bc-8046-5f433d9b34a1.jpg?v=1639382176",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/set-of-6-ad-bangles?variant=gid://shopify/ProductVariant/42180921229534",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42181007671518": {
     "product_title": "Set of 6 AD Bangles",
@@ -15685,8 +15685,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8967991B-4D20-4170-AFF8-73015A1DAB87.jpg?v=1704974070",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107065054",
-    "stock": 21,
-    "last_alerted_stock": 21
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/44661290565854": {
     "product_title": "Small version of Layered Victorian Mossanite Necklace with Earrings",

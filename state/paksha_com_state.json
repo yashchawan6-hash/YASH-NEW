@@ -24363,20 +24363,6 @@
     "url": "https://www.paksha.com/products/kaveri-coin-multi-stone-silver-bracelet?variant=gid://shopify/ProductVariant/47542220751084",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/47542220783852": {
-    "product_title": "Tisha Coin Silver Bracelet",
-    "product_handle": "tisha-coin-silver-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/47542220783852",
-    "global_id": "gid://shopify/ProductVariant/47542220783852",
-    "variant_title": "Default Title",
-    "sku": "PMDK0002BR1",
-    "price": 79.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PMDK0002B.jpg?v=1782193693",
-    "available_for_sale": true,
-    "url": "https://www.paksha.com/products/tisha-coin-silver-bracelet?variant=gid://shopify/ProductVariant/47542220783852",
-    "stock": 9999
-  },
   "gid://shopify/ProductVariant/47542220816620": {
     "product_title": "Leela Coin Silver Bracelet",
     "product_handle": "leela-coin-silver-bracelet",
@@ -24740,6 +24726,20 @@
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/48119833166060",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47542220783852": {
+    "product_title": "Tisha Coin Silver Bracelet",
+    "product_handle": "tisha-coin-silver-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/47542220783852",
+    "global_id": "gid://shopify/ProductVariant/47542220783852",
+    "variant_title": "Default Title",
+    "sku": "PMDK0002BR1",
+    "price": 79.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PMDK0002B.jpg?v=1782193693",
+    "available_for_sale": true,
+    "url": "https://www.paksha.com/products/tisha-coin-silver-bracelet?variant=gid://shopify/ProductVariant/47542220783852",
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/45032119238892": {
     "product_title": "Celestial Fusion CZ Silver Cocktail Ring",
