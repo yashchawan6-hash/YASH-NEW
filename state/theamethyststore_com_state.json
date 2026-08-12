@@ -20547,9 +20547,10 @@
     "price": 23387.4,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1353_e7e37c94-5e91-4b87-8707-4a1b7b1e7732.jpg?v=1722422237",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shaira-stone-pair-bangles?variant=gid://shopify/ProductVariant/45347279405283",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46230135144675": {
     "product_title": "Prahara Stone Pair Bangles",
@@ -35750,9 +35751,10 @@
     "price": 12365.36,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8026.jpg?v=1744957181",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/gorgeous-stone-studs?variant=gid://shopify/ProductVariant/46274740158691",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46274789146851": {
     "product_title": "Vibrant Green Kundan Bracelet",
@@ -57825,9 +57827,10 @@
     "price": 51413.94,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10495.jpg?v=1755839229",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/reyanshi-reversible-short-necklace?variant=gid://shopify/ProductVariant/47046721765603",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47046722453731": {
     "product_title": "Classic Maangtikka",
@@ -148583,7 +148586,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4666_22331473-4cf4-4b0a-b6ab-c44daf31bd99.jpg?v=1786085053",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-pendant-18?variant=gid://shopify/ProductVariant/49415048102115",
-    "stock": 7
+    "stock": 6
   },
   "gid://shopify/ProductVariant/49415049904355": {
     "product_title": "Shrishkaa Diamond Design Pendant",
@@ -159333,7 +159336,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4811.jpg?v=1785827074",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/sparkling-avikam-pendant-set-1?variant=gid://shopify/ProductVariant/49497155567843",
-    "stock": 2
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49497159631075": {
     "product_title": "Amazing Avikam Pendant Set",

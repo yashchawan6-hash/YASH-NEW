@@ -14444,20 +14444,6 @@
     "url": "https://www.rubans.in/products/rubans-set-of-4-22k-gold-plated-ruby-pink-stone-studded-filigree-traditional-bangles-1?variant=gid://shopify/ProductVariant/47084608356526",
     "stock": 20
   },
-  "gid://shopify/ProductVariant/47084608290990": {
-    "product_title": "White Kundan Elegance Bangles",
-    "product_handle": "rubans-set-of-2-22k-gold-plated-red-border-square-cut-cubic-zirconia-studded-bangles-1",
-    "variant_id": "gid://shopify/ProductVariant/47084608290990",
-    "global_id": "gid://shopify/ProductVariant/47084608290990",
-    "variant_title": "2.4 - Small",
-    "sku": "RE04B406657",
-    "price": 1082.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04B406657.jpg?v=1770961581",
-    "available_for_sale": true,
-    "url": "https://www.rubans.in/products/rubans-set-of-2-22k-gold-plated-red-border-square-cut-cubic-zirconia-studded-bangles-1?variant=gid://shopify/ProductVariant/47084608290990",
-    "stock": 20
-  },
   "gid://shopify/ProductVariant/47084608061614": {
     "product_title": "Pink Studded Floral Bangles",
     "product_handle": "rubans-set-of-2-22k-gold-plated-pearl-beaded-kundan-studded-filigree-bangles-copy",
@@ -39630,20 +39616,6 @@
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-emerald-green-cubic-zirconia-studded-maang-tikka-with-pearl-drop?variant=gid://shopify/ProductVariant/47074559066286",
     "stock": 20
   },
-  "gid://shopify/ProductVariant/47074580857006": {
-    "product_title": "Rosy Glow Jhumka Chandbali",
-    "product_handle": "rubans-gold-plated-dome-shaped-jhumkas-earrings",
-    "variant_id": "gid://shopify/ProductVariant/47074580857006",
-    "global_id": "gid://shopify/ProductVariant/47074580857006",
-    "variant_title": "Gold",
-    "sku": "RE03EL402557",
-    "price": 1246.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE03EL402557_model.jpg?v=1785518364",
-    "available_for_sale": true,
-    "url": "https://www.rubans.in/products/rubans-gold-plated-dome-shaped-jhumkas-earrings?variant=gid://shopify/ProductVariant/47074580857006",
-    "stock": 20
-  },
   "gid://shopify/ProductVariant/47074587803822": {
     "product_title": "Pink & Green Pearl Drop Necklace Set",
     "product_handle": "rubans-18k-gold-plated-emerald-green-ruby-pink-stone-with-pearl-beads-necklace-set",
@@ -47156,7 +47128,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410220-Model-1.jpg?v=1768541527",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10b410220?variant=gid://shopify/ProductVariant/47377475010734",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47377475043502": {
     "product_title": "American Diamond Zirconia Gold Bangles Set Of 2",
@@ -66146,7 +66119,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04V414071_Model-00.jpg?v=1776949031",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04v414071?variant=gid://shopify/ProductVariant/47769373442222",
-    "stock": 13,
+    "stock": 20,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47769373507758": {
@@ -66203,8 +66176,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ED414074_model.jpg?v=1782305343",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ed414074?variant=gid://shopify/ProductVariant/47769374359726",
-    "stock": 20,
-    "last_alerted_stock": 12
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47769374392494": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Paperclip Chain Ball Pendant Necklace",
@@ -67218,7 +67191,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414160-Model.jpg?v=1776949576",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414160?variant=gid://shopify/ProductVariant/47769393070254",
-    "stock": 19,
+    "stock": 20,
     "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47769393201326": {
@@ -67419,8 +67392,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414176-Model.jpg?v=1776949689",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414176?variant=gid://shopify/ProductVariant/47769395429550",
-    "stock": 20,
-    "last_alerted_stock": 12
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47769395495086": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Baroque Pearl Drop Hoop Earrings",
@@ -67705,7 +67678,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414221-Model.jpg?v=1776949827",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414221?variant=gid://shopify/ProductVariant/47769398640814",
-    "stock": 7,
+    "stock": 20,
     "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47769398673582": {
@@ -67880,7 +67853,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414235-Model.jpg?v=1776949907",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414235?variant=gid://shopify/ProductVariant/47769402278062",
-    "stock": 20
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47769402343598": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Minimal Balloon P Necklace",
@@ -69310,8 +69284,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO414174-Model.jpg?v=1778585751",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro414174?variant=gid://shopify/ProductVariant/47848723382446",
-    "stock": 20,
-    "last_alerted_stock": 12
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47848723415214": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Rope Pear Crystal Ring",
@@ -69470,7 +69444,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04N414183-Model.jpg?v=1779086683",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04n414183?variant=gid://shopify/ProductVariant/47869075357870",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47869075882158": {
@@ -72319,8 +72293,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414164-Model.jpg?v=1780047761",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414164?variant=gid://shopify/ProductVariant/47922733744302",
-    "stock": 20,
-    "last_alerted_stock": 7
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47922733842606": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Twisted Snake Chain Necklace",
@@ -72576,7 +72550,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414148-Model.jpg?v=1780056983",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414148?variant=gid://shopify/ProductVariant/47923339919534",
-    "stock": 9,
+    "stock": 20,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47942161858734": {
@@ -74057,7 +74031,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415281-Model.jpg?v=1781601470",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415281?variant=gid://shopify/ProductVariant/47989353480366",
-    "stock": 20,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47989353513134": {
@@ -74375,7 +74349,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415311-Model.jpg?v=1781601644",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415311?variant=gid://shopify/ProductVariant/47989370749102",
-    "stock": 11,
+    "stock": 20,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47989370781870": {
@@ -74606,7 +74580,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R415275-Model.jpg?v=1781601784",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30r415275?variant=gid://shopify/ProductVariant/47989371699374",
-    "stock": 6,
+    "stock": 20,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47989371732142": {
@@ -74949,7 +74923,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R415282-Model.jpg?v=1781607934",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30r415282?variant=gid://shopify/ProductVariant/47989495627950",
-    "stock": 20,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47989495660718": {
@@ -75250,8 +75224,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415320-Model.jpg?v=1781610021",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415320?variant=gid://shopify/ProductVariant/47989597307054",
-    "stock": 20,
-    "last_alerted_stock": 12
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/47989597372590": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Textured Statement Band Ring",
@@ -75447,7 +75421,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N415336-Model_00.jpg?v=1781852276",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n415336?variant=gid://shopify/ProductVariant/48000488079534",
-    "stock": 8,
+    "stock": 20,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/48000488112302": {
@@ -76008,7 +75982,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30v414391-Model.jpg?v=1784290854",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414391?variant=gid://shopify/ProductVariant/48107698127022",
-    "stock": 20,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107698159790": {
@@ -76388,7 +76362,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30pc414378-Model.jpg?v=1784291049",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414378?variant=gid://shopify/ProductVariant/48107701076142",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107701108910": {
@@ -76660,7 +76634,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO414288-Model_01.jpg?v=1784291177",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro414288?variant=gid://shopify/ProductVariant/48107702780078",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107702976686": {
@@ -76689,7 +76663,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO414407-Model_01.jpg?v=1784291198",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro414407?variant=gid://shopify/ProductVariant/48107703042222",
-    "stock": 20
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48236088819886": {
     "product_title": "Ruby Radiance Bridal Bangles",
@@ -77399,7 +77374,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56B413788.jpg?v=1784889603",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re56b413788?variant=gid://shopify/ProductVariant/48236275138734",
-    "stock": 20
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/48236275171502": {
     "product_title": "Pearl Tassel Multicolor Kashmiri Bangle Stack Set",
@@ -77828,6 +77804,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PS416268_00_model.jpg?v=1785760839",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ps416268?variant=gid://shopify/ProductVariant/48744347762862",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47084608290990": {
+    "product_title": "White Kundan Elegance Bangles",
+    "product_handle": "rubans-set-of-2-22k-gold-plated-red-border-square-cut-cubic-zirconia-studded-bangles-1",
+    "variant_id": "gid://shopify/ProductVariant/47084608290990",
+    "global_id": "gid://shopify/ProductVariant/47084608290990",
+    "variant_title": "2.4 - Small",
+    "sku": "RE04B406657",
+    "price": 1082.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04B406657.jpg?v=1770961581",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/rubans-set-of-2-22k-gold-plated-red-border-square-cut-cubic-zirconia-studded-bangles-1?variant=gid://shopify/ProductVariant/47084608290990",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47074580857006": {
+    "product_title": "Rosy Glow Jhumka Chandbali",
+    "product_handle": "rubans-gold-plated-dome-shaped-jhumkas-earrings",
+    "variant_id": "gid://shopify/ProductVariant/47074580857006",
+    "global_id": "gid://shopify/ProductVariant/47074580857006",
+    "variant_title": "Gold",
+    "sku": "RE03EL402557",
+    "price": 1246.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE03EL402557_model.jpg?v=1785518364",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/rubans-gold-plated-dome-shaped-jhumkas-earrings?variant=gid://shopify/ProductVariant/47074580857006",
     "stock": 20
   },
   "gid://shopify/ProductVariant/44630520594606": {

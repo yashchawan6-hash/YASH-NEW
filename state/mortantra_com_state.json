@@ -39935,7 +39935,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/VC-RNG7PR.jpg?v=1749548746",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/victorian-ring-vc-rng7?variant=gid://shopify/ProductVariant/47045690622175",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47081715531999": {
     "product_title": "Victorian Ring with Kundan - VC-RNG7",
@@ -90988,20 +90989,6 @@
     "stock": 2,
     "last_alerted_stock": 2
   },
-  "gid://shopify/ProductVariant/50588408185055": {
-    "product_title": "White Color Gold Plated Jadau Kundan Hathphool (1 Piece) - MHP304Y",
-    "product_handle": "white-color-gold-plated-jadau-kundan-hathphool-1-piece-mhp304y",
-    "variant_id": "gid://shopify/ProductVariant/50588408185055",
-    "global_id": "gid://shopify/ProductVariant/50588408185055",
-    "variant_title": "Default Title",
-    "sku": "MHP304Y",
-    "price": 4000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHP304Y.jpg?v=1784614763",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-hathphool-1-piece-mhp304y?variant=gid://shopify/ProductVariant/50588408185055",
-    "stock": 2
-  },
   "gid://shopify/ProductVariant/50588408512735": {
     "product_title": "Pink Color Gold Plated Jadau Kundan Hathphool (1 Piece) - MHP304YP",
     "product_handle": "pink-color-gold-plated-jadau-kundan-hathphool-1-piece-mhp304yp",
@@ -94048,6 +94035,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/50588408185055": {
+    "product_title": "White Color Gold Plated Jadau Kundan Hathphool (1 Piece) - MHP304Y",
+    "product_handle": "white-color-gold-plated-jadau-kundan-hathphool-1-piece-mhp304y",
+    "variant_id": "gid://shopify/ProductVariant/50588408185055",
+    "global_id": "gid://shopify/ProductVariant/50588408185055",
+    "variant_title": "Default Title",
+    "sku": "MHP304Y",
+    "price": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHP304Y.jpg?v=1784614763",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-hathphool-1-piece-mhp304y?variant=gid://shopify/ProductVariant/50588408185055",
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50588594503903": {
     "product_title": "Green Color Gold Plated Jadau Kundan Ring - MRNG314YGR",
