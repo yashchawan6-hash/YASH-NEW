@@ -3130,7 +3130,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/attrangi-box-with-roli-chawal-attrangi-31818029564116.jpg?v=1694856188",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/attrangi-box-with-roli-chawal?variant=gid://shopify/ProductVariant/40880201236649",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40888155865257": {
@@ -14174,8 +14174,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sona-moti-rakhi-bracelet-or-bhaiya-bhaabhi-sister-attrangi-1.jpg?v=1739816807",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sona-moti-rakhi-bracelet-bhaiya-bhaabhi-sister?variant=gid://shopify/ProductVariant/45442902917332",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45453862502612": {
     "product_title": "Abhilasha Indian Polki Choker Set",
@@ -45413,7 +45413,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-15at1.44.15PM.jpg?v=1784106553",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sona-moti-rakhi-bracelet-bhaabhi-sister?variant=gid://shopify/ProductVariant/48297605300436",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48330884415700": {
     "product_title": "Two Band Style Wrap Ring \u2013 Heart & Emerald Cut Diamond Ring| Adjustable",
@@ -47047,10 +47048,10 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713093844",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48379713159380": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
