@@ -1529,7 +1529,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002S_101900_2026031640119.jpg?v=1779884845",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992166711508",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47992150261972": {
@@ -49068,6 +49068,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.38.23PM_1.jpg?v=1786535246",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-designer-delicate-indian-nail-rings?variant=gid://shopify/ProductVariant/48460041486548",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48460303794388": {
+    "product_title": "Paro Gold Traditional Set with Jhumkas | Sone Pe Suhaga",
+    "product_handle": "paro-gold-traditional-set-with-jhumkas-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48460303794388",
+    "global_id": "gid://shopify/ProductVariant/48460303794388",
+    "variant_title": "Default Title",
+    "sku": "SH41133-JS",
+    "price": 7450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at5.15.21PM_1.jpg?v=1786537152",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/paro-gold-traditional-set-with-jhumkas-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48460303794388",
     "stock": 0
   },
   "gid://shopify/ProductVariant/47684226187476": {
