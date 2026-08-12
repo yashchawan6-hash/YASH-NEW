@@ -68,9 +68,9 @@
     "price": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659206825",
-    "stock": 0,
+    "stock": 5,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43535590293716": {
@@ -83,9 +83,9 @@
     "price": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/43535590293716",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411659337897": {
@@ -98,9 +98,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/small-round-solitaires-halo-attrangi-4.jpg?v=1739812458",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/small-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659337897",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411659370665": {
