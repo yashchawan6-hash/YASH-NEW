@@ -49973,20 +49973,6 @@
     "url": "https://www.rasasilver.com/products/aarvya-cuff-buggadi-copy?variant=gid://shopify/ProductVariant/52623005057321",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/52623007056169": {
-    "product_title": "Gulnaar Antique Danglers",
-    "product_handle": "gulnaar-antique-danglers-1",
-    "variant_id": "gid://shopify/ProductVariant/52623007056169",
-    "global_id": "gid://shopify/ProductVariant/52623007056169",
-    "variant_title": "Default Title",
-    "sku": "R23324",
-    "price": 13300.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0125copy_resized_1.jpg?v=1770964694",
-    "available_for_sale": true,
-    "url": "https://www.rasasilver.com/products/gulnaar-antique-danglers-1?variant=gid://shopify/ProductVariant/52623007056169",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/52623012036905": {
     "product_title": "Reyvani Kundan Buggadi",
     "product_handle": "reyvani-round-kundan-cuff",
@@ -77119,6 +77105,34 @@
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/emerald-fleur-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53365634924841",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/53365635580201": {
+    "product_title": "Moissanite Swarnika KaanKarela",
+    "product_handle": "moissanite-swarnika-kaankarela",
+    "variant_id": "gid://shopify/ProductVariant/53365635580201",
+    "global_id": "gid://shopify/ProductVariant/53365635580201",
+    "variant_title": "Default Title",
+    "sku": "R30938",
+    "price": 48535.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2668_resized.jpg?v=1785237657",
+    "available_for_sale": true,
+    "url": "https://www.rasasilver.com/products/moissanite-swarnika-kaankarela?variant=gid://shopify/ProductVariant/53365635580201",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/52623007056169": {
+    "product_title": "Gulnaar Antique Danglers",
+    "product_handle": "gulnaar-antique-danglers-1",
+    "variant_id": "gid://shopify/ProductVariant/52623007056169",
+    "global_id": "gid://shopify/ProductVariant/52623007056169",
+    "variant_title": "Default Title",
+    "sku": "R23324",
+    "price": 13300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0125copy_resized_1.jpg?v=1770964694",
+    "available_for_sale": true,
+    "url": "https://www.rasasilver.com/products/gulnaar-antique-danglers-1?variant=gid://shopify/ProductVariant/52623007056169",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/53365659795753": {
     "product_title": "Fleurance Moissanite Haath Phool",
