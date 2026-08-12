@@ -12,5 +12,33 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/mothika-red-stone-necklace?variant=gid://shopify/ProductVariant/43642226639075",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-3881.jpg?v=1673246364"
+  },
+  {
+    "timestamp_ist": "2026-08-12 10:52:04",
+    "product_title": "Amethyst Leafy Pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45281021427939",
+    "sku": "AMS-104-1748",
+    "price": 1800.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.theamethyststore.com/products/amethyst-leafy-pendant?variant=gid://shopify/ProductVariant/45281021427939",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1748.jpg?v=1721293649"
+  },
+  {
+    "timestamp_ist": "2026-08-12 10:52:04",
+    "product_title": "Alluring Hook Drops",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45281198932195",
+    "sku": "AMS-106-6302",
+    "price": 3417.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/alluring-hook-drops?variant=gid://shopify/ProductVariant/45281198932195",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6302.jpg?v=1721297356"
   }
 ]
