@@ -250,5 +250,33 @@
     "curr_stock": 6,
     "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_9928807f-508f-48ed-be0b-efbe84f1556d.jpg?v=1624462258"
+  },
+  {
+    "timestamp_ist": "2026-08-12 08:21:34",
+    "product_title": "Simple Pearl Jadabillai (Price for Each)",
+    "variant_title": "2",
+    "variant_id": "gid://shopify/ProductVariant/46312480342238",
+    "sku": "1563",
+    "price": 549.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 29,
+    "curr_stock": 28,
+    "url": "https://www.daivik.in/products/single-pearl-jadabillai?variant=gid://shopify/ProductVariant/46312480342238",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/917C6FCA-F083-4C9C-8135-549DE6B4CF17.jpg?v=1740324437"
+  },
+  {
+    "timestamp_ist": "2026-08-12 08:21:34",
+    "product_title": "Multi Layer Pearl Mattals",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47088039788766",
+    "sku": "1630",
+    "price": 499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 16,
+    "curr_stock": 15,
+    "url": "https://www.daivik.in/products/multi-layer-pearl-mattals?variant=gid://shopify/ProductVariant/47088039788766",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2B579089-90CE-42B0-A8B0-8583CF1373FB.jpg?v=1752775998"
   }
 ]
