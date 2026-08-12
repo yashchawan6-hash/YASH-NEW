@@ -8433,6 +8433,35 @@
     "stock": 4,
     "last_alerted_stock": 4
   },
+  "gid://shopify/ProductVariant/45649217126574": {
+    "product_title": "Prism Loop Golden American Diamond Zirconia Hoops",
+    "product_handle": "22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings",
+    "variant_id": "gid://shopify/ProductVariant/45649217126574",
+    "global_id": "gid://shopify/ProductVariant/45649217126574",
+    "variant_title": "Gold",
+    "sku": "RW30ES405537",
+    "price": 789.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings-hoop-earrings-36848458858670.jpg?v=1755720010",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings?variant=gid://shopify/ProductVariant/45649217126574",
+    "stock": 17,
+    "last_alerted_stock": 17
+  },
+  "gid://shopify/ProductVariant/46074168246446": {
+    "product_title": "Prism Loop Golden American Diamond Zirconia Hoops",
+    "product_handle": "22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings",
+    "variant_id": "gid://shopify/ProductVariant/46074168246446",
+    "global_id": "gid://shopify/ProductVariant/46074168246446",
+    "variant_title": "Silver",
+    "sku": "RW04ES405539",
+    "price": 746.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings-hoop-earrings-36848458858670.jpg?v=1755720010",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings?variant=gid://shopify/ProductVariant/46074168246446",
+    "stock": 20
+  },
   "gid://shopify/ProductVariant/45649219027118": {
     "product_title": "A Hoops of Blossoming Energy",
     "product_handle": "22k-gold-plated-cubic-zirconia-studded-floral-half-hoop-earrings",
@@ -10088,6 +10117,48 @@
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rhodium-plated-emerald-green-cubic-zirconia-studded-necklace-set?variant=gid://shopify/ProductVariant/45786533101742",
     "stock": 20
+  },
+  "gid://shopify/ProductVariant/45786533822638": {
+    "product_title": "Delicately Graceful Pink Floral Statement Necklace",
+    "product_handle": "charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry",
+    "variant_id": "gid://shopify/ProductVariant/45786533822638",
+    "global_id": "gid://shopify/ProductVariant/45786533822638",
+    "variant_title": "pink",
+    "sku": "RW19C405868",
+    "price": 1034.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW19C405869_01.jpg?v=1765202984",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry?variant=gid://shopify/ProductVariant/45786533822638",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/46075040825518": {
+    "product_title": "Delicately Graceful Pink Floral Statement Necklace",
+    "product_handle": "charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry",
+    "variant_id": "gid://shopify/ProductVariant/46075040825518",
+    "global_id": "gid://shopify/ProductVariant/46075040825518",
+    "variant_title": "Beige",
+    "sku": "RW19C405869",
+    "price": 631.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW19C405869_01.jpg?v=1765202984",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry?variant=gid://shopify/ProductVariant/46075040825518",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/46075040858286": {
+    "product_title": "Delicately Graceful Pink Floral Statement Necklace",
+    "product_handle": "charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry",
+    "variant_id": "gid://shopify/ProductVariant/46075040858286",
+    "global_id": "gid://shopify/ProductVariant/46075040858286",
+    "variant_title": "f-White",
+    "sku": "RW19C405870",
+    "price": 1034.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW19C405869_01.jpg?v=1765202984",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry?variant=gid://shopify/ProductVariant/46075040858286",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/45786591461550": {
     "product_title": "American Diamond Zirconia Floral Design Necklace Set",
@@ -59145,7 +59216,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ED414061-Model.jpg?v=1776948975",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ed414061?variant=gid://shopify/ProductVariant/47769372098734",
-    "stock": 15,
+    "stock": 20,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47769372164270": {
@@ -59358,7 +59429,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414077_model.jpg?v=1782306642",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414077?variant=gid://shopify/ProductVariant/47769374687406",
-    "stock": 20,
+    "stock": 5,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47769375047854": {
@@ -60036,7 +60107,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414136-Model.jpg?v=1776949443",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414136?variant=gid://shopify/ProductVariant/47769389596846",
-    "stock": 20
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769389727918": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Moon Coin Pendant Charm Necklace",
@@ -60233,7 +60305,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414154-Model.jpg?v=1776949546",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414154?variant=gid://shopify/ProductVariant/47769392283822",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769392316590": {
@@ -60728,7 +60800,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414215-Model.jpg?v=1776949801",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414215?variant=gid://shopify/ProductVariant/47769398083758",
-    "stock": 20
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769398116526": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Engraved Square C Pendant Necklace",
@@ -60742,7 +60815,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414216-Model.jpg?v=1776949800",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414216?variant=gid://shopify/ProductVariant/47769398116526",
-    "stock": 6,
+    "stock": 20,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769398214830": {
@@ -61223,7 +61296,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414067-Model.jpg?v=1777016476",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414067?variant=gid://shopify/ProductVariant/47774758076590",
-    "stock": 18,
+    "stock": 20,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774758109358": {
@@ -61435,7 +61508,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414113-Model.jpg?v=1777016570",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414113?variant=gid://shopify/ProductVariant/47774760927406",
-    "stock": 20,
+    "stock": 18,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774760960174": {
@@ -62376,7 +62449,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO414174-Model.jpg?v=1778585751",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro414174?variant=gid://shopify/ProductVariant/47848723382446",
-    "stock": 20,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47848723415214": {
@@ -62519,7 +62592,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ED414058-Model.jpg?v=1779086683",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ed414058?variant=gid://shopify/ProductVariant/47869075325102",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47869075357870": {
@@ -64591,7 +64664,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414083-Model.jpg?v=1780047646",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414083?variant=gid://shopify/ProductVariant/47922728960174",
-    "stock": 20,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47922729713838": {
@@ -64761,7 +64834,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414152-Model.jpg?v=1780047732",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414152?variant=gid://shopify/ProductVariant/47922732794030",
-    "stock": 7,
+    "stock": 18,
     "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47922732925102": {
@@ -64975,8 +65048,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414107_Model.jpg?v=1782306697",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414107?variant=gid://shopify/ProductVariant/47922736300206",
-    "stock": 20,
-    "last_alerted_stock": 7
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47922736693422": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Puffy Heart Pendant Chain Necklace",
@@ -65361,8 +65434,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04KB412503_Model-00.jpg?v=1780556201",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re04kb412503?variant=gid://shopify/ProductVariant/47942167330990",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47942167396526": {
     "product_title": "Ruby Sparkle Party Dangler Earrings",
@@ -66569,7 +66642,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415281-Model.jpg?v=1781601470",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415281?variant=gid://shopify/ProductVariant/47989353480366",
-    "stock": 20,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47989353513134": {
@@ -66599,7 +66672,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415284-Model.jpg?v=1781601489",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415284?variant=gid://shopify/ProductVariant/47989353545902",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47989353578670": {
@@ -67181,7 +67254,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415327-Model-1.jpg?v=1781607658",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415327?variant=gid://shopify/ProductVariant/47989494415534",
-    "stock": 17,
+    "stock": 20,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47989494448302": {
@@ -67450,8 +67523,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R415282-Model.jpg?v=1781607934",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30r415282?variant=gid://shopify/ProductVariant/47989495627950",
-    "stock": 20,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47989495660718": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Textured Wave Band Ring",
@@ -67706,7 +67779,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415317-Model.jpg?v=1781610004",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415317?variant=gid://shopify/ProductVariant/47989589049518",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47989595603118": {
@@ -67749,7 +67822,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415320-Model.jpg?v=1781610021",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415320?variant=gid://shopify/ProductVariant/47989597307054",
-    "stock": 20
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/47989597372590": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Textured Statement Band Ring",
@@ -68501,7 +68575,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30v414391-Model.jpg?v=1784290854",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414391?variant=gid://shopify/ProductVariant/48107698127022",
-    "stock": 20
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107698159790": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Heart Charm Bracelet",
@@ -69801,7 +69876,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04PS416240_00_model.jpg?v=1785760741",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04ps416240?variant=gid://shopify/ProductVariant/48744221278382",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48744245788846": {
@@ -69830,7 +69905,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PS416239_model.jpg?v=1785760762",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ps416239?variant=gid://shopify/ProductVariant/48744253980846",
-    "stock": 20
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48744257224878": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Shell Drop Pendant Set",
@@ -70515,21 +70591,6 @@
     "url": "https://www.rubans.in/products/timeless-glamour-22k-gold-plated-choker-set-ensemble-for-classic-style?variant=gid://shopify/ProductVariant/45608536342702",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/45649217126574": {
-    "product_title": "Prism Loop Golden American Diamond Zirconia Hoops",
-    "product_handle": "22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings",
-    "variant_id": "gid://shopify/ProductVariant/45649217126574",
-    "global_id": "gid://shopify/ProductVariant/45649217126574",
-    "variant_title": "Gold",
-    "sku": "RW30ES405537",
-    "price": 789.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings-hoop-earrings-36848458858670.jpg?v=1755720010",
-    "available_for_sale": true,
-    "url": "https://www.rubans.in/products/22k-gold-plated-sparkling-ad-cubic-zirconia-studded-luxurious-hoop-earrings?variant=gid://shopify/ProductVariant/45649217126574",
-    "stock": 18,
-    "last_alerted_stock": 18
-  },
   "gid://shopify/ProductVariant/46074165625006": {
     "product_title": "Crystal Bloom Pearl Drop Earrings",
     "product_handle": "voguish-rhodium-plated-sparkling-ad-cubic-zirconia-studded-floral-motif-pearl-drop-earrings",
@@ -70745,20 +70806,6 @@
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-crystal-white-ad-cubic-zirconia-studded-premium-bangles?variant=gid://shopify/ProductVariant/47084617629870",
     "stock": 7
-  },
-  "gid://shopify/ProductVariant/45786533822638": {
-    "product_title": "Delicately Graceful Pink Floral Statement Necklace",
-    "product_handle": "charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry",
-    "variant_id": "gid://shopify/ProductVariant/45786533822638",
-    "global_id": "gid://shopify/ProductVariant/45786533822638",
-    "variant_title": "pink",
-    "sku": "RW19C405868",
-    "price": 1034.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW19C405869_01.jpg?v=1765202984",
-    "available_for_sale": true,
-    "url": "https://www.rubans.in/products/charming-double-pink-floral-choker-with-soft-rope-detailing-stylish-statement-jewelry?variant=gid://shopify/ProductVariant/45786533822638",
-    "stock": 2
   },
   "gid://shopify/ProductVariant/45819833811118": {
     "product_title": "22K Gold Plated AD & Cubic Zirconia Studded Triple Layered Bracelet",

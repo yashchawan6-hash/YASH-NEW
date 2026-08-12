@@ -726,5 +726,61 @@
     "curr_stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d25166?variant=gid://shopify/ProductVariant/47543115055326",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6514.jpg?v=1758230103"
+  },
+  {
+    "timestamp_ist": "2026-08-12 11:32:18",
+    "product_title": "Mini version of the Big size jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44757040464094",
+    "sku": "838",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 34,
+    "curr_stock": 33,
+    "url": "https://www.daivik.in/products/mini-version-of-the-big-size-jhumkas?variant=gid://shopify/ProductVariant/44757040464094",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_759a774f-96d7-41af-a149-dc4f82e5ba7c.jpg?v=1630159442"
+  },
+  {
+    "timestamp_ist": "2026-08-12 11:32:18",
+    "product_title": "Tikka (Price for each )",
+    "variant_title": "3.",
+    "variant_id": "gid://shopify/ProductVariant/43630214349022",
+    "sku": "1023",
+    "price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 12,
+    "curr_stock": 11,
+    "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7b2d0a3f-57f6-4b02-90e0-6cb541445113.heic?v=1667830084"
+  },
+  {
+    "timestamp_ist": "2026-08-12 11:32:18",
+    "product_title": "Gold Finish Peacock Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/46704375890142",
+    "sku": "555",
+    "price": 1899.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.daivik.in/products/a-42?variant=gid://shopify/ProductVariant/46704375890142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DDEA169A-6099-4250-AF88-88AF87D15940.jpg?v=1747322128"
+  },
+  {
+    "timestamp_ist": "2026-08-12 11:32:18",
+    "product_title": "Antique Chakra Hipchain",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48292341252318",
+    "sku": "1902",
+    "price": 2199.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.daivik.in/products/antique-chakra-hipchain?variant=gid://shopify/ProductVariant/48292341252318",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2BA69BA8-C52A-43C8-8D42-7E692C6CEC96.jpg?v=1780150095"
   }
 ]
