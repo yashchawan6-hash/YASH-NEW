@@ -14682,9 +14682,9 @@
     "price": 1309.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-gemstone-cubic-zirconia-studded-bangles-bangles-bracelets-37927583613102.jpg?v=1770807206",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-22k-gold-plated-gemstone-cubic-zirconia-studded-bangles-re13b407361?variant=gid://shopify/ProductVariant/47084607242414",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084607275182": {
@@ -35811,9 +35811,9 @@
     "price": 804.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410507_0f2f4af7-ad78-43b2-9ea4-ccee71360d2e.jpg?v=1769497594",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22-k-gold-plated-ruby-emerald-kundan-with-zirconia-studded-peacock-design-necklace-set?variant=gid://shopify/ProductVariant/47092235665582",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47092266369198": {
@@ -37377,7 +37377,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410728.jpg?v=1769151951",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-24k-gold-plated-brass-golden-cluster-temple-necklace-set-with-red-green-stones-re16ns410728?variant=gid://shopify/ProductVariant/47147262935214",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47147263787182": {
     "product_title": "Pink & Green Blessings Lakshmi Necklace Set",
@@ -39572,6 +39573,118 @@
     "url": "https://www.rubans.in/products/re10b410219?variant=gid://shopify/ProductVariant/47198388945070",
     "stock": 14,
     "last_alerted_stock": 14
+  },
+  "gid://shopify/ProductVariant/47198388977838": {
+    "product_title": "Pink & Green Hues Golden Bangles Set Of 2",
+    "product_handle": "pink-green-hues-golden-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47198388977838",
+    "global_id": "gid://shopify/ProductVariant/47198388977838",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410865",
+    "price": 1375.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410865-Model-2_9f50dc8b-24b4-4555-9cee-27e321e640ef.jpg?v=1769068447",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/pink-green-hues-golden-bangles-set-of-2?variant=gid://shopify/ProductVariant/47198388977838",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/47367884701870": {
+    "product_title": "Pink & Green Hues Golden Bangles Set Of 2",
+    "product_handle": "pink-green-hues-golden-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367884701870",
+    "global_id": "gid://shopify/ProductVariant/47367884701870",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410866",
+    "price": 1375.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410865-Model-2_9f50dc8b-24b4-4555-9cee-27e321e640ef.jpg?v=1769068447",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/pink-green-hues-golden-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367884701870",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47367884734638": {
+    "product_title": "Pink & Green Hues Golden Bangles Set Of 2",
+    "product_handle": "pink-green-hues-golden-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367884734638",
+    "global_id": "gid://shopify/ProductVariant/47367884734638",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410867",
+    "price": 1375.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410865-Model-2_9f50dc8b-24b4-4555-9cee-27e321e640ef.jpg?v=1769068447",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/pink-green-hues-golden-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367884734638",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367884767406": {
+    "product_title": "Pink & Green Hues Golden Bangles Set Of 2",
+    "product_handle": "pink-green-hues-golden-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367884767406",
+    "global_id": "gid://shopify/ProductVariant/47367884767406",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411043",
+    "price": 1375.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410865-Model-2_9f50dc8b-24b4-4555-9cee-27e321e640ef.jpg?v=1769068447",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/pink-green-hues-golden-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367884767406",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/47198389010606": {
+    "product_title": "American Diamond Zirconia Pink & Green Bangles Set Of 2",
+    "product_handle": "american-diamond-zirconia-pink-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47198389010606",
+    "global_id": "gid://shopify/ProductVariant/47198389010606",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410892",
+    "price": 1694.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410892-Model-2.jpg?v=1768486823",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-pink-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47198389010606",
+    "stock": 8
+  },
+  "gid://shopify/ProductVariant/47367885160622": {
+    "product_title": "American Diamond Zirconia Pink & Green Bangles Set Of 2",
+    "product_handle": "american-diamond-zirconia-pink-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367885160622",
+    "global_id": "gid://shopify/ProductVariant/47367885160622",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410893",
+    "price": 1694.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410892-Model-2.jpg?v=1768486823",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-pink-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367885160622",
+    "stock": 6
+  },
+  "gid://shopify/ProductVariant/47367885193390": {
+    "product_title": "American Diamond Zirconia Pink & Green Bangles Set Of 2",
+    "product_handle": "american-diamond-zirconia-pink-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367885193390",
+    "global_id": "gid://shopify/ProductVariant/47367885193390",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410894",
+    "price": 1694.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410892-Model-2.jpg?v=1768486823",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-pink-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367885193390",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367885226158": {
+    "product_title": "American Diamond Zirconia Pink & Green Bangles Set Of 2",
+    "product_handle": "american-diamond-zirconia-pink-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367885226158",
+    "global_id": "gid://shopify/ProductVariant/47367885226158",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411051",
+    "price": 1694.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410892-Model-2.jpg?v=1768486823",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-pink-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367885226158",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47198389043374": {
     "product_title": "Pink Blush Gold Toned Bangles Set Of 2",
@@ -42804,6 +42917,230 @@
     "url": "https://www.rubans.in/products/american-diamond-zirconia-gold-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367884439726",
     "stock": 20
   },
+  "gid://shopify/ProductVariant/47198829019310": {
+    "product_title": "Gold Toned Green Bangles Set Of 2",
+    "product_handle": "gold-toned-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47198829019310",
+    "global_id": "gid://shopify/ProductVariant/47198829019310",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410871",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410871-Model-2.jpg?v=1768486873",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/gold-toned-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47198829019310",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367888208046": {
+    "product_title": "Gold Toned Green Bangles Set Of 2",
+    "product_handle": "gold-toned-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367888208046",
+    "global_id": "gid://shopify/ProductVariant/47367888208046",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410872",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410871-Model-2.jpg?v=1768486873",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/gold-toned-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367888208046",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47367888240814": {
+    "product_title": "Gold Toned Green Bangles Set Of 2",
+    "product_handle": "gold-toned-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367888240814",
+    "global_id": "gid://shopify/ProductVariant/47367888240814",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410873",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410871-Model-2.jpg?v=1768486873",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/gold-toned-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367888240814",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367888273582": {
+    "product_title": "Gold Toned Green Bangles Set Of 2",
+    "product_handle": "gold-toned-green-bangles-set-of-2",
+    "variant_id": "gid://shopify/ProductVariant/47367888273582",
+    "global_id": "gid://shopify/ProductVariant/47367888273582",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10411045",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410871-Model-2.jpg?v=1768486873",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/gold-toned-green-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367888273582",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47198829543598": {
+    "product_title": "American Diamond Zirconia Studded Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-studded-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47198829543598",
+    "global_id": "gid://shopify/ProductVariant/47198829543598",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410886",
+    "price": 1529.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410886-Model-2.jpg?v=1768486821",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-studded-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47198829543598",
+    "stock": 4
+  },
+  "gid://shopify/ProductVariant/47367884964014": {
+    "product_title": "American Diamond Zirconia Studded Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-studded-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367884964014",
+    "global_id": "gid://shopify/ProductVariant/47367884964014",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410887",
+    "price": 1529.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410886-Model-2.jpg?v=1768486821",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-studded-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367884964014",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/47367884996782": {
+    "product_title": "American Diamond Zirconia Studded Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-studded-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367884996782",
+    "global_id": "gid://shopify/ProductVariant/47367884996782",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410888",
+    "price": 1529.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410886-Model-2.jpg?v=1768486821",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-studded-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367884996782",
+    "stock": 7
+  },
+  "gid://shopify/ProductVariant/47367885029550": {
+    "product_title": "American Diamond Zirconia Studded Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-studded-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367885029550",
+    "global_id": "gid://shopify/ProductVariant/47367885029550",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411049",
+    "price": 1529.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410886-Model-2.jpg?v=1768486821",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-studded-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367885029550",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47198829805742": {
+    "product_title": "Set Of 4 American Diamond Zirconia Golden Bangles",
+    "product_handle": "set-of-4-american-diamond-zirconia-golden-bangles",
+    "variant_id": "gid://shopify/ProductVariant/47198829805742",
+    "global_id": "gid://shopify/ProductVariant/47198829805742",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410889",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410889-Model-2.jpg?v=1768486822",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/set-of-4-american-diamond-zirconia-golden-bangles?variant=gid://shopify/ProductVariant/47198829805742",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367885062318": {
+    "product_title": "Set Of 4 American Diamond Zirconia Golden Bangles",
+    "product_handle": "set-of-4-american-diamond-zirconia-golden-bangles",
+    "variant_id": "gid://shopify/ProductVariant/47367885062318",
+    "global_id": "gid://shopify/ProductVariant/47367885062318",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410890",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410889-Model-2.jpg?v=1768486822",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/set-of-4-american-diamond-zirconia-golden-bangles?variant=gid://shopify/ProductVariant/47367885062318",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47367885095086": {
+    "product_title": "Set Of 4 American Diamond Zirconia Golden Bangles",
+    "product_handle": "set-of-4-american-diamond-zirconia-golden-bangles",
+    "variant_id": "gid://shopify/ProductVariant/47367885095086",
+    "global_id": "gid://shopify/ProductVariant/47367885095086",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410891",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410889-Model-2.jpg?v=1768486822",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/set-of-4-american-diamond-zirconia-golden-bangles?variant=gid://shopify/ProductVariant/47367885095086",
+    "stock": 10
+  },
+  "gid://shopify/ProductVariant/47367885127854": {
+    "product_title": "Set Of 4 American Diamond Zirconia Golden Bangles",
+    "product_handle": "set-of-4-american-diamond-zirconia-golden-bangles",
+    "variant_id": "gid://shopify/ProductVariant/47367885127854",
+    "global_id": "gid://shopify/ProductVariant/47367885127854",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411050",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410889-Model-2.jpg?v=1768486822",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/set-of-4-american-diamond-zirconia-golden-bangles?variant=gid://shopify/ProductVariant/47367885127854",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47198867751086": {
+    "product_title": "Floral American Diamond Zirconia Gold Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47198867751086",
+    "global_id": "gid://shopify/ProductVariant/47198867751086",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410895",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410895-Model-2_e0366c2b-02e1-4996-bd75-6690c8104064.jpg?v=1768486827",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47198867751086",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47367885291694": {
+    "product_title": "Floral American Diamond Zirconia Gold Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367885291694",
+    "global_id": "gid://shopify/ProductVariant/47367885291694",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410896",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410895-Model-2_e0366c2b-02e1-4996-bd75-6690c8104064.jpg?v=1768486827",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367885291694",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367885324462": {
+    "product_title": "Floral American Diamond Zirconia Gold Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367885324462",
+    "global_id": "gid://shopify/ProductVariant/47367885324462",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410897",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410895-Model-2_e0366c2b-02e1-4996-bd75-6690c8104064.jpg?v=1768486827",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367885324462",
+    "stock": 17
+  },
+  "gid://shopify/ProductVariant/47367885357230": {
+    "product_title": "Floral American Diamond Zirconia Gold Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367885357230",
+    "global_id": "gid://shopify/ProductVariant/47367885357230",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411052",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410895-Model-2_e0366c2b-02e1-4996-bd75-6690c8104064.jpg?v=1768486827",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367885357230",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/47198868439214": {
     "product_title": "Set Of 2 American Diamond Zirconia Golden Bangles",
     "product_handle": "set-of-2-american-diamond-zirconia-golden-bangles",
@@ -42860,6 +43197,62 @@
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/set-of-2-american-diamond-zirconia-golden-bangles?variant=gid://shopify/ProductVariant/47367885553838",
     "stock": 20
+  },
+  "gid://shopify/ProductVariant/47198869356718": {
+    "product_title": "Multicolor Glam Golden Bangles Set of 4",
+    "product_handle": "multicolor-glam-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47198869356718",
+    "global_id": "gid://shopify/ProductVariant/47198869356718",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410910",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410910-Model-2_38c9bacb-7e18-4356-bba1-59196c846a76.jpg?v=1768486834",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/multicolor-glam-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47198869356718",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367885684910": {
+    "product_title": "Multicolor Glam Golden Bangles Set of 4",
+    "product_handle": "multicolor-glam-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367885684910",
+    "global_id": "gid://shopify/ProductVariant/47367885684910",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410911",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410910-Model-2_38c9bacb-7e18-4356-bba1-59196c846a76.jpg?v=1768486834",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/multicolor-glam-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367885684910",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367885717678": {
+    "product_title": "Multicolor Glam Golden Bangles Set of 4",
+    "product_handle": "multicolor-glam-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367885717678",
+    "global_id": "gid://shopify/ProductVariant/47367885717678",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410912",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410910-Model-2_38c9bacb-7e18-4356-bba1-59196c846a76.jpg?v=1768486834",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/multicolor-glam-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367885717678",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367885750446": {
+    "product_title": "Multicolor Glam Golden Bangles Set of 4",
+    "product_handle": "multicolor-glam-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367885750446",
+    "global_id": "gid://shopify/ProductVariant/47367885750446",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411057",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410910-Model-2_38c9bacb-7e18-4356-bba1-59196c846a76.jpg?v=1768486834",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/multicolor-glam-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367885750446",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47198870143150": {
     "product_title": "Laxmi Motif Gold Toned Bangles Set Of 2",
@@ -43027,6 +43420,62 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10410928-Model-1.jpg?v=1768486851",
     "available_for_sale": false,
     "url": "https://www.rubans.in/products/pink-prestige-kundan-kundan-bangles?variant=gid://shopify/ProductVariant/47367886733486",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47198874108078": {
+    "product_title": "White Studded Gold Toned Bangles Set Of 4",
+    "product_handle": "white-studded-gold-toned-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47198874108078",
+    "global_id": "gid://shopify/ProductVariant/47198874108078",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410874",
+    "price": 1429.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410874-Model-2.jpg?v=1768486865",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/white-studded-gold-toned-bangles-set-of-4?variant=gid://shopify/ProductVariant/47198874108078",
+    "stock": 7
+  },
+  "gid://shopify/ProductVariant/47367887323310": {
+    "product_title": "White Studded Gold Toned Bangles Set Of 4",
+    "product_handle": "white-studded-gold-toned-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367887323310",
+    "global_id": "gid://shopify/ProductVariant/47367887323310",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410875",
+    "price": 1429.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410874-Model-2.jpg?v=1768486865",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/white-studded-gold-toned-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367887323310",
+    "stock": 17
+  },
+  "gid://shopify/ProductVariant/47367887356078": {
+    "product_title": "White Studded Gold Toned Bangles Set Of 4",
+    "product_handle": "white-studded-gold-toned-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367887356078",
+    "global_id": "gid://shopify/ProductVariant/47367887356078",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410876",
+    "price": 1429.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410874-Model-2.jpg?v=1768486865",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/white-studded-gold-toned-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367887356078",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367887388846": {
+    "product_title": "White Studded Gold Toned Bangles Set Of 4",
+    "product_handle": "white-studded-gold-toned-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367887388846",
+    "global_id": "gid://shopify/ProductVariant/47367887388846",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411066",
+    "price": 1429.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410874-Model-2.jpg?v=1768486865",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/white-studded-gold-toned-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367887388846",
     "stock": 0
   },
   "gid://shopify/ProductVariant/47198875025582": {
@@ -43583,7 +44032,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410206-Model-1_2c58c0cc-b8c3-4ac5-b09f-ed0f58b1d98a.jpg?v=1768486835",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/blue-american-diamond-zirconia-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367885783214",
-    "stock": 11
+    "stock": 12
   },
   "gid://shopify/ProductVariant/47367885815982": {
     "product_title": "Blue American Diamond Zirconia Bangles Set Of 2",
@@ -46464,6 +46913,62 @@
     "url": "https://www.rubans.in/products/american-diamond-zirconia-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367888568494",
     "stock": 0
   },
+  "gid://shopify/ProductVariant/47275198021806": {
+    "product_title": "Floral American Diamond Zirconia Golden Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47275198021806",
+    "global_id": "gid://shopify/ProductVariant/47275198021806",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410907",
+    "price": 1639.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410907-Model-2_faf4eb1b-ccc7-4c20-9240-09eb24194463.jpg?v=1767077248",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47275198021806",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367888601262": {
+    "product_title": "Floral American Diamond Zirconia Golden Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367888601262",
+    "global_id": "gid://shopify/ProductVariant/47367888601262",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410908",
+    "price": 1639.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410907-Model-2_faf4eb1b-ccc7-4c20-9240-09eb24194463.jpg?v=1767077248",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367888601262",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367888634030": {
+    "product_title": "Floral American Diamond Zirconia Golden Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367888634030",
+    "global_id": "gid://shopify/ProductVariant/47367888634030",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410909",
+    "price": 1639.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410907-Model-2_faf4eb1b-ccc7-4c20-9240-09eb24194463.jpg?v=1767077248",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367888634030",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367888666798": {
+    "product_title": "Floral American Diamond Zirconia Golden Bangles Set Of 4",
+    "product_handle": "floral-american-diamond-zirconia-golden-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367888666798",
+    "global_id": "gid://shopify/ProductVariant/47367888666798",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411056",
+    "price": 1639.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410907-Model-2_faf4eb1b-ccc7-4c20-9240-09eb24194463.jpg?v=1767077248",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/floral-american-diamond-zirconia-golden-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367888666798",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/47275198218414": {
     "product_title": "Gold Toned Hair Brooch With Elephant Motif",
     "product_handle": "re10bh409780",
@@ -48094,8 +48599,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10MS411070-Model-1.jpg?v=1768640794",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10ms411070?variant=gid://shopify/ProductVariant/47290234536110",
-    "stock": 19,
-    "last_alerted_stock": 19
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47290234568878": {
     "product_title": "Minimal Black Beaded Mangalsutra",
@@ -50455,9 +50960,9 @@
     "price": 1045.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10HV410962-Model-1.jpg?v=1768549681",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10hv410962?variant=gid://shopify/ProductVariant/47377719034030",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47377719066798": {
     "product_title": "Elephant Motif Golden Kamarbandh",
@@ -59964,7 +60469,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ED414061-Model.jpg?v=1776948975",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ed414061?variant=gid://shopify/ProductVariant/47769372098734",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47769372164270": {
@@ -60007,7 +60512,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414066Model.jpg?v=1782882213",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414066?variant=gid://shopify/ProductVariant/47769372786862",
-    "stock": 20,
+    "stock": 5,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47769372819630": {
@@ -60279,7 +60784,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04EH414085_03.jpg?v=1776949143",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04eh414085?variant=gid://shopify/ProductVariant/47769381699758",
-    "stock": 13,
+    "stock": 20,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47769381765294": {
@@ -61101,7 +61606,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414158-Model.jpg?v=1776949571",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414158?variant=gid://shopify/ProductVariant/47769392971950",
-    "stock": 20
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769393037486": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Minimal Coin Drop Hoop Earrings",
@@ -61185,7 +61691,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414163-Model.jpg?v=1776949606",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414163?variant=gid://shopify/ProductVariant/47769393823918",
-    "stock": 11,
+    "stock": 20,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47769393922222": {
@@ -61299,7 +61805,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30A414174-Model-00.jpg?v=1776949669",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30a414174?variant=gid://shopify/ProductVariant/47769395265710",
-    "stock": 20,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769395298478": {
@@ -61741,7 +62247,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414230_model_1.jpg?v=1782307370",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414232?variant=gid://shopify/ProductVariant/47769401655470",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769401819310": {
@@ -62338,7 +62844,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414173Model.jpg?v=1777023027",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414173?variant=gid://shopify/ProductVariant/47774761418926",
-    "stock": 20,
+    "stock": 18,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774761451694": {
@@ -62773,7 +63279,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414248Model.jpg?v=1777017497",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414248?variant=gid://shopify/ProductVariant/47774764171438",
-    "stock": 16,
+    "stock": 20,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/47774764204206": {
@@ -63208,7 +63714,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO414174-Model.jpg?v=1778585751",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro414174?variant=gid://shopify/ProductVariant/47848723382446",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47848723415214": {
@@ -63438,7 +63944,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414164-Model.jpg?v=1779086738",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414164?variant=gid://shopify/ProductVariant/47869076897966",
-    "stock": 20,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47914219143342": {
@@ -65524,7 +66030,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414136-Model.jpg?v=1780047696",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414136?variant=gid://shopify/ProductVariant/47922731548846",
-    "stock": 20,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47922731876526": {
@@ -65810,7 +66316,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414107_Model.jpg?v=1782306697",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414107?variant=gid://shopify/ProductVariant/47922736300206",
-    "stock": 17,
+    "stock": 20,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47922736693422": {
@@ -65910,7 +66416,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414148-Model.jpg?v=1780056983",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414148?variant=gid://shopify/ProductVariant/47923339919534",
-    "stock": 11,
+    "stock": 17,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47942161858734": {
@@ -66742,8 +67248,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02EF411439-Model-1.jpg?v=1780556785",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re02ef411439?variant=gid://shopify/ProductVariant/47942183616686",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47942183780526": {
     "product_title": "Blush Frost Crystal Stud Earrings",
@@ -67404,7 +67910,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415281-Model.jpg?v=1781601470",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415281?variant=gid://shopify/ProductVariant/47989353480366",
-    "stock": 20,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47989353513134": {
@@ -67807,7 +68313,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415318-Model.jpg?v=1781601686",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415318?variant=gid://shopify/ProductVariant/47989370978478",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47989371207854": {
@@ -67964,7 +68470,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R415276-Model.jpg?v=1781601784",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30r415276?variant=gid://shopify/ProductVariant/47989371732142",
-    "stock": 20,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47989371764910": {
@@ -68802,7 +69308,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415282-Model.jpg?v=1781852276",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415282?variant=gid://shopify/ProductVariant/48000488112302",
-    "stock": 9,
+    "stock": 20,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/48000488308910": {
@@ -69258,7 +69764,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw28v414382-Model.jpg?v=1784290796",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw28v414382?variant=gid://shopify/ProductVariant/48107697275054",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107697340590": {
@@ -69303,8 +69809,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30v414366-Model_01.jpg?v=1784290824",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414366?variant=gid://shopify/ProductVariant/48107697701038",
-    "stock": 20,
-    "last_alerted_stock": 1
+    "stock": 16,
+    "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/48107697799342": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Floral Statement Bracelet",
@@ -69782,7 +70288,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414268-Model.jpg?v=1784291079",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414268?variant=gid://shopify/ProductVariant/48107701436590",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107701502126": {
@@ -69953,7 +70459,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415340-Model.jpg?v=1784291163",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415340?variant=gid://shopify/ProductVariant/48107702649006",
-    "stock": 20,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107702714542": {
@@ -70621,7 +71127,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PS416234_00_model.jpg?v=1785760734",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ps416234?variant=gid://shopify/ProductVariant/48744213053614",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48744213086382": {
@@ -70679,7 +71185,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PS416239_model.jpg?v=1785760762",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ps416239?variant=gid://shopify/ProductVariant/48744253980846",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48744257224878": {

@@ -978,5 +978,47 @@
     "curr_stock": 24,
     "url": "https://www.daivik.in/products/classic-ad-droplet-jhumkas?variant=gid://shopify/ProductVariant/48465634394334",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A7E532E8-4F0C-461F-9465-21E24379CF0A.jpg?v=1784825467"
+  },
+  {
+    "timestamp_ist": "2026-08-12 12:32:11",
+    "product_title": "Kemp Ad necklace with earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/39476421460121",
+    "sku": "661",
+    "price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 25,
+    "curr_stock": 24,
+    "url": "https://www.daivik.in/products/kemp-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/39476421460121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d7354f8b-afb9-4897-a577-4986a73512b0.jpg?v=1615818786"
+  },
+  {
+    "timestamp_ist": "2026-08-12 12:32:11",
+    "product_title": "Mini version of the Big size jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44757040464094",
+    "sku": "838",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 33,
+    "curr_stock": 32,
+    "url": "https://www.daivik.in/products/mini-version-of-the-big-size-jhumkas?variant=gid://shopify/ProductVariant/44757040464094",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_759a774f-96d7-41af-a149-dc4f82e5ba7c.jpg?v=1630159442"
+  },
+  {
+    "timestamp_ist": "2026-08-12 12:32:11",
+    "product_title": "Simple Pendant Ruby Green Hasli Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/46583087268062",
+    "sku": "744",
+    "price": 799.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.daivik.in/products/simple-pendant-ruby-green-hasli-necklace-with-earrings?variant=gid://shopify/ProductVariant/46583087268062",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1D0A51CF-E619-4607-A99B-7E846F328A70.jpg?v=1744006777"
   }
 ]
