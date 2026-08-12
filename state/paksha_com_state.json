@@ -24653,9 +24653,9 @@
     "price": 44.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SBR0005OW5.jpg?v=1785929083",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.com/products/ganesha-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48119832576236",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48119832674540": {
     "product_title": "Ornate Om Gold Plated Silver Rakhi",
