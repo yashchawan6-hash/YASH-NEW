@@ -6825,9 +6825,10 @@
     "price": 3850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/fulkaari-polki-necklace-set-attrangi-1.jpg?v=1739814413",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/fulkaari-polki-necklace-set?variant=gid://shopify/ProductVariant/43587732144340",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45271201382612": {
     "product_title": "Diamond Nose Pin",
@@ -27203,7 +27204,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-10at10.10.51AM_1.jpg?v=1757509081",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/naazuk-kalaai-gold-pearl-hathpan-hand-harness?variant=gid://shopify/ProductVariant/46892772098260",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46895697821908": {
@@ -32690,7 +32691,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-01at10.59.57PM.jpg?v=1764660483",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/heer-sui-dhaaga-earcuff-indian-earring?variant=gid://shopify/ProductVariant/47310414119124",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47310492139732": {
@@ -46141,9 +46142,9 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-22at1.09.08PM.jpg?v=1784706695",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/parallel-band-2-carat-diamond-solitaire-ring?variant=gid://shopify/ProductVariant/48432553033940",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48344730304724": {
     "product_title": "Parallel Band 2 Carat Diamond Solitaire Ring(SILVER)",
