@@ -14169,10 +14169,10 @@
     "price": 1699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9577.heic?v=1697296910",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-diamond-look-alike-smaller-necklace-and-earrings-in-2-colors-prices-for-each?variant=gid://shopify/ProductVariant/44408679071966",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44410125779166": {
     "product_title": "Diwali sale Rosegold 01",
