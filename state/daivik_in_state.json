@@ -1920,10 +1920,10 @@
     "price": 2499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/uncut-kemp-necklace-with-earrings-969.jpg?v=1616420721",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/uncut-kemp-necklace-with-earrings-2?variant=gid://shopify/ProductVariant/39545467469977",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39619863019673": {
     "product_title": "AD flower Mattals",
@@ -2023,7 +2023,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_0c095770-9545-44b7-95d4-37c883b96eb7.jpg?v=1617726500",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/long-uncut-kemp-haram-with-earrings?variant=gid://shopify/ProductVariant/39707541209241",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/39764859158681": {
     "product_title": "Simple Navarathna bangles set of 2",
@@ -5562,8 +5563,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cab7af53-ce70-4200-8b35-a70dcb200b07.heic?v=1648999204",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-white-gold-teeka?variant=gid://shopify/ProductVariant/42641179345118",
-    "stock": 51,
-    "last_alerted_stock": 51
+    "stock": 50,
+    "last_alerted_stock": 50
   },
   "gid://shopify/ProductVariant/42679268770014": {
     "product_title": "AD Lakshmi Necklace with Earrings",
@@ -6763,7 +6764,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_89a651cf-4620-421f-9548-1b0208432112.heic?v=1656949035",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-144?variant=gid://shopify/ProductVariant/43057931223262",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/43057984766174": {
     "product_title": "Antique Gold Finish Lakshmi Hipbelt",
@@ -26724,8 +26726,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/7D27F4C8-B121-4AAB-B970-C5B47498BBE1.jpg?v=1764941634",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/untitled-feb27_12-05?variant=gid://shopify/ProductVariant/46610542493918",
-    "stock": 24,
-    "last_alerted_stock": 24
+    "stock": 22,
+    "last_alerted_stock": 22
   },
   "gid://shopify/ProductVariant/46610542428382": {
     "product_title": "Designer Mossanite Carved stone Earrings in Three Colors (Price for Each)",
@@ -40497,8 +40499,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_8481.heic?v=1765891457",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/carved-moissanite-necklace-with-earrings?variant=gid://shopify/ProductVariant/47758182514910",
-    "stock": 27,
-    "last_alerted_stock": 27
+    "stock": 26,
+    "last_alerted_stock": 26
   },
   "gid://shopify/ProductVariant/47761421730014": {
     "product_title": "Flower Pearl AD Bugadi/Top Earrings in Two Colors (Price for Each)",
@@ -47301,8 +47303,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5368.jpg?v=1782546537",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/triple-foam-handmade-artificial-lotus-pink-buds-kunjalam-hair-extension?variant=gid://shopify/ProductVariant/48377645465822",
-    "stock": 21,
-    "last_alerted_stock": 21
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/48378829111518": {
     "product_title": "Antique Lakshmi Jada Billa (Price for 1 pc)",
@@ -47829,8 +47831,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5594.jpg?v=1784029118",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-earcuff-in-4-colors-price-for-each?variant=gid://shopify/ProductVariant/48434488705246",
-    "stock": 33,
-    "last_alerted_stock": 33
+    "stock": 31,
+    "last_alerted_stock": 31
   },
   "gid://shopify/ProductVariant/48434488738014": {
     "product_title": "AD Earcuff in 4 Colors (Price for Each)",
