@@ -376,9 +376,10 @@
     "price": 126395.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1458.jpg?v=1751361001",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/sri-hari-priya-daab?variant=gid://shopify/ProductVariant/49901861110057",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49901877035305": {
     "product_title": "Kamakshi Jadau Oddiyanam/Hip Belts",
@@ -75454,7 +75455,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19647.jpg?v=1786022574",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rudra-trishul-rakhi?variant=gid://shopify/ProductVariant/53409731379497",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53409733935401": {
     "product_title": "Cool Bro Rakhi",
