@@ -4842,7 +4842,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/2-carat-classic-round-solitaire-daily-wear-ring-attrangi-4.jpg?v=1739813926",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/2-carat-classic-round-solitaire-daily-wear-ring?variant=gid://shopify/ProductVariant/42829325041876",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42855753023700": {
     "product_title": "Slim Everyday Diamond Kada",
@@ -38279,9 +38280,9 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at6.30.54PM_1.jpg?v=1775458129",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/alibi-wrap-diamond-coloured-stone-cocktail-ring-adjustable?variant=gid://shopify/ProductVariant/47715647652052",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47715701326036": {
     "product_title": "Girlcode Diamond Wrap Multi Solitaire cocktail Ring",

@@ -995,7 +995,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE51R274306model.jpg?v=1778652237",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-handcrafted-ad-stone-adjustable-ring?variant=gid://shopify/ProductVariant/43043799204014",
-    "stock": 19,
+    "stock": 20,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47127107961006": {
@@ -2234,7 +2234,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-gold-plated-red-enamelled-bangles-bangles-bracelets-35074453012654.jpg?v=1776255079",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-plated-red-enamel-set-of-2-bangles?variant=gid://shopify/ProductVariant/43043681239214",
-    "stock": 14,
+    "stock": 15,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/45983064555694": {
@@ -38127,7 +38127,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20NS409719_7d9bf110-d59e-4d65-9e65-bf7a3c7d9d60.jpg?v=1769142126",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-aaa-cubic-zirconia-studded-premium-layered-necklace-set-re20ns409719?variant=gid://shopify/ProductVariant/47171464757422",
-    "stock": 14
+    "stock": 15
   },
   "gid://shopify/ProductVariant/47172125425838": {
     "product_title": "Tale of Ruby & Rose Necklace Set",
@@ -43308,6 +43308,62 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410913-Model-1.jpg?v=1768486838",
     "available_for_sale": false,
     "url": "https://www.rubans.in/products/laxmi-motif-gold-toned-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367885979822",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47198870372526": {
+    "product_title": "American Diamond Zirconia Cubic Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-cubic-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47198870372526",
+    "global_id": "gid://shopify/ProductVariant/47198870372526",
+    "variant_title": "2.4 - Small",
+    "sku": "RE10B410916",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410916-Model-1.jpg?v=1768486842",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-cubic-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47198870372526",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367886110894": {
+    "product_title": "American Diamond Zirconia Cubic Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-cubic-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367886110894",
+    "global_id": "gid://shopify/ProductVariant/47367886110894",
+    "variant_title": "2.6 - Medium",
+    "sku": "RE10B410917",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410916-Model-1.jpg?v=1768486842",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-cubic-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367886110894",
+    "stock": 6
+  },
+  "gid://shopify/ProductVariant/47367886143662": {
+    "product_title": "American Diamond Zirconia Cubic Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-cubic-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367886143662",
+    "global_id": "gid://shopify/ProductVariant/47367886143662",
+    "variant_title": "2.8 - Large",
+    "sku": "RE10B410918",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410916-Model-1.jpg?v=1768486842",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-cubic-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367886143662",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/47367886176430": {
+    "product_title": "American Diamond Zirconia Cubic Gold Bangles Set Of 4",
+    "product_handle": "american-diamond-zirconia-cubic-gold-bangles-set-of-4",
+    "variant_id": "gid://shopify/ProductVariant/47367886176430",
+    "global_id": "gid://shopify/ProductVariant/47367886176430",
+    "variant_title": "2.10 - Extra Large",
+    "sku": "RE10B411059",
+    "price": 1419.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B410916-Model-1.jpg?v=1768486842",
+    "available_for_sale": false,
+    "url": "https://www.rubans.in/products/american-diamond-zirconia-cubic-gold-bangles-set-of-4?variant=gid://shopify/ProductVariant/47367886176430",
     "stock": 0
   },
   "gid://shopify/ProductVariant/47198872436910": {
@@ -60314,7 +60370,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414043_04.jpg?v=1776948886",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414043?variant=gid://shopify/ProductVariant/47769369804974",
-    "stock": 20,
+    "stock": 15,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47769370099886": {
@@ -60512,7 +60568,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414066Model.jpg?v=1782882213",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414066?variant=gid://shopify/ProductVariant/47769372786862",
-    "stock": 5,
+    "stock": 20,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47769372819630": {
@@ -61606,7 +61662,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414158-Model.jpg?v=1776949571",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414158?variant=gid://shopify/ProductVariant/47769392971950",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769393037486": {
@@ -61649,7 +61705,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414160-Model.jpg?v=1776949585",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414160?variant=gid://shopify/ProductVariant/47769393201326",
-    "stock": 20
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769393725614": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Sunflower Textured Stud Earrings",
@@ -61805,7 +61862,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30A414174-Model-00.jpg?v=1776949669",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30a414174?variant=gid://shopify/ProductVariant/47769395265710",
-    "stock": 6,
+    "stock": 20,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769395298478": {
@@ -62105,7 +62162,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414219-Model.jpg?v=1776949816",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414219?variant=gid://shopify/ProductVariant/47769398247598",
-    "stock": 20,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769398640814": {
@@ -62559,8 +62616,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414067-Model.jpg?v=1777016476",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414067?variant=gid://shopify/ProductVariant/47774758076590",
-    "stock": 20,
-    "last_alerted_stock": 18
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47774758109358": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Black Enamel Detail Chain Bracelet",
@@ -62844,7 +62901,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414173Model.jpg?v=1777023027",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414173?variant=gid://shopify/ProductVariant/47774761418926",
-    "stock": 18,
+    "stock": 20,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774761451694": {
@@ -63829,7 +63886,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414087-Model.jpg?v=1778838462",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414087?variant=gid://shopify/ProductVariant/47861803679918",
-    "stock": 20,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47869075292334": {
@@ -63944,7 +64001,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414164-Model.jpg?v=1779086738",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414164?variant=gid://shopify/ProductVariant/47869076897966",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47914219143342": {
@@ -66030,7 +66087,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414136-Model.jpg?v=1780047696",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414136?variant=gid://shopify/ProductVariant/47922731548846",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47922731876526": {
@@ -66316,8 +66373,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414107_Model.jpg?v=1782306697",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414107?variant=gid://shopify/ProductVariant/47922736300206",
-    "stock": 20,
-    "last_alerted_stock": 17
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47922736693422": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Puffy Heart Pendant Chain Necklace",
@@ -66416,7 +66473,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414148-Model.jpg?v=1780056983",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414148?variant=gid://shopify/ProductVariant/47923339919534",
-    "stock": 17,
+    "stock": 20,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47942161858734": {
@@ -67910,7 +67967,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415281-Model.jpg?v=1781601470",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415281?variant=gid://shopify/ProductVariant/47989353480366",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47989353513134": {
@@ -67940,7 +67997,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415284-Model.jpg?v=1781601489",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415284?variant=gid://shopify/ProductVariant/47989353545902",
-    "stock": 20,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47989353578670": {
@@ -68470,7 +68527,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R415276-Model.jpg?v=1781601784",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30r415276?variant=gid://shopify/ProductVariant/47989371732142",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47989371764910": {
@@ -68527,8 +68584,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415327-Model-1.jpg?v=1781607658",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415327?variant=gid://shopify/ProductVariant/47989494415534",
-    "stock": 20,
-    "last_alerted_stock": 6
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47989494448302": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Starfish Glow Statement Earrings",
@@ -69809,8 +69866,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30v414366-Model_01.jpg?v=1784290824",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414366?variant=gid://shopify/ProductVariant/48107697701038",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48107697799342": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Floral Statement Bracelet",
@@ -70459,7 +70516,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415340-Model.jpg?v=1784291163",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415340?variant=gid://shopify/ProductVariant/48107702649006",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107702714542": {
@@ -71214,7 +71271,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PS416253_model.jpg?v=1785760767",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ps416253?variant=gid://shopify/ProductVariant/48744257257646",
-    "stock": 20,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48744273608878": {
