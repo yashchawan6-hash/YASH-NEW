@@ -6716,7 +6716,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diamond-pacheli-or-gokhru-bangle-set-attrangi-1.jpg?v=1739814347",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-pacheli-gokhru-bangle-set?variant=gid://shopify/ProductVariant/43501959479508",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43501959512276": {
     "product_title": "Diamond Pacheli | Gokhru Bangle Set",
@@ -49034,6 +49035,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.35.28PM.jpg?v=1786534102",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/boho-tribe-gold-indo-western-funky-polki-choker-set?variant=gid://shopify/ProductVariant/48459746312404",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48460041453780": {
+    "product_title": "Polki Designer Delicate Indian Nail Rings",
+    "product_handle": "polki-designer-delicate-indian-nail-rings",
+    "variant_id": "gid://shopify/ProductVariant/48460041453780",
+    "global_id": "gid://shopify/ProductVariant/48460041453780",
+    "variant_title": "White",
+    "sku": "SJO9823W-RI",
+    "price": 1050.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.38.24PM.jpg?v=1786535247",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/polki-designer-delicate-indian-nail-rings?variant=gid://shopify/ProductVariant/48460041453780",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48460041486548": {
+    "product_title": "Polki Designer Delicate Indian Nail Rings",
+    "product_handle": "polki-designer-delicate-indian-nail-rings",
+    "variant_id": "gid://shopify/ProductVariant/48460041486548",
+    "global_id": "gid://shopify/ProductVariant/48460041486548",
+    "variant_title": "Ruby",
+    "sku": "SJO9823R-RI",
+    "price": 1050.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.38.23PM_1.jpg?v=1786535246",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/polki-designer-delicate-indian-nail-rings?variant=gid://shopify/ProductVariant/48460041486548",
     "stock": 0
   },
   "gid://shopify/ProductVariant/47684226187476": {
