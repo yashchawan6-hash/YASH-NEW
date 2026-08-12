@@ -18604,7 +18604,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/Paksha6968_copy.jpg?v=1752149630",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/radiant-cz-rakhi?variant=gid://shopify/ProductVariant/42292719550530",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/42292789018690": {
     "product_title": "Vasanta CZ Rakhi",
@@ -19103,9 +19104,10 @@
     "price": 63.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/PCDG0012S.jpg?v=1755067626",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/starburst-moissanite-925-silver-stud-earrings?variant=gid://shopify/ProductVariant/42381562839106",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42381564346434": {
     "product_title": "Lena CZ Moonlight 925 Silver Studs",

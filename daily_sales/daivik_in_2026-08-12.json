@@ -2294,5 +2294,47 @@
     "curr_stock": 37,
     "url": "https://www.daivik.in/products/five-layered-pearl-mala?variant=gid://shopify/ProductVariant/45118408720606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0D90D567-5262-4FC7-8E74-83B341E15D3A.jpg?v=1712766577"
+  },
+  {
+    "timestamp_ist": "2026-08-12 22:51:53",
+    "product_title": "Simple Copper Pearl Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45158978093278",
+    "sku": "855",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 40,
+    "curr_stock": 39,
+    "url": "https://www.daivik.in/products/simple-copper-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45158978093278",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/10FBB2F6-B0C5-408A-BD02-F523E5B50F7E.jpg?v=1713026655"
+  },
+  {
+    "timestamp_ist": "2026-08-12 22:51:53",
+    "product_title": "Invisible Flower Chain with Earrings in Two Variants (Price for Each)",
+    "variant_title": "Purple",
+    "variant_id": "gid://shopify/ProductVariant/46622024335582",
+    "sku": "309",
+    "price": 799.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 42,
+    "curr_stock": 41,
+    "url": "https://www.daivik.in/products/invisible-flower-chain-with-earrings-in-two-vaiants-price-for-each?variant=gid://shopify/ProductVariant/46622024335582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FC56A728-6173-444E-874E-73DC79DFB827.jpg?v=1744985053"
+  },
+  {
+    "timestamp_ist": "2026-08-12 22:51:53",
+    "product_title": "Diamond Look Alike Hasli Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48542645551326",
+    "sku": "1401",
+    "price": 1699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.daivik.in/products/diamond-look-alike-hasli-necklace-with-earrings-1?variant=gid://shopify/ProductVariant/48542645551326",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_56062.jpg?v=1785659057"
   }
 ]
