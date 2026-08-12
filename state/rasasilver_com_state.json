@@ -64606,9 +64606,9 @@
     "price": 4080.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0931_resized_bfb3a5c4-869c-4054-b3de-0374336aecc6.jpg?v=1785484086",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/shobita-stone-studs?variant=gid://shopify/ProductVariant/53108716110121",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/53108735377705": {
     "product_title": "Saptamani Stone Studs",
@@ -68685,7 +68685,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262392_resized.jpg?v=1782109921",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/petal-swirl-stone-studs?variant=gid://shopify/ProductVariant/53282511913257",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53282512765225": {
