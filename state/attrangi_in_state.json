@@ -38692,7 +38692,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at6.29.53PM.jpg?v=1774374774",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/up-down-50-cent-pear-diamond-solitaire-parallel-band-ring?variant=gid://shopify/ProductVariant/47716379918548",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47716379984084": {
     "product_title": "Up & Down 50 Cent Pear Diamond Solitaire Parallel Band Ring",
@@ -43904,9 +43905,9 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-14at12.18.42AM_1800x1800_8fd74732-328a-4505-8ce5-49eed1796b06.webp?v=1782992216",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/50-cent-classic-diamond-bangle-set-openable-gold?variant=gid://shopify/ProductVariant/48308585660628",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48207598715092": {
@@ -46191,9 +46192,10 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-22at1.09.08PM.jpg?v=1784706695",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/parallel-band-2-carat-diamond-solitaire-ring?variant=gid://shopify/ProductVariant/48344730271956",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48432553033940": {
     "product_title": "Parallel Band 2 Carat Diamond Solitaire Ring(SILVER)",
