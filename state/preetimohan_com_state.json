@@ -14959,9 +14959,10 @@
     "price": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/88_2a29bd3c-5efc-47f8-9c8f-ab9f33fcbce4.png?v=1756140886",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/alpna-red-zircon-studs?variant=gid://shopify/ProductVariant/49281745977537",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49281815511233": {
     "product_title": "KALPNA GREEN ZIRCON STATEMENT EARRING",
@@ -19575,7 +19576,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP02811.jpg?v=1780569619",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/bhavini-red-green-polki-studs?variant=gid://shopify/ProductVariant/50295629578433",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50295640129729": {
     "product_title": "NOOR GOLD PLATED POLKI EARRING",
