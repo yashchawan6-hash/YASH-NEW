@@ -18118,9 +18118,10 @@
     "price": 2700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauchokar2700_95e45678-01d0-49e3-8faa-7a43fbae2fa8.jpg?v=1766140199",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-chokar-9?variant=gid://shopify/ProductVariant/52445273063724",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445273882924": {
     "product_title": "Jadau Chokar",
