@@ -684,5 +684,47 @@
     "curr_stock": 10,
     "url": "https://www.daivik.in/products/elephant-leaf-short-haram-with-earrings?variant=gid://shopify/ProductVariant/41272155963545",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cf016026-8ca9-4e51-95f5-0781ddad130b.jpg?v=1633186346"
+  },
+  {
+    "timestamp_ist": "2026-08-12 11:26:21",
+    "product_title": "Lakshmi Nagasi teeka",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/37826167636121",
+    "sku": "551",
+    "price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 11,
+    "curr_stock": 10,
+    "url": "https://www.daivik.in/products/lakshmi-nagasi-teeka?variant=gid://shopify/ProductVariant/37826167636121",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_93adf55e-51ba-4f64-9ca2-fcade8ca86a5.jpg?v=1610893048"
+  },
+  {
+    "timestamp_ist": "2026-08-12 11:26:21",
+    "product_title": "Cluster Pearl Necklace with earrings ( Price for each)",
+    "variant_title": "White Pearl",
+    "variant_id": "gid://shopify/ProductVariant/44437456519390",
+    "sku": "257",
+    "price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 10,
+    "curr_stock": 9,
+    "url": "https://www.daivik.in/products/a-2?variant=gid://shopify/ProductVariant/44437456519390",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E5D17CE4-DE84-4B46-93D9-B66B162204EF.jpg?v=1697904336"
+  },
+  {
+    "timestamp_ist": "2026-08-12 11:26:21",
+    "product_title": "Diwali Sale Necklace D25166",
+    "variant_title": "Ruby Green",
+    "variant_id": "gid://shopify/ProductVariant/47543115055326",
+    "sku": "D25166",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d25166?variant=gid://shopify/ProductVariant/47543115055326",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6514.jpg?v=1758230103"
   }
 ]
