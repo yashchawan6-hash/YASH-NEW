@@ -18925,9 +18925,9 @@
     "price": 20000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/18_081a1577-2c44-438a-8784-221f98a2d629.png?v=1784123071",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/nancy-gold-plated-polki-necklace-set?variant=gid://shopify/ProductVariant/50281346924737",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50281368486081": {
@@ -19122,9 +19122,9 @@
     "price": 19500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/11_fc8b4233-78de-4b26-aaf1-ae6389088bfe.png?v=1784122586",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/parnika-gold-plated-polki-necklace-set?variant=gid://shopify/ProductVariant/50282011918529",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50282037313729": {
