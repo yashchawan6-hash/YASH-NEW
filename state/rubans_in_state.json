@@ -42737,9 +42737,10 @@
     "price": 2587.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410619.jpg?v=1769143006",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-copper-kundan-pearl-embellished-traditional-necklace-set-re10ns410619?variant=gid://shopify/ProductVariant/47173458493614",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47173472714926": {
     "product_title": "Gilded Empress Pearl Jewellery Set",
@@ -43210,7 +43211,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410761.jpg?v=1769079505",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/golden-moon-sparkle-necklace-set-re10ns410761?variant=gid://shopify/ProductVariant/47185605755054",
-    "stock": 11,
+    "stock": 12,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47185652318382": {
@@ -61336,8 +61337,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54EF412301-Model.jpg?v=1773145093",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re54ef412301?variant=gid://shopify/ProductVariant/47624337916078",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47624338014382": {
     "product_title": "Oxidised Pastel Pink Peacock Stud Earrings",
@@ -61792,7 +61793,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B412135-Model-1.jpg?v=1773146697",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10b412135?variant=gid://shopify/ProductVariant/47624367964334",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47624367997102": {
