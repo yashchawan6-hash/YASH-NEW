@@ -10044,20 +10044,6 @@
     "url": "https://www.mortantra.com/products/tk-rng13-white-color-gold-plated-tver-ring?variant=gid://shopify/ProductVariant/45567316295903",
     "stock": 9
   },
-  "gid://shopify/ProductVariant/45567323504863": {
-    "product_title": "White Color Gold Plated Ring with Kundan - TK-RNG15",
-    "product_handle": "tk-rng15-white-color-gold-plated-tver-ring",
-    "variant_id": "gid://shopify/ProductVariant/45567323504863",
-    "global_id": "gid://shopify/ProductVariant/45567323504863",
-    "variant_title": "Default Title",
-    "sku": "TK-RNG15",
-    "price": 1500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TK-RNG15_1.jpg?v=1748936024",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/tk-rng15-white-color-gold-plated-tver-ring?variant=gid://shopify/ProductVariant/45567323504863",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/45567327535327": {
     "product_title": "White Color Gold Plated Ring with Kundan - TK-RNG28",
     "product_handle": "tk-rng28-white-color-gold-plated-tver-ring",
@@ -72657,8 +72643,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPNTH60WP.jpg?v=1775212555",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pink-color-gold-plated-temple-nosepin-tmpnth60wp?variant=gid://shopify/ProductVariant/48787591135455",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48808383840479": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC84",
@@ -94123,6 +94109,20 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/45567323504863": {
+    "product_title": "White Color Gold Plated Ring with Kundan - TK-RNG15",
+    "product_handle": "tk-rng15-white-color-gold-plated-tver-ring",
+    "variant_id": "gid://shopify/ProductVariant/45567323504863",
+    "global_id": "gid://shopify/ProductVariant/45567323504863",
+    "variant_title": "Default Title",
+    "sku": "TK-RNG15",
+    "price": 1500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TK-RNG15_1.jpg?v=1748936024",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/tk-rng15-white-color-gold-plated-tver-ring?variant=gid://shopify/ProductVariant/45567323504863",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50588408185055": {
     "product_title": "White Color Gold Plated Jadau Kundan Hathphool (1 Piece) - MHP304Y",
