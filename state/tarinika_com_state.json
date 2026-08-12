@@ -16633,10 +16633,10 @@
     "price": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNE0308XW6.jpg?v=1725517091",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/shayara-nakshatra-cz-pink-beads-stud-earrings?variant=gid://shopify/ProductVariant/41607145390146",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41607150993474": {
     "product_title": "Jasmine Delicate CZ Lavender Stud Earrings",
