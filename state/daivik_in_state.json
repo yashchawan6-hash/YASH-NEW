@@ -1453,10 +1453,10 @@
     "price": 2099.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8e59ca43-3551-4b76-92e2-736bcc965a6f.jpg?v=1611501198",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/screw-openable-coin-lakshmi-kada?variant=gid://shopify/ProductVariant/47804491661534",
-    "stock": 12,
-    "last_alerted_stock": 12
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/38030605975705": {
     "product_title": "Lakshmi Bridal hipbelt",
@@ -8373,10 +8373,10 @@
     "price": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43546238583006": {
     "product_title": "AD Kemp Choker with Jhumkas",
@@ -15713,9 +15713,9 @@
     "price": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
-    "stock": 5,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44667373748446": {
@@ -38815,10 +38815,10 @@
     "price": 2999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0BCE9FA0-74EA-418F-9079-9CA689C37454.jpg?v=1762094594",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/peacock-green-bangles-price-for-both-hands?variant=gid://shopify/ProductVariant/47650983739614",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47650983772382": {
     "product_title": "Peacock Green Bangles (Price for Both Hands)",
@@ -47618,10 +47618,10 @@
     "price": 1199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0582.jpg?v=1783509138",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/premium-ad-pearl-kada?variant=gid://shopify/ProductVariant/48415689113822",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48417440071902": {
     "product_title": "Designer Ballet Butterfly Dancing Girl Necklace with Earrings",
