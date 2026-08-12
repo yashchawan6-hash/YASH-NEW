@@ -30712,10 +30712,10 @@
     "price": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47092708606174": {
     "product_title": "Jyothika Mam Inspired AD Green Pendant Necklace (Prices for Short, Long and Combo)",
@@ -47548,8 +47548,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5320.jpg?v=1783343383",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-ad-pendant-chain-with-earrings-in-3-colors-price-for-each-1?variant=gid://shopify/ProductVariant/48411408105694",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48411408138462": {
     "product_title": "Simple AD Pendant Chain with Earrings in 3 Colors (Price for Each)",
@@ -47577,7 +47577,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5322.jpg?v=1783343382",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-ad-pendant-chain-with-earrings-in-3-colors-price-for-each-1?variant=gid://shopify/ProductVariant/48411408171230",
-    "stock": 5
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48413401284830": {
     "product_title": "Classic Jadau Kemp Earrings with Five Line Mattal / Earchain",
@@ -48490,7 +48491,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5663.jpg?v=1786123263",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kemp-runy-green-pearl-mattals?variant=gid://shopify/ProductVariant/48566277046494",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/48566325051614": {
     "product_title": "Ruby Green Golden Beads Mattals",
@@ -48518,7 +48520,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804696286",
-    "stock": -1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48584804729054": {
     "product_title": "Premium Gold Look Alike Antique Openable Kada",
@@ -48532,7 +48534,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804729054",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48584804761822": {
     "product_title": "Premium Gold Look Alike Antique Openable Kada",
@@ -48546,7 +48548,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804761822",
-    "stock": -1
+    "stock": 3
   },
   "gid://shopify/ProductVariant/48586872553694": {
     "product_title": "Simple Lotus Pendant Necklace with Earrings",
