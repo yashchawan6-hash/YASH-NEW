@@ -54163,9 +54163,10 @@
     "price": 27700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5380_resized.jpg?v=1772539835",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/chandrika-mor-kundan-pendant?variant=gid://shopify/ProductVariant/52749985743145",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52750182351145": {
     "product_title": "Hamsa-Phool Kundan Necklace",

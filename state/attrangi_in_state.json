@@ -5067,9 +5067,10 @@
     "price": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sunsign-necklace-attrangi-1.jpg?v=1739814008",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sunsign-necklace?variant=gid://shopify/ProductVariant/42902551265492",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42902554247380": {
     "product_title": "Sunsign Necklace",
@@ -15428,7 +15429,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-27at2.59.41PM.jpg?v=1750782751",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/aloha-diamond-statement-studs-1?variant=gid://shopify/ProductVariant/45678667333844",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46643877642452": {
@@ -22676,7 +22677,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/gulbahaar-antique-gold-polish-polki-set-with-pearls-attrangi-1.jpg?v=1749410901",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gulbahaar-antique-gold-polish-polki-set-with-pearls-copy?variant=gid://shopify/ProductVariant/46239744032980",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46239744065748": {
     "product_title": "Gulbahaar Antique Gold Polish Polki Set with Pearls",
@@ -28492,7 +28494,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-19at1.58.45PM.jpg?v=1758349016",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kismi-polki-moissanite-classic-uncut-diamond-pendant-set?variant=gid://shopify/ProductVariant/46956779208916",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46956782452948": {
