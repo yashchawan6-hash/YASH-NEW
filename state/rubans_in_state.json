@@ -11891,20 +11891,6 @@
     "url": "https://www.rubans.in/products/rubans-stylish-22kt-gold-plated-cubic-zirconia-studded-ad-drop-handcrafted-maang-tikkas?variant=gid://shopify/ProductVariant/45832526561454",
     "stock": 20
   },
-  "gid://shopify/ProductVariant/45832527085742": {
-    "product_title": "Soft Curve Triad American Diamond Zirconia Drops",
-    "product_handle": "rubans-24-k-gold-plated-aaa-cubic-zirconia-studded-premium-drop-earrings",
-    "variant_id": "gid://shopify/ProductVariant/45832527085742",
-    "global_id": "gid://shopify/ProductVariant/45832527085742",
-    "variant_title": "Gold",
-    "sku": "RE13ED405258",
-    "price": 1574.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-24-k-gold-plated-aaa-cubic-zirconia-studded-premium-drop-earrings-earrings-37316978180270.jpg?v=1755717057",
-    "available_for_sale": true,
-    "url": "https://www.rubans.in/products/rubans-24-k-gold-plated-aaa-cubic-zirconia-studded-premium-drop-earrings?variant=gid://shopify/ProductVariant/45832527085742",
-    "stock": 20
-  },
   "gid://shopify/ProductVariant/45832527642798": {
     "product_title": "Tales of Textured Heart Golden Studs",
     "product_handle": "rubans-18k-gold-plated-stainlesssteel-tarnish-free-waterproof-heart-oversize-stud-earring",
@@ -12189,20 +12175,6 @@
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-elephant-motif-chandbali-jhumkas-with-emerald-zirconia-studs?variant=gid://shopify/ProductVariant/45839719235758",
     "stock": 7,
     "last_alerted_stock": 7
-  },
-  "gid://shopify/ProductVariant/45839722971310": {
-    "product_title": "Premium Radiance American Diamond Zirconia Drop Earrings",
-    "product_handle": "rubans-rhodium-plated-crystal-ad-cubic-zirconia-studded-drop-earrings-elegant-design",
-    "variant_id": "gid://shopify/ProductVariant/45839722971310",
-    "global_id": "gid://shopify/ProductVariant/45839722971310",
-    "variant_title": "Silver",
-    "sku": "RE20ED406332",
-    "price": 1078.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-crystal-ad-cubic-zirconia-studded-drop-earrings-elegant-design-earrings-37344998097070.jpg?v=1755716951",
-    "available_for_sale": true,
-    "url": "https://www.rubans.in/products/rubans-rhodium-plated-crystal-ad-cubic-zirconia-studded-drop-earrings-elegant-design?variant=gid://shopify/ProductVariant/45839722971310",
-    "stock": 20
   },
   "gid://shopify/ProductVariant/45839723200686": {
     "product_title": "Rubans 18K Gold-Plated Ruby Kundan Studded Openable Bangle",
@@ -33465,7 +33437,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20ED408731_f3616538-90c9-467e-8a39-40d006b50b6d.jpg?v=1770094348",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-blue-sapphire-white-cubic-zirconia-studded-oval-statement-earrings-with-drop-detailing-copy?variant=gid://shopify/ProductVariant/46659385065646",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46659426025646": {
     "product_title": "Elegant Shine Pink Drop Earrings",
@@ -42900,7 +42873,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410954.jpg?v=1767077311",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-red-pink-stone-polki-cz-pastel-green-beads-jewellery-set-re10ns410954?variant=gid://shopify/ProductVariant/47172201283758",
-    "stock": 14,
+    "stock": 15,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47172204101806": {
@@ -49467,7 +49440,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS410836.jpg?v=1768894881",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16ns410836?variant=gid://shopify/ProductVariant/47198891212974",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47198891278510": {
@@ -65955,7 +65928,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414042-Model.jpg?v=1776948886",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414042?variant=gid://shopify/ProductVariant/47769369739438",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47769369772206": {
@@ -65970,7 +65943,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414046_Model.jpg?v=1783530663",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414046?variant=gid://shopify/ProductVariant/47769369772206",
-    "stock": 20,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47769369837742": {
@@ -66240,7 +66213,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04N414070_04.jpg?v=1776949029",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04n414070?variant=gid://shopify/ProductVariant/47769373409454",
-    "stock": 20,
+    "stock": 13,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47769373442222": {
@@ -66528,7 +66501,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30EH414088-Model.jpg?v=1776949169",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30eh414088?variant=gid://shopify/ProductVariant/47769382322350",
-    "stock": 13,
+    "stock": 20,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47769382355118": {
@@ -66897,7 +66870,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414121-Model.jpg?v=1776949367",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414121?variant=gid://shopify/ProductVariant/47769387696302",
-    "stock": 11,
+    "stock": 20,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47769387794606": {
@@ -67125,7 +67098,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW01V414143_03.jpg?v=1776949486",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw01v414143?variant=gid://shopify/ProductVariant/47769390350510",
-    "stock": 20,
+    "stock": 11,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47769390481582": {
@@ -67883,7 +67856,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414228_model.jpg?v=1782307199",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414228?variant=gid://shopify/ProductVariant/47769400737966",
-    "stock": 20,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769401426094": {
@@ -67970,7 +67943,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414234-Model.jpg?v=1776949899",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414234?variant=gid://shopify/ProductVariant/47769402212526",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769402278062": {
@@ -68269,7 +68242,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414084-Model.jpg?v=1777016475",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414084?variant=gid://shopify/ProductVariant/47774758109358",
-    "stock": 16,
+    "stock": 20,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/47774758469806": {
@@ -68947,7 +68920,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414246Model.jpg?v=1777017360",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414246?variant=gid://shopify/ProductVariant/47774764105902",
-    "stock": 20,
+    "stock": 16,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/47774764138670": {
@@ -69384,7 +69357,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414155-Model.jpg?v=1778585745",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414155?variant=gid://shopify/ProductVariant/47848723054766",
-    "stock": 20,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47848723316910": {
@@ -69558,7 +69531,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ED414058-Model.jpg?v=1779086683",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ed414058?variant=gid://shopify/ProductVariant/47869075325102",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47869075357870": {
@@ -72277,8 +72250,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414132-Model.jpg?v=1780047678",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414132?variant=gid://shopify/ProductVariant/47922730991790",
-    "stock": 19,
-    "last_alerted_stock": 19
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47922731548846": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Chunky Curb Chain Open Heart Necklace",
@@ -75003,7 +74976,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N415345-Model_00.jpg?v=1781607949",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n415345?variant=gid://shopify/ProductVariant/47989495234734",
-    "stock": 17,
+    "stock": 20,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47989495267502": {
@@ -75032,7 +75005,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N415348-Model-2.jpg?v=1781607958",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n415348?variant=gid://shopify/ProductVariant/47989495496878",
-    "stock": 20,
+    "stock": 17,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47989495529646": {
@@ -75176,8 +75149,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415292-Model.jpg?v=1781608099",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415292?variant=gid://shopify/ProductVariant/47989496217774",
-    "stock": 20,
-    "last_alerted_stock": 12
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47989496250542": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Golden Rhythm Open Ring",
@@ -75560,7 +75533,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N415336-Model_00.jpg?v=1781852276",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n415336?variant=gid://shopify/ProductVariant/48000488079534",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48000488112302": {
@@ -76032,7 +76005,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw28v414382-Model.jpg?v=1784290796",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw28v414382?variant=gid://shopify/ProductVariant/48107697275054",
-    "stock": 8,
+    "stock": 20,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/48107697340590": {
@@ -76092,7 +76065,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414384-Model.jpg?v=1784290830",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414384?variant=gid://shopify/ProductVariant/48107697799342",
-    "stock": 20,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107698094254": {
@@ -76614,7 +76587,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414275-Model_01.jpg?v=1784291105",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414275?variant=gid://shopify/ProductVariant/48107701960878",
-    "stock": 20,
+    "stock": 10,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107702091950": {
@@ -76727,7 +76700,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415340-Model.jpg?v=1784291163",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415340?variant=gid://shopify/ProductVariant/48107702649006",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107702714542": {
@@ -77933,6 +77906,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PS416268_00_model.jpg?v=1785760839",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ps416268?variant=gid://shopify/ProductVariant/48744347762862",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/45832527085742": {
+    "product_title": "Soft Curve Triad American Diamond Zirconia Drops",
+    "product_handle": "rubans-24-k-gold-plated-aaa-cubic-zirconia-studded-premium-drop-earrings",
+    "variant_id": "gid://shopify/ProductVariant/45832527085742",
+    "global_id": "gid://shopify/ProductVariant/45832527085742",
+    "variant_title": "Gold",
+    "sku": "RE13ED405258",
+    "price": 1574.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-24-k-gold-plated-aaa-cubic-zirconia-studded-premium-drop-earrings-earrings-37316978180270.jpg?v=1755717057",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/rubans-24-k-gold-plated-aaa-cubic-zirconia-studded-premium-drop-earrings?variant=gid://shopify/ProductVariant/45832527085742",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/45839722971310": {
+    "product_title": "Premium Radiance American Diamond Zirconia Drop Earrings",
+    "product_handle": "rubans-rhodium-plated-crystal-ad-cubic-zirconia-studded-drop-earrings-elegant-design",
+    "variant_id": "gid://shopify/ProductVariant/45839722971310",
+    "global_id": "gid://shopify/ProductVariant/45839722971310",
+    "variant_title": "Silver",
+    "sku": "RE20ED406332",
+    "price": 1078.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-crystal-ad-cubic-zirconia-studded-drop-earrings-elegant-design-earrings-37344998097070.jpg?v=1755716951",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/rubans-rhodium-plated-crystal-ad-cubic-zirconia-studded-drop-earrings-elegant-design?variant=gid://shopify/ProductVariant/45839722971310",
     "stock": 20
   },
   "gid://shopify/ProductVariant/45604278927534": {

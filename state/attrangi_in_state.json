@@ -5995,9 +5995,9 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/maniya-3-layer-pearl-string-emerald-cluster-necklace-attrangi-1.jpg?v=1739814122",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/maniya-3-layer-pearl-string-emerald-cluster-necklace?variant=gid://shopify/ProductVariant/43197127786708",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43197187621076": {
@@ -41060,7 +41060,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_00806.jpg?v=1775480545",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/toi-et-moi-heart-emerald-diamond-solitaire-ring-daily-wear?variant=gid://shopify/ProductVariant/47766035759316",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47766035792084": {
     "product_title": "Toi Et Moi Heart Emerald Diamond Solitaire Ring | Daily Wear",
