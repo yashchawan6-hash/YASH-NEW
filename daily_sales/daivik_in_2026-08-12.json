@@ -1146,5 +1146,33 @@
     "curr_stock": 5,
     "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475310745",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fd7e08cd-80c2-41df-b519-fd0c018cf3a5.jpg?v=1624462225"
+  },
+  {
+    "timestamp_ist": "2026-08-12 13:46:50",
+    "product_title": "Big sized kemp carved teeka",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42380990152926",
+    "sku": "635",
+    "price": 1299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 41,
+    "curr_stock": 40,
+    "url": "https://www.daivik.in/products/big-sized-kemp-carved-teeka?variant=gid://shopify/ProductVariant/42380990152926",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e37359c0-1139-43bd-98d6-991d53d1c7e8.jpg?v=1642949445"
+  },
+  {
+    "timestamp_ist": "2026-08-12 13:46:50",
+    "product_title": "Guttaspusalu Pearl Necklace set with Earrings (Available in Combo, Short and Long)",
+    "variant_title": "Long",
+    "variant_id": "gid://shopify/ProductVariant/46162809487582",
+    "sku": "1187",
+    "price": 2499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 37,
+    "curr_stock": 36,
+    "url": "https://www.daivik.in/products/1187?variant=gid://shopify/ProductVariant/46162809487582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E458D140-F8E1-4FBC-8260-89D969C318CB.jpg?v=1734533412"
   }
 ]
