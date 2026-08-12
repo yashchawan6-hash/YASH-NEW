@@ -15663,10 +15663,10 @@
     "price": 1124.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-24k-gold-plated-emerald-ad-cubic-zirconia-studded-statement-necklace-set-necklace-set-37921223016622.jpg?v=1771411396",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-24k-gold-plated-emerald-ad-cubic-zirconia-studded-statement-necklace-set?variant=gid://shopify/ProductVariant/46085450793134",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46086733758638": {
     "product_title": "Rubans 22K Gold-Plated Grey Stone and White Cubic Zirconia Studded Pendant Jewellery Set",
@@ -15736,7 +15736,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-rhodium-plated-ruby-pink-white-cubic-zirconia-studded-bangles-bangles-bracelets-1155088497.jpg?v=1770808069",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-cz-studded-bangles-re14b407192?variant=gid://shopify/ProductVariant/46603903500462",
-    "stock": 15,
+    "stock": 20,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/46603903533230": {
@@ -15751,7 +15751,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-rhodium-plated-ruby-pink-white-cubic-zirconia-studded-bangles-bangles-bracelets-1155088497.jpg?v=1770808069",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-cz-studded-bangles-re14b407192?variant=gid://shopify/ProductVariant/46603903533230",
-    "stock": 20
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47129370656942": {
     "product_title": "Rubans Set Of 2 Rhodium-Plated Sapphire & CZ Studded Bangles",
@@ -26600,8 +26601,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-rhodium-plated-cubic-zirconia-studded-floral-pattern-premium-bangles-bangles-bracelets-1172963350.jpg?v=1770793684",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-multicolor-aaa-cubic-zirconia-studded-handcrafted-bangles-copy?variant=gid://shopify/ProductVariant/47084594331822",
-    "stock": 13,
-    "last_alerted_stock": 13
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47084594364590": {
     "product_title": "American Diamond Zirconia Studded Sleek Band",
@@ -27067,7 +27068,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-cubic-zirconia-studded-premium-bangles-bangles-bracelet-1154631479.jpg?v=1770266183",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-6-22k-gold-plated-cubic-zirconia-studded-handcrafted-premium-bangles-copy?variant=gid://shopify/ProductVariant/47084592988334",
-    "stock": 14
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47084593021102": {
     "product_title": "Luxe Radiance Kundan Jhumka with Kaan Chain",
@@ -33856,7 +33858,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B409324.jpg?v=1765202175",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-18k-gold-plated-ruby-pink-emerald-green-stone-studded-floral-bangles-re10b409324?variant=gid://shopify/ProductVariant/46717223731374",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46717223764142": {
@@ -34423,8 +34425,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-ruby-red-emerald-green-stone-temple-waist-chain-kamarbandh-with-pearl-drops-saree-accessories-1183200888.jpg?v=1765179955",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-red-emerald-green-stone-temple-waist-chain-kamarbandh-with-pearl-drops?variant=gid://shopify/ProductVariant/46750611898542",
-    "stock": 19,
-    "last_alerted_stock": 19
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/46751845712046": {
     "product_title": "Blue Studded American Diamond Zirconia Ring",
@@ -76020,7 +76022,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414102-Model.jpg?v=1784290768",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414102?variant=gid://shopify/ProductVariant/48107696783534",
-    "stock": 14,
+    "stock": 20,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/48107696816302": {
@@ -76094,8 +76096,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw27v414379-Model.jpg?v=1784290795",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw27v414379?variant=gid://shopify/ProductVariant/48107697209518",
-    "stock": 20,
-    "last_alerted_stock": 12
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48107697275054": {
     "product_title": "Demifine 18K Gold Plated Stainless Steel Multicolor Crystal Bracelet",
@@ -76679,7 +76681,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414273-Model.jpg?v=1784291087",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414273?variant=gid://shopify/ProductVariant/48107701567662",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48107701960878": {
@@ -76809,7 +76811,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415340-Model.jpg?v=1784291163",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415340?variant=gid://shopify/ProductVariant/48107702649006",
-    "stock": 20,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48107702714542": {
