@@ -46813,10 +46813,10 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712438484",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48379712471252": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
@@ -47131,8 +47131,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713257684",
-    "stock": 3,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48379713290452": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
@@ -47664,10 +47664,10 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-03_at_4.46.59_PM.jpg?v=1785759315",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714633940",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48379714666708": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
@@ -47982,9 +47982,10 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379715453140",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48379715485908": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
