@@ -33421,7 +33421,7 @@
     "price": 667.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20ED408729.jpg?v=1770094481",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-blue-sapphire-cubic-zirconia-studded-floral-stud-earrings-copy-1?variant=gid://shopify/ProductVariant/46659366060206",
     "stock": 0,
     "last_alerted_stock": 0
@@ -65944,7 +65944,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414046_Model.jpg?v=1783530663",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414046?variant=gid://shopify/ProductVariant/47769369772206",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47769369837742": {
@@ -66214,7 +66214,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04N414070_04.jpg?v=1776949029",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04n414070?variant=gid://shopify/ProductVariant/47769373409454",
-    "stock": 13,
+    "stock": 20,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47769373442222": {
@@ -66546,7 +66546,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04ED414092_03.jpg?v=1776949194",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04ed414092?variant=gid://shopify/ProductVariant/47769382715566",
-    "stock": 20,
+    "stock": 13,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47769383076014": {
@@ -67099,7 +67099,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW01V414143_03.jpg?v=1776949486",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw01v414143?variant=gid://shopify/ProductVariant/47769390350510",
-    "stock": 11,
+    "stock": 20,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47769390481582": {
@@ -67300,7 +67300,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414160-Model.jpg?v=1776949576",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414160?variant=gid://shopify/ProductVariant/47769393070254",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47769393201326": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Arch Enamel Statement Drop Earrings",
@@ -67857,7 +67858,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414228_model.jpg?v=1782307199",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414228?variant=gid://shopify/ProductVariant/47769400737966",
-    "stock": 3,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769401426094": {
@@ -67872,7 +67873,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414229-Model.jpg?v=1776949868",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414229?variant=gid://shopify/ProductVariant/47769401426094",
-    "stock": 20
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47769401491630": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Classic Disc C Pendant Necklace",
@@ -69358,7 +69360,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414155-Model.jpg?v=1778585745",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414155?variant=gid://shopify/ProductVariant/47848723054766",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47848723316910": {
@@ -69617,8 +69619,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414164-Model.jpg?v=1779086738",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414164?variant=gid://shopify/ProductVariant/47869076897966",
-    "stock": 20,
-    "last_alerted_stock": 12
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47914219143342": {
     "product_title": "Multicolour Crystal Luxe Statement Earrings",
@@ -72037,7 +72039,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE30N414120-Model.jpg?v=1780047595",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re30n414120?variant=gid://shopify/ProductVariant/47922727321774",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47922727354542": {
@@ -72251,7 +72253,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414132-Model.jpg?v=1780047678",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414132?variant=gid://shopify/ProductVariant/47922730991790",
-    "stock": 3,
+    "stock": 9,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47922731548846": {
@@ -74221,7 +74223,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415290-Model.jpg?v=1781601516",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415290?variant=gid://shopify/ProductVariant/47989353676974",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47989353709742": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Seaside Glow Statement Studs Earrings",
@@ -75006,8 +75009,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N415348-Model-2.jpg?v=1781607958",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n415348?variant=gid://shopify/ProductVariant/47989495496878",
-    "stock": 17,
-    "last_alerted_stock": 17
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47989495529646": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Twisted Path Statement Ring",
@@ -75150,7 +75153,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415292-Model.jpg?v=1781608099",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415292?variant=gid://shopify/ProductVariant/47989496217774",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47989496250542": {
@@ -75337,8 +75340,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415320-Model.jpg?v=1781610021",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415320?variant=gid://shopify/ProductVariant/47989597307054",
-    "stock": 20,
-    "last_alerted_stock": 1
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47989597372590": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Textured Statement Band Ring",
@@ -76066,7 +76069,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414384-Model.jpg?v=1784290830",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414384?variant=gid://shopify/ProductVariant/48107697799342",
-    "stock": 12,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/48107698094254": {
@@ -76474,7 +76477,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw30pc414378-Model.jpg?v=1784291049",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414378?variant=gid://shopify/ProductVariant/48107701076142",
-    "stock": 20
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48107701108910": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Turquoise Enamel Pattern Hoops Earrings",
@@ -76588,7 +76592,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414275-Model_01.jpg?v=1784291105",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414275?variant=gid://shopify/ProductVariant/48107701960878",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/48107702091950": {
