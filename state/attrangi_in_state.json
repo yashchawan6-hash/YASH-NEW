@@ -13410,7 +13410,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_11.08.16_PM_1.jpg?v=1750781924",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/10-cent-daily-wear-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/45075445186772",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45075445219540": {
@@ -45892,9 +45892,10 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at6.52.10PM.jpg?v=1784361916",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/maria-diamond-pearl-drop-mid-sized-classic-earrings-grey-off-white-pearl?variant=gid://shopify/ProductVariant/48324858577108",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48324858544340": {
     "product_title": "Maria Diamond Pearl Drop Mid-Sized Classic Earrings | Grey & Off-White Pearl",
