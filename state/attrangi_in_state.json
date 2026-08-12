@@ -1544,7 +1544,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002G_101900_2026031640115.jpg?v=1779884617",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992150261972",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43098510754004": {
@@ -20620,7 +20620,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-26at1.17.00PM.jpg?v=1740904542",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shikha-moissanite-polki-mini-chandbali?variant=gid://shopify/ProductVariant/46104872091860",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48186115096788": {
     "product_title": "Apsara Polki Moissanite Light Weight Chandbalis",
@@ -28394,8 +28395,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-29_at_12.38.34_PM.jpg?v=1759139416",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kaajal-moissanite-openable-uncut-diamond-polki-kada?variant=gid://shopify/ProductVariant/46984148025556",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46951500447956": {
     "product_title": "Tarla Moissanite Polki Floral Meenakari Uncut Diamond Pendant Set",
@@ -42018,10 +42019,10 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-20at2.18.32PM.jpg?v=1776755392",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/treeda-gold-chunky-western-party-wear-necklace?variant=gid://shopify/ProductVariant/47822707851476",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47822728495316": {
     "product_title": "Sculpted in Gold Western Party Wear Necklace",
