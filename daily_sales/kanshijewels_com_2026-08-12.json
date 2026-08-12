@@ -96,5 +96,33 @@
     "curr_stock": 1,
     "url": "https://www.kanshijewels.com/products/elegant-sheek-jadau-necklace-and-earring-set?variant=gid://shopify/ProductVariant/53368929255724",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantsheekjadaunecklaceandearringset1199.jpg?v=1782216299"
+  },
+  {
+    "timestamp_ist": "2026-08-12 10:56:32",
+    "product_title": "Jadau Chokar",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52445265821996",
+    "sku": "AC23",
+    "price": 2700.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-chokar-8?variant=gid://shopify/ProductVariant/52445265821996",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauchokar2700_-_1.jpg?v=1766140114"
+  },
+  {
+    "timestamp_ist": "2026-08-12 10:56:32",
+    "product_title": "Jadau jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52445404987692",
+    "sku": "ER81",
+    "price": 2300.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-earrings-copy-2?variant=gid://shopify/ProductVariant/52445404987692",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaujhumkas2300.jpg?v=1766145430"
   }
 ]

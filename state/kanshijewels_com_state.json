@@ -18089,9 +18089,10 @@
     "price": 2700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadauchokar2700_-_1.jpg?v=1766140114",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-chokar-8?variant=gid://shopify/ProductVariant/52445265821996",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445270475052": {
     "product_title": "Jadau butta necklace",
@@ -19005,9 +19006,10 @@
     "price": 2300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaujhumkas2300.jpg?v=1766145430",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-earrings-copy-2?variant=gid://shopify/ProductVariant/52445404987692",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445407641900": {
     "product_title": "Jadau jhumkas",
