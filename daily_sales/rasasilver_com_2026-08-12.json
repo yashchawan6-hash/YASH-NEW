@@ -614,5 +614,33 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/lakshmi-kripa-temple-set?variant=gid://shopify/ProductVariant/53318413779241",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42254_resized.jpg?v=1783497777"
+  },
+  {
+    "timestamp_ist": "2026-08-12 18:26:50",
+    "product_title": "Trishul Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53394169659689",
+    "sku": "R33377",
+    "price": 765.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.rasasilver.com/products/thrishul-rakhi?variant=gid://shopify/ProductVariant/53394169659689",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19595.jpg?v=1786000594"
+  },
+  {
+    "timestamp_ist": "2026-08-12 18:26:50",
+    "product_title": "Trishul Kripa Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53394179064105",
+    "sku": "R33378",
+    "price": 765.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.rasasilver.com/products/rakhi?variant=gid://shopify/ProductVariant/53394179064105",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19588.jpg?v=1786000962"
   }
 ]
