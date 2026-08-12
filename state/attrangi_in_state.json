@@ -14880,7 +14880,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-08-25at4.01.54PM.jpg?v=1750782499",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/draupadi-polki-and-pearl-choker-set?variant=gid://shopify/ProductVariant/45682650677460",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/45682652676308": {
     "product_title": "Draupadi Polki And Pearl Choker Set",
@@ -31723,7 +31723,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-02-06_at_2.28.46_PM.jpg?v=1774098984",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gracy-diamond-front-openable-designer-bracelet?variant=gid://shopify/ProductVariant/47205628051668",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47256779325652": {
@@ -37785,20 +37785,33 @@
     "url": "https://www.attrangi.in/products/pavitra-bandhan-meenakari-polki-mangalsutra-daily-wear?variant=gid://shopify/ProductVariant/47684211015892",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/47684226187476": {
+  "gid://shopify/ProductVariant/48459314397396": {
     "product_title": "Shriphal Single Line Diamond Mangalsutra | Gold Polish | Daily Wear",
     "product_handle": "shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear",
-    "variant_id": "gid://shopify/ProductVariant/47684226187476",
-    "global_id": "gid://shopify/ProductVariant/47684226187476",
-    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48459314397396",
+    "global_id": "gid://shopify/ProductVariant/48459314397396",
+    "variant_title": "Green",
     "sku": "RP6345GR",
     "price": 2350.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-20at6.47.40PM.jpg?v=1774014117",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-20at6.47.40PM_1.jpg?v=1774014116",
     "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/47684226187476",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/48459314397396",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/48459314462932": {
+    "product_title": "Shriphal Single Line Diamond Mangalsutra | Gold Polish | Daily Wear",
+    "product_handle": "shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear",
+    "variant_id": "gid://shopify/ProductVariant/48459314462932",
+    "global_id": "gid://shopify/ProductVariant/48459314462932",
+    "variant_title": "Red",
+    "sku": "RP6345R",
+    "price": 2350.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_12.56.21_PM.jpg?v=1786519851",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/48459314462932",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47684236804308": {
     "product_title": "Vachan Single Line Diamond Mangalsutra with Coloured Stone | Daily Wear",
@@ -39561,10 +39574,10 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at4.49.12PM.jpg?v=1774606970",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lacy-50-cent-soltiiare-ring-with-band?variant=gid://shopify/ProductVariant/47727303459028",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47727303491796": {
     "product_title": "Lacy 50 cent Soltiiare Ring with Band",
@@ -49021,6 +49034,21 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/forever-connected-polki-bracelet-rakhi?variant=gid://shopify/ProductVariant/48453643337940",
     "stock": 0
+  },
+  "gid://shopify/ProductVariant/47684226187476": {
+    "product_title": "Shriphal Single Line Diamond Mangalsutra | Gold Polish | Daily Wear",
+    "product_handle": "shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear",
+    "variant_id": "gid://shopify/ProductVariant/47684226187476",
+    "global_id": "gid://shopify/ProductVariant/47684226187476",
+    "variant_title": "Default Title",
+    "sku": "RP6345GR",
+    "price": 2350.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-20at6.47.40PM.jpg?v=1774014117",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/47684226187476",
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47426212528340": {
     "product_title": "Lykaa Moissanite Half Gokhru Polki Kada",
