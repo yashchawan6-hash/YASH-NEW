@@ -19324,9 +19324,10 @@
     "price": 250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-23_at_12.05.07_PM.jpg?v=1764680806",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/speak-for-me-everyday-wear-charm-bracelet?variant=gid://shopify/ProductVariant/46020917657812",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46020917690580": {
     "product_title": "Speak For Me Everyday Wear Charm Bracelet",
@@ -38312,9 +38313,10 @@
     "price": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at6.30.54PM_1.jpg?v=1775458129",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/alibi-wrap-diamond-coloured-stone-cocktail-ring-adjustable?variant=gid://shopify/ProductVariant/47715647652052",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47715701326036": {
     "product_title": "Girlcode Diamond Wrap Multi Solitaire cocktail Ring",
@@ -49014,6 +49016,20 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-11at11.15.13AM.jpg?v=1786451846",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/forever-connected-polki-bracelet-rakhi?variant=gid://shopify/ProductVariant/48453643337940",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48459746312404": {
+    "product_title": "Boho Tribe Gold Indo Western Funky Polki Choker Set",
+    "product_handle": "boho-tribe-gold-indo-western-funky-polki-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/48459746312404",
+    "global_id": "gid://shopify/ProductVariant/48459746312404",
+    "variant_title": "Default Title",
+    "sku": "SJO9731-JS",
+    "price": 6950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.35.28PM.jpg?v=1786534102",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/boho-tribe-gold-indo-western-funky-polki-choker-set?variant=gid://shopify/ProductVariant/48459746312404",
     "stock": 0
   },
   "gid://shopify/ProductVariant/47684226187476": {
