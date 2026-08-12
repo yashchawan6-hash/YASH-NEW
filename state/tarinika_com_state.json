@@ -5754,9 +5754,10 @@
     "price": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0399X_bbc181f6-02d9-4526-98fa-fd020af35333.jpg?v=1646224598",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/labanya-antique-bangles?variant=gid://shopify/ProductVariant/39534446706754",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39534446739522": {
     "product_title": "Labanya Antique Bangles",
