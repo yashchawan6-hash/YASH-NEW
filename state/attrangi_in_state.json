@@ -27583,9 +27583,10 @@
     "price": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-12at11.06.47AM.jpg?v=1757671654",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/mittal-oversized-designer-indian-brooch-unisex?variant=gid://shopify/ProductVariant/46902332981460",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46909000220884": {
     "product_title": "Multi Soltiaire With Halo diamond Tennis Bracelet",
