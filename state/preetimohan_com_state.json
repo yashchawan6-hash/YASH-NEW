@@ -3918,9 +3918,10 @@
     "price": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/PM5model1-2019.jpg?v=1756142260",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/kaveri-ruby-ring?variant=gid://shopify/ProductVariant/47554962292929",
-    "stock": 4
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47554962555073": {
     "product_title": "HARSHITA RING",
