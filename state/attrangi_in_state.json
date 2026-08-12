@@ -5042,7 +5042,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sunsign-necklace-attrangi-2.jpg?v=1739814010",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sunsign-necklace?variant=gid://shopify/ProductVariant/42902554181844",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42902554214612": {
     "product_title": "Sunsign Necklace",
@@ -46861,10 +46862,10 @@
     "price": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379703296212",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48379712700628": {
     "product_title": "Colour Burst Daily Wear Rakhi Bracelet | Alphabet Customised",
