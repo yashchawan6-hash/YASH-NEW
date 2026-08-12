@@ -113,9 +113,9 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/small-round-solitaires-halo-attrangi-2.jpg?v=1739812457",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/small-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659370665",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/40411659501737": {
     "product_title": "2 Carat Round Solitaire Earring | 8mm",
@@ -9911,9 +9911,10 @@
     "price": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/drizzle-indo-western-studs-or-gemz-collection-attrangi-1.jpg?v=1739815490",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/drizzle-indo-western-studs-gemz-collection?variant=gid://shopify/ProductVariant/44464415834324",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44229577769172": {
     "product_title": "Floral Diamond On Pearl Bali\u2019s",
@@ -14215,7 +14216,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-07-21at1.55.16PM.jpg?v=1750782160",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mila-colour-crystal-drop-diamond-earrings?variant=gid://shopify/ProductVariant/45453960577236",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45453991280852": {
     "product_title": "Tira Dramatic Oversized Diamond Dangler Earrings",
