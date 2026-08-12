@@ -6091,9 +6091,10 @@
     "price": 16.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TRX0010X.jpg?v=1640948636",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/senna-timeless-cz-ring?variant=gid://shopify/ProductVariant/39558465159234",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39558514311234": {
     "product_title": "Zia Floral CZ Cocktail Ring",
@@ -25170,9 +25171,10 @@
     "price": 12.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0071XWC4.jpg?v=1781779955",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/bhavya-antique-white-floral-bangles?variant=gid://shopify/ProductVariant/43868858744898",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43868858777666": {
     "product_title": "Bhavya Antique Red Floral Bangles",

@@ -50275,10 +50275,10 @@
     "price": 1124.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30N410780_2.jpg?v=1768824405",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rv30n410780?variant=gid://shopify/ProductVariant/47206074876078",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47206075728046": {
     "product_title": "Sun Evil Eye Pendant",
@@ -50349,7 +50349,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30V410532_1.jpg?v=1768814988",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rv30v410532?variant=gid://shopify/ProductVariant/47206079856814",
-    "stock": 4,
+    "stock": 6,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47206079889582": {
@@ -50379,8 +50379,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30V410535_1.jpg?v=1768814537",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rv30v410535?variant=gid://shopify/ProductVariant/47206080872622",
-    "stock": 6,
-    "last_alerted_stock": 3
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47206081200302": {
     "product_title": "Gold Toned Sculpted Hammered Statement Bracelet",
