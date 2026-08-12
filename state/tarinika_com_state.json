@@ -12028,9 +12028,10 @@
     "price": 35.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FPX0685XMY.png?v=1741696744",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/mastya-antique-pendant-set?variant=gid://shopify/ProductVariant/40285290037314",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40285312450626": {
     "product_title": "Nishara Antique Pendant Set",
