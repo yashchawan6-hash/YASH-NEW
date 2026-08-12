@@ -5490,9 +5490,9 @@
     "price": 51850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-7_4a4a09eb-5749-434c-9976-21bfd5872076.jpg?v=1751623978",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/alexandria-mor-short-necklace?variant=gid://shopify/ProductVariant/50568944615721",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50568979448105": {
@@ -6406,8 +6406,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-3_f478139a-0244-4978-b152-93784f4cb5cd.jpg?v=1754029643",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kamala-ranjani-pendant?variant=gid://shopify/ProductVariant/50649020530985",
-    "stock": 7,
-    "last_alerted_stock": 3
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50649046614313": {
     "product_title": "Shringaara Nilaya Short Necklace",

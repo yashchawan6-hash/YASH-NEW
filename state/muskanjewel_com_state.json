@@ -3835,9 +3835,37 @@
     "price": 3200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260805_103330_5dc34298-acdc-4776-a53a-ece5d8377f2b.png?v=1786516698",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-rice-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53981050241340",
     "stock": 0
+  },
+  "gid://shopify/ProductVariant/53981073211708": {
+    "product_title": "Jadau Kundan Peacock Studs",
+    "product_handle": "jadau-kundan-peacock-studs-3",
+    "variant_id": "gid://shopify/ProductVariant/53981073211708",
+    "global_id": "gid://shopify/ProductVariant/53981073211708",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 1000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260805_104214_7772f16a-2a2b-4e9c-b656-f3a11b233ac0.png?v=1786517778",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-studs-3?variant=gid://shopify/ProductVariant/53981073211708",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53981093331260": {
+    "product_title": "Jadau Kundan Floral Jhumkas with Pearls and Natural Strawberry Beads Drop",
+    "product_handle": "jadau-kundan-floral-jhumkas-with-pearls-and-natural-strawberry-beads-drop-1",
+    "variant_id": "gid://shopify/ProductVariant/53981093331260",
+    "global_id": "gid://shopify/ProductVariant/53981093331260",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 1600.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260805_112247_2323f9ba-9ef1-4002-a2ec-4f7607535f10.png?v=1786519057",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-with-pearls-and-natural-strawberry-beads-drop-1?variant=gid://shopify/ProductVariant/53981093331260",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/52623649341756": {
     "product_title": "Bridal Peacock necklace set with matching earrings included",
