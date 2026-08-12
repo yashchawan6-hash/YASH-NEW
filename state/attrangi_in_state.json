@@ -6683,10 +6683,10 @@
     "price": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/tiny-diamond-bali-s-or-daily-wear-or-limited-edition-attrangi-2.jpg?v=1751701981",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/tiny-diamond-bali-s-daily-wear-limited-edition?variant=gid://shopify/ProductVariant/43459426025684",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43501958332628": {
     "product_title": "Diamond Pacheli | Gokhru Bangle Set",
@@ -29694,7 +29694,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-30at4.07.13PM.jpg?v=1759231302",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhunjhun-gold-traditional-inidan-bangle-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/46986658250964",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46986658283732": {
@@ -37670,7 +37670,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-11at10.40.45PM.jpg?v=1773406061",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/celebration-diamond-delicate-necklace-set?variant=gid://shopify/ProductVariant/47648999801044",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47650985214164": {
     "product_title": "Elephant Polki Rajwada Indian Choker Set",
