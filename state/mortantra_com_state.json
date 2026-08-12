@@ -80521,21 +80521,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-mishr-bracelet-1-piece-mr-brac205?variant=gid://shopify/ProductVariant/49286556778719",
     "stock": 7
   },
-  "gid://shopify/ProductVariant/49286613958879": {
-    "product_title": "Multicolor Gold-Plated Mishr Long Necklace Set with Jadau Kundan and Peacock Motif - MR-S965",
-    "product_handle": "gold-plated-mishr-necklace-set-mr-s965",
-    "variant_id": "gid://shopify/ProductVariant/49286613958879",
-    "global_id": "gid://shopify/ProductVariant/49286613958879",
-    "variant_title": "Multicolor",
-    "sku": "MR-S965M",
-    "price": 4000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S965M.jpg?v=1779353552",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-mishr-necklace-set-mr-s965?variant=gid://shopify/ProductVariant/49286613958879",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/49286624870623": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motifs - MS1640M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-necklace-set-ms1640m",
@@ -94109,6 +94094,21 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/49286613958879": {
+    "product_title": "Multicolor Gold-Plated Mishr Long Necklace Set with Jadau Kundan and Peacock Motif - MR-S965",
+    "product_handle": "gold-plated-mishr-necklace-set-mr-s965",
+    "variant_id": "gid://shopify/ProductVariant/49286613958879",
+    "global_id": "gid://shopify/ProductVariant/49286613958879",
+    "variant_title": "Multicolor",
+    "sku": "MR-S965M",
+    "price": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S965M.jpg?v=1779353552",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-mishr-necklace-set-mr-s965?variant=gid://shopify/ProductVariant/49286613958879",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45567323504863": {
     "product_title": "White Color Gold Plated Ring with Kundan - TK-RNG15",
