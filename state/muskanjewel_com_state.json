@@ -443,9 +443,9 @@
     "amount": 950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/0b321a05-d60e-4833-b7cf-c138fc284299.webp?v=1768474808",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-tika-with-pearl-drop-and-natural-strawberry-beads-3?variant=gid://shopify/ProductVariant/52628744143164",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52628751417660": {
