@@ -417,10 +417,10 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/bouquet-stiff-earrings-attrangi-1.jpg?v=1739812514",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bouquet-stiff-earrings?variant=gid://shopify/ProductVariant/40411664679081",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411664711849": {
     "product_title": "Bouquet Stiff Earrings",
@@ -17161,9 +17161,9 @@
     "amount": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/evil-eye-monogram-daily-bracelet-attrangi-3.jpg?v=1739816793",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/evil-eye-monogram-daily-bracelet?variant=gid://shopify/ProductVariant/45442725347540",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45442902917332": {
