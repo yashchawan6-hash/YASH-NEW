@@ -2343,7 +2343,7 @@
     "amount": 35000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC00486.jpg?v=1756191868",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/gold-finish-multi-stone-polki-necklace-set-with-pink-and-white-drops?variant=gid://shopify/ProductVariant/42551242686657",
     "stock": 0,
     "last_alerted_stock": 0
@@ -2876,23 +2876,6 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/yadavi-moissanite-necklace-set13?variant=gid://shopify/ProductVariant/47297356726465",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/47297356759233": {
-    "product_title": "Aprajita Three Line Polki Necklace",
-    "product_handle": "aprajita-three-line-polki-necklace-14",
-    "variant_id": "gid://shopify/ProductVariant/47297356759233",
-    "global_id": "gid://shopify/ProductVariant/47297356759233",
-    "variant_title": "Default Title",
-    "sku": "WNKSRB342",
-    "price": 55250.0,
-    "variant_price": 55250.0,
-    "product_price": 55250.0,
-    "amount": 55250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/28.09.233908_f362d05c-808a-4680-a938-b0802733a022.jpg?v=1756191843",
-    "available_for_sale": true,
-    "url": "https://www.preetimohan.com/products/aprajita-three-line-polki-necklace-14?variant=gid://shopify/ProductVariant/47297356759233",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/47297356824769": {
     "product_title": "Sadhika Kundan Necklace Set",
@@ -28001,6 +27984,23 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chandni-red-green-kundan-waist-belts?variant=gid://shopify/ProductVariant/50485596618945",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47297356759233": {
+    "product_title": "Aprajita Three Line Polki Necklace",
+    "product_handle": "aprajita-three-line-polki-necklace-14",
+    "variant_id": "gid://shopify/ProductVariant/47297356759233",
+    "global_id": "gid://shopify/ProductVariant/47297356759233",
+    "variant_title": "Default Title",
+    "sku": "WNKSRB342",
+    "price": 55250.0,
+    "variant_price": 55250.0,
+    "product_price": 55250.0,
+    "amount": 55250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/28.09.233908_f362d05c-808a-4680-a938-b0802733a022.jpg?v=1756191843",
+    "available_for_sale": true,
+    "url": "https://www.preetimohan.com/products/aprajita-three-line-polki-necklace-14?variant=gid://shopify/ProductVariant/47297356759233",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42546524422337": {
     "product_title": "CHITRALI POLKI NECKLACE SET",
