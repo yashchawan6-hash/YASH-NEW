@@ -7770,9 +7770,10 @@
     "amount": 19000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/PM_31July_3919.jpg?v=1756191678",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/divya-antique-finish-red-choker-set?variant=gid://shopify/ProductVariant/48594847334593",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48594849366209": {
     "product_title": "KHANAK RED MOISSANITE TIKA",
