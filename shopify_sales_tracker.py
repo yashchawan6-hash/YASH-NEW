@@ -126,6 +126,10 @@ def fetch_catalog(domain, token):
                     amount
                     currencyCode
                   }
+                  priceV2 {
+                    amount
+                    currencyCode
+                  }
                   image {
                     url
                   }
@@ -173,7 +177,21 @@ def fetch_catalog(domain, token):
                     variant_id = str(global_id)
 
                 v_img = v_node.get('image', {}).get('url') if v_node.get('image') else p_featured_img
-                currency_code = v_node.get('price', {}).get('currencyCode', 'INR')
+                
+                # Multi-tier price extraction (price / priceV2)
+                price_obj = v_node.get('price') or v_node.get('priceV2') or {}
+                if isinstance(price_obj, dict):
+                    price_val = float(price_obj.get('amount', 0))
+                    currency_code = price_obj.get('currencyCode', 'INR')
+                elif isinstance(price_obj, (int, float, str)):
+                    try:
+                        price_val = float(price_obj)
+                    except Exception:
+                        price_val = 0.0
+                    currency_code = 'INR'
+                else:
+                    price_val = 0.0
+                    currency_code = 'INR'
 
                 v_info = {
                     'product_title': p_title,
@@ -182,7 +200,10 @@ def fetch_catalog(domain, token):
                     'global_id': global_id,
                     'variant_title': clean_string(v_node.get('title', '')),
                     'sku': clean_string(v_node.get('sku', '')),
-                    'price': float(v_node.get('price', {}).get('amount', 0)),
+                    'price': price_val,
+                    'variant_price': price_val,
+                    'product_price': price_val,
+                    'amount': price_val,
                     'currency': currency_code,
                     'image_url': v_img,
                     'available_for_sale': v_node.get('availableForSale', False),
@@ -298,15 +319,21 @@ def record_daily_sales(clean_domain, sales_detected, daily_dir):
 
     for sale in sales_detected:
         item = sale['item']
+        price_val = item.get('price', 0.0) or item.get('variant_price', 0.0) or item.get('product_price', 0.0) or item.get('amount', 0.0)
+        qty_sold = sale.get('qty_sold', 1)
         record = {
             'timestamp_ist': ist_now.strftime('%Y-%m-%d %H:%M:%S'),
             'product_title': item.get('product_title'),
             'variant_title': item.get('variant_title'),
             'variant_id': item.get('variant_id'),
             'sku': item.get('sku'),
-            'price': item.get('price'),
+            'price': float(price_val),
+            'variant_price': float(price_val),
+            'product_price': float(price_val),
+            'amount': float(price_val),
+            'total_price': float(price_val * qty_sold),
             'currency': item.get('currency', 'INR'),
-            'qty_sold': sale.get('qty_sold'),
+            'qty_sold': qty_sold,
             'prev_stock': sale.get('prev_stock'),
             'curr_stock': sale.get('curr_stock'),
             'url': item.get('url'),
@@ -329,7 +356,7 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
 
     prod_title = item.get('product_title', 'Unknown Product')
     var_title = item.get('variant_title', '')
-    price = item.get('price', 0.0)
+    price = float(item.get('price', 0.0) or item.get('variant_price', 0.0) or item.get('product_price', 0.0) or item.get('amount', 0.0))
     currency = item.get('currency', 'INR')
     url = item.get('url', f"https://www.{domain}")
     image_url = item.get('image_url')
@@ -383,7 +410,7 @@ def send_telegram_alert(bot_token, chat_id, sale, domain):
 
 def send_telegram_summary_alert(bot_token, chat_id, sales_detected, domain):
     total_items_sold = sum(s['qty_sold'] for s in sales_detected)
-    total_revenue = sum(s['item'].get('price', 0.0) * s['qty_sold'] for s in sales_detected)
+    total_revenue = sum(float(s['item'].get('price', 0.0) or s['item'].get('variant_price', 0.0) or 0.0) * s['qty_sold'] for s in sales_detected)
     currency = sales_detected[0]['item'].get('currency', 'INR') if sales_detected else 'INR'
     symbol = "₹" if currency == "INR" else "$"
 
@@ -401,7 +428,7 @@ def send_telegram_summary_alert(bot_token, chat_id, sales_detected, domain):
         var_title = item.get('variant_title', '')
         p_name = f"{prod_title} ({var_title})" if var_title and var_title.lower() != 'default title' else prod_title
         qty = sale['qty_sold']
-        price = item.get('price', 0.0)
+        price = float(item.get('price', 0.0) or item.get('variant_price', 0.0) or 0.0)
         url = item.get('url', f"https://www.{domain}")
         msg += f"{i}. <a href=\"{url}\">{p_name[:35]}</a> - <b>{qty}x</b> ({symbol}{price:,.0f})\n"
 
@@ -469,7 +496,6 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
         print(f"[{domain}] No active variants found.", flush=True)
         return
 
-    # Check 100% of variants in catalog with Cart API (NO SKIPPING)
     variants_to_check = list(all_catalog_variants)
     known_v_ids = {v['variant_id'] for v in all_catalog_variants}
 
