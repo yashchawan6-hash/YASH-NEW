@@ -82,5 +82,33 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/satakshi-antique-pendant-set?variant=gid://shopify/ProductVariant/42419482165314",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANP3396XMC_b97255a0-aa1a-4eea-8e00-02fee3821bc5.jpg?v=1757488033"
+  },
+  {
+    "timestamp_ist": "2026-08-13 09:56:21",
+    "product_title": "Jelena Nakshatra CZ Necklace Set",
+    "variant_title": "Sea Green / White Rhodium",
+    "variant_id": "gid://shopify/ProductVariant/41537220509762",
+    "sku": "US-VNS0002NS6",
+    "price": 80.0,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.tarinika.com/products/jelena-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/41537220509762",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0002N.jpg?v=1739247648"
+  },
+  {
+    "timestamp_ist": "2026-08-13 09:56:21",
+    "product_title": "Vyapini Antique Navaratna Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41121772634178",
+    "sku": "US-FNX3742XTC",
+    "price": 65.0,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.tarinika.com/products/vyapini-antique-navaratna-necklace-set?variant=gid://shopify/ProductVariant/41121772634178",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX3742X_38af3507-75f8-4b2f-948a-426ebc5050a7.jpg?v=1714643941"
   }
 ]
