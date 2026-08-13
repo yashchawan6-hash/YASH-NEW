@@ -6621,9 +6621,9 @@
     "amount": 40715.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R5534.jpg?v=1751291274",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pearlira-ninefold-necklace?variant=gid://shopify/ProductVariant/50564035313961",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50564244144425": {
@@ -45287,7 +45287,7 @@
     "amount": 37485.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_49_24Dec1953_resized.jpg?v=1767430664",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emeravalli-victorian-necklace?variant=gid://shopify/ProductVariant/52344621728041",
     "stock": 1,
     "last_alerted_stock": 0
@@ -56885,7 +56885,7 @@
     "amount": 11390.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0102copy_resized_1_80ec25e6-289e-4960-809c-0c31ff5283d3.jpg?v=1770875519",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pear-bloom-victorian-danglers-copy?variant=gid://shopify/ProductVariant/52603215413545",
     "stock": 1,
     "last_alerted_stock": 0
