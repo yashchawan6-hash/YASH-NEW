@@ -32797,7 +32797,7 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.36.57_PM_1.jpg?v=1764669258",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/crescent-multi-soltiaire-diamond-studs-30-cent?variant=gid://shopify/ProductVariant/46771079413972",
     "stock": 1,
     "last_alerted_stock": 0
@@ -51943,24 +51943,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/eleganza-statement-diamond-necklace-with-earcuffs?variant=gid://shopify/ProductVariant/47927652876500",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/47927711138004": {
-    "product_title": "Glitter Diamond Coloured Pendant Set with Earrings",
-    "product_handle": "glitter-diamond-coloured-pendant-set-with-earrings",
-    "variant_id": "gid://shopify/ProductVariant/47927711138004",
-    "global_id": "gid://shopify/ProductVariant/47927711138004",
-    "variant_title": "Yellow",
-    "sku": "WG41513Y-PS",
-    "price": 3450.0,
-    "variant_price": 3450.0,
-    "product_price": 3450.0,
-    "amount": 3450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-12at3.26.44PM.jpg?v=1778582980",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/glitter-diamond-coloured-pendant-set-with-earrings?variant=gid://shopify/ProductVariant/47927711138004",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47927774052564": {
     "product_title": "Oval 1 carat halo Solitaire Pendant Set with Earrings",
