@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp_ist": "2026-08-13 12:57:39",
+    "product_title": "Pushp Silver Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48101049860247",
+    "sku": "SBR0009WT6",
+    "price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.paksha.in/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/48101049860247",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0001WT6-T.png?v=1785931790"
+  },
+  {
+    "timestamp_ist": "2026-08-13 12:57:39",
+    "product_title": "Blossom Silver Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48101049893015",
+    "sku": "SBR0010WT6",
+    "price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.paksha.in/products/blossom-silver-rakhi?variant=gid://shopify/ProductVariant/48101049893015",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0002WT6.jpg?v=1785924755"
+  }
+]

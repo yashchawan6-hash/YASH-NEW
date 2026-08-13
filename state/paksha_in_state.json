@@ -24463,8 +24463,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0001WT6-T.png?v=1785931790",
     "available_for_sale": false,
     "url": "https://www.paksha.in/products/pushp-silver-rakhi?variant=gid://shopify/ProductVariant/48101049860247",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48101049893015": {
     "product_title": "Blossom Silver Rakhi",
@@ -24478,7 +24478,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0002WT6.jpg?v=1785924755",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/blossom-silver-rakhi?variant=gid://shopify/ProductVariant/48101049893015",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48101049925783": {
     "product_title": "Boond Silver Rakhi",
@@ -24492,7 +24493,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0003WT6.jpg?v=1785925736",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/boond-silver-rakhi?variant=gid://shopify/ProductVariant/48101049925783",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/48101049958551": {
     "product_title": "Kiran Silver Rakhi",
