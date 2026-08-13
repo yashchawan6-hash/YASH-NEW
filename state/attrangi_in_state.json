@@ -83,9 +83,9 @@
     "amount": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659206825",
-    "stock": 5,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43535590293716": {
@@ -2509,7 +2509,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/polki-ear-chain-attrangi-1.jpg?v=1739813062",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-ear-chain?variant=gid://shopify/ProductVariant/43311038595284",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45778513690836": {
@@ -5610,7 +5610,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ik-onkar-nazaria-mangalsutra-attrangi-1.jpg?v=1739813857",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ik-onkar-nazaria-mangalsutra?variant=gid://shopify/ProductVariant/42703366652116",
-    "stock": 4,
+    "stock": 12,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46070128017620": {
@@ -49995,7 +49995,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-07at3.57.50PM.jpg?v=1775630709",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jia-3-carat-round-classic-solitaire-ring-with-clustered-diamond-band?variant=gid://shopify/ProductVariant/47770960068820",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47770960101588": {
     "product_title": "Jia 3 Carat Round Classic Solitaire Ring with Clustered Diamond Band",
@@ -50012,8 +50013,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-07at3.57.50PM.jpg?v=1775630709",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jia-3-carat-round-classic-solitaire-ring-with-clustered-diamond-band?variant=gid://shopify/ProductVariant/47770960101588",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47771459616980": {
     "product_title": "Strong Crush Coloured Diamond Tennis Bracelet",
@@ -50030,7 +50031,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-08at1.50.43PM_1.jpg?v=1775640808",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/strong-crush-coloured-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47771459616980",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47771529969876": {
     "product_title": "Ekra 3 Row Diamond Tennis Bracelet | Attached | 10-20-30 cent",
@@ -50064,8 +50066,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-08at1.53.25PM_2.jpg?v=1775641223",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ekra-3-row-diamond-tennis-bracelet-attached-10-20-30-cent?variant=gid://shopify/ProductVariant/47771530002644",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47776179486932": {
     "product_title": "Sigma Coloured Stone Diamond Tennis Bracelet",
@@ -50100,7 +50102,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-04-07_at_5.09.25_PM.jpg?v=1775642574",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/raining-christmas-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47776187252948",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47776950780116": {
     "product_title": "Society 3 Row Gemstone Polki Necklace set",
@@ -50117,7 +50120,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-09at1.31.39PM.jpg?v=1776174551",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/society-3-row-gemstone-polki-necklace-set?variant=gid://shopify/ProductVariant/47776950780116",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47776950812884": {
     "product_title": "Society 3 Row Gemstone Polki Necklace set",
@@ -50134,7 +50138,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-09at1.31.39PM_1.jpg?v=1776174551",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/society-3-row-gemstone-polki-necklace-set?variant=gid://shopify/ProductVariant/47776950812884",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47776960250068": {
     "product_title": "Samarth 2 Line Polki Drop Delicate Necklace Set",
@@ -50151,8 +50156,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-09at1.33.31PM_1.jpg?v=1775727852",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/samarth-2-line-polki-drop-delicate-necklace-set?variant=gid://shopify/ProductVariant/47776960250068",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47777202503892": {
     "product_title": "Rainbow Coloured Multi Solitaire Diamond Tennis Bracelet",
@@ -50169,8 +50174,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-09at1.06.22PM.jpg?v=1775737959",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-coloured-multi-solitaire-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47777202503892",
-    "stock": 2,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47780186325204": {
     "product_title": "Snowflake Emerald Stud",
@@ -50187,7 +50192,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-10at12.03.07PM.jpg?v=1775802928",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/snowflake-emerald-stud?variant=gid://shopify/ProductVariant/47780186325204",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47780514431188": {
     "product_title": "Arka Choker Set with Indian Studs | Sone pe Suhaga Collection",
@@ -50204,7 +50210,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-10at1.27.56PM.jpg?v=1775808656",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/arka-choker-set-with-indian-studs-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/47780514431188",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47780732567764": {
     "product_title": "Mehwish Jadaau Navratna Indian Chandbali",
@@ -50221,7 +50228,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-10at1.34.46PM_1.jpg?v=1775812755",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mehwish-jadaau-navratna-indian-chandbali?variant=gid://shopify/ProductVariant/47780732567764",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47784491057364": {
     "product_title": "Shikha Moissanite Designer Polki Bangle Set | Non Openable",
@@ -50238,7 +50246,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-10at1.38.41PM.jpg?v=1775814629",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shikha-moissanite-designer-polki-bangle-set-non-openable?variant=gid://shopify/ProductVariant/47784491057364",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47780894179540": {
     "product_title": "Shikha Moissanite Designer Polki Bangle Set | Non Openable",
@@ -50255,7 +50264,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-10at1.38.41PM.jpg?v=1775814629",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shikha-moissanite-designer-polki-bangle-set-non-openable?variant=gid://shopify/ProductVariant/47780894179540",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47781206065364": {
     "product_title": "Nazia Jadaau Navratna Mid Sized Indian Jhumka",
@@ -50272,8 +50282,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-10at3.39.56PM.jpg?v=1775818543",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nazia-jadaau-navratna-mid-sized-indian-jhumka?variant=gid://shopify/ProductVariant/47781206065364",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47781290115284": {
     "product_title": "Lisa Diamond Delicate Designer Ring| Daily Wear",
@@ -50290,8 +50300,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at5.10.29PM_65779f37-3008-4ca4-9e8b-2072b010f02f.jpg?v=1775826331",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lisa-diamond-delicate-designer-ring-daily-wear?variant=gid://shopify/ProductVariant/47781290115284",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47781293490388": {
     "product_title": "Kareem Jadaau Indian Navratna Earrings",
@@ -50308,7 +50318,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-10at1.36.40PM.jpg?v=1775827625",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kareem-jadaau-indian-navratna-earrings?variant=gid://shopify/ProductVariant/47781293490388",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47786496950484": {
     "product_title": "Janvi Polki Moissanite Ruby Green Choker Set",
@@ -50325,7 +50336,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at1.53.12PM.jpg?v=1776068699",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/janvi-polki-moissanite-ruby-green-choker-set?variant=gid://shopify/ProductVariant/47786496950484",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47786918674644": {
@@ -50343,7 +50354,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/47786918674644",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48257611661524": {
     "product_title": "Renita silver Gold CNC Bangle Set | Daily Wear",
@@ -50360,7 +50372,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/48257611661524",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48188794536148": {
     "product_title": "Renita silver Gold CNC Bangle Set | Daily Wear",
@@ -50377,8 +50390,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/48188794536148",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48309312159956": {
     "product_title": "Renita silver Gold CNC Bangle Set | Daily Wear",
@@ -50395,8 +50408,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/48309312159956",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47786975133908": {
     "product_title": "Too Hot For Tulum Champagne Party Wear Earrings",
@@ -50413,7 +50426,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.00.48PM.jpg?v=1776078722",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/too-hot-for-tulum-champagne-party-wear-earrings?variant=gid://shopify/ProductVariant/47786975133908",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47786992599252": {
     "product_title": "Shine in Saint Tropez Rhinestone party Wear western earring",
@@ -50430,7 +50444,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.01.18PM.jpg?v=1776079371",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shine-in-saint-tropez-rhinestone-party-wear-western-earring?variant=gid://shopify/ProductVariant/47786992599252",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787009802452": {
     "product_title": "Tuscany Twilight Twist Studs | Party Wear Western Earrings",
@@ -50447,7 +50462,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.02.25PM.jpg?v=1776080136",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/tuscany-twilight-twist-studs-party-wear-western-earrings?variant=gid://shopify/ProductVariant/47787009802452",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787009835220": {
     "product_title": "Tuscany Twilight Twist Studs | Party Wear Western Earrings",
@@ -50482,7 +50498,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.02.36PM.jpg?v=1776082057",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/amalfi-gold-bloom-hoops-party-wear-western-earrings?variant=gid://shopify/ProductVariant/47787020517588",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47803279868116": {
     "product_title": "Palm Escape 2-in-1 Earrings | Party Wear Western Earrings",
@@ -50517,8 +50534,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.02.59PM.jpg?v=1776082631",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/malibu-melt-gold-rhinestone-party-wear-western-earrings?variant=gid://shopify/ProductVariant/47787030511828",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787038998740": {
     "product_title": "African Chaos Gold Statement Hoops | Party Wear Earrings",
@@ -50535,7 +50552,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.03.31PM_3.jpg?v=1776082900",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/african-chaos-gold-statement-hoops-party-wear-earrings?variant=gid://shopify/ProductVariant/47787038998740",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787046830292": {
     "product_title": "Costa Rica Palm Pearl Party Wear Western Earrings",
@@ -50552,7 +50570,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.03.57PM_2.jpg?v=1776083317",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/costa-rica-palm-pearl-party-wear-western-earrings?variant=gid://shopify/ProductVariant/47787046830292",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787052630228": {
     "product_title": "Baroque in Buenos Party Wear Western Earring",
@@ -50569,7 +50588,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at4.04.30PM.jpg?v=1776083690",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/baroque-in-buenos-party-wear-western-earring?variant=gid://shopify/ProductVariant/47787052630228",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787072094420": {
     "product_title": "Marinita Dual Polish Silver & Gold | CNC Bangles",
@@ -50586,7 +50606,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.38PM.jpg?v=1776085638",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marinita-dual-polish-silver-gold-cnc-bangles?variant=gid://shopify/ProductVariant/47787072094420",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787072127188": {
     "product_title": "Marinita Dual Polish Silver & Gold | CNC Bangles",
@@ -50603,8 +50624,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.38PM.jpg?v=1776085638",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marinita-dual-polish-silver-gold-cnc-bangles?variant=gid://shopify/ProductVariant/47787072127188",
-    "stock": 3,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787072159956": {
     "product_title": "Marinita Dual Polish Silver & Gold | CNC Bangles",
@@ -50621,8 +50642,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.38PM.jpg?v=1776085638",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marinita-dual-polish-silver-gold-cnc-bangles?variant=gid://shopify/ProductVariant/47787072159956",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787072192724": {
     "product_title": "Marinita Dual Polish Silver & Gold | CNC Bangles",
@@ -50639,7 +50660,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.38PM.jpg?v=1776085638",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/marinita-dual-polish-silver-gold-cnc-bangles?variant=gid://shopify/ProductVariant/47787072192724",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787084153044": {
     "product_title": "Sonita Designer CNC Gold Plated Bangle Set",
@@ -50656,7 +50678,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.59.44PM_1.jpg?v=1776085768",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sonita-designer-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47787084153044",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787084185812": {
     "product_title": "Sonita Designer CNC Gold Plated Bangle Set",
@@ -50673,7 +50696,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.59.44PM_1.jpg?v=1776085768",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sonita-designer-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47787084185812",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47787084218580": {
     "product_title": "Sonita Designer CNC Gold Plated Bangle Set",
@@ -50707,7 +50731,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.59.44PM_1.jpg?v=1776085768",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sonita-designer-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47787084251348",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47803519566036": {
     "product_title": "Amrita Tri Plating CNC Gold Plated bangle Set",
@@ -50724,7 +50749,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01005.jpg?v=1776249879",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/amrita-tri-plating-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47803519566036",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47803519598804": {
     "product_title": "Amrita Tri Plating CNC Gold Plated bangle Set",
@@ -50741,7 +50767,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01005.jpg?v=1776249879",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/amrita-tri-plating-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47803519598804",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47803519631572": {
     "product_title": "Amrita Tri Plating CNC Gold Plated bangle Set",
@@ -50758,7 +50785,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01005.jpg?v=1776249879",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/amrita-tri-plating-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47803519631572",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47803519664340": {
     "product_title": "Amrita Tri Plating CNC Gold Plated bangle Set",
@@ -50775,7 +50803,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01005.jpg?v=1776249879",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/amrita-tri-plating-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47803519664340",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47803744747732": {
     "product_title": "Junita Gold Plated Designer CNC Gold Plated Bangle Set",
@@ -50792,7 +50821,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01013_1.jpg?v=1776253120",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/junita-gold-plated-designer-cnc-gold-plated-bangle-set?variant=gid://shopify/ProductVariant/47803744747732",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47803744780500": {
     "product_title": "Junita Gold Plated Designer CNC Gold Plated Bangle Set",
