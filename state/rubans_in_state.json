@@ -13899,10 +13899,10 @@
     "amount": 1398.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-emerald-green-cubic-zirconia-studded-premium-bracelet-wristwear-1203222749.jpg?v=1770980125",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-emerald-green-cubic-zirconia-studded-premium-bracelet?variant=gid://shopify/ProductVariant/45813141700782",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45813141930158": {
     "product_title": "Rubans Rhodium-Plated Cubic Zirconia Studded Luxurious Bracelet",
@@ -13954,7 +13954,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/gilded-splendor-22k-gold-plated-linked-chain-anklet-a-statement-of-glamour-anklet-37276184871086.jpg?v=1755717172",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/gilded-splendor-22k-gold-plated-linked-chain-anklet-a-statement-of-glamour?variant=gid://shopify/ProductVariant/45816329568430",
-    "stock": 4,
+    "stock": 20,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45816329732270": {
@@ -13972,7 +13972,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/floral-radiance-pearl-beaded-chain-with-kemp-stone-floral-motif-jewelry-set-jewellery-set-37276185395374.jpg?v=1755717171",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/floral-radiance-pearl-beaded-chain-with-kemp-stone-floral-motif-jewelry-set?variant=gid://shopify/ProductVariant/45816329732270",
-    "stock": 20
+    "stock": 16,
+    "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/45816330059950": {
     "product_title": "Temple Charm Lotus Green Earrings",
