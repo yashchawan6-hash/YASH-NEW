@@ -85364,9 +85364,10 @@
     "price": 6000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2951M-2.jpg?v=1781522837",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2951?variant=gid://shopify/ProductVariant/50117076091103",
-    "stock": 6
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50542042022111": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motifs - MS2951",

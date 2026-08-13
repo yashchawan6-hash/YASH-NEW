@@ -1,4 +1,18 @@
 {
+  "gid://shopify/ProductVariant/49789747855657": {
+    "product_title": "Chandelier Earrings",
+    "product_handle": "chandelier-gemstone-earrings",
+    "variant_id": "gid://shopify/ProductVariant/49789747855657",
+    "global_id": "gid://shopify/ProductVariant/49789747855657",
+    "variant_title": "Default Title",
+    "sku": "R1494",
+    "price": 52105.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R1494.jpg?v=1751364070",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/chandelier-gemstone-earrings?variant=gid://shopify/ProductVariant/49789747855657",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/49802519511337": {
     "product_title": "Gaja Lakshmi Pendant",
     "product_handle": "gaja-lakshmi-pendant",
