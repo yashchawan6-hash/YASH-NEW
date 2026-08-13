@@ -15882,7 +15882,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/4AA931C1-ADBF-4E12-8848-A4137329D91C.jpg?v=1696175737",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/untitled-oct1_21-14?variant=gid://shopify/ProductVariant/44372797325534",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44374744006878": {
     "product_title": "Cluster of White Pearl Long Chain",
@@ -58739,7 +58740,7 @@
     "amount": 1999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804729054",
     "stock": 1
   },
