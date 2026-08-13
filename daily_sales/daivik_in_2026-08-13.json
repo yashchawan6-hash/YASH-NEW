@@ -964,5 +964,47 @@
     "curr_stock": 7,
     "url": "https://www.daivik.in/products/d-1?variant=gid://shopify/ProductVariant/48353947877598",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/83CE31CB-312A-4E8C-9577-A212F0C0FA30.jpg?v=1782062267"
+  },
+  {
+    "timestamp_ist": "2026-08-13 12:26:46",
+    "product_title": "Gold Finish Motif necklace with earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44338668208350",
+    "sku": "910",
+    "price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 17,
+    "curr_stock": 16,
+    "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
+  },
+  {
+    "timestamp_ist": "2026-08-13 12:26:46",
+    "product_title": "Invisible AD Leaf Necklace with Earrings in two Colors (Price for Each)",
+    "variant_title": "Ruby Green",
+    "variant_id": "gid://shopify/ProductVariant/46601934045406",
+    "sku": "982",
+    "price": 699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 19,
+    "curr_stock": 18,
+    "url": "https://www.daivik.in/products/invisible-ad-leaf-necklace-with-earrings-in-two-colors-price-for-each?variant=gid://shopify/ProductVariant/46601934045406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DB6C5DE8-1BCC-4105-8792-481A63CA5923.jpg?v=1744559541"
+  },
+  {
+    "timestamp_ist": "2026-08-13 12:26:46",
+    "product_title": "Simple Nose Pin/Nath",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47916122767582",
+    "sku": "1818",
+    "price": 299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.daivik.in/products/simple-nose-pin-nath?variant=gid://shopify/ProductVariant/47916122767582",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/CA3D0489-C81E-4F69-BA8E-B010023F93FF.jpg?v=1771690856"
   }
 ]
