@@ -71745,7 +71745,7 @@
     "amount": 5464.16,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1457.jpg?v=1756037698",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/princess-stone-ring?variant=gid://shopify/ProductVariant/47059338723555",
     "stock": 1
   },
@@ -71796,7 +71796,7 @@
     "amount": 4294.08,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1462.jpg?v=1756038731",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/sahara-stone-ring?variant=gid://shopify/ProductVariant/47059384893667",
     "stock": 1
   },
@@ -119231,7 +119231,7 @@
     "amount": 16330.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12520.jpg?v=1768210854",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/unique-nagas-jhumkas-4?variant=gid://shopify/ProductVariant/47813720637667",
     "stock": -1
   },
