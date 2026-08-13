@@ -82082,7 +82082,7 @@
     "amount": 2465.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13355_resized.jpg?v=1782288037",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pink-heart-chain?variant=gid://shopify/ProductVariant/53286052004137",
     "stock": 0
   },
@@ -91583,6 +91583,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0520_2.jpg?v=1786623396",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/sumanjali-nakshi-jhumki?variant=gid://shopify/ProductVariant/53398427369769",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53398431203625": {
+    "product_title": "Tubogas Kada",
+    "product_handle": "tubogas-kada",
+    "variant_id": "gid://shopify/ProductVariant/53398431203625",
+    "global_id": "gid://shopify/ProductVariant/53398431203625",
+    "variant_title": "Default Title",
+    "sku": "R32273",
+    "price": 10300.0,
+    "variant_price": 10300.0,
+    "product_price": 10300.0,
+    "amount": 10300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19554.jpg?v=1786623708",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/tubogas-kada?variant=gid://shopify/ProductVariant/53398431203625",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53398610116905": {
