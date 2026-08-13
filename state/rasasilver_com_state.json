@@ -3548,9 +3548,9 @@
     "amount": 14110.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0117_copy_resized.jpg?v=1761723467",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/nilohaar-necklace?variant=gid://shopify/ProductVariant/51441089741097",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/51441136435497": {
     "product_title": "Ruby Elegant Necklace",
@@ -10523,8 +10523,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_62.jpg?v=1754984023",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/studs-1?variant=gid://shopify/ProductVariant/50777406243113",
-    "stock": 7,
-    "last_alerted_stock": 3
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/50788694065449": {
     "product_title": "Mayur Malhar Chandbali",
@@ -91379,6 +91379,57 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38677.jpg?v=1786620726",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/olive-vine-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53398271230249",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53398272344361": {
+    "product_title": "Forest Glow Kundan Ear Cuff",
+    "product_handle": "forest-glow-kundan-ear-cuff",
+    "variant_id": "gid://shopify/ProductVariant/53398272344361",
+    "global_id": "gid://shopify/ProductVariant/53398272344361",
+    "variant_title": "Default Title",
+    "sku": "R32156",
+    "price": 4800.0,
+    "variant_price": 4800.0,
+    "product_price": 4800.0,
+    "amount": 4800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38685.jpg?v=1786620952",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/forest-glow-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53398272344361",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53398279192873": {
+    "product_title": "Shahi Gulnaar Kundan Ear Cuff",
+    "product_handle": "shahi-gulnaar-kundan-ear-cuff",
+    "variant_id": "gid://shopify/ProductVariant/53398279192873",
+    "global_id": "gid://shopify/ProductVariant/53398279192873",
+    "variant_title": "Default Title",
+    "sku": "R32163",
+    "price": 4900.0,
+    "variant_price": 4900.0,
+    "product_price": 4900.0,
+    "amount": 4900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38681.jpg?v=1786621082",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/shahi-gulnaar-kundan-ear-cuff?variant=gid://shopify/ProductVariant/53398279192873",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53398286958889": {
+    "product_title": "Oxidised Face Frame",
+    "product_handle": "oxidised-face-frame",
+    "variant_id": "gid://shopify/ProductVariant/53398286958889",
+    "global_id": "gid://shopify/ProductVariant/53398286958889",
+    "variant_title": "Default Title",
+    "sku": "R31115",
+    "price": 10900.0,
+    "variant_price": 10900.0,
+    "product_price": 10900.0,
+    "amount": 10900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19725.jpg?v=1786621219",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/oxidised-face-frame?variant=gid://shopify/ProductVariant/53398286958889",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53398610116905": {
