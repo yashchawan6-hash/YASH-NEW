@@ -5747,7 +5747,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/3-carat-classic-round-solitaire-ring-attrangi-1.jpg?v=1739813903",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-classic-round-solitaire-ring?variant=gid://shopify/ProductVariant/42829291520212",
-    "stock": 3
+    "stock": 8
   },
   "gid://shopify/ProductVariant/42829291454676": {
     "product_title": "6 Carat Classic Big Round Solitaire Ring - 12mm",
@@ -5764,7 +5764,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/3-carat-classic-round-solitaire-ring-attrangi-2.jpg?v=1739813903",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-classic-round-solitaire-ring?variant=gid://shopify/ProductVariant/42829291454676",
-    "stock": 3,
+    "stock": 8,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/42829291487444": {
@@ -5782,7 +5782,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/3-carat-classic-round-solitaire-ring-attrangi-9.jpg?v=1739813910",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-classic-round-solitaire-ring?variant=gid://shopify/ProductVariant/42829291487444",
-    "stock": 3,
+    "stock": 8,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42829314457812": {
@@ -39514,7 +39514,7 @@
     "amount": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-11-29at4.19.56PM_1.jpg?v=1764419369",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mohini-indian-earring-kaanpatti-hairhchain?variant=gid://shopify/ProductVariant/47304841887956",
     "stock": 0,
     "last_alerted_stock": 0
@@ -51802,7 +51802,7 @@
     "amount": 7250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-11at5.41.12PM.jpg?v=1778503329",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/artsy-daimond-designer-thick-choker-set?variant=gid://shopify/ProductVariant/47923924828372",
     "stock": -1
   },
