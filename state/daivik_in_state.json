@@ -14347,10 +14347,10 @@
     "price": 3999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A91F8D76-F939-4907-9F1E-A1DC62987A53.jpg?v=1697731502",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/mossanite-stones-necklace-with-earrings?variant=gid://shopify/ProductVariant/44430148927710",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44432538960094": {
     "product_title": "Gold finish AD necklace with Green Beads Hangings with earrings",
