@@ -12909,9 +12909,10 @@
     "amount": 1199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_e12252b8-bac0-4ba8-b7c1-fac8e80f5ca6.heic?v=1684935858",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/a-94?variant=gid://shopify/ProductVariant/44200787575006",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44200789082334": {
     "product_title": "Simple AD Necklace with earrings (Price for each)",
