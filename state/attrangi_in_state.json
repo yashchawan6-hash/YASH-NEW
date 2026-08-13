@@ -28624,7 +28624,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-16at4.07.18PM.jpg?v=1749411048",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jayapradha-moissanite-slim-kada-in-meenakari-openable-1?variant=gid://shopify/ProductVariant/46267383513300",
     "stock": 0,
     "last_alerted_stock": 0
@@ -28642,7 +28642,7 @@
     "amount": 6250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-16at4.07.18PM.jpg?v=1749411048",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jayapradha-moissanite-slim-kada-in-meenakari-openable-1?variant=gid://shopify/ProductVariant/46267383546068",
     "stock": 0,
     "last_alerted_stock": 0
@@ -59128,23 +59128,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shahi-emerald-gold-bracelet-rakhi?variant=gid://shopify/ProductVariant/48421100355796",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/48421139349716": {
-    "product_title": "Aashika Rajwadi Multi Gold Unisex Rakhi Bracelet",
-    "product_handle": "aashika-rajwadi-multi-gold-unisex-rakhi-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/48421139349716",
-    "global_id": "gid://shopify/ProductVariant/48421139349716",
-    "variant_title": "Default Title",
-    "sku": "DH8252-RA",
-    "price": 1650.0,
-    "variant_price": 1650.0,
-    "product_price": 1650.0,
-    "amount": 1650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-03at11.57.50PM.jpg?v=1785825835",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/aashika-rajwadi-multi-gold-unisex-rakhi-bracelet?variant=gid://shopify/ProductVariant/48421139349716",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/48421184241876": {
     "product_title": "Raksha Reet Gold Bracelet Polki Rakhi with Peacock Motifs",
