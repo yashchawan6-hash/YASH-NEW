@@ -21349,9 +21349,10 @@
     "amount": 125000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/7_eb199cc8-c32a-411b-9b00-bab342706222.png?v=1779710140",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/aditri-red-green-kundan-hand-bag?variant=gid://shopify/ProductVariant/50069883879617",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50069885026497": {
     "product_title": "MISHIKA RED & GREEN LEATHER KUNDAN HAND BAG",

@@ -8172,9 +8172,10 @@
     "amount": 10550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/roohi-jadaau-set-attrangi-1.jpg?v=1739814355",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/roohi-jadaau-set?variant=gid://shopify/ProductVariant/43516899918036",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44464101130452": {
     "product_title": "Queen Elsa Multicoloured Bead Kada",
@@ -51757,6 +51758,23 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sakuntala-long-gold-haar-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48427820384468",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/47923924828372": {
+    "product_title": "Artsy Daimond Designer Thick Choker Set",
+    "product_handle": "artsy-daimond-designer-thick-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/47923924828372",
+    "global_id": "gid://shopify/ProductVariant/47923924828372",
+    "variant_title": "Silver",
+    "sku": "JS0527S-JS",
+    "price": 7250.0,
+    "variant_price": 7250.0,
+    "product_price": 7250.0,
+    "amount": 7250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-11at5.41.12PM.jpg?v=1778503329",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/artsy-daimond-designer-thick-choker-set?variant=gid://shopify/ProductVariant/47923924828372",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/47927050666196": {
     "product_title": "Aaashvi Diamond Thick Bangle (GREEN)",
