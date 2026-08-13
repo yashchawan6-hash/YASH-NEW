@@ -46576,7 +46576,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04EH410380-Model-2.jpg?v=1768986450",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04eh410380?variant=gid://shopify/ProductVariant/47198822957230",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47198823088302": {
@@ -47104,8 +47104,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10KB409968-Model-1.jpg?v=1768977512",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10kb409968?variant=gid://shopify/ProductVariant/47198825939118",
-    "stock": 16,
-    "last_alerted_stock": 11
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47198826037422": {
     "product_title": "Golden Bangles With Kundan & Crystal Work",
@@ -48788,9 +48788,10 @@
     "price": 1421.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B410226_2.jpg?v=1768486868",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/american-diamond-zirconia-purple-bangles-set-of-2?variant=gid://shopify/ProductVariant/47367888044206",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47367888076974": {
     "product_title": "American Diamond Zirconia Purple Bangles Set Of 2",
@@ -48861,7 +48862,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20V410241.jpg?v=1768902481",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re20v410241?variant=gid://shopify/ProductVariant/47198879744174",
-    "stock": 13,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47198879809710": {
@@ -48934,10 +48935,10 @@
     "price": 1421.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10EJ410840.jpg?v=1768903371",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re10ej410840?variant=gid://shopify/ProductVariant/47198880563374",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47198880596142": {
     "product_title": "Rubans Women Brass Temple Gold-Plated Armlet Bracelet",
@@ -49235,8 +49236,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10HB410264-Model-2.jpg?v=1768895779",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10hb410264?variant=gid://shopify/ProductVariant/47198887772334",
-    "stock": 20,
-    "last_alerted_stock": 4
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47198887805102": {
     "product_title": "Pearl Kundan Statement Hair Band",
@@ -53622,8 +53623,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B411744-Model-2.jpg?v=1767782805",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/royal-kundan-glow-gold-bangles?variant=gid://shopify/ProductVariant/47334320636078",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/47290232570030": {
     "product_title": "Wedding Glow Traditional Kundan Bangles",
@@ -63203,7 +63204,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RS01MS411167-Model-1.jpg?v=1775542314",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rs01ms411167?variant=gid://shopify/ProductVariant/47708512518318",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47708512551086": {
     "product_title": "925 Fine Silver Crystal Drop Mangalsutra",
