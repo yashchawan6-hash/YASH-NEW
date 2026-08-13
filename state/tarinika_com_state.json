@@ -13708,9 +13708,9 @@
     "amount": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANX0771BM1_3.jpg?v=1731581962",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-vaikha-necklace-earrings-set?variant=gid://shopify/ProductVariant/40216339349570",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/40216369856578": {
     "product_title": "Antique Gold Plated Neera Choker Earrings Set",
