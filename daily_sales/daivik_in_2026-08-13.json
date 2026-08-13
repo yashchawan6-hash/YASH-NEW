@@ -656,5 +656,33 @@
     "curr_stock": 0,
     "url": "https://www.daivik.in/products/1165-reversible?variant=gid://shopify/ProductVariant/46113732591838",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/739E0DC5-37F1-4EA5-B251-F40033D6F4AD.jpg?v=1732877812"
+  },
+  {
+    "timestamp_ist": "2026-08-13 10:26:31",
+    "product_title": "AD Diamond Necklace with earrings in 4 colours",
+    "variant_title": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/44323138273502",
+    "sku": "364",
+    "price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 33,
+    "curr_stock": 32,
+    "url": "https://www.daivik.in/products/untitled-aug24_21-15?variant=gid://shopify/ProductVariant/44323138273502",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BDCF2615-7ED0-49E3-8FB4-9ABDD30BBE83.jpg?v=1697109021"
+  },
+  {
+    "timestamp_ist": "2026-08-13 10:26:31",
+    "product_title": "Antique Ruby Green Hasli with Balis",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44960557859038",
+    "sku": "862",
+    "price": 1299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 11,
+    "curr_stock": 10,
+    "url": "https://www.daivik.in/products/antique-ruby-green-necklace-with-balis?variant=gid://shopify/ProductVariant/44960557859038",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/43A57464-9020-4F51-9514-97EFF7369910.jpg?v=1711038648"
   }
 ]
