@@ -12415,9 +12415,10 @@
     "price": 645.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02B405914_972eca22-65c8-4269-a1dd-9a43e095435b.jpg?v=1771222570",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-4-18k-mehandi-gold-plated-multicolor-kundan-gemstone-studded-bangles-re02b405914?variant=gid://shopify/ProductVariant/47084617433262",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45980041347246": {
     "product_title": "Rubans18K Mehandi Gold-Plated Multicolor Kundan and Cubic Zirconia Studed Bangles",
@@ -57947,8 +57948,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04N412282-Model-2.jpg?v=1770111400",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04n412282?variant=gid://shopify/ProductVariant/47454563696814",
-    "stock": 17,
-    "last_alerted_stock": 17
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47454563762350": {
     "product_title": "Oxidised Silver Pink Enamel Statement Necklace",
@@ -58020,6 +58021,34 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54ED411905-model.jpg?v=1770111960",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re54ed411905?variant=gid://shopify/ProductVariant/47454583128238",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47473055072430": {
+    "product_title": "Delicate Flora Bracelet & Perfume Gift Box",
+    "product_handle": "delicate-flora-bracelet-perfume-gift-box",
+    "variant_id": "gid://shopify/ProductVariant/47473055072430",
+    "global_id": "gid://shopify/ProductVariant/47473055072430",
+    "variant_title": "Default Title",
+    "sku": "RB71413473",
+    "price": 1485.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/01.jpg?v=1770465956",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/delicate-flora-bracelet-perfume-gift-box?variant=gid://shopify/ProductVariant/47473055072430",
+    "stock": 20
+  },
+  "gid://shopify/ProductVariant/47473043243182": {
+    "product_title": "Glittering Hearts Pendant Set & Perfume Gift Box",
+    "product_handle": "glittering-hearts-pendant-set-perfume-gift-box",
+    "variant_id": "gid://shopify/ProductVariant/47473043243182",
+    "global_id": "gid://shopify/ProductVariant/47473043243182",
+    "variant_title": "Default Title",
+    "sku": "RB71413584",
+    "price": 1485.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/task_01kh8en8bgfwkb4gadwt3zms00_1770884120_img_1_Final_2.jpg_1_1.jpg?v=1771335688",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/glittering-hearts-pendant-set-perfume-gift-box?variant=gid://shopify/ProductVariant/47473043243182",
     "stock": 20
   },
   "gid://shopify/ProductVariant/47502223016110": {
@@ -58491,7 +58520,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20EF411720-Model.jpg?v=1770978236",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re20ef411720?variant=gid://shopify/ProductVariant/47502231142574",
-    "stock": 20,
+    "stock": 5,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47502231240878": {
@@ -58910,7 +58939,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54ES411901-Model-1.jpg?v=1770978495",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re54es411901?variant=gid://shopify/ProductVariant/47502237597870",
-    "stock": 2,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47502237761710": {
@@ -59168,8 +59197,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14B410092-Model-1.jpg?v=1770979222",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re14b410092?variant=gid://shopify/ProductVariant/47502258634926",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47502258667694": {
     "product_title": "Classic Gold Bridal Bangles Set",
@@ -59901,7 +59930,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10EN412050-Model-1.jpg?v=1772099494",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10en412050?variant=gid://shopify/ProductVariant/47556456349870",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47556456579246": {
@@ -60261,8 +60290,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20ED411435Model1.jpg?v=1772100927",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re20ed411435?variant=gid://shopify/ProductVariant/47556484694190",
-    "stock": 20,
-    "last_alerted_stock": 0
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47556484923566": {
     "product_title": "Ruby Glow Diamond Necklace Set",
@@ -60694,7 +60723,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02EC412725-Model.jpg?v=1773144568",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re02ec412725?variant=gid://shopify/ProductVariant/47624329593006",
-    "stock": 8,
+    "stock": 20,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/47624329560238": {
@@ -61267,8 +61296,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13MS412016Model_e80373b6-ed47-4411-84c4-4ff59dbb476c.jpg?v=1773222514",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re13ms412016?variant=gid://shopify/ProductVariant/47624336343214",
-    "stock": 20,
-    "last_alerted_stock": 7
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/47624336408750": {
     "product_title": "Bridal Sparkle Mangalsutra Set",
@@ -61940,7 +61969,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B412135-Model-1.jpg?v=1773146697",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10b412135?variant=gid://shopify/ProductVariant/47624367931566",
-    "stock": 9,
+    "stock": 20,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47624367964334": {
@@ -61955,8 +61984,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B412135-Model-1.jpg?v=1773146697",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10b412135?variant=gid://shopify/ProductVariant/47624367964334",
-    "stock": 20,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/47624367997102": {
     "product_title": "Royal Gold Classic Occasion Bangles",
@@ -62198,8 +62227,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10C412427-Model.jpg?v=1774271950",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10c412427?variant=gid://shopify/ProductVariant/47662488420526",
-    "stock": 20,
-    "last_alerted_stock": 5
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47662488453294": {
     "product_title": "Kundan Pearl Crescent Floral Choker Set",
@@ -63109,8 +63138,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE57HV411703-Model-1.jpg?v=1774272308",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re57hv411703?variant=gid://shopify/ProductVariant/47662491435182",
-    "stock": 20,
-    "last_alerted_stock": 8
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47662491467950": {
     "product_title": "Crystal Pearl Statement Floral Hair Accessory",
@@ -63124,7 +63153,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE57HV411704-Model.jpg?v=1774272324",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re57hv411704?variant=gid://shopify/ProductVariant/47662491467950",
-    "stock": 15,
+    "stock": 20,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47662491533486": {
@@ -66020,7 +66049,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RS01HH411376_Model.jpg?v=1775557075",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rs01hh411376?variant=gid://shopify/ProductVariant/47708838035630",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47769369739438": {
@@ -66035,7 +66064,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414042-Model.jpg?v=1776948886",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414042?variant=gid://shopify/ProductVariant/47769369739438",
-    "stock": 10,
+    "stock": 20,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47769369772206": {
@@ -66278,7 +66307,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414066Model.jpg?v=1782882213",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414066?variant=gid://shopify/ProductVariant/47769372786862",
-    "stock": 20,
+    "stock": 5,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47769372819630": {
@@ -66551,7 +66580,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04EH414085_03.jpg?v=1776949143",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw04eh414085?variant=gid://shopify/ProductVariant/47769381699758",
-    "stock": 15,
+    "stock": 20,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47769381765294": {
@@ -67007,7 +67036,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30A414123-Model.jpg?v=1776949375",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30a414123?variant=gid://shopify/ProductVariant/47769387827374",
-    "stock": 4,
+    "stock": 20,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47769387892910": {
@@ -67380,8 +67409,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414158-Model.jpg?v=1776949571",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414158?variant=gid://shopify/ProductVariant/47769392971950",
-    "stock": 20,
-    "last_alerted_stock": 10
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47769393037486": {
     "product_title": "Demifine 18K Gold Plated Stainless steel Minimal Coin Drop Hoop Earrings",
@@ -67581,7 +67610,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30A414174-Model-00.jpg?v=1776949669",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30a414174?variant=gid://shopify/ProductVariant/47769395265710",
-    "stock": 20,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769395298478": {
@@ -68059,7 +68088,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414234-Model.jpg?v=1776949899",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414234?variant=gid://shopify/ProductVariant/47769402212526",
-    "stock": 6,
+    "stock": 20,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47769402278062": {
@@ -68634,7 +68663,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414173Model.jpg?v=1777023027",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414173?variant=gid://shopify/ProductVariant/47774761418926",
-    "stock": 20,
+    "stock": 18,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774761451694": {
@@ -68649,7 +68678,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30N414182-Model.jpg?v=1777016601",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30n414182?variant=gid://shopify/ProductVariant/47774761451694",
-    "stock": 18,
+    "stock": 20,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/47774761484462": {
@@ -69511,7 +69540,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO414174-Model.jpg?v=1778585751",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro414174?variant=gid://shopify/ProductVariant/47848723382446",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47848723415214": {
@@ -70290,7 +70319,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13ED413185-Model-01.jpg?v=1779881812",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re13ed413185?variant=gid://shopify/ProductVariant/47914229498030",
-    "stock": 10,
+    "stock": 11,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47914229760174": {
@@ -70489,7 +70518,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10HC412108Model.jpg?v=1786435518",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re10hc412108?variant=gid://shopify/ProductVariant/47914234937518",
-    "stock": 15,
+    "stock": 20,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47914235297966": {
@@ -70519,8 +70548,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14ED413192-Model.jpg?v=1779881957",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re14ed413192?variant=gid://shopify/ProductVariant/47914235363502",
-    "stock": 10,
-    "last_alerted_stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47914235691182": {
     "product_title": "Oxidised Charm Stud Earrings",
@@ -71164,7 +71193,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16EJ413983_Model-00.jpg?v=1779882324",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16ej413983?variant=gid://shopify/ProductVariant/47914243227822",
-    "stock": 19,
+    "stock": 20,
     "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47914243326126": {
@@ -71596,8 +71625,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56BB413621-Model.jpg?v=1779882457",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re56bb413621?variant=gid://shopify/ProductVariant/47914246209710",
-    "stock": 14,
-    "last_alerted_stock": 1
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47914246242478": {
     "product_title": "Vintage Luxe Crystal Gold Bangles",
@@ -72679,8 +72708,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414095-Model.jpg?v=1780047819",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414095?variant=gid://shopify/ProductVariant/47922735710382",
-    "stock": 20,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47922736136366": {
     "product_title": "Demifine 18K Gold Plated Stainless steel White Enamel Heart Pendant Necklace",
@@ -72694,7 +72723,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414097-Model.jpg?v=1780047829",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30pc414097?variant=gid://shopify/ProductVariant/47922736136366",
-    "stock": 6,
+    "stock": 20,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/47922736300206": {
@@ -73110,8 +73139,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20ED412846_Model-01.jpg?v=1780556203",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re20ed412846?variant=gid://shopify/ProductVariant/47942167396526",
-    "stock": 20,
-    "last_alerted_stock": 10
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/47942167855278": {
     "product_title": "Divine Glow Temple Waist Chain",
@@ -73325,7 +73354,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14ED413115_Model-00.jpg?v=1780556321",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re14ed413115?variant=gid://shopify/ProductVariant/47942170771630",
-    "stock": 14,
+    "stock": 20,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47942170837166": {
@@ -73761,8 +73790,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE70HP414029-Model.jpg?v=1780556925",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re70hp414029?variant=gid://shopify/ProductVariant/47942187483310",
-    "stock": 18,
-    "last_alerted_stock": 18
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47942187516078": {
     "product_title": "Goddess Bloom Temple Necklace Set",
@@ -74264,7 +74293,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415277-Model.jpg?v=1781601446",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415277?variant=gid://shopify/ProductVariant/47989353382062",
-    "stock": 13,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47989353414830": {
@@ -74541,7 +74570,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415305-Model.jpg?v=1781601592",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415305?variant=gid://shopify/ProductVariant/47989368783022",
-    "stock": 17,
+    "stock": 20,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47989370323118": {
@@ -74599,7 +74628,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES415309-Model.jpg?v=1781601625",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es415309?variant=gid://shopify/ProductVariant/47989370421422",
-    "stock": 20,
+    "stock": 17,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47989370454190": {
@@ -75449,7 +75478,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415315-Model.jpg?v=1781609934",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415315?variant=gid://shopify/ProductVariant/47989589016750",
-    "stock": 11,
+    "stock": 20,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47989589049518": {
@@ -75648,7 +75677,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415335-Model.jpg?v=1781609984",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415335?variant=gid://shopify/ProductVariant/47989619327150",
-    "stock": 20,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47989620965550": {
@@ -76089,8 +76118,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414102-Model.jpg?v=1784290768",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30v414102?variant=gid://shopify/ProductVariant/48107696783534",
-    "stock": 20,
-    "last_alerted_stock": 13
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/48107696816302": {
     "product_title": "Demifine Dual Plated Braided Snake Chain Bracelet",
@@ -76163,7 +76192,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw27v414379-Model.jpg?v=1784290795",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw27v414379?variant=gid://shopify/ProductVariant/48107697209518",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48107697275054": {
@@ -76793,7 +76822,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES414277-Model.jpg?v=1784291115",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30es414277?variant=gid://shopify/ProductVariant/48107702124718",
-    "stock": 20,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48107702157486": {
@@ -76878,7 +76907,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30RO415340-Model.jpg?v=1784291163",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ro415340?variant=gid://shopify/ProductVariant/48107702649006",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48107702714542": {
@@ -77796,8 +77825,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02EL415484-Model.jpg?v=1784889617",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re02el415484?variant=gid://shopify/ProductVariant/48236292210862",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/48236292276398": {
     "product_title": "Golden Melody Kashmiri Earcuff Dangler Earrings",
@@ -77897,7 +77926,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PS416228_00_model.jpg?v=1785760704",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rw30ps416228?variant=gid://shopify/ProductVariant/48744155775150",
-    "stock": 16,
+    "stock": 17,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/48744155807918": {
