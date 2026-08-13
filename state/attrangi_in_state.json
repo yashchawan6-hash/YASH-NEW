@@ -15462,10 +15462,10 @@
     "amount": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_6.19.55_PM.jpg?v=1750781861",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/5-claw-small-diamond-bali?variant=gid://shopify/ProductVariant/45200988307668",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44904639693012": {
     "product_title": "Diana Band Ring with Diamond Floral Motif",
@@ -17802,7 +17802,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_12.55.57_AM.jpg?v=1739817009",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/auro-classic-diamond-bangle-coloured-stones?variant=gid://shopify/ProductVariant/45881220989140",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45881221021908": {
     "product_title": "Auro Classic Diamond Bangle | Coloured Stones",
@@ -24673,7 +24674,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-16at3.22.12PM.jpg?v=1739818613",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sulabha-meenakari-gold-necklace-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/46081602158804",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46081712586964": {
     "product_title": "Kundalini Bridali Gold Choker | Necklace Set | Sone Pe Suhaga",
@@ -53131,7 +53133,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-14at12.18.42AM_1800x1800_8fd74732-328a-4505-8ce5-49eed1796b06.webp?v=1782992216",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/50-cent-classic-diamond-bangle-set-openable-gold?variant=gid://shopify/ProductVariant/48308585660628",
     "stock": 1,
     "last_alerted_stock": 0
