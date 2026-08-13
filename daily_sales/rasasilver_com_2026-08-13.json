@@ -366,5 +366,41 @@
     "curr_stock": 5,
     "url": "https://www.rasasilver.com/products/studs-1?variant=gid://shopify/ProductVariant/50777406243113",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_62.jpg?v=1754984023"
+  },
+  {
+    "timestamp_ist": "2026-08-13 18:32:58",
+    "product_title": "Imperial Bloom Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50717702160681",
+    "sku": "R10826",
+    "price": 51300.0,
+    "variant_price": 51300.0,
+    "product_price": 51300.0,
+    "amount": 51300.0,
+    "total_price": 51300.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/imperial-bloom-necklace-set?variant=gid://shopify/ProductVariant/50717702160681",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP582.jpg?v=1757401639"
+  },
+  {
+    "timestamp_ist": "2026-08-13 18:32:58",
+    "product_title": "Garden of Pears Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50958827094313",
+    "sku": "R4924",
+    "price": 41650.0,
+    "variant_price": 41650.0,
+    "product_price": 41650.0,
+    "amount": 41650.0,
+    "total_price": 41650.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/garden-of-pears-necklace-set?variant=gid://shopify/ProductVariant/50958827094313",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24288_resized.jpg?v=1757932521"
   }
 ]

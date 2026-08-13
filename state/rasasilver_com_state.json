@@ -8832,7 +8832,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP582.jpg?v=1757401639",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/imperial-bloom-necklace-set?variant=gid://shopify/ProductVariant/50717702160681",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52273353195817": {
     "product_title": "Rupali CZ Bangle",
@@ -14206,7 +14207,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24288_resized.jpg?v=1757932521",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/garden-of-pears-necklace-set?variant=gid://shopify/ProductVariant/50958827094313",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50959689875753": {
     "product_title": "Coralisse Drops Danglers",
@@ -41052,7 +41054,7 @@
     "amount": 36465.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0091copy_resized.jpg?v=1764056071",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rubyleaf-ovelle-necklace-set?variant=gid://shopify/ProductVariant/52170082713897",
     "stock": 0
   },
@@ -42857,7 +42859,7 @@
     "amount": 40205.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3037_1_resized.jpg?v=1769594740",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emerveil-prism-necklace?variant=gid://shopify/ProductVariant/52267211587881",
     "stock": 0
   },
@@ -45473,7 +45475,7 @@
     "amount": 27200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0142copy_resized_2dea1ad0-0670-45bb-a3f9-43404efe2d3a.jpg?v=1769153891",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pear-drop-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362256417065",
     "stock": 1,
     "last_alerted_stock": 0
@@ -63917,7 +63919,7 @@
     "amount": 91715.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10_Mar16389.jpg?v=1773991877",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/queen-s-pearl-victorian-jada?variant=gid://shopify/ProductVariant/52797615931689",
     "stock": 1
   },
@@ -88574,7 +88576,7 @@
     "amount": 21760.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0678.jpg?v=1786345043",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/luxe-brilliance-moissanite-necklace?variant=gid://shopify/ProductVariant/53349149114665",
     "stock": 1
   },
@@ -88795,7 +88797,7 @@
     "amount": 5695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0094_resized.jpg?v=1785933217",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/duchess-victorian-ring?variant=gid://shopify/ProductVariant/53408352633129",
     "stock": 1
   },
