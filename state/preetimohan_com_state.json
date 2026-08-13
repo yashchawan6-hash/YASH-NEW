@@ -2143,23 +2143,6 @@
     "url": "https://www.preetimohan.com/products/gold-plated-green-kundan-earchain-with-pearls?variant=gid://shopify/ProductVariant/42544260677825",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/42546524422337": {
-    "product_title": "CHITRALI POLKI NECKLACE SET",
-    "product_handle": "antique-finish-polki-necklace-set-with-green-drops",
-    "variant_id": "gid://shopify/ProductVariant/42546524422337",
-    "global_id": "gid://shopify/ProductVariant/42546524422337",
-    "variant_title": "Default Title",
-    "sku": "WNKBTH125",
-    "price": 38250.0,
-    "variant_price": 38250.0,
-    "product_price": 38250.0,
-    "amount": 38250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC00657.jpg?v=1756191875",
-    "available_for_sale": true,
-    "url": "https://www.preetimohan.com/products/antique-finish-polki-necklace-set-with-green-drops?variant=gid://shopify/ProductVariant/42546524422337",
-    "stock": 4
-  },
   "gid://shopify/ProductVariant/42546560925889": {
     "product_title": "NIYATI MAGAR EARRING",
     "product_handle": "gold-plated-green-kundan-earring-with-green-and-white-pearls-bunches",
@@ -2362,7 +2345,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC00486.jpg?v=1756191868",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gold-finish-multi-stone-polki-necklace-set-with-pink-and-white-drops?variant=gid://shopify/ProductVariant/42551242686657",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42551243735233": {
     "product_title": "MANAH NECKLACE SET",
@@ -28017,6 +28001,23 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chandni-red-green-kundan-waist-belts?variant=gid://shopify/ProductVariant/50485596618945",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/42546524422337": {
+    "product_title": "CHITRALI POLKI NECKLACE SET",
+    "product_handle": "antique-finish-polki-necklace-set-with-green-drops",
+    "variant_id": "gid://shopify/ProductVariant/42546524422337",
+    "global_id": "gid://shopify/ProductVariant/42546524422337",
+    "variant_title": "Default Title",
+    "sku": "WNKBTH125",
+    "price": 38250.0,
+    "variant_price": 38250.0,
+    "product_price": 38250.0,
+    "amount": 38250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC00657.jpg?v=1756191875",
+    "available_for_sale": true,
+    "url": "https://www.preetimohan.com/products/antique-finish-polki-necklace-set-with-green-drops?variant=gid://shopify/ProductVariant/42546524422337",
+    "stock": 4
   },
   "gid://shopify/ProductVariant/42326159720641": {
     "product_title": "TANVIKA DARK OXIDIZED TWO LINE POLKI NECKLACE SET",
