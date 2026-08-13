@@ -740,5 +740,33 @@
     "curr_stock": 10,
     "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7b2d0a3f-57f6-4b02-90e0-6cb541445113.heic?v=1667830084"
+  },
+  {
+    "timestamp_ist": "2026-08-13 11:21:43",
+    "product_title": "Diwali Sale Necklace D25003",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/47543948017886",
+    "sku": "D25003",
+    "price": 499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.daivik.in/products/diwali-sale-necklace-d250-2?variant=gid://shopify/ProductVariant/47543948017886",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_6015_f32dabb6-793b-46c3-945f-6f4df0cc993b.jpg?v=1758266795"
+  },
+  {
+    "timestamp_ist": "2026-08-13 11:21:43",
+    "product_title": "GJ Polish AD Designer Pendant Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48593586782430",
+    "sku": "717",
+    "price": 1299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 24,
+    "curr_stock": 23,
+    "url": "https://www.daivik.in/products/gj-polish-ad-designer-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48593586782430",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1314.jpg?v=1786535105"
   }
 ]
