@@ -63856,23 +63856,6 @@
     "stock": 2,
     "last_alerted_stock": 2
   },
-  "gid://shopify/ProductVariant/47420376285407": {
-    "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Jadau Kundan and Elephant Motif - EK-SFSET457",
-    "product_handle": "multicolor-tribal-necklace-set-ek-sfset457",
-    "variant_id": "gid://shopify/ProductVariant/47420376285407",
-    "global_id": "gid://shopify/ProductVariant/47420376285407",
-    "variant_title": "Multicolor",
-    "sku": "EK-SFSET457M",
-    "price": 13000.0,
-    "variant_price": 13000.0,
-    "product_price": 13000.0,
-    "amount": 13000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET457M-2_31cf8248-2f46-4481-a242-623be78d064b.jpg?v=1784624791",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-set-ek-sfset457?variant=gid://shopify/ProductVariant/47420376285407",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47420379824351": {
     "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Jadau Kundan, Peacock and Floral Motifs - EK-SFSET458",
     "product_handle": "multicolor-tribal-necklace-set-ek-sfset458",
@@ -76620,7 +76603,7 @@
     "amount": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1688Y.jpg?v=1771234950",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1688?variant=gid://shopify/ProductVariant/48452675600607",
     "stock": 0
   },
@@ -114034,6 +114017,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47420376285407": {
+    "product_title": "Multicolor Dual-Tone Tribal Necklace Set with Jadau Kundan and Elephant Motif - EK-SFSET457",
+    "product_handle": "multicolor-tribal-necklace-set-ek-sfset457",
+    "variant_id": "gid://shopify/ProductVariant/47420376285407",
+    "global_id": "gid://shopify/ProductVariant/47420376285407",
+    "variant_title": "Multicolor",
+    "sku": "EK-SFSET457M",
+    "price": 13000.0,
+    "variant_price": 13000.0,
+    "product_price": 13000.0,
+    "amount": 13000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET457M-2_31cf8248-2f46-4481-a242-623be78d064b.jpg?v=1784624791",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-set-ek-sfset457?variant=gid://shopify/ProductVariant/47420376285407",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47037448257759": {
     "product_title": "White Gold-Plated Jadau Kundan Haath Phool with Floral Kundan Stonework - MHP219",
