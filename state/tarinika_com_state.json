@@ -14340,9 +14340,10 @@
     "amount": 16.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A5096copycopy.jpg?v=1680004217",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/shoal-of-fish-band-ring?variant=gid://shopify/ProductVariant/40223431753794",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40223436046402": {
     "product_title": "Simple Fish Oxidized Finger Ring",
