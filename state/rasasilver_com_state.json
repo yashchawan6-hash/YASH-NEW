@@ -1820,6 +1820,23 @@
     "stock": 2,
     "last_alerted_stock": 1
   },
+  "gid://shopify/ProductVariant/50140679602473": {
+    "product_title": "Cherry Dot Studs",
+    "product_handle": "cherry-dot-studs",
+    "variant_id": "gid://shopify/ProductVariant/50140679602473",
+    "global_id": "gid://shopify/ProductVariant/50140679602473",
+    "variant_title": "Default Title",
+    "sku": "R1931",
+    "price": 1190.0,
+    "variant_price": 1190.0,
+    "product_price": 1190.0,
+    "amount": 1190.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/43.3.jpg?v=1743772093",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/cherry-dot-studs?variant=gid://shopify/ProductVariant/50140679602473",
+    "stock": 0
+  },
   "gid://shopify/ProductVariant/50151404110121": {
     "product_title": "Morjyoti Short Necklace",
     "product_handle": "morjyoti-short-necklace",
