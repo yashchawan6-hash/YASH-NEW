@@ -8830,7 +8830,7 @@
     "amount": 51300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP582.jpg?v=1757401639",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/imperial-bloom-necklace-set?variant=gid://shopify/ProductVariant/50717702160681",
     "stock": 0,
     "last_alerted_stock": 0
@@ -14205,7 +14205,7 @@
     "amount": 41650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_83_6Aug24288_resized.jpg?v=1757932521",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/garden-of-pears-necklace-set?variant=gid://shopify/ProductVariant/50958827094313",
     "stock": 0,
     "last_alerted_stock": 0
@@ -44843,7 +44843,7 @@
     "amount": 85425.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_49_24Dec4708_resized.jpg?v=1767423835",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ovaflora-victorian-necklace-set?variant=gid://shopify/ProductVariant/52337579065641",
     "stock": 1,
     "last_alerted_stock": 0
@@ -45699,7 +45699,7 @@
     "amount": 39950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0241copy_resized_ec42145b-7297-4d80-9e1e-7577782ba864.jpg?v=1767333702",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/orbit-victorian-necklace-set?variant=gid://shopify/ProductVariant/52377995542825",
     "stock": 1,
     "last_alerted_stock": 0
@@ -91891,6 +91891,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0464_2.jpg?v=1786624800",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/radha-krishna-temple-necklace?variant=gid://shopify/ProductVariant/53403196129577",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53403228700969": {
+    "product_title": "Lakshmikaa Temple Necklace",
+    "product_handle": "lakshmikaa-temple-necklace",
+    "variant_id": "gid://shopify/ProductVariant/53403228700969",
+    "global_id": "gid://shopify/ProductVariant/53403228700969",
+    "variant_title": "Default Title",
+    "sku": "R33408",
+    "price": 40200.0,
+    "variant_price": 40200.0,
+    "product_price": 40200.0,
+    "amount": 40200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0459_2.jpg?v=1786625687",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/lakshmikaa-temple-necklace?variant=gid://shopify/ProductVariant/53403228700969",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53403322777897": {
