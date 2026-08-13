@@ -144,7 +144,7 @@ def fetch_catalog(domain, token):
     has_next = True
     page_num = 1
 
-    while has_next and page_num <= 100:
+    while has_next and page_num <= 150:
         payload = {'query': query, 'variables': {"cursor": cursor}}
         data = post_graphql_query(url, headers, payload)
 
@@ -228,7 +228,7 @@ def process_batch(domain, token, url, headers, mutation, batch):
     return batch_results
 
 def check_stock_in_batches(domain, token, variants_to_check):
-    print(f"[{domain}] Calculating stock via Cart API for {len(variants_to_check)} active variants in parallel...", flush=True)
+    print(f"[{domain}] Calculating stock via Cart API for 100% of variants ({len(variants_to_check)} items) in parallel...", flush=True)
     url = f"https://www.{domain}/api/2023-07/graphql.json"
     headers = {
         'X-Shopify-Storefront-Access-Token': token,
@@ -424,7 +424,6 @@ def dispatch_sales_alerts(store_bot_token, chat_id, sales_detected, domain):
     if not sales_detected:
         return
 
-    # If sales spike > 10, send clean summary report to avoid Telegram API rate limits
     if len(sales_detected) > 10:
         print(f"[{domain}] Sales spike detected ({len(sales_detected)} sales). Sending clean summary report...", flush=True)
         send_telegram_summary_alert(store_bot_token, chat_id, sales_detected, domain)
@@ -470,17 +469,9 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
         print(f"[{domain}] No active variants found.", flush=True)
         return
 
-    variants_to_check = []
-    known_v_ids = set()
-
-    for v in all_catalog_variants:
-        v_id = v['variant_id']
-        known_v_ids.add(v_id)
-        prev_stock = previous_state.get(v_id, {}).get('stock', 0) if previous_state else 0
-        is_available = v.get('available_for_sale', True)
-
-        if is_available or prev_stock > 0 or not previous_state:
-            variants_to_check.append(v)
+    # Check 100% of variants in catalog with Cart API (NO SKIPPING)
+    variants_to_check = list(all_catalog_variants)
+    known_v_ids = {v['variant_id'] for v in all_catalog_variants}
 
     if previous_state:
         for prev_id, prev_data in previous_state.items():
@@ -489,7 +480,7 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
                     variants_to_check.append(prev_data)
                     all_catalog_variants.append(prev_data)
 
-    print(f"[{domain}] Querying Cart API for {len(variants_to_check)} active/in-stock variants out of {len(all_catalog_variants)} total.", flush=True)
+    print(f"[{domain}] Querying Cart API for 100% of variants ({len(variants_to_check)} items) out of {len(all_catalog_variants)} total.", flush=True)
     stock_results = check_stock_in_batches(domain, token, variants_to_check)
 
     current_state = {}
@@ -518,7 +509,7 @@ def process_store(store_config, global_bot_token, state_dir, daily_dir):
                 current_state[v_id] = v
                 continue
 
-            if prev_stock > curr_stock and prev_stock < 9000:
+            if prev_stock > curr_stock and prev_stock < 9999:
                 qty_sold = prev_stock - curr_stock
                 if 0 < qty_sold < 500:
                     sales_detected.append({
