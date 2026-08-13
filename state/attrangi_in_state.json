@@ -9261,9 +9261,10 @@
     "amount": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/glazed-round-solitaire-diamond-ring-with-split-shank-attrangi-1.jpg?v=1739814703",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/glazed-round-solitaire-diamond-ring-with-split-shank?variant=gid://shopify/ProductVariant/43811656663252",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43811656696020": {
     "product_title": "Glazed Round Solitaire Diamond Ring with Split Shank",
