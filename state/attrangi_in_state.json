@@ -1438,7 +1438,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/blooming-ring-attrangi-1.jpg?v=1739812694",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/blooming-rose-ring?variant=gid://shopify/ProductVariant/40411688501417",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43756007424212": {
@@ -5800,7 +5800,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/90-cents-classic-round-solitaire-daily-wear-ring-attrangi-1.jpg?v=1739813914",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/90-cents-classic-round-solitaire-daily-wear-ring?variant=gid://shopify/ProductVariant/42829314457812",
-    "stock": 3
+    "stock": 8
   },
   "gid://shopify/ProductVariant/42829314523348": {
     "product_title": "90 cents Classic Round Solitaire Daily Wear Ring",
@@ -5834,7 +5834,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/2-carat-classic-round-solitaire-daily-wear-ring-attrangi-1.jpg?v=1774353292",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/2-carat-classic-round-solitaire-daily-wear-ring?variant=gid://shopify/ProductVariant/42829325107412",
-    "stock": 3
+    "stock": 6
   },
   "gid://shopify/ProductVariant/42829325041876": {
     "product_title": "2 Carat Classic Round Solitaire Daily Wear Ring | Adjustable",
@@ -5851,7 +5851,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/2-carat-classic-round-solitaire-daily-wear-ring-attrangi-4.jpg?v=1739813926",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/2-carat-classic-round-solitaire-daily-wear-ring?variant=gid://shopify/ProductVariant/42829325041876",
-    "stock": 3,
+    "stock": 6,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42855753023700": {
@@ -30475,23 +30475,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/beaded-spirit-oversized-diamond-studs-statement-earrings?variant=gid://shopify/ProductVariant/46404565991636",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/46475651743956": {
-    "product_title": "Beaded Spirit Oversized Diamond Earrings",
-    "product_handle": "beaded-spirit-oversized-diamond-studs-statement-earrings",
-    "variant_id": "gid://shopify/ProductVariant/46475651743956",
-    "global_id": "gid://shopify/ProductVariant/46475651743956",
-    "variant_title": "Navy",
-    "sku": "JS0311NA-ER",
-    "price": 2600.0,
-    "variant_price": 2600.0,
-    "product_price": 2600.0,
-    "amount": 2600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-07-07_at_9.27.59_PM_3.jpg?v=1752061877",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/beaded-spirit-oversized-diamond-studs-statement-earrings?variant=gid://shopify/ProductVariant/46475651743956",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/46403163685076": {
     "product_title": "Blitzkrieg Diamond Pearl Play Designer Earrings | Rangnasheen",
