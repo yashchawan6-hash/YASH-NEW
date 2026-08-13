@@ -21942,9 +21942,9 @@
     "price": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_12.38.30_PM_2.jpg?v=1786518592",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/carterina-daily-wear-bangle-cnc-gold-plated?variant=gid://shopify/ProductVariant/48459246043348",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48459246076116": {
     "product_title": "Carterina Daily Wear Bangle | CNC Gold Plated",
@@ -37811,7 +37811,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-20at6.47.40PM_1.jpg?v=1774014116",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/48459314397396",
-    "stock": 5
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48459314462932": {
     "product_title": "Shriphal Single Line Diamond Mangalsutra | Gold Polish | Daily Wear",
@@ -37823,9 +37824,10 @@
     "price": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_12.56.21_PM.jpg?v=1786519851",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/48459314462932",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47684236804308": {
     "product_title": "Vachan Single Line Diamond Mangalsutra with Coloured Stone | Daily Wear",
@@ -49078,7 +49080,7 @@
     "price": 6950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_6.16.34_PM.jpg?v=1786538832",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/boho-tribe-gold-indo-western-funky-polki-choker-set?variant=gid://shopify/ProductVariant/48459746312404",
     "stock": 0
   },
@@ -49092,7 +49094,7 @@
     "price": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.38.24PM.jpg?v=1786535247",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/polki-designer-delicate-indian-nail-rings?variant=gid://shopify/ProductVariant/48460041453780",
     "stock": 0
   },
@@ -49106,7 +49108,7 @@
     "price": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.38.23PM_1.jpg?v=1786535246",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/polki-designer-delicate-indian-nail-rings?variant=gid://shopify/ProductVariant/48460041486548",
     "stock": 0
   },
@@ -49120,7 +49122,7 @@
     "price": 7450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_6.26.07_PM_1.jpg?v=1786539967",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/paro-gold-traditional-set-with-jhumkas-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48460303794388",
     "stock": 0
   },
@@ -49134,8 +49136,22 @@
     "price": 20450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at7.06.20PM_1.jpg?v=1786542331",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/jungle-mein-mangal-gold-designer-indo-western-multicoloured-set?variant=gid://shopify/ProductVariant/48461230932180",
+    "stock": 0
+  },
+  "gid://shopify/ProductVariant/48465565909204": {
+    "product_title": "Babita Empress Gold Holdali Necklace Set | Sone Pe Suhaga",
+    "product_handle": "babita-empress-gold-holdali-necklace-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48465565909204",
+    "global_id": "gid://shopify/ProductVariant/48465565909204",
+    "variant_title": "Default Title",
+    "sku": "ST93110GR-JS",
+    "price": 4950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-13at11.32.08AM.jpg?v=1786601102",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/babita-empress-gold-holdali-necklace-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48465565909204",
     "stock": 0
   },
   "gid://shopify/ProductVariant/47684226187476": {
