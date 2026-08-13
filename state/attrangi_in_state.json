@@ -9244,9 +9244,10 @@
     "amount": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/glazed-round-solitaire-diamond-ring-with-split-shank-attrangi-1.jpg?v=1739814703",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/glazed-round-solitaire-diamond-ring-with-split-shank?variant=gid://shopify/ProductVariant/48432482058452",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43811656663252": {
     "product_title": "Glazed Round Solitaire Diamond Ring with Split Shank",
@@ -45800,7 +45801,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_12.56.21_PM.jpg?v=1786519851",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shriphal-single-line-diamond-mangalsutra-gold-polish-daily-wear?variant=gid://shopify/ProductVariant/48459314462932",
     "stock": 0,
     "last_alerted_stock": 0
