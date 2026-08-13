@@ -2036,9 +2036,10 @@
     "amount": 22100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC00278.jpg?v=1756577227",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/chandni-gold-plated-kundan-choker-necklace-set-with-green-onyx-drops?variant=gid://shopify/ProductVariant/42272398770369",
-    "stock": 5
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42276028547265": {
     "product_title": "GOLD PLATED RED & GREEN RAJPUT KUNDAN KALGI",
@@ -2073,23 +2074,6 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chandni-gold-plated-pink-and-green-kundan-kalgi-with-pearls?variant=gid://shopify/ProductVariant/42276030349505",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/42326159720641": {
-    "product_title": "TANVIKA DARK OXIDIZED TWO LINE POLKI NECKLACE SET",
-    "product_handle": "chandni-antique-finish-two-line-polki-necklace",
-    "variant_id": "gid://shopify/ProductVariant/42326159720641",
-    "global_id": "gid://shopify/ProductVariant/42326159720641",
-    "variant_title": "Default Title",
-    "sku": "WNKBTH127",
-    "price": 34000.0,
-    "variant_price": 34000.0,
-    "product_price": 34000.0,
-    "amount": 34000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/products/1NGP05809.jpg?v=1756191880",
-    "available_for_sale": true,
-    "url": "https://www.preetimohan.com/products/chandni-antique-finish-two-line-polki-necklace?variant=gid://shopify/ProductVariant/42326159720641",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/42326220734657": {
     "product_title": "MANDANA KUNDAN NECKLACE SET",
@@ -28033,6 +28017,23 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chandni-red-green-kundan-waist-belts?variant=gid://shopify/ProductVariant/50485596618945",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/42326159720641": {
+    "product_title": "TANVIKA DARK OXIDIZED TWO LINE POLKI NECKLACE SET",
+    "product_handle": "chandni-antique-finish-two-line-polki-necklace",
+    "variant_id": "gid://shopify/ProductVariant/42326159720641",
+    "global_id": "gid://shopify/ProductVariant/42326159720641",
+    "variant_title": "Default Title",
+    "sku": "WNKBTH127",
+    "price": 34000.0,
+    "variant_price": 34000.0,
+    "product_price": 34000.0,
+    "amount": 34000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/products/1NGP05809.jpg?v=1756191880",
+    "available_for_sale": true,
+    "url": "https://www.preetimohan.com/products/chandni-antique-finish-two-line-polki-necklace?variant=gid://shopify/ProductVariant/42326159720641",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50433155629249": {
     "product_title": "Donation",
