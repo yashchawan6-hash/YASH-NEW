@@ -59685,7 +59685,7 @@
     "amount": 9250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at5.05.18PM_1.jpg?v=1786606791",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gulmohar-mint-pearl-gold-traditional-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48466024005844",
     "stock": -1
   },
@@ -59702,7 +59702,7 @@
     "amount": 8650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at5.45.25PM.jpg?v=1786607224",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sone-ki-patti-sleek-gold-choker-set-with-pearl-drops-jhumka?variant=gid://shopify/ProductVariant/48466053169364",
     "stock": -1
   },
@@ -59719,8 +59719,25 @@
     "amount": 8650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at6.13.03PM.jpg?v=1786607224",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sone-ki-patti-sleek-gold-choker-set-with-pearl-drops-jhumka?variant=gid://shopify/ProductVariant/48466053202132",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48466068832468": {
+    "product_title": "Phool Khile Gulshan Floral Gold Choker Set | Sone Pe Suhaga",
+    "product_handle": "phool-khile-gulshan-floral-gold-choker-set-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48466068832468",
+    "global_id": "gid://shopify/ProductVariant/48466068832468",
+    "variant_title": "Default Title",
+    "sku": "SH21421-JS",
+    "price": 5950.0,
+    "variant_price": 5950.0,
+    "product_price": 5950.0,
+    "amount": 5950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at5.56.07PM.jpg?v=1786607678",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/phool-khile-gulshan-floral-gold-choker-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48466068832468",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47684226187476": {

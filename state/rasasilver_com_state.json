@@ -81997,7 +81997,7 @@
     "amount": 2465.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13355_resized.jpg?v=1782288037",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pink-heart-chain?variant=gid://shopify/ProductVariant/53286052004137",
     "stock": 0
   },
@@ -83404,7 +83404,7 @@
     "amount": 3400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2433_resized.jpg?v=1783515595",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/navilu-charm-stone-pendant-set?variant=gid://shopify/ProductVariant/53290677731625",
     "stock": 0
   },
@@ -83524,7 +83524,7 @@
     "amount": 3230.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2411_resized.jpg?v=1783580562",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/florisa-stone-pendant-set?variant=gid://shopify/ProductVariant/53290551574825",
     "stock": 0
   },
@@ -84438,7 +84438,7 @@
     "amount": 2465.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2230_resized.jpg?v=1782826064",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/panna-manik-stone-studs?variant=gid://shopify/ProductVariant/53296613753129",
     "stock": 0
   },
@@ -91210,6 +91210,23 @@
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rajsi-mayur-nakshi-chandbali?variant=gid://shopify/ProductVariant/53396682375465",
     "stock": 0
+  },
+  "gid://shopify/ProductVariant/53398244360489": {
+    "product_title": "Rajkumari Regalia Nakshi Chandbali",
+    "product_handle": "rajkumari-regalia-nakshi-chandbali",
+    "variant_id": "gid://shopify/ProductVariant/53398244360489",
+    "global_id": "gid://shopify/ProductVariant/53398244360489",
+    "variant_title": "Default Title",
+    "sku": "R33433",
+    "price": 17300.0,
+    "variant_price": 17300.0,
+    "product_price": 17300.0,
+    "amount": 17300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0488_3.jpg?v=1786607940",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/rajkumari-regalia-nakshi-chandbali?variant=gid://shopify/ProductVariant/53398244360489",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/53398610116905": {
     "product_title": "Heart Stone Buggadi",
