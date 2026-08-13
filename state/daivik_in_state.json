@@ -24176,10 +24176,10 @@
     "price": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/739E0DC5-37F1-4EA5-B251-F40033D6F4AD.jpg?v=1732877812",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/1165-reversible?variant=gid://shopify/ProductVariant/46113732591838",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46116471472350": {
     "product_title": "Pure Kemp Jadau Brass Choker with Balis",

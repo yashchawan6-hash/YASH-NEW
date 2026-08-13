@@ -66601,8 +66601,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2875M-2.jpg?v=1772025627",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2875?variant=gid://shopify/ProductVariant/48546104836319",
-    "stock": 4,
-    "last_alerted_stock": 1
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48547144761567": {
     "product_title": "Pichwai Inspired Layered Charm Necklace with Radha Krishna Miniature - TN-N30",
@@ -92755,21 +92755,6 @@
     "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-necklace-set-ms3035?variant=gid://shopify/ProductVariant/50594222407903",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/50594227323103": {
-    "product_title": "Red Color Gold Plated Jadau Kundan Necklace Set - MS3036YR",
-    "product_handle": "red-color-gold-plated-jadau-kundan-necklace-set-ms3036yr",
-    "variant_id": "gid://shopify/ProductVariant/50594227323103",
-    "global_id": "gid://shopify/ProductVariant/50594227323103",
-    "variant_title": "Default Title",
-    "sku": "MS3036YR",
-    "price": 5500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3036YR.jpg?v=1784803397",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/red-color-gold-plated-jadau-kundan-necklace-set-ms3036yr?variant=gid://shopify/ProductVariant/50594227323103",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/50594234237151": {
     "product_title": "Multicolor Gold Plated Jadau Kundan Necklace Set - MS3037M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-necklace-set-ms3037m",
@@ -94080,6 +94065,21 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/50594227323103": {
+    "product_title": "Red Color Gold Plated Jadau Kundan Necklace Set - MS3036YR",
+    "product_handle": "red-color-gold-plated-jadau-kundan-necklace-set-ms3036yr",
+    "variant_id": "gid://shopify/ProductVariant/50594227323103",
+    "global_id": "gid://shopify/ProductVariant/50594227323103",
+    "variant_title": "Default Title",
+    "sku": "MS3036YR",
+    "price": 5500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3036YR.jpg?v=1784803397",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/red-color-gold-plated-jadau-kundan-necklace-set-ms3036yr?variant=gid://shopify/ProductVariant/50594227323103",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48447430525151": {
     "product_title": "Blue Gold-Plated Jadau Kundan Jhumka Earrings with Kundan Stone Setting - ME1545BL",
