@@ -320,5 +320,33 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/viridia-cz-kada?variant=gid://shopify/ProductVariant/53283846488361",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1746_resized.jpg?v=1782196430"
+  },
+  {
+    "timestamp_ist": "2026-08-13 12:47:05",
+    "product_title": "Kanakleela Temple Pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/51482340917545",
+    "sku": "R15365",
+    "price": 19300.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/kanakleela-pendant?variant=gid://shopify/ProductVariant/51482340917545",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0669copy_resized.jpg?v=1762323070"
+  },
+  {
+    "timestamp_ist": "2026-08-13 12:47:05",
+    "product_title": "Shrevara Temple Pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52331035361577",
+    "sku": "R20926",
+    "price": 7820.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.rasasilver.com/products/shrevara-temple-pendant?variant=gid://shopify/ProductVariant/52331035361577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0633copy.jpg?v=1766743877"
   }
 ]
