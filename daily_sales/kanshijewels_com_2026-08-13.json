@@ -234,5 +234,41 @@
     "curr_stock": 4,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-200?variant=gid://shopify/ProductVariant/50048124092716",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundannecklace3300_-_2.jpg?v=1729768523"
+  },
+  {
+    "timestamp_ist": "2026-08-13 23:21:54",
+    "product_title": "Jadau Maatil",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52737325662508",
+    "sku": "AC06",
+    "price": 2360.0,
+    "variant_price": 2360.0,
+    "product_price": 2360.0,
+    "amount": 2360.0,
+    "total_price": 2360.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.kanshijewels.com/products/jadau-maatil?variant=gid://shopify/ProductVariant/52737325662508",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUMAATIL2360.jpg?v=1773124887"
+  },
+  {
+    "timestamp_ist": "2026-08-13 23:21:54",
+    "product_title": "Elegant minimal gold chain with pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53368913658156",
+    "sku": "NK910",
+    "price": 850.0,
+    "variant_price": 850.0,
+    "product_price": 850.0,
+    "amount": 850.0,
+    "total_price": 850.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.kanshijewels.com/products/elegant-minimal-gold-chain-with-pendant?variant=gid://shopify/ProductVariant/53368913658156",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantminimalgoldchainwithpendant850.jpg?v=1782215731"
   }
 ]
