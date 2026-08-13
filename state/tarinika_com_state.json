@@ -23611,9 +23611,10 @@
     "amount": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0312XHY_5bd4db58-4079-4739-b4b3-5dbbb38523f0.jpg?v=1757062560",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/subhadra-antique-kempu-necklace-set?variant=gid://shopify/ProductVariant/42414996750402",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42415007072322": {
     "product_title": "Blossom Pearl Nakshatra CZ Stud Earrings",
@@ -23987,9 +23988,10 @@
     "amount": 44.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANE4321XDC_b1003307-7764-4953-913d-def019bc8718.jpg?v=1757312280",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/ashira-antique-chandbali-earrings?variant=gid://shopify/ProductVariant/42415205220418",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42415205711938": {
     "product_title": "Ishita Antique Jhumka Earrings",
