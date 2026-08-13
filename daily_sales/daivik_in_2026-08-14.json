@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp_ist": "2026-08-14 00:07:03",
+    "product_title": "Meenakari Peacock Necklace With Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/36673302921369",
+    "sku": "401",
+    "price": 5999.0,
+    "variant_price": 5999.0,
+    "product_price": 5999.0,
+    "amount": 5999.0,
+    "total_price": 5999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 18,
+    "curr_stock": 17,
+    "url": "https://www.daivik.in/products/meenakari-peacock-necklace-with-necklace?variant=gid://shopify/ProductVariant/36673302921369",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/meenakari-peacock-necklace-with-neckwearnecklace-202.jpg?v=1602518928"
+  },
+  {
+    "timestamp_ist": "2026-08-14 00:07:03",
+    "product_title": "Pure Kemp Brass Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42319003091166",
+    "sku": "991",
+    "price": 3499.0,
+    "variant_price": 3499.0,
+    "product_price": 3499.0,
+    "amount": 3499.0,
+    "total_price": 3499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 34,
+    "curr_stock": 33,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-necklace?variant=gid://shopify/ProductVariant/42319003091166",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e984317b-89bc-4125-b5de-20587294f825.jpg?v=1641735084"
+  }
+]
