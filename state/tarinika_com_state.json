@@ -3017,13 +3017,13 @@
     "variant_id": "gid://shopify/ProductVariant/16216204804162",
     "global_id": "gid://shopify/ProductVariant/16216204804162",
     "variant_title": "White Red",
-    "sku": "US-ANL0381BCC",
+    "sku": "ANL0381BCC",
     "price": 84.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/image-004.jpg?v=1762536389",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/manju-nakshatra-cz-long-necklace-set?variant=gid://shopify/ProductVariant/16216204804162",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32608824164418": {
