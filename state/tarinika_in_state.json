@@ -22155,9 +22155,9 @@
     "amount": 2729.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PTRK0013BR2_071803dc-20fe-4064-9f3d-081a5eec03b0.jpg?v=1752150579",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.in/products/shree-ganesha-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/52394441310576",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52394523591024": {
     "product_title": "Rudrapriya Silver Rakhi",
