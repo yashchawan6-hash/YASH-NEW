@@ -24723,9 +24723,9 @@
     "amount": 67575.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct03642_resized.jpg?v=1762258304",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/devaani-three-layer-necklace?variant=gid://shopify/ProductVariant/51418997883177",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51419010498857": {
