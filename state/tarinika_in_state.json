@@ -22086,9 +22086,10 @@
     "amount": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0004XRY_530ccb43-e7bb-4eaf-b778-3cb3b70505d0.jpg?v=1752149588",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/aakar-antique-rakhi?variant=gid://shopify/ProductVariant/52394178118000",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52394205741424": {
     "product_title": "Aranya Floral Antique Rakhi",
