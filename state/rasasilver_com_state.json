@@ -99,7 +99,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-44_3c348a4d-d5da-458b-8db5-7e116fdfa192.jpg?v=1740814119",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/daisy-emerald-necklace?variant=gid://shopify/ProductVariant/49810565038377",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/49836042322217": {
     "product_title": "Emerald Kundan Studs",
@@ -2608,9 +2609,10 @@
     "amount": 14620.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/123.jpg?v=1750078120",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ae-1?variant=gid://shopify/ProductVariant/50278278988073",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50278447939881": {
     "product_title": "Shridevi-Vishnu Short Necklace",
@@ -3551,7 +3553,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0117_copy_resized.jpg?v=1761723467",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/nilohaar-necklace?variant=gid://shopify/ProductVariant/51441089741097",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51441136435497": {
     "product_title": "Ruby Elegant Necklace",
@@ -67351,7 +67354,7 @@
     "amount": 29410.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar0045_resized.jpg?v=1774595857",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ratnashri-short-temple-necklace-copy?variant=gid://shopify/ProductVariant/52828521857321",
     "stock": 1,
     "last_alerted_stock": 0
@@ -83858,7 +83861,7 @@
     "amount": 16235.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0638_resized.jpg?v=1783597013",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/floral-glow-stone-necklace?variant=gid://shopify/ProductVariant/53290773381417",
     "stock": 1,
     "last_alerted_stock": 0
@@ -88561,7 +88564,7 @@
     "amount": 31280.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0323.jpg?v=1786368088",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/navaratna-moissanite-necklace?variant=gid://shopify/ProductVariant/53349025055017",
     "stock": 1
   },
