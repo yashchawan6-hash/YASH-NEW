@@ -7579,16 +7579,16 @@
     "variant_id": "gid://shopify/ProductVariant/41483328061506",
     "global_id": "gid://shopify/ProductVariant/41483328061506",
     "variant_title": "Yellow Gold Polish with White Red variant",
-    "sku": "US-TNX0022XC2",
+    "sku": "TNX0022XC2",
     "price": 49.99,
     "variant_price": 49.99,
     "product_price": 49.99,
     "amount": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0022X_5339c975-8112-4a33-b5fc-37180dd404ab.jpg?v=1750754599",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/uri-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/41483328061506",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41483329667138": {
@@ -15343,8 +15343,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0298copycopy.jpg?v=1686811039",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/anoush-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40308394721346",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/40308403273794": {
     "product_title": "Inca Antique Jadau Chandbali Earrings",

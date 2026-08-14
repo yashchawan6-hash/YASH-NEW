@@ -17164,9 +17164,9 @@
     "amount": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/evil-eye-monogram-daily-bracelet-attrangi-3.jpg?v=1739816793",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/evil-eye-monogram-daily-bracelet?variant=gid://shopify/ProductVariant/45442725347540",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45442902917332": {
@@ -37286,7 +37286,7 @@
     "amount": 5650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770982612",
     "stock": 0,
     "last_alerted_stock": 0
