@@ -92409,6 +92409,23 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
+  "gid://shopify/ProductVariant/53426628002089": {
+    "product_title": "Twin Pear Ring",
+    "product_handle": "twin-pear-ring",
+    "variant_id": "gid://shopify/ProductVariant/53426628002089",
+    "global_id": "gid://shopify/ProductVariant/53426628002089",
+    "variant_title": "8",
+    "sku": "R32426",
+    "price": 3900.0,
+    "variant_price": 3900.0,
+    "product_price": 3900.0,
+    "amount": 3900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19357.jpg?v=1786694031",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/twin-pear-ring?variant=gid://shopify/ProductVariant/53426628002089",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/53410084323625": {
     "product_title": "Infinite Veera Rakhi",
     "product_handle": "infinite-veera-rakhi",
