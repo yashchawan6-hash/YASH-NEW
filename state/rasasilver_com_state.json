@@ -22199,9 +22199,9 @@
     "amount": 6290.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0116copy.jpg?v=1761384155",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/flipora-glow-studs?variant=gid://shopify/ProductVariant/51357123346729",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51357137338665": {
     "product_title": "Arabella Petal Studs",
