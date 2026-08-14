@@ -39674,23 +39674,6 @@
     "url": "https://www.attrangi.in/products/teenphool-sui-dhaaga-earcuff-indian-earring?variant=gid://shopify/ProductVariant/47310492139732",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/47310500790484": {
-    "product_title": "Rainbow Multi Coloured Solitaire Diamond Tennis Bracelet",
-    "product_handle": "rainbow-multi-coloured-solitaire-diamond-tennis-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/47310500790484",
-    "global_id": "gid://shopify/ProductVariant/47310500790484",
-    "variant_title": "Default Title",
-    "sku": "WG5267MU-BG",
-    "price": 2750.0,
-    "variant_price": 2750.0,
-    "product_price": 2750.0,
-    "amount": 2750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-01at11.33.55PM.jpg?v=1764663974",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/rainbow-multi-coloured-solitaire-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47310500790484",
-    "stock": 2
-  },
   "gid://shopify/ProductVariant/47313069179092": {
     "product_title": "Parmeshwari Gold Traditional Indian Set | Sone Pe Suhaga",
     "product_handle": "parmeshwari-gold-traditional-indian-set-sone-pe-suhaga",
@@ -56298,7 +56281,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379711946964",
     "stock": 0,
     "last_alerted_stock": 0
@@ -56527,7 +56510,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712405716",
     "stock": 0,
     "last_alerted_stock": 0
@@ -59631,7 +59614,7 @@
     "amount": 750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at11.43.15AM.jpg?v=1786709795",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/emily-emerald-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471409459412",
     "stock": -1
   },
@@ -59651,6 +59634,23 @@
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/ira-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471412179156",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47310500790484": {
+    "product_title": "Rainbow Multi Coloured Solitaire Diamond Tennis Bracelet",
+    "product_handle": "rainbow-multi-coloured-solitaire-diamond-tennis-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/47310500790484",
+    "global_id": "gid://shopify/ProductVariant/47310500790484",
+    "variant_title": "Default Title",
+    "sku": "WG5267MU-BG",
+    "price": 2750.0,
+    "variant_price": 2750.0,
+    "product_price": 2750.0,
+    "amount": 2750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-01at11.33.55PM.jpg?v=1764663974",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/rainbow-multi-coloured-solitaire-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47310500790484",
+    "stock": 2
   },
   "gid://shopify/ProductVariant/48355748937940": {
     "product_title": "Pearls of Blessings Diamond Bhabhi Rakhi",
