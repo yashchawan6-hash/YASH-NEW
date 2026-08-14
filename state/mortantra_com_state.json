@@ -111167,24 +111167,6 @@
     "url": "https://www.mortantra.com/products/green-gold-plated-victorian-necklace-set-with-kundan-pendant-and-bead-strands-vc-s6gr?variant=gid://shopify/ProductVariant/50588798484703",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/50588802515167": {
-    "product_title": "White Color Gold Plated Kaleera - MKL16",
-    "product_handle": "white-color-gold-plated-kaleera-mkl16",
-    "variant_id": "gid://shopify/ProductVariant/50588802515167",
-    "global_id": "gid://shopify/ProductVariant/50588802515167",
-    "variant_title": "Default Title",
-    "sku": "MKL16",
-    "price": 4500.0,
-    "variant_price": 4500.0,
-    "product_price": 4500.0,
-    "amount": 4500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKL16.jpg?v=1784634079",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-kaleera-mkl16?variant=gid://shopify/ProductVariant/50588802515167",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/50588830433503": {
     "product_title": "White Color Gold Plated Kaleera - MKL17",
     "product_handle": "white-color-gold-plated-kaleera-mkl17",
@@ -113969,6 +113951,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/50588802515167": {
+    "product_title": "White Color Gold Plated Kaleera - MKL16",
+    "product_handle": "white-color-gold-plated-kaleera-mkl16",
+    "variant_id": "gid://shopify/ProductVariant/50588802515167",
+    "global_id": "gid://shopify/ProductVariant/50588802515167",
+    "variant_title": "Default Title",
+    "sku": "MKL16",
+    "price": 4500.0,
+    "variant_price": 4500.0,
+    "product_price": 4500.0,
+    "amount": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKL16.jpg?v=1784634079",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-kaleera-mkl16?variant=gid://shopify/ProductVariant/50588802515167",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50586950107359": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Bracelet with Pearl Drop - MBRAC84M",
