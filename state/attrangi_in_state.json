@@ -12518,7 +12518,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-06-27_at_4.15.31_PM.jpg?v=1752566038",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/siya-antique-dainty-polki-set?variant=gid://shopify/ProductVariant/44325546164436",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48284888858836": {
@@ -16945,10 +16945,10 @@
     "amount": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-25_at_9.16.45_PM.jpg?v=1750782030",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/vismaya-polki-and-meenakari-long-indian-earrings?variant=gid://shopify/ProductVariant/45396216250580",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45396302168276": {
     "product_title": "Tira Rich Baroque Pearl Diamond Rim Necklace",
@@ -52160,24 +52160,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/meethu-moissanite-polki-jhumka-earcuff-indian?variant=gid://shopify/ProductVariant/47958634496212",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/47958634430676": {
-    "product_title": "Meethu Moissanite Polki Jhumka Earcuff | Indian",
-    "product_handle": "meethu-moissanite-polki-jhumka-earcuff-indian",
-    "variant_id": "gid://shopify/ProductVariant/47958634430676",
-    "global_id": "gid://shopify/ProductVariant/47958634430676",
-    "variant_title": "Red",
-    "sku": "NP21420R-ER",
-    "price": 4650.0,
-    "variant_price": 4650.0,
-    "product_price": 4650.0,
-    "amount": 4650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-18at1.49.54PM_1.jpg?v=1779183906",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/meethu-moissanite-polki-jhumka-earcuff-indian?variant=gid://shopify/ProductVariant/47958634430676",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47958700392660": {
     "product_title": "Rainbow Multi coloured Gemstone Solitaire Diamond Set",
