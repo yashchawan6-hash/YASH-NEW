@@ -10344,7 +10344,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS404779_Model.jpg?v=1774257041",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22kt-gold-plated-brass-red-stone-studded-necklace-set-1?variant=gid://shopify/ProductVariant/45331975569582",
-    "stock": 2,
+    "stock": 11,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45331986940078": {
@@ -10428,9 +10428,9 @@
     "amount": 1243.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/women-rose-gold-plated-cubic-zirconia-studded-mangalsutra-mangalsutra-36454484639918.jpg?v=1755720263",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/women-rose-gold-plated-cubic-zirconia-studded-mangalsutra?variant=gid://shopify/ProductVariant/45405725982894",
-    "stock": 0
+    "stock": 19
   },
   "gid://shopify/ProductVariant/45411761946798": {
     "product_title": "Ruby Studded Choker Set with Gold Beads",
@@ -16639,9 +16639,9 @@
     "amount": 1841.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/re06ed404337-model.jpg?v=1770975328",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-american-diamond-studded-chandbalis?variant=gid://shopify/ProductVariant/45914952695982",
-    "stock": 0
+    "stock": 20
   },
   "gid://shopify/ProductVariant/45914952794286": {
     "product_title": "Mint Green American Diamond Zirconia Necklace Set",
@@ -16934,8 +16934,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-aqua-green-ad-white-cubic-zirconia-studded-jewellery-set-with-pearl-drops-jewellery-sets-37535794430126.jpg?v=1773821091",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-emerald-green-white-kundan-studded-pearl-gold-beaded-necklace-set-copy-1?variant=gid://shopify/ProductVariant/45923066282158",
-    "stock": 12,
-    "last_alerted_stock": 12
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45923105341614": {
     "product_title": "Eternal Grace Green Necklace Set",
@@ -66467,7 +66467,7 @@
     "amount": 2012.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS411721.jpg?v=1768563488",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re10ns411721?variant=gid://shopify/ProductVariant/47290238337198",
     "stock": 1,
     "last_alerted_stock": 1
