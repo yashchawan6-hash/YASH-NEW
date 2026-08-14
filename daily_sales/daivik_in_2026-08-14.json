@@ -2338,5 +2338,41 @@
     "curr_stock": 15,
     "url": "https://www.daivik.in/products/a-56?variant=gid://shopify/ProductVariant/44145944592606",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d5c2980b-bc98-4693-8bbb-0302ee5acacf.heic?v=1681570569"
+  },
+  {
+    "timestamp_ist": "2026-08-14 21:02:24",
+    "product_title": "Dashavatar Bridal Necklace with jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40321510473881",
+    "sku": "747",
+    "price": 4699.0,
+    "variant_price": 4699.0,
+    "product_price": 4699.0,
+    "amount": 4699.0,
+    "total_price": 4699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.daivik.in/products/dashavatar-bridal-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/40321510473881",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_578301b6-c736-4097-b0c2-7443e72b68ab.jpg?v=1623600810"
+  },
+  {
+    "timestamp_ist": "2026-08-14 21:02:24",
+    "product_title": "Set of 6 Kemp AD bangles",
+    "variant_title": "2.8",
+    "variant_id": "gid://shopify/ProductVariant/42314254450910",
+    "sku": "988",
+    "price": 1699.0,
+    "variant_price": 1699.0,
+    "product_price": 1699.0,
+    "amount": 1699.0,
+    "total_price": 1699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 21,
+    "curr_stock": 20,
+    "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314254450910",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
   }
 ]
