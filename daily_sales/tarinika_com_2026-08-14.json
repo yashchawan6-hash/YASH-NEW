@@ -124,5 +124,41 @@
     "curr_stock": 7,
     "url": "https://www.tarinika.com/products/uri-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/41483329667138",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0022X.jpg?v=1750754599"
+  },
+  {
+    "timestamp_ist": "2026-08-14 07:26:29",
+    "product_title": "Aasvi Antique Multi Stone Bangles",
+    "variant_title": "2.4",
+    "variant_id": "gid://shopify/ProductVariant/41123825516610",
+    "sku": "US-ABX2890XMC4",
+    "price": 69.99,
+    "variant_price": 69.99,
+    "product_price": 69.99,
+    "amount": 69.99,
+    "total_price": 69.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.tarinika.com/products/aasvi-antique-multi-stone-bangles?variant=gid://shopify/ProductVariant/41123825516610",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX2890X_cc848410-db9d-45e7-8906-7eaba30d05a0.jpg?v=1724758201"
+  },
+  {
+    "timestamp_ist": "2026-08-14 07:26:29",
+    "product_title": "Simple Antique Red Green Kempu Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41133115867202",
+    "sku": "TNX0318XHC",
+    "price": 59.49,
+    "variant_price": 59.49,
+    "product_price": 59.49,
+    "amount": 59.49,
+    "total_price": 59.49,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.tarinika.com/products/simple-antique-red-green-kempu-necklace-set?variant=gid://shopify/ProductVariant/41133115867202",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0318X.jpg?v=1722407420"
   }
 ]
