@@ -736,5 +736,41 @@
     "curr_stock": 2,
     "url": "https://www.tarinika.com/products/aranya-floral-antique-rakhi?variant=gid://shopify/ProductVariant/42294325280834",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0002XDY_b06c07aa-4bce-4069-a2d4-f7afd4a3b241.jpg?v=1752149707"
+  },
+  {
+    "timestamp_ist": "2026-08-14 21:51:51",
+    "product_title": "Ivy Floral Antique CZ Necklace Set",
+    "variant_title": "White Green",
+    "variant_id": "gid://shopify/ProductVariant/39962585202754",
+    "sku": "ZNX2500XDC",
+    "price": 59.99,
+    "variant_price": 59.99,
+    "product_price": 59.99,
+    "amount": 59.99,
+    "total_price": 59.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.tarinika.com/products/ivy-floral-antique-cz-necklace-set?variant=gid://shopify/ProductVariant/39962585202754",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9418copycopy.jpg?v=1663621707"
+  },
+  {
+    "timestamp_ist": "2026-08-14 21:51:51",
+    "product_title": "Charita Antique Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42417325899842",
+    "sku": "ANX4067BHC",
+    "price": 29.99,
+    "variant_price": 29.99,
+    "product_price": 29.99,
+    "amount": 29.99,
+    "total_price": 29.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.tarinika.com/products/charita-antique-necklace-set?variant=gid://shopify/ProductVariant/42417325899842",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX4067BHC_6b9e2a80-e83b-4b69-9316-3f0f439410b2.jpg?v=1759299170"
   }
 ]
