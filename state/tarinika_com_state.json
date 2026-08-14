@@ -19338,7 +19338,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0314X_4532f4f0-13f3-4347-b150-9ab53f096f6d.jpg?v=1714652985",
     "available_for_sale": false,
     "url": "https://www.tarinika.com/products/parthivi-temple-red-kempu-necklace-set?variant=gid://shopify/ProductVariant/41121789214786",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41121807827010": {
@@ -22745,8 +22745,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0014XGY_311d439b-f69c-402e-9a2f-89dcde854ed0.jpg?v=1752149684",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mayura-heritage-antique-rakhi?variant=gid://shopify/ProductVariant/42294308110402",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42294312140866": {
     "product_title": "Ruby Radiance CZ Rakhi",
@@ -23996,7 +23996,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANE4321XDC_b1003307-7764-4953-913d-def019bc8718.jpg?v=1757312280",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ashira-antique-chandbali-earrings?variant=gid://shopify/ProductVariant/42415205220418",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42415205711938": {
@@ -29988,23 +29988,6 @@
     "url": "https://www.tarinika.com/products/vighnesh-temple-necklace-set?variant=gid://shopify/ProductVariant/43652268785730",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/43652272783426": {
-    "product_title": "Ruchira Antique Pendant Set",
-    "product_handle": "ruchira-antique-pendant-set",
-    "variant_id": "gid://shopify/ProductVariant/43652272783426",
-    "global_id": "gid://shopify/ProductVariant/43652272783426",
-    "variant_title": "Default Title",
-    "sku": "US-ANP4257CTC",
-    "price": 29.99,
-    "variant_price": 29.99,
-    "product_price": 29.99,
-    "amount": 29.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANP4257C_3b9c62e8-4653-4b82-bff0-485b5a9076d8.jpg?v=1778670933",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/ruchira-antique-pendant-set?variant=gid://shopify/ProductVariant/43652272783426",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/43652273045570": {
     "product_title": "Aarivya Antique Bracelet",
     "product_handle": "aarivya-antique-bracelet",
@@ -31872,6 +31855,23 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/gehna-kundan-nose-ring?variant=gid://shopify/ProductVariant/44681723969602",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/43652272783426": {
+    "product_title": "Ruchira Antique Pendant Set",
+    "product_handle": "ruchira-antique-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/43652272783426",
+    "global_id": "gid://shopify/ProductVariant/43652272783426",
+    "variant_title": "Default Title",
+    "sku": "US-ANP4257CTC",
+    "price": 29.99,
+    "variant_price": 29.99,
+    "product_price": 29.99,
+    "amount": 29.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANP4257C_3b9c62e8-4653-4b82-bff0-485b5a9076d8.jpg?v=1778670933",
+    "available_for_sale": false,
+    "url": "https://www.tarinika.com/products/ruchira-antique-pendant-set?variant=gid://shopify/ProductVariant/43652272783426",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/40726129606722": {
     "product_title": "Petal CZ Stud Earrings",
