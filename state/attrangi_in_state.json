@@ -15269,7 +15269,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-05-12_at_11.35.24_PM.jpg?v=1749409231",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/siania-moissanite-pendant-set-rose-gold-polish?variant=gid://shopify/ProductVariant/44863665602772",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46104757141716": {
@@ -15494,8 +15494,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diana-band-ring-with-diamond-floral-motif-attrangi-1.jpg?v=1739816236",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-band-ring-with-diamond-floral-motif?variant=gid://shopify/ProductVariant/46000120594644",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46000120627412": {
     "product_title": "Diana Band Ring with Diamond Floral Motif",
@@ -32443,7 +32443,7 @@
     "amount": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-06-27_at_12.12.04_PM.jpg?v=1786706449",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/salvator-multi-solitaire-diamond-choker-set?variant=gid://shopify/ProductVariant/48471342776532",
     "stock": -1
   },
@@ -50119,7 +50119,7 @@
     "product_price": 2750.0,
     "amount": 2750.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-09at1.06.22PM.jpg?v=1775737959",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-14_at_5.59.34_PM.jpg?v=1786710697",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-coloured-multi-solitaire-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47777202503892",
     "stock": 0,
@@ -59596,7 +59596,7 @@
     "amount": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at3.27.47PM.jpg?v=1786704392",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bezel-setting-cushion-cut-diamond-gold-solitaire-earring-daily-wear?variant=gid://shopify/ProductVariant/48471386226900",
     "stock": -1
   },
@@ -59632,6 +59632,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at11.43.15AM.jpg?v=1786709795",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/emily-emerald-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471409459412",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48471412179156": {
+    "product_title": "Ira Diamond Daily Wear Bracelet | Unisex | Rakhi",
+    "product_handle": "ira-diamond-daily-wear-bracelet-unisex-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48471412179156",
+    "global_id": "gid://shopify/ProductVariant/48471412179156",
+    "variant_title": "Default Title",
+    "sku": "DH788282",
+    "price": 650.0,
+    "variant_price": 650.0,
+    "product_price": 650.0,
+    "amount": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at1.12.50PM.jpg?v=1786710417",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/ira-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471412179156",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48355748937940": {
