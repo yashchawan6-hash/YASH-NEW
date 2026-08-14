@@ -7731,10 +7731,10 @@
     "amount": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-subtle-rainbow-ring-attrangi-1.jpg?v=1739814214",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/classic-subtle-rainbow-ring?variant=gid://shopify/ProductVariant/43434079813844",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43759110029524": {
     "product_title": "Classic Subtle Rainbow Ring",
@@ -13138,7 +13138,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/holdali-choker-set-with-gold-and-polki-attrangi-6.jpg?v=1739815700",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/holdali-choker-set-with-gold-polki?variant=gid://shopify/ProductVariant/44412966338772",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44418983919828": {
     "product_title": "Trishira Gold Paatla Kada | Sone pe Suhaga Collection",
