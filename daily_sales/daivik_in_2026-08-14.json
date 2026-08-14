@@ -1618,5 +1618,41 @@
     "curr_stock": 10,
     "url": "https://www.daivik.in/products/victorian-ad-hanging-pendant-choker-with-earrings-with-backchain?variant=gid://shopify/ProductVariant/45727067996382",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/42D5CB12-9A3F-43DB-B85E-EA07AB431F0B.jpg?v=1720868237"
+  },
+  {
+    "timestamp_ist": "2026-08-14 17:11:58",
+    "product_title": "Simple Pearl Kemp choker with Earrings in 2 variants",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/44661107065054",
+    "sku": "327",
+    "price": 649.0,
+    "variant_price": 649.0,
+    "product_price": 649.0,
+    "amount": 649.0,
+    "total_price": 649.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 18,
+    "curr_stock": 17,
+    "url": "https://www.daivik.in/products/simple-pearl-kemp-choker-with-earrings-in-2-variants?variant=gid://shopify/ProductVariant/44661107065054",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/8967991B-4D20-4170-AFF8-73015A1DAB87.jpg?v=1704974070"
+  },
+  {
+    "timestamp_ist": "2026-08-14 17:11:58",
+    "product_title": "AD Pendant Mangalsutra with Studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45905761435870",
+    "sku": "1117",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 8,
+    "curr_stock": 7,
+    "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
   }
 ]

@@ -11448,7 +11448,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-25_at_6.43.28_PM_1.jpg?v=1750781552",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mini-diamond-jhumkis-with-pearls?variant=gid://shopify/ProductVariant/44116705149140",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46126159102164": {
@@ -19347,8 +19347,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-10-29at2.57.10PM.jpg?v=1750783008",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/shambhavi-morni-dramatic-polki-ring?variant=gid://shopify/ProductVariant/45765862850772",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45765928878292": {
     "product_title": "Russell Peacock Pastel Beaded Diamond Set | LaLa Land Collection",
@@ -59576,6 +59576,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at12.34.15PM.jpg?v=1786691190",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ameya-south-indian-earrings-kemp-katha-rich-temple-jewellery?variant=gid://shopify/ProductVariant/48471034134740",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48471386226900": {
+    "product_title": "Bezel Setting Cushion Cut Diamond Gold Solitaire Earring | Daily Wear",
+    "product_handle": "bezel-setting-cushion-cut-diamond-gold-solitaire-earring-daily-wear",
+    "variant_id": "gid://shopify/ProductVariant/48471386226900",
+    "global_id": "gid://shopify/ProductVariant/48471386226900",
+    "variant_title": "Default Title",
+    "sku": "NPJ13422G",
+    "price": 1750.0,
+    "variant_price": 1750.0,
+    "product_price": 1750.0,
+    "amount": 1750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at3.27.47PM.jpg?v=1786704392",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/bezel-setting-cushion-cut-diamond-gold-solitaire-earring-daily-wear?variant=gid://shopify/ProductVariant/48471386226900",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48355748937940": {
