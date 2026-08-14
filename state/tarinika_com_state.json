@@ -11317,9 +11317,10 @@
     "amount": 69.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL4871copycopy.jpg?v=1654667165",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/rahee-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/41483155243074",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39798614687810": {
     "product_title": "Empress Antique Choker Set",
