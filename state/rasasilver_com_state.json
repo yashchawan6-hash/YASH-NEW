@@ -10749,9 +10749,10 @@
     "amount": 65200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2333.jpg?v=1756390165",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shahi-mayur-bangles?variant=gid://shopify/ProductVariant/52273461166377",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50797843120425": {
     "product_title": "Ruby Glowdrop Pendant",
@@ -12727,9 +12728,10 @@
     "amount": 10300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP136_1.jpg?v=1756555953",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shringarika-tikka?variant=gid://shopify/ProductVariant/50829473710377",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50829489963305": {
     "product_title": "Muktavali Kundan Earrings",
@@ -16068,9 +16070,10 @@
     "amount": 13900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0253.jpg?v=1759149724",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/hangings?variant=gid://shopify/ProductVariant/51221401567529",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51221418115369": {
     "product_title": "Parrot Vilasini Choker",
@@ -72821,7 +72824,7 @@
     "amount": 111265.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0271_resized.jpg?v=1775729524",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/morni-nakshi-necklace?variant=gid://shopify/ProductVariant/52912349085993",
     "stock": 1
   },
@@ -92441,6 +92444,40 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19381.jpg?v=1786694488",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ring-11?variant=gid://shopify/ProductVariant/53426636685609",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53408381534505": {
+    "product_title": "Blushish Sparkle Ring",
+    "product_handle": "blushish-sparkle-ring",
+    "variant_id": "gid://shopify/ProductVariant/53408381534505",
+    "global_id": "gid://shopify/ProductVariant/53408381534505",
+    "variant_title": "Default Title",
+    "sku": "R32750",
+    "price": 2300.0,
+    "variant_price": 2300.0,
+    "product_price": 2300.0,
+    "amount": 2300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19431.jpg?v=1786694667",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/blushish-sparkle-ring?variant=gid://shopify/ProductVariant/53408381534505",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53408382681385": {
+    "product_title": "Blue-Flore Ring",
+    "product_handle": "blue-flore-ring",
+    "variant_id": "gid://shopify/ProductVariant/53408382681385",
+    "global_id": "gid://shopify/ProductVariant/53408382681385",
+    "variant_title": "Default Title",
+    "sku": "R29780",
+    "price": 5500.0,
+    "variant_price": 5500.0,
+    "product_price": 5500.0,
+    "amount": 5500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19448.jpg?v=1786695065",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/blue-flore-ring?variant=gid://shopify/ProductVariant/53408382681385",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53410084323625": {

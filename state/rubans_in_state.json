@@ -3548,9 +3548,9 @@
     "amount": 889.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE51ES276670_Model.jpg?v=1765520158",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-peacock-shaped-ruby-studded-earrings?variant=gid://shopify/ProductVariant/42758933577902",
-    "stock": 0,
+    "stock": 20,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42758993412270": {

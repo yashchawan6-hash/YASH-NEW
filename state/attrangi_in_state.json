@@ -156,7 +156,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-solitaire-attrangi-1.jpg?v=1739812459",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659501737",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411659567273": {
@@ -9760,7 +9760,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/traditional-matte-gold-kada-s-or-indian-openable-bangle-attrangi-1.jpg?v=1739814880",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fluorite-mint-traditional-matte-gold-kada-s-indian-openable-bangle?variant=gid://shopify/ProductVariant/43891102843092",
-    "stock": 5
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/44507515093204": {
     "product_title": "Traditional Matte Gold Indian Openable Bangle",
@@ -42202,24 +42203,6 @@
     "url": "https://www.attrangi.in/products/sarang-polki-indian-statement-earcuff-earring?variant=gid://shopify/ProductVariant/47437885997268",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/47437896122580": {
-    "product_title": "Barse Phool Big Polki Indian Earcuff Jhumka",
-    "product_handle": "barse-phool-big-polki-indian-earcuff-jhumka",
-    "variant_id": "gid://shopify/ProductVariant/47437896122580",
-    "global_id": "gid://shopify/ProductVariant/47437896122580",
-    "variant_title": "Default Title",
-    "sku": "SM4116W-ER",
-    "price": 3650.0,
-    "variant_price": 3650.0,
-    "product_price": 3650.0,
-    "amount": 3650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-11at10.20.00AM.jpg?v=1768110889",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/barse-phool-big-polki-indian-earcuff-jhumka?variant=gid://shopify/ProductVariant/47437896122580",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/47440906158292": {
     "product_title": "Floral Whirl Pastel Beaded Diamond Long Earrings | LaLa Land 2.0",
     "product_handle": "floral-whirl-pastel-beaded-diamond-long-earrings-lala-land-2-0",
@@ -50975,24 +50958,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/wear-your-heart-loud-gold-western-party-wear-necklace?variant=gid://shopify/ProductVariant/47822676426964",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/47822707851476": {
-    "product_title": "Treeda Gold Chunky Western Party Wear Necklace",
-    "product_handle": "treeda-gold-chunky-western-party-wear-necklace",
-    "variant_id": "gid://shopify/ProductVariant/47822707851476",
-    "global_id": "gid://shopify/ProductVariant/47822707851476",
-    "variant_title": "Default Title",
-    "sku": "SW71522-NC",
-    "price": 1950.0,
-    "variant_price": 1950.0,
-    "product_price": 1950.0,
-    "amount": 1950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-20at2.18.32PM.jpg?v=1776755392",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/treeda-gold-chunky-western-party-wear-necklace?variant=gid://shopify/ProductVariant/47822707851476",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47822728495316": {
     "product_title": "Sculpted in Gold Western Party Wear Necklace",
