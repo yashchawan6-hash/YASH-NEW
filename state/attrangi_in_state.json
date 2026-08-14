@@ -17345,7 +17345,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_1.16.28_PM.jpg?v=1739816876",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/half-baano-jadaau-chandbali?variant=gid://shopify/ProductVariant/45943144513748",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46126186266836": {
@@ -17949,7 +17949,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-08-29_at_4.26.55_PM.jpg?v=1750782484",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/overlay-sasa-multi-coloured-band-cocktail-diamond-ring?variant=gid://shopify/ProductVariant/45580793282772",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45580793315540": {
     "product_title": "Overlay Sasa Multi Coloured Band Cocktail Diamond Ring",
@@ -58596,7 +58597,7 @@
     "amount": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-03_at_4.12.17_PM.jpg?v=1785758222",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403554894036",
     "stock": 4,
     "last_alerted_stock": 4
