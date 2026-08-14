@@ -1837,8 +1837,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002S_101900_2026031640119.jpg?v=1779884845",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992166711508",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47992150261972": {
     "product_title": "4 Carat Round Solitaires | 10mm",
@@ -1873,7 +1873,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/3-carat-round-solitaires-attrangi-3.jpg?v=1739812880",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/43098510754004",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411694661801": {
@@ -25186,10 +25186,10 @@
     "global_id": "gid://shopify/ProductVariant/46112386580692",
     "variant_title": "Default Title",
     "sku": "NP112522",
-    "price": 4250.0,
-    "variant_price": 4250.0,
-    "product_price": 4250.0,
-    "amount": 4250.0,
+    "price": 5250.0,
+    "variant_price": 5250.0,
+    "product_price": 5250.0,
+    "amount": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_1.21.02_PM.jpg?v=1774263062",
     "available_for_sale": false,
@@ -32424,6 +32424,23 @@
     "url": "https://www.attrangi.in/products/salvator-multi-solitaire-diamond-choker-set?variant=gid://shopify/ProductVariant/46891736694996",
     "stock": 3,
     "last_alerted_stock": 2
+  },
+  "gid://shopify/ProductVariant/48471342776532": {
+    "product_title": "Salvator Multi Solitaire Diamond Choker Set",
+    "product_handle": "salvator-multi-solitaire-diamond-choker-set",
+    "variant_id": "gid://shopify/ProductVariant/48471342776532",
+    "global_id": "gid://shopify/ProductVariant/48471342776532",
+    "variant_title": "Gold",
+    "sku": "PD005612G-JS",
+    "price": 3950.0,
+    "variant_price": 3950.0,
+    "product_price": 3950.0,
+    "amount": 3950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-06-27_at_12.12.04_PM.jpg?v=1786706449",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/salvator-multi-solitaire-diamond-choker-set?variant=gid://shopify/ProductVariant/48471342776532",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/46644950827220": {
     "product_title": "Sunita Moissanite Heavy Uncut Diamond Choker Set With Tika",
