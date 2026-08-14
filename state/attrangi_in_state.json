@@ -14649,7 +14649,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diya-holdali-necklace-set-or-uncut-diamonds-attrangi-4.jpg?v=1739815970",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diya-holdali-necklace-set-uncut-diamonds?variant=gid://shopify/ProductVariant/44582713950420",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44609163690196": {
     "product_title": "Hailey Double Layered Diamond Set",
@@ -59614,6 +59615,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at1.03.50PM.jpg?v=1786709698",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/aarohi-emerald-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471406477524",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48471409459412": {
+    "product_title": "Emily Emerald Diamond Daily Wear Bracelet | Unisex | Rakhi",
+    "product_handle": "emily-emerald-diamond-daily-wear-bracelet-unisex-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48471409459412",
+    "global_id": "gid://shopify/ProductVariant/48471409459412",
+    "variant_title": "Default Title",
+    "sku": "DH94828-RA",
+    "price": 750.0,
+    "variant_price": 750.0,
+    "product_price": 750.0,
+    "amount": 750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at11.43.15AM.jpg?v=1786709795",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/emily-emerald-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471409459412",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48355748937940": {
