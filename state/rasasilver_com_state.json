@@ -11667,9 +11667,10 @@
     "amount": 29800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug45749.jpg?v=1756809403",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shakti-navaratna-short-necklace?variant=gid://shopify/ProductVariant/50809628131625",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50816770572585": {
     "product_title": "Queen of Navaratna Short Necklace",
