@@ -13756,9 +13756,10 @@
     "amount": 25.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FEX0592BD1_1.jpg?v=1737952564",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/antique-gold-plated-floral-small-stud-earrings?variant=gid://shopify/ProductVariant/40216405803074",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40780254543938": {
     "product_title": "Antique Gold Plated Floral Small Stud Earrings",

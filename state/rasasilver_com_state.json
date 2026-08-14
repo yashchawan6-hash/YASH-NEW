@@ -20358,7 +20358,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS505.jpg?v=1760359873",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/starlora-chain-pendant?variant=gid://shopify/ProductVariant/51345558405417",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51345580556585": {
     "product_title": "Auris Link Bracelet",
