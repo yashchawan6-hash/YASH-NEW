@@ -10705,7 +10705,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ruby-and-moissanite-single-line-polki-long-necklace-attrangi-1.jpg?v=1739815105",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ruby-moissanite-single-line-polki-long-necklace?variant=gid://shopify/ProductVariant/43936504250580",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43941154128084": {
     "product_title": "Light Weight Indian Jhumkas | Antique Gold Victorian Collection",
@@ -59591,7 +59592,7 @@
     "amount": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at3.27.47PM.jpg?v=1786704392",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bezel-setting-cushion-cut-diamond-gold-solitaire-earring-daily-wear?variant=gid://shopify/ProductVariant/48471386226900",
     "stock": -1
   },
