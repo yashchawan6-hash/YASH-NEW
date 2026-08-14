@@ -480,9 +480,10 @@
     "amount": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/a852c03a-db9f-4e7b-8d3f-33772d37022a.webp?v=1768476176",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-drops-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/52628761641276",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52628832551228": {
     "product_title": "Jadau kundan Navratna bottu mala necklace(without earrings)",
