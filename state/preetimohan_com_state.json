@@ -18106,24 +18106,6 @@
     "url": "https://www.preetimohan.com/products/aviva-pink-zircon-bangles?variant=gid://shopify/ProductVariant/49281641709761",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/49281745977537": {
-    "product_title": "ALPNA RED ZIRCON STUDS",
-    "product_handle": "alpna-red-zircon-studs",
-    "variant_id": "gid://shopify/ProductVariant/49281745977537",
-    "global_id": "gid://shopify/ProductVariant/49281745977537",
-    "variant_title": "Default Title",
-    "sku": "WERGEM457",
-    "price": 7500.0,
-    "variant_price": 7500.0,
-    "product_price": 7500.0,
-    "amount": 7500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/88_2a29bd3c-5efc-47f8-9c8f-ab9f33fcbce4.png?v=1756140886",
-    "available_for_sale": false,
-    "url": "https://www.preetimohan.com/products/alpna-red-zircon-studs?variant=gid://shopify/ProductVariant/49281745977537",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/49281815511233": {
     "product_title": "KALPNA GREEN ZIRCON STATEMENT EARRING",
     "product_handle": "kalpna-green-zircon-statement-earring",
@@ -22390,9 +22372,9 @@
     "amount": 5000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/17_c9423b0a-a0a1-44dc-b3a0-a704eef78600.png?v=1779702838",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/sadhvi-antique-finish-polki-earcuff?variant=gid://shopify/ProductVariant/50243564110017",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50255291842753": {
