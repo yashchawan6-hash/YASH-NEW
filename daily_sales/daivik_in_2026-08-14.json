@@ -2230,5 +2230,41 @@
     "curr_stock": 25,
     "url": "https://www.daivik.in/products/a-243?variant=gid://shopify/ProductVariant/43265419149534",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_053bd7b6-0fb3-416f-af6f-f7bbbee6f061.heic?v=1660401780"
+  },
+  {
+    "timestamp_ist": "2026-08-14 19:26:50",
+    "product_title": "Ruby Guttapusalu Necklace with earrings (Price for Combo, Short and Long)",
+    "variant_title": "Long",
+    "variant_id": "gid://shopify/ProductVariant/47292618801374",
+    "sku": "962",
+    "price": 2999.0,
+    "variant_price": 2999.0,
+    "product_price": 2999.0,
+    "amount": 2999.0,
+    "total_price": 2999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 28,
+    "curr_stock": 27,
+    "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618801374",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9AC03914-DEFA-4DC9-8DF2-B4EAD3FDA614.jpg?v=1754321906"
+  },
+  {
+    "timestamp_ist": "2026-08-14 19:26:50",
+    "product_title": "AD Mesh Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45635376939230",
+    "sku": "466",
+    "price": 699.0,
+    "variant_price": 699.0,
+    "product_price": 699.0,
+    "amount": 699.0,
+    "total_price": 699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 12,
+    "curr_stock": 11,
+    "url": "https://www.daivik.in/products/ad-mesh-necklace-with-earrings?variant=gid://shopify/ProductVariant/45635376939230",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/791832A7-4453-44AB-9327-0A400319B232.jpg?v=1719236590"
   }
 ]
