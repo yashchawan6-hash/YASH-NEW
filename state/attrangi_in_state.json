@@ -156,7 +156,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-solitaire-attrangi-1.jpg?v=1739812459",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659501737",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411659567273": {
@@ -13656,7 +13656,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kaamini-openable-indian-bangle-or-sone-pe-suhaga-collection-attrangi-5.jpg?v=1739815810",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kaamini-openable-indian-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/45275870167252",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45275870200020": {
     "product_title": "Kaamini Openable Indian Bangle | Sone Pe Suhaga Collection",
@@ -59596,6 +59597,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at3.27.47PM.jpg?v=1786704392",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bezel-setting-cushion-cut-diamond-gold-solitaire-earring-daily-wear?variant=gid://shopify/ProductVariant/48471386226900",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48471406477524": {
+    "product_title": "Aarohi Emerald Diamond Daily Wear Bracelet | Unisex | Rakhi",
+    "product_handle": "aarohi-emerald-diamond-daily-wear-bracelet-unisex-rakhi",
+    "variant_id": "gid://shopify/ProductVariant/48471406477524",
+    "global_id": "gid://shopify/ProductVariant/48471406477524",
+    "variant_title": "Default Title",
+    "sku": "DH828258-RA",
+    "price": 650.0,
+    "variant_price": 650.0,
+    "product_price": 650.0,
+    "amount": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at1.03.50PM.jpg?v=1786709698",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/aarohi-emerald-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471406477524",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48355748937940": {
