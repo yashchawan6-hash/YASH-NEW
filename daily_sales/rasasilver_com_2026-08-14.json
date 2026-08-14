@@ -538,5 +538,41 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/starlora-chain-pendant?variant=gid://shopify/ProductVariant/51345558405417",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS505.jpg?v=1760359873"
+  },
+  {
+    "timestamp_ist": "2026-08-14 20:37:06",
+    "product_title": "Rudravya Stone Studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50808567595305",
+    "sku": "R20408",
+    "price": 2295.0,
+    "variant_price": 2295.0,
+    "product_price": 2295.0,
+    "amount": 2295.0,
+    "total_price": 4590.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "prev_stock": 9,
+    "curr_stock": 7,
+    "url": "https://www.rasasilver.com/products/rudravya-studs?variant=gid://shopify/ProductVariant/50808567595305",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2585.jpg?v=1756543345"
+  },
+  {
+    "timestamp_ist": "2026-08-14 20:37:06",
+    "product_title": "Kesarvi Stud Earrings",
+    "variant_title": "Ruby Pink",
+    "variant_id": "gid://shopify/ProductVariant/50809295503657",
+    "sku": "R11816",
+    "price": 2635.0,
+    "variant_price": 2635.0,
+    "product_price": 2635.0,
+    "amount": 2635.0,
+    "total_price": 5270.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "prev_stock": 4,
+    "curr_stock": 2,
+    "url": "https://www.rasasilver.com/products/kesarvi-studs?variant=gid://shopify/ProductVariant/50809295503657",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2579.jpg?v=1756538067"
   }
 ]
