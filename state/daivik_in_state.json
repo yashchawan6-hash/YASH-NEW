@@ -8222,9 +8222,10 @@
     "amount": 4699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b6ae1744-c136-4e29-ad40-0a2723f2db55.heic?v=1657294604",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/a-199?variant=gid://shopify/ProductVariant/43082516758750",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43086874050782": {
     "product_title": "Box Zirconium Rosegold necklace with earrings",
