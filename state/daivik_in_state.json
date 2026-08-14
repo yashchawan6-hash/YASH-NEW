@@ -2988,8 +2988,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1f82b2ef-706a-42eb-bc91-604d8f61ab3a.jpg?v=1627402072",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/long-cluster-pearl-jhumkas?variant=gid://shopify/ProductVariant/40668971073689",
-    "stock": 34,
-    "last_alerted_stock": 34
+    "stock": 33,
+    "last_alerted_stock": 33
   },
   "gid://shopify/ProductVariant/40677230739609": {
     "product_title": "Coin Kemp Choker with Backchain",
@@ -58766,7 +58766,7 @@
     "amount": 1199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5680.jpg?v=1786368472",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/kemp-ruby-green-flower-jhumkas-1?variant=gid://shopify/ProductVariant/48588136022238",
     "stock": 1
   },
