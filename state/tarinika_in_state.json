@@ -28294,24 +28294,6 @@
     "url": "https://www.tarinika.in/products/siya-antique-maang-tikka?variant=gid://shopify/ProductVariant/53636899242352",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/53636899897712": {
-    "product_title": "Elira Dual Line Antique Chain",
-    "product_handle": "elira-dual-line-antique-chain",
-    "variant_id": "gid://shopify/ProductVariant/53636899897712",
-    "global_id": "gid://shopify/ProductVariant/53636899897712",
-    "variant_title": "Default Title",
-    "sku": "PDH0008XTC",
-    "price": 1169.0,
-    "variant_price": 1169.0,
-    "product_price": 1169.0,
-    "amount": 1169.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PDH0008X_3a95b620-84fe-4113-9720-4b55d5a95d42.jpg?v=1779963090",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.in/products/elira-dual-line-antique-chain?variant=gid://shopify/ProductVariant/53636899897712",
-    "stock": 1,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/54109945921904": {
     "product_title": "Pushp Silver Rakhi",
     "product_handle": "pushp-silver-rakhi",
@@ -28570,6 +28552,24 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/54109949264240",
     "stock": 10
+  },
+  "gid://shopify/ProductVariant/53636899897712": {
+    "product_title": "Elira Dual Line Antique Chain",
+    "product_handle": "elira-dual-line-antique-chain",
+    "variant_id": "gid://shopify/ProductVariant/53636899897712",
+    "global_id": "gid://shopify/ProductVariant/53636899897712",
+    "variant_title": "Default Title",
+    "sku": "PDH0008XTC",
+    "price": 1169.0,
+    "variant_price": 1169.0,
+    "product_price": 1169.0,
+    "amount": 1169.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PDH0008X_3a95b620-84fe-4113-9720-4b55d5a95d42.jpg?v=1779963090",
+    "available_for_sale": false,
+    "url": "https://www.tarinika.in/products/elira-dual-line-antique-chain?variant=gid://shopify/ProductVariant/53636899897712",
+    "stock": 1,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/54118333219184": {
     "product_title": "Muralika Antique Drop Earrings",
