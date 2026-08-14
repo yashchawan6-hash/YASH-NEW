@@ -466,5 +466,23 @@
     "curr_stock": 7,
     "url": "https://www.daivik.in/products/211?variant=gid://shopify/ProductVariant/34430324605081",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_3126.jpg?v=1590237634"
+  },
+  {
+    "timestamp_ist": "2026-08-15 03:32:39",
+    "product_title": "Simple Flower Pearl Combo",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45903847719134",
+    "sku": "1115",
+    "price": 2799.0,
+    "variant_price": 2799.0,
+    "product_price": 2799.0,
+    "amount": 2799.0,
+    "total_price": 2799.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.daivik.in/products/simple-flower-pearl-combo?variant=gid://shopify/ProductVariant/45903847719134",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_7c06fd76-abef-457a-897b-363d1a19d5d6.jpg?v=1726841699"
   }
 ]
