@@ -2331,9 +2331,10 @@
     "amount": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9626_copy_copy_efe993c8-669e-43ad-abec-0ea5cfc19bc5.jpg?v=1762533402",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/nandini-nakshatra-cz-maang-tikkas?variant=gid://shopify/ProductVariant/14926080081986",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/14976139591746": {
     "product_title": "Nandini Nakshatra CZ Hair Brooch",
@@ -7456,10 +7457,10 @@
     "amount": 24.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TBX0012X.jpg?v=1739600322",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/nera-cz-gold-plated-hand-chain?variant=gid://shopify/ProductVariant/39558762168386",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39558762135618": {
     "product_title": "Nera CZ Gold Plated Hand Chain",
