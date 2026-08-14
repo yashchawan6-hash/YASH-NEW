@@ -8115,7 +8115,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diamond-pacheli-or-gokhru-bangle-set-attrangi-1.jpg?v=1739814347",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-pacheli-gokhru-bangle-set?variant=gid://shopify/ProductVariant/43501958332628",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43501959479508": {
     "product_title": "Diamond Pacheli | Gokhru Bangle Set",
@@ -12036,7 +12037,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basra-pearl-style-gajra-indian-bracelet-attrangi-4.jpg?v=1739815504",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basra-pearl-style-gajra-indian-bracelet?variant=gid://shopify/ProductVariant/44229794234580",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44229794267348": {
     "product_title": "Basra Pearl Style Gajra Indian Bracelet",
@@ -22801,7 +22803,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-01-06at9.25.14AM.jpg?v=1739818225",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/vishvamitra-bridal-polki-choker-set-with-maangtika?variant=gid://shopify/ProductVariant/45966580318420",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46003667304660": {
     "product_title": "Lama Chandelier Doublet Diamond Long Earrings",
@@ -52825,7 +52828,7 @@
     "amount": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-06-23at5.00.24PM_1.jpg?v=1782221888",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/cyprus-designer-diamond-midsized-bracelet?variant=gid://shopify/ProductVariant/48166834536660",
     "stock": 1
   },
