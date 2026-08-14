@@ -16,5 +16,41 @@
     "curr_stock": 2,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-204?variant=gid://shopify/ProductVariant/51295273025836",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0585_2.jpg?v=1751267542"
+  },
+  {
+    "timestamp_ist": "2026-08-14 10:56:34",
+    "product_title": "Coral nakashi mala",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50490256982316",
+    "sku": "NK230",
+    "price": 2625.0,
+    "variant_price": 2625.0,
+    "product_price": 2625.0,
+    "amount": 2625.0,
+    "total_price": 2625.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.kanshijewels.com/products/coral-nakashi?variant=gid://shopify/ProductVariant/50490256982316",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Coralnakashimala2500.jpg?v=1737460565"
+  },
+  {
+    "timestamp_ist": "2026-08-14 10:56:34",
+    "product_title": "Swaroski pearl Haram",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/51378812518700",
+    "sku": "NK109",
+    "price": 1785.0,
+    "variant_price": 1785.0,
+    "product_price": 1785.0,
+    "amount": 1785.0,
+    "total_price": 1785.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.kanshijewels.com/products/swaroski-pearl-haram?variant=gid://shopify/ProductVariant/51378812518700",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Swaroskipearlsharam1700.jpg?v=1752750592"
   }
 ]
