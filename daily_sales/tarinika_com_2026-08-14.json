@@ -178,5 +178,41 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/uri-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/41483328061506",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0022X_5339c975-8112-4a33-b5fc-37180dd404ab.jpg?v=1750754599"
+  },
+  {
+    "timestamp_ist": "2026-08-14 09:02:07",
+    "product_title": "Sana CZ Antique Choker Set",
+    "variant_title": "Antique Gold polish with White Red variant",
+    "variant_id": "gid://shopify/ProductVariant/39455114887234",
+    "sku": "US-ANX1414XCC",
+    "price": 129.99,
+    "variant_price": 129.99,
+    "product_price": 129.99,
+    "amount": 129.99,
+    "total_price": 129.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/sana-cz-antique-choker-set?variant=gid://shopify/ProductVariant/39455114887234",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANX1414X.jpg?v=1640780208"
+  },
+  {
+    "timestamp_ist": "2026-08-14 09:02:07",
+    "product_title": "Vera Nakshatra CZ Choker",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/40833087242306",
+    "sku": "US-TNX0247XGS",
+    "price": 55.99,
+    "variant_price": 55.99,
+    "product_price": 55.99,
+    "amount": 55.99,
+    "total_price": 55.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 21,
+    "curr_stock": 20,
+    "url": "https://www.tarinika.com/products/vera-nakshatra-cz-choker?variant=gid://shopify/ProductVariant/40833087242306",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0247XGS.jpg?v=1736318788"
   }
 ]
