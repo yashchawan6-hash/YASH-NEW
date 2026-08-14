@@ -52,5 +52,41 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.in/products/aakar-antique-rakhi?variant=gid://shopify/ProductVariant/52394178118000",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0004XRY_530ccb43-e7bb-4eaf-b778-3cb3b70505d0.jpg?v=1752149588"
+  },
+  {
+    "timestamp_ist": "2026-08-14 20:32:18",
+    "product_title": "Aranya Floral Antique Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52394205741424",
+    "sku": "TER0002XDC",
+    "price": 799.0,
+    "variant_price": 799.0,
+    "product_price": 799.0,
+    "amount": 799.0,
+    "total_price": 2397.0,
+    "currency": "INR",
+    "qty_sold": 3,
+    "prev_stock": 5,
+    "curr_stock": 2,
+    "url": "https://www.tarinika.in/products/aranya-floral-antique-rakhi?variant=gid://shopify/ProductVariant/52394205741424",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0002XDY_6dd19f0a-3400-4b7a-b5c0-401b532df30f.jpg?v=1752149595"
+  },
+  {
+    "timestamp_ist": "2026-08-14 20:32:18",
+    "product_title": "Swastik Shakti Gold Plated Silver Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52394677502320",
+    "sku": "PTRK0019BR2",
+    "price": 2769.0,
+    "variant_price": 2769.0,
+    "product_price": 2769.0,
+    "amount": 2769.0,
+    "total_price": 2769.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 10,
+    "curr_stock": 9,
+    "url": "https://www.tarinika.in/products/swastik-shakti-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/52394677502320",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PTRK0019BR2_f9d3b3ac-0b9c-4d63-85fa-d980fd70107f.jpg?v=1752152489"
   }
 ]
