@@ -5259,23 +5259,6 @@
     "url": "https://www.preetimohan.com/products/silver-finish-black-yellow-earring?variant=gid://shopify/ProductVariant/47601987322049",
     "stock": 10
   },
-  "gid://shopify/ProductVariant/47603155370177": {
-    "product_title": "SILVER FINISH PINK ZIRCON STUD",
-    "product_handle": "silver-finish-pink-zircon-stud",
-    "variant_id": "gid://shopify/ProductVariant/47603155370177",
-    "global_id": "gid://shopify/ProductVariant/47603155370177",
-    "variant_title": "Default Title",
-    "sku": "WERGEM97",
-    "price": 7000.0,
-    "variant_price": 7000.0,
-    "product_price": 7000.0,
-    "amount": 7000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/36_5a8d9dfa-3176-41c0-bb80-86178cc9b7d7.jpg?v=1756142186",
-    "available_for_sale": true,
-    "url": "https://www.preetimohan.com/products/silver-finish-pink-zircon-stud?variant=gid://shopify/ProductVariant/47603155370177",
-    "stock": 9
-  },
   "gid://shopify/ProductVariant/47603820232897": {
     "product_title": "SILVER FINISH GREEN & YELLOW EARRING",
     "product_handle": "silver-finish-green-yellow-earring-1",
@@ -27950,6 +27933,23 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chandni-red-green-kundan-waist-belts?variant=gid://shopify/ProductVariant/50485596618945",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47603155370177": {
+    "product_title": "SILVER FINISH PINK ZIRCON STUD",
+    "product_handle": "silver-finish-pink-zircon-stud",
+    "variant_id": "gid://shopify/ProductVariant/47603155370177",
+    "global_id": "gid://shopify/ProductVariant/47603155370177",
+    "variant_title": "Default Title",
+    "sku": "WERGEM97",
+    "price": 7000.0,
+    "variant_price": 7000.0,
+    "product_price": 7000.0,
+    "amount": 7000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/36_5a8d9dfa-3176-41c0-bb80-86178cc9b7d7.jpg?v=1756142186",
+    "available_for_sale": true,
+    "url": "https://www.preetimohan.com/products/silver-finish-pink-zircon-stud?variant=gid://shopify/ProductVariant/47603155370177",
+    "stock": 9
   },
   "gid://shopify/ProductVariant/50294932111553": {
     "product_title": "ISHANA SILVER FINISH ZIRCON EARRING",

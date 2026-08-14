@@ -20083,24 +20083,6 @@
     "url": "https://www.mortantra.com/products/mhp235-gold-plated-jadau-kundan-bracelet?variant=gid://shopify/ProductVariant/46093698891999",
     "stock": 9
   },
-  "gid://shopify/ProductVariant/46093739327711": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Gold Belt Bracelet with Floral Kundan Motifs - MBRAC54M",
-    "product_handle": "mbrac54m-multicolor-gold-plated-jadau-kundan-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/46093739327711",
-    "global_id": "gid://shopify/ProductVariant/46093739327711",
-    "variant_title": "Default Title",
-    "sku": "MBRAC54M",
-    "price": 2500.0,
-    "variant_price": 2500.0,
-    "product_price": 2500.0,
-    "amount": 2500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC54M_1.jpg?v=1760078532",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/mbrac54m-multicolor-gold-plated-jadau-kundan-bracelet?variant=gid://shopify/ProductVariant/46093739327711",
-    "stock": 2,
-    "last_alerted_stock": 2
-  },
   "gid://shopify/ProductVariant/46093739786463": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Gold Belt Bracelet with Floral Kundan Setting - MHP237M",
     "product_handle": "mhp237m-multicolor-gold-plated-jadau-kundan-bracelet",
@@ -20116,7 +20098,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHP237M_1.jpg?v=1720436906",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mhp237m-multicolor-gold-plated-jadau-kundan-bracelet?variant=gid://shopify/ProductVariant/46093739786463",
-    "stock": 22
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/46093740638431": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Haath Phool with Elephant Motif - MHP239M",
@@ -113505,6 +113488,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46093739327711": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Gold Belt Bracelet with Floral Kundan Motifs - MBRAC54M",
+    "product_handle": "mbrac54m-multicolor-gold-plated-jadau-kundan-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/46093739327711",
+    "global_id": "gid://shopify/ProductVariant/46093739327711",
+    "variant_title": "Default Title",
+    "sku": "MBRAC54M",
+    "price": 2500.0,
+    "variant_price": 2500.0,
+    "product_price": 2500.0,
+    "amount": 2500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC54M_1.jpg?v=1760078532",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mbrac54m-multicolor-gold-plated-jadau-kundan-bracelet?variant=gid://shopify/ProductVariant/46093739327711",
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46599635501279": {
     "product_title": "Multicolor Gold Plated Earchains - MKS59",
