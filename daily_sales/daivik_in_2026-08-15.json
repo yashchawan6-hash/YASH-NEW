@@ -1024,5 +1024,41 @@
     "curr_stock": 12,
     "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
+  },
+  {
+    "timestamp_ist": "2026-08-15 18:41:58",
+    "product_title": "AD peacock jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/38058936402073",
+    "sku": "604",
+    "price": 1399.0,
+    "variant_price": 1399.0,
+    "product_price": 1399.0,
+    "amount": 1399.0,
+    "total_price": 1399.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 37,
+    "curr_stock": 36,
+    "url": "https://www.daivik.in/products/ad-peacock-jhumkas-1?variant=gid://shopify/ProductVariant/38058936402073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/ad-peacock-jhumkas-earrings-269.jpg?v=1613143353"
+  },
+  {
+    "timestamp_ist": "2026-08-15 18:41:58",
+    "product_title": "3D Flower Choker/Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45871027224798",
+    "sku": "436",
+    "price": 649.0,
+    "variant_price": 649.0,
+    "product_price": 649.0,
+    "amount": 649.0,
+    "total_price": 649.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 37,
+    "curr_stock": 36,
+    "url": "https://www.daivik.in/products/3d-flower-choker-necklace-with-earrings?variant=gid://shopify/ProductVariant/45871027224798",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/63AEDF18-24B0-4B14-A473-2FB07D12F0B1.jpg?v=1725796346"
   }
 ]
