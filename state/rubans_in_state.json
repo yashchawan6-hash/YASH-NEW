@@ -4325,10 +4325,10 @@
     "amount": 930.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-pearls-cubic-zirconia-studded-oversized-premium-floral-stud-earrings-studs-earrings-1150858252.jpg?v=1755718877",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-silver-plated-stud-earrings-studded-with-american-diamonds-and-pearls?variant=gid://shopify/ProductVariant/43580471181486",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43581890658478": {
     "product_title": "Rubans Gold Plated Necklace Set With Studded Mirror Design And Pink Stones",
@@ -12196,8 +12196,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14B405042_Model_ea605962-cc9e-4480-9b10-2adba214e673.jpg?v=1765202456",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/set-of-2-rhodium-plated-ad-cubic-zirconia-studded-premium-bangles?variant=gid://shopify/ProductVariant/45846056796334",
-    "stock": 11,
-    "last_alerted_stock": 1
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/45701078417582": {
     "product_title": "Ivory Whisper Kundan Kamarbandh",
