@@ -8681,9 +8681,9 @@
     "amount": 39400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_2995700a-cba1-4879-8faa-3b26461db923.jpg?v=1754573198",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rubiflora-necklace?variant=gid://shopify/ProductVariant/50716403302697",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50777145049385": {
