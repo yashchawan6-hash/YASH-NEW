@@ -1006,5 +1006,23 @@
     "curr_stock": 4,
     "url": "https://www.daivik.in/products/42?variant=gid://shopify/ProductVariant/32600742723643",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae83b031-205e-453b-8bb4-cd73dcec54c8.jpg?v=1598451549"
+  },
+  {
+    "timestamp_ist": "2026-08-15 18:12:00",
+    "product_title": "Two line Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45333722759390",
+    "sku": "708",
+    "price": 2299.0,
+    "variant_price": 2299.0,
+    "product_price": 2299.0,
+    "amount": 2299.0,
+    "total_price": 2299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 13,
+    "curr_stock": 12,
+    "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
   }
 ]
