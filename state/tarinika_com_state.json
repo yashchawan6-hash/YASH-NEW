@@ -7632,9 +7632,10 @@
     "amount": 134.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TNX0071X_0f74ed3b-9eb0-45b1-be71-3ba01caae6b0.jpg?v=1641059385",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/alina-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/39558955139138",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39558955171906": {
     "product_title": "Alina Delicate CZ Necklace Set",
