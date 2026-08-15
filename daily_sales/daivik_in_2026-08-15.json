@@ -1258,5 +1258,41 @@
     "curr_stock": 10,
     "url": "https://www.daivik.in/products/changeable-pearl-studs?variant=gid://shopify/ProductVariant/39960882184345",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_38408906-c42c-4f9f-b3f3-21055cbe9149.jpg?v=1620059196"
+  },
+  {
+    "timestamp_ist": "2026-08-15 23:16:45",
+    "product_title": "Pure Kemp Brass Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42319003091166",
+    "sku": "991",
+    "price": 3499.0,
+    "variant_price": 3499.0,
+    "product_price": 3499.0,
+    "amount": 3499.0,
+    "total_price": 3499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 32,
+    "curr_stock": 31,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-necklace?variant=gid://shopify/ProductVariant/42319003091166",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e984317b-89bc-4125-b5de-20587294f825.jpg?v=1641735084"
+  },
+  {
+    "timestamp_ist": "2026-08-15 23:16:45",
+    "product_title": "Small kemp Balis",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42391386226910",
+    "sku": "130",
+    "price": 899.0,
+    "variant_price": 899.0,
+    "product_price": 899.0,
+    "amount": 899.0,
+    "total_price": 899.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 31,
+    "curr_stock": 30,
+    "url": "https://www.daivik.in/products/small-kemp-balis?variant=gid://shopify/ProductVariant/42391386226910",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1f89bc3f-38a4-4217-b711-e4080be47184.jpg?v=1643126952"
   }
 ]
