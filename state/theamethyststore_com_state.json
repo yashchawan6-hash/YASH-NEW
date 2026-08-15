@@ -2757,7 +2757,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2267_d9b5a5e9-49b1-42e9-ac37-a2a22f97d104.jpg?v=1687325254",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/ballota-studs?variant=gid://shopify/ProductVariant/42387419693283",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/42387422183651": {
     "product_title": "Candy Studs",
@@ -2937,15 +2937,15 @@
     "global_id": "gid://shopify/ProductVariant/42416930848995",
     "variant_title": "Default Title",
     "sku": "AMS-106-2280",
-    "price": 6800.0,
-    "variant_price": 6800.0,
-    "product_price": 6800.0,
-    "amount": 6800.0,
+    "price": 6500.0,
+    "variant_price": 6500.0,
+    "product_price": 6500.0,
+    "amount": 6500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2280.jpg?v=1687241133",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nivar-earrings?variant=gid://shopify/ProductVariant/42416930848995",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/42417234739427": {
     "product_title": "Bhavika Earrings",
@@ -5402,7 +5402,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3202.jpg?v=1687274282",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/menaka-stone-studs?variant=gid://shopify/ProductVariant/43280622092515",
-    "stock": 2
+    "stock": 7
   },
   "gid://shopify/ProductVariant/43280754114787": {
     "product_title": "Natchathra Navarathna Studs",
