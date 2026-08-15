@@ -13372,9 +13372,10 @@
     "amount": 3850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/hazeera-meenakari-gold-polki-bangle-set-attrangi-4.jpg?v=1739815774",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/hazeera-meenakari-gold-polki-bangle-set?variant=gid://shopify/ProductVariant/44472032395476",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44459957387476": {
     "product_title": "Starstruck Emerald Diamond Kada",
