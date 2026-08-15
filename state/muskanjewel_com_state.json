@@ -2343,9 +2343,10 @@
     "amount": 1800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260314_080202_71cd8d0e-cbd9-4a95-8f6a-e5bb662d2f51.webp?v=1774350628",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-choker-with-pearl-and-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52914403082556",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52914520785212": {
     "product_title": "Jadau kundan peacock necklace with pearl and natural strawberry beads drop",
