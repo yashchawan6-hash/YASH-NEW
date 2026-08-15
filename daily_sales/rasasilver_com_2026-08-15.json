@@ -124,5 +124,41 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/fairy-orchard-pendant-set?variant=gid://shopify/ProductVariant/51205354815785",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP915.jpg?v=1757940850"
+  },
+  {
+    "timestamp_ist": "2026-08-15 17:42:23",
+    "product_title": "Gaurangi Stud Earrings",
+    "variant_title": "Ruby Pink",
+    "variant_id": "gid://shopify/ProductVariant/51472911139113",
+    "sku": "R17363",
+    "price": 3145.0,
+    "variant_price": 3145.0,
+    "product_price": 3145.0,
+    "amount": 3145.0,
+    "total_price": 3145.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.rasasilver.com/products/gaurangi-phool-studs?variant=gid://shopify/ProductVariant/51472911139113",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP290_e334dd33-f0bf-4275-b8e4-895e24b30386.jpg?v=1769155034"
+  },
+  {
+    "timestamp_ist": "2026-08-15 17:42:23",
+    "product_title": "Pervida Stud Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50828932940073",
+    "sku": "R20350",
+    "price": 2295.0,
+    "variant_price": 2295.0,
+    "product_price": 2295.0,
+    "amount": 2295.0,
+    "total_price": 2295.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.rasasilver.com/products/pervida-studs?variant=gid://shopify/ProductVariant/50828932940073",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP296.jpg?v=1756541884"
   }
 ]
