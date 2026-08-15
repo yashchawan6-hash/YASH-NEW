@@ -5426,10 +5426,10 @@
     "amount": 3485.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.12.30PM.jpg?v=1785758522",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/viraasat-manglsutra-set?variant=gid://shopify/ProductVariant/50388444119337",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50389424734505": {
     "product_title": "Damyanti Oxidised Danglers",
