@@ -57808,7 +57808,7 @@
     "amount": 3499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
     "stock": 2,
     "last_alerted_stock": 2
@@ -59022,6 +59022,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1172.jpg?v=1786722333",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/bridal-pure-kemp-brass-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/48602139918558",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48604346908894": {
+    "product_title": "Peacock Real look Alike Foam Hair Accessory/ Hair Clip",
+    "product_handle": "peacock-real-look-alike-foam-hair-accessory-hair-clip",
+    "variant_id": "gid://shopify/ProductVariant/48604346908894",
+    "global_id": "gid://shopify/ProductVariant/48604346908894",
+    "variant_title": "Default Title",
+    "sku": "3518",
+    "price": 399.0,
+    "variant_price": 399.0,
+    "product_price": 399.0,
+    "amount": 399.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DE390A53-E1DB-4A00-B072-7637E0279F93.jpg?v=1786811357",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/peacock-real-look-alike-foam-hair-accessory-hair-clip?variant=gid://shopify/ProductVariant/48604346908894",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47736604426462": {
