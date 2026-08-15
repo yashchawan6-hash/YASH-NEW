@@ -178,5 +178,41 @@
     "curr_stock": 6,
     "url": "https://www.kanshijewels.com/products/jadau-pendant-3?variant=gid://shopify/ProductVariant/52441954353452",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaupendant1250.jpg?v=1766064050"
+  },
+  {
+    "timestamp_ist": "2026-08-15 16:22:06",
+    "product_title": "Jadau Kundan Stud Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/46472651211052",
+    "sku": "ER403",
+    "price": 441.0,
+    "variant_price": 441.0,
+    "product_price": 441.0,
+    "amount": 441.0,
+    "total_price": 441.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-8?variant=gid://shopify/ProductVariant/46472651211052",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/420.jpg?v=1692606026"
+  },
+  {
+    "timestamp_ist": "2026-08-15 16:22:06",
+    "product_title": "Hasli necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50047858671916",
+    "sku": "NK376",
+    "price": 1995.0,
+    "variant_price": 1995.0,
+    "product_price": 1995.0,
+    "amount": 1995.0,
+    "total_price": 1995.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/kundan-hasli-necklace-set?variant=gid://shopify/ProductVariant/50047858671916",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Haslinecklace1900.jpg?v=1729764726"
   }
 ]
