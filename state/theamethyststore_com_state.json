@@ -44780,7 +44780,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1898.jpg?v=1746106114",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/glittering-stone-pair-bangle?variant=gid://shopify/ProductVariant/46326937682147",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49396594180323": {
     "product_title": "Glittering Stone Pair Bangle",
@@ -50744,7 +50745,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9306_2_266796f4-418d-43fd-88f8-149447400573.jpg?v=1775222313",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/saithanya-nagas-long-necklace?variant=gid://shopify/ProductVariant/46561496105187",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46561497415907": {
     "product_title": "Rasitha Nagas Nakshi Necklace",
@@ -56588,7 +56589,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10655.jpg?v=1752042546",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dainty-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/46824758116579",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46824761426147": {
     "product_title": "Exiquisite Nagas Short Necklace",

@@ -27850,7 +27850,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0141_resized_0eee5bb2-c877-4828-b0c8-37a8333bd833.jpg?v=1769154548",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mani-sita-necklace?variant=gid://shopify/ProductVariant/52398120698153",
-    "stock": 3,
+    "stock": 5,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/51482117144873": {
@@ -28090,7 +28090,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0525copy_resized.jpg?v=1762327664",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mahashritha-pendant?variant=gid://shopify/ProductVariant/51482613088553",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51482627572009": {
@@ -71555,7 +71555,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52889937477929": {
@@ -71795,7 +71795,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20493_resized.jpg?v=1775483039",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shirovastra-matil?variant=gid://shopify/ProductVariant/52897790361897",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52897790394665": {
     "product_title": "Shirovastra Matil",

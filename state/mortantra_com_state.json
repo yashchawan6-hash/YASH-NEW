@@ -34273,7 +34273,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S206PR_0261c466-3324-4eec-9600-f50af7b7d386.jpg?v=1736493359",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s206?variant=gid://shopify/ProductVariant/46674414764255",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46674414797023": {
     "product_title": "Gold-Plated Faux Polki Pendant Necklace Set with Kundan Setting - PK-S206",
@@ -80623,7 +80624,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2875M-2.jpg?v=1772025627",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2875?variant=gid://shopify/ProductVariant/48546104836319",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48547144761567": {
@@ -106511,7 +106512,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MN693W.jpg?v=1783500425",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-mn693?variant=gid://shopify/ProductVariant/50539640029407",
-    "stock": 10
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50539640488159": {
     "product_title": "Gold-Plated Jadau Kundan Pendant Necklace with Teardrop Drop - MN693",
@@ -113096,8 +113098,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC91M.jpg?v=1785046048",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bracelet-1-piece-mbrac91m?variant=gid://shopify/ProductVariant/50604648464607",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50604648825055": {
     "product_title": "Multicolor Gold Plated Jadau Kundan Bracelet (1 Piece) - MBRAC92M",
