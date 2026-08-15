@@ -5326,9 +5326,10 @@
     "amount": 13450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/bhakti-polki-heavy-set-attrangi-1.jpg?v=1739813748",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bhakti-polki-heavy-set?variant=gid://shopify/ProductVariant/43653269586132",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42620163752148": {
     "product_title": "Heart Out Ring",
