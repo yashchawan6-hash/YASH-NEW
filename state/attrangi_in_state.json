@@ -16954,7 +16954,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-25_at_8.23.31_PM.jpg?v=1750782023",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/akanksha-polki-2-layer-necklace-set-emerald?variant=gid://shopify/ProductVariant/45396130103508",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45396216250580": {
     "product_title": "Vismaya Polki And Meenakari Long Indian Earrings",
@@ -52606,7 +52607,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-04at4.46.56PM_cefb2953-6908-4dee-8560-f9e3b1ab590a.jpg?v=1781688312",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/shanaya-earrings?variant=gid://shopify/ProductVariant/48118869098708",
     "stock": 1
   },
