@@ -21221,10 +21221,10 @@
     "amount": 870.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30ED407739_1.jpg?v=1770721304",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-voguish-18k-gold-plated-oval-motif-drop-earrings-with-pearl-black-bead-accents-copy-2?variant=gid://shopify/ProductVariant/46158677246126",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46158682423470": {
     "product_title": "Polished Knot Design Chain Earrings",
