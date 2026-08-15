@@ -6297,10 +6297,10 @@
     "amount": 2199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ff43fbfb-f072-4cd8-aa4f-6694f508e605.jpg?v=1647337594",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/set-of-6-ad-kemp-bangles?variant=gid://shopify/ProductVariant/42605651656926",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42605651689694": {
     "product_title": "Set of 6 AD Kemp Bangles",
@@ -15429,8 +15429,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
-    "stock": 14,
-    "last_alerted_stock": 14
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/44338671747294": {
     "product_title": "Simple Gold finish necklace with earrings",
