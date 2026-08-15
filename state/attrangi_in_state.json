@@ -3065,7 +3065,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/emerald-cut-solid-coloured-solitaire-ring-attrangi-4.jpg?v=1739813116",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/emerald-cut-solid-coloured-solitaire-ring?variant=gid://shopify/ProductVariant/40832465535145",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40832465567913": {
     "product_title": "Emerald Cut Solid Coloured Solitaire Ring",
@@ -49880,7 +49881,7 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01155_1.jpg?v=1775562460",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/niki-multi-solitaire-mixed-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47768843714772",
     "stock": 2,
     "last_alerted_stock": 2
