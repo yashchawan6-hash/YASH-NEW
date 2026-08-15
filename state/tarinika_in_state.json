@@ -21985,9 +21985,10 @@
     "amount": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0013XHY.jpg?v=1752149521",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/sanskriti-round-antique-rakhi?variant=gid://shopify/ProductVariant/52393474490736",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52393499787632": {
     "product_title": "Ritu Antique Rakhi",
