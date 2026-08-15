@@ -5017,7 +5017,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1db6eac3-6a3a-464f-8af0-96b606256a54.jpg?v=1640962064",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/heavy-bridal-nagasi-necklace-with-earrings?variant=gid://shopify/ProductVariant/42285497417950",
-    "stock": 43
+    "stock": 42,
+    "last_alerted_stock": 42
   },
   "gid://shopify/ProductVariant/42314249076958": {
     "product_title": "Set of 6 Kemp AD bangles",
@@ -57807,7 +57808,7 @@
     "amount": 3499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9002.jpg?v=1783748787",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/victorian-flower-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48423947796702",
     "stock": 2,
     "last_alerted_stock": 2
