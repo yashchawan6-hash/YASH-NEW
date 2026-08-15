@@ -18922,9 +18922,10 @@
     "amount": 25.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TRX0079X_46932dff-0825-4b52-9699-c8e1df8d8e93.jpg?v=1706359718",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/eloise-cz-cocktail-ring?variant=gid://shopify/ProductVariant/40726358196290",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40729597706306": {
     "product_title": "Pearl Dainty CZ Drop Earrings",
