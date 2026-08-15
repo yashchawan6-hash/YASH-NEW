@@ -214,5 +214,41 @@
     "curr_stock": 0,
     "url": "https://www.kanshijewels.com/products/kundan-hasli-necklace-set?variant=gid://shopify/ProductVariant/50047858671916",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Haslinecklace1900.jpg?v=1729764726"
+  },
+  {
+    "timestamp_ist": "2026-08-15 19:14:24",
+    "product_title": "Jadau Kundan Stud Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48974915600684",
+    "sku": "ER281",
+    "price": 1039.5,
+    "variant_price": 1039.5,
+    "product_price": 1039.5,
+    "amount": 1039.5,
+    "total_price": 1039.5,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-50?variant=gid://shopify/ProductVariant/48974915600684",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0486.jpg?v=1716540319"
+  },
+  {
+    "timestamp_ist": "2026-08-15 19:14:24",
+    "product_title": "Polki fusion set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53255985856812",
+    "sku": "NK891",
+    "price": 2450.0,
+    "variant_price": 2450.0,
+    "product_price": 2450.0,
+    "amount": 2450.0,
+    "total_price": 2450.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 8,
+    "curr_stock": 7,
+    "url": "https://www.kanshijewels.com/products/polki-fusion-set?variant=gid://shopify/ProductVariant/53255985856812",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1_1cdfbc1d-c88a-4c12-962c-698eb6141ed2.png?v=1780318252"
   }
 ]
