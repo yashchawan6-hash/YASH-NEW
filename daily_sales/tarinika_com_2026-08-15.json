@@ -142,5 +142,41 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/eloise-cz-cocktail-ring?variant=gid://shopify/ProductVariant/40726358196290",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TRX0079X_46932dff-0825-4b52-9699-c8e1df8d8e93.jpg?v=1706359718"
+  },
+  {
+    "timestamp_ist": "2026-08-15 17:02:06",
+    "product_title": "Sira Antique Bangles",
+    "variant_title": "White Green / 2.4",
+    "variant_id": "gid://shopify/ProductVariant/13845719744578",
+    "sku": "US-ABX0072XDC4",
+    "price": 39.99,
+    "variant_price": 39.99,
+    "product_price": 39.99,
+    "amount": 39.99,
+    "total_price": 39.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/13845719744578",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A6194_copy_copy.jpg?v=1762530974"
+  },
+  {
+    "timestamp_ist": "2026-08-15 17:02:06",
+    "product_title": "Nivara Four Layer Jhumka Earrings",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/39680491454530",
+    "sku": "US-TEX0033XGC",
+    "price": 34.99,
+    "variant_price": 34.99,
+    "product_price": 34.99,
+    "amount": 34.99,
+    "total_price": 34.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.tarinika.com/products/nivara-four-layer-jhumka-earrings?variant=gid://shopify/ProductVariant/39680491454530",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TEX0033XGY.jpg?v=1741697415"
   }
 ]
