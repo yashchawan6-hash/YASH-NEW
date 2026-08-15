@@ -14252,7 +14252,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/aadhvi-gold-set-with-long-indian-earrings-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815904",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/aadhvi-gold-set-with-long-indian-earrings-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44521548972244",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44521835987156": {
     "product_title": "Fulvanti Gold Openable Bangles | Sone Pe Suhaga Collection",
@@ -57807,7 +57808,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_1.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379709882580",
     "stock": 1,
     "last_alerted_stock": 1
