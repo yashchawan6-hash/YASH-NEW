@@ -1096,5 +1096,41 @@
     "curr_stock": 5,
     "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974"
+  },
+  {
+    "timestamp_ist": "2026-08-15 20:02:14",
+    "product_title": "Simple Floral AD Kemp Necklace with earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42331638989022",
+    "sku": "402",
+    "price": 1599.0,
+    "variant_price": 1599.0,
+    "product_price": 1599.0,
+    "amount": 1599.0,
+    "total_price": 1599.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 10,
+    "curr_stock": 9,
+    "url": "https://www.daivik.in/products/simple-floral-ad-kemp-necklace-with-earrings?variant=gid://shopify/ProductVariant/42331638989022",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_425e3745-a388-46dc-bd87-3b3b6eee7169.jpg?v=1641996550"
+  },
+  {
+    "timestamp_ist": "2026-08-15 20:02:14",
+    "product_title": "Lakshmi AD Choker with Jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44633010929886",
+    "sku": "494",
+    "price": 1199.0,
+    "variant_price": 1199.0,
+    "product_price": 1199.0,
+    "amount": 1199.0,
+    "total_price": 1199.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 37,
+    "curr_stock": 36,
+    "url": "https://www.daivik.in/products/lakshmi-ad-choker-with-jhumkas?variant=gid://shopify/ProductVariant/44633010929886",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B5BBADB5-946C-401D-BC3B-7004F0D2F782.jpg?v=1703778401"
   }
 ]
