@@ -12321,7 +12321,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0722.jpg?v=1688109841",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/dhiya-maatal?variant=gid://shopify/ProductVariant/43900050604259",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/43900051423459": {
     "product_title": "Ananya Hair Maatal",
@@ -131766,7 +131767,7 @@
     "amount": 13810.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1757.jpg?v=1770446676",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/trendy-glow-chain?variant=gid://shopify/ProductVariant/48025239290083",
     "stock": 1
   },
