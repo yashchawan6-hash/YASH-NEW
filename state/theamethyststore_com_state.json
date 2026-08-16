@@ -12,9 +12,10 @@
     "amount": 7668.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-104-0353.jpg?v=1608545853",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/pavo-pendant?variant=gid://shopify/ProductVariant/37371588804758",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/37378542993558": {
     "product_title": "Floral Navarathna Pendant",
