@@ -24800,10 +24800,10 @@
     "amount": 874.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-cubic-zirconia-studded-triple-band-hoop-earrings-earrings-1129221955.jpg?v=1765192045",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-cubic-zirconia-studded-triple-band-hoop-earrings-rw30es407783?variant=gid://shopify/ProductVariant/46194499485870",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46194499649710": {
     "product_title": "Whispers of Light American Diamond Zirconia Pearl Drops",
@@ -24978,8 +24978,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-cubic-zirconia-studded-classic-hoop-earrings-earrings-1129222039.jpg?v=1770619756",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-cubic-zirconia-studded-classic-hoop-earrings-rw30eh407762?variant=gid://shopify/ProductVariant/46194500370606",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/46194500698286": {
     "product_title": "Sleek Golden Twist Pearl Hoops",
