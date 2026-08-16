@@ -8955,9 +8955,10 @@
     "amount": 3575.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/set-of-2-22k-gold-plated-kundan-crystal-with-pastel-beaded-handcrafted-regal-statement-bangle-bangles-bracelets-35626317545646.jpg?v=1774867850",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/copy-of-set-of-2-22k-gold-plated-kundan-crystal-with-navratna-beaded-handcrafted-regal-statement-bangle?variant=gid://shopify/ProductVariant/47084619301038",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084619333806": {
     "product_title": "Rubans Set of 2, 22K Gold plated Kundan crystal with pastel beaded handcrafted regal statement bangle",
@@ -12250,10 +12251,10 @@
     "amount": 812.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW06V405715_02.jpg?v=1774851281",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/18k-gold-plated-cubic-zirconia-studded-statement-tennis-bracelet?variant=gid://shopify/ProductVariant/45701081137326",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45701085855918": {
     "product_title": "American Diamond Zirconia Sapphire Necklace Set",
