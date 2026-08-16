@@ -18529,7 +18529,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5504.jpg?v=1708858683",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/serim-kundan-studs?variant=gid://shopify/ProductVariant/44434242699491",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/44434368823523": {
     "product_title": "Iniya Kundan Studs",
@@ -104783,7 +104784,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3603.jpg?v=1762606330",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/yathini-mugappu-pendant?variant=gid://shopify/ProductVariant/47487850873059",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47487852282083": {
     "product_title": "Avura Ring",
@@ -104800,7 +104802,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1755.jpg?v=1762606375",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avura-ring?variant=gid://shopify/ProductVariant/47487852282083",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47487864766691": {
     "product_title": "Nithaya Ring",
@@ -104817,7 +104819,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1756.jpg?v=1762606658",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nithaya-ring?variant=gid://shopify/ProductVariant/47487864766691",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47487889604835": {
     "product_title": "Elite Ring",
@@ -104834,7 +104837,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1757.jpg?v=1762607115",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/ring-48?variant=gid://shopify/ProductVariant/47487889604835",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47487922208995": {
     "product_title": "Charvi Mugappu Pendant",
@@ -104851,7 +104855,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3604.jpg?v=1762607680",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/charvi-mugappu-pendant?variant=gid://shopify/ProductVariant/47487922208995",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47487926370531": {
     "product_title": "Yaza Mugappu Pendant",
@@ -104868,7 +104873,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3605.jpg?v=1762607782",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/yaza-mugappu-pendant?variant=gid://shopify/ProductVariant/47487926370531",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47487947702499": {
     "product_title": "Classic Mugappu Pendant",
@@ -104885,7 +104891,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3606.jpg?v=1762608225",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/classic-mugappu-pendant?variant=gid://shopify/ProductVariant/47487947702499",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47487963103459": {
     "product_title": "Saanvika Ring",
@@ -104902,7 +104909,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1758.jpg?v=1762608358",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/saanvika-ring?variant=gid://shopify/ProductVariant/47487963103459",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47488062783715": {
     "product_title": "Sashtikha Ring",
@@ -104919,7 +104927,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1783.jpg?v=1762610461",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/sashtikha-ring?variant=gid://shopify/ProductVariant/47488062783715",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492270162147": {
     "product_title": "Tara Vibe Ring",
@@ -104936,7 +104945,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1763.jpg?v=1762672748",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/tara-vibe-ring?variant=gid://shopify/ProductVariant/47492270162147",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492271341795": {
     "product_title": "Amara Spark Ring",
@@ -104953,7 +104963,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1767.jpg?v=1762672882",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/amara-spark-ring?variant=gid://shopify/ProductVariant/47492271341795",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492272652515": {
     "product_title": "Vilaya Elegance Ring",
@@ -104970,7 +104981,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1768.jpg?v=1762673022",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/vilaya-elegance-ring?variant=gid://shopify/ProductVariant/47492272652515",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47492277764323": {
     "product_title": "Luxe Legacy Ring",
@@ -104987,7 +104998,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1770.jpg?v=1762673656",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/luxe-legacy-ring?variant=gid://shopify/ProductVariant/47492277764323",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492281073891": {
     "product_title": "Eternal Pakshi Ring",
@@ -105004,7 +105016,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1774.jpg?v=1762674108",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/eternal-pachi-ring?variant=gid://shopify/ProductVariant/47492281073891",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492321083619": {
     "product_title": "Zariya Pakshi Ring",
@@ -105021,7 +105034,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1776.jpg?v=1762675897",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/zariya-pachi-ring?variant=gid://shopify/ProductVariant/47492321083619",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492326228195": {
     "product_title": "Aarika Pakshi Ring",
@@ -105038,7 +105052,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1779.jpg?v=1762676454",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/aarika-pachi-ring?variant=gid://shopify/ProductVariant/47492326228195",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492329799907": {
     "product_title": "Amaya Allure Short Necklace Set",
@@ -105055,7 +105070,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12803.jpg?v=1762676928",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/long-necklace-16?variant=gid://shopify/ProductVariant/47492329799907",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47492429644003": {
     "product_title": "Gilded Gleam Pair Bangles",
@@ -105072,7 +105088,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-2703.jpg?v=1762684254",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/gilded-gleam-pair-bangles?variant=gid://shopify/ProductVariant/47492429644003",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47505726898403": {
     "product_title": "Janvikha Short Necklace Set",
@@ -105089,7 +105106,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12813.jpg?v=1762840191",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/janvikha-short-necklace-set?variant=gid://shopify/ProductVariant/47505726898403",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47505955389667": {
     "product_title": "Lavishka Short Necklace Set",
@@ -105106,7 +105124,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12849.jpg?v=1762842538",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/lavishka-short-necklace-set?variant=gid://shopify/ProductVariant/47505955389667",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47505968922851": {
     "product_title": "Janani Short Necklace Set",
@@ -105123,7 +105142,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12862.jpg?v=1762842758",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/janani-short-necklace-set?variant=gid://shopify/ProductVariant/47505968922851",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47505983275235": {
     "product_title": "Saisha Short Necklace Set",
@@ -105140,7 +105160,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12865_56945c8e-e1f6-4c40-9ceb-5402c70037ec.jpg?v=1762843486",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/saisha-short-necklace-set?variant=gid://shopify/ProductVariant/47505983275235",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47506264457443": {
     "product_title": "Aarnitha Short Necklace Set",
@@ -105157,7 +105178,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12895.jpg?v=1762844908",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/aarnitha-short-necklace-set?variant=gid://shopify/ProductVariant/47506264457443",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47506335760611": {
     "product_title": "Nidhra Short Necklace Set",
@@ -105174,7 +105196,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12911.jpg?v=1762846302",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nidhra-short-necklace-set?variant=gid://shopify/ProductVariant/47506335760611",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47506856771811": {
     "product_title": "Bhavisha Short Necklace",
@@ -105191,7 +105213,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12810.jpg?v=1762854024",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bhavisha-short-necklace?variant=gid://shopify/ProductVariant/47506856771811",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47506868699363": {
     "product_title": "Vanish Short Necklace",
@@ -105208,7 +105231,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12845_797b69cd-ebe1-470e-8ca7-275d42dd0f1b.jpg?v=1768908635",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vanish-short-necklace-1?variant=gid://shopify/ProductVariant/47506868699363",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47506894815459": {
     "product_title": "Faethika Short Necklace",
@@ -105225,7 +105249,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12899.jpg?v=1762854870",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/faethika-short-necklace?variant=gid://shopify/ProductVariant/47506894815459",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47506970804451": {
     "product_title": "Shrikha Short Necklace",
@@ -105242,7 +105266,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12901.jpg?v=1762856506",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shrikha-short-necklace?variant=gid://shopify/ProductVariant/47506970804451",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47507158073571": {
     "product_title": "Athesha Short Necklace",
@@ -105259,7 +105284,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12903.jpg?v=1762859287",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/athesha-short-necklace?variant=gid://shopify/ProductVariant/47507158073571",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47520834781411": {
     "product_title": "Reni Nagas Short Necklace Set",
@@ -105276,7 +105302,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12687.jpg?v=1763027066",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/reni-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/47520834781411",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47520846151907": {
     "product_title": "Sharmikha Nagas Short Necklace Set",
@@ -105293,7 +105319,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12688.jpg?v=1763027280",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/sharmikha-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/47520846151907",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47520882163939": {
     "product_title": "Ishithaya Nagas Short Necklace Set",
@@ -105310,7 +105336,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12690.jpg?v=1763027949",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/ishithaya-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/47520882163939",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47521222033635": {
     "product_title": "Frelinka Short Necklace Set",
@@ -105327,7 +105354,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12786.jpg?v=1763034481",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/frelinka-short-necklace-set?variant=gid://shopify/ProductVariant/47521222033635",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47521388855523": {
     "product_title": "Shalini Short Necklace Set",
@@ -105344,7 +105372,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12794.jpg?v=1763037592",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shalini-short-necklace-set-1?variant=gid://shopify/ProductVariant/47521388855523",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47521451802851": {
     "product_title": "Tenisha Short Necklace Set",
@@ -105361,7 +105389,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12868.jpg?v=1763038721",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/short-necklace-set-14?variant=gid://shopify/ProductVariant/47521451802851",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47526378537187": {
     "product_title": "Timeless Charm Nagas Long Necklace Set",
@@ -105378,7 +105407,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12695.jpg?v=1763105571",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/timeless-charm-nagas-long-necklace-set?variant=gid://shopify/ProductVariant/47526378537187",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47526433358051": {
     "product_title": "Amara Charm Nagas Long Necklace Set",
@@ -105395,7 +105425,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12696.jpg?v=1763105691",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/amara-charm-nagas-long-necklace-set?variant=gid://shopify/ProductVariant/47526433358051",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47526462980323": {
     "product_title": "Yamithra Short Necklace Set",
@@ -105412,7 +105443,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12914.jpg?v=1763106306",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/yamithra-short-necklace-set?variant=gid://shopify/ProductVariant/47526462980323",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47527463649507": {
     "product_title": "Eternal Glow Chain With Earrings",
@@ -105429,7 +105461,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1334.jpg?v=1763112587",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/eternal-glow-chain-with-earrings-1?variant=gid://shopify/ProductVariant/47527463649507",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47527490617571": {
     "product_title": "Frelinkha Chain With Earrings",
@@ -105446,7 +105478,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1350.jpg?v=1763113304",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/frelinkha-chain-with-earrings?variant=gid://shopify/ProductVariant/47527490617571",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47527609762019": {
     "product_title": "Zarisha Nagas Jhumkas",
@@ -105463,7 +105496,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10711.jpg?v=1763113728",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/zarisha-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47527609762019",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47527656095971": {
     "product_title": "Mithra Nagas Jhumkas",
@@ -105480,7 +105514,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10712.jpg?v=1763113866",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mithra-nagas-jhumkas-1?variant=gid://shopify/ProductVariant/47527656095971",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47527686504675": {
     "product_title": "Tashvi Long Earrings",
@@ -105497,7 +105532,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-10710.jpg?v=1763114043",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/long-earrings-11?variant=gid://shopify/ProductVariant/47527686504675",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47527705018595": {
     "product_title": "Nitharshana Nagas Oddiyanam",
@@ -105514,7 +105549,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0778.jpg?v=1763114436",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nitharshana-nagas-oddiyanam?variant=gid://shopify/ProductVariant/47527705018595",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47527718944995": {
     "product_title": "Royal Charm Nagas Oddiyanam",
@@ -105531,7 +105566,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0779.jpg?v=1763114746",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nagas-oddiyanam-5?variant=gid://shopify/ProductVariant/47527718944995",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47527972896995": {
     "product_title": "Haridhya Nagas Oddiyanam",
@@ -105548,7 +105584,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0780.jpg?v=1763116624",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/haridhya-nagas-oddiyanam?variant=gid://shopify/ProductVariant/47527972896995",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47527985381603": {
     "product_title": "Sarnitha Nagas Oddiyanam",
@@ -105565,7 +105602,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0781.jpg?v=1763116815",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/sarnitha-nagas-oddiyanam-1?variant=gid://shopify/ProductVariant/47527985381603",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47551249711331": {
     "product_title": "Saahika Nagas Jhumkas",
@@ -105582,7 +105620,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11154.jpg?v=1763358248",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/saahika-nagas-jhumkas?variant=gid://shopify/ProductVariant/47551249711331",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47551273042147": {
     "product_title": "Rishitha Nagas Jhumkas",
@@ -105599,7 +105638,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11156_bdbf4b19-4d19-43fa-aab3-e0a32abed675.jpg?v=1763359059",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/rishitha-nagas-jhumkas?variant=gid://shopify/ProductVariant/47551273042147",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47552678985955": {
     "product_title": "Tharika Nagas Jhumkas",
@@ -105616,7 +105656,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11165.jpg?v=1763360739",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/tharika-nagas-jhumkas?variant=gid://shopify/ProductVariant/47552678985955",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47552799637731": {
     "product_title": "Amerila Nagas Jhumkas",
