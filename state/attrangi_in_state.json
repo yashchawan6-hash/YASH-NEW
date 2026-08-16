@@ -9398,7 +9398,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/queen-elsa-multi-coloured-pastel-cocktail-diamond-ring-or-lala-land-collection-attrangi-1.jpg?v=1739814727",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/queen-elsa-multi-coloured-pastel-cocktail-diamond-ring-lala-land-collection?variant=gid://shopify/ProductVariant/43870728782036",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43830438789332": {
@@ -9779,7 +9779,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/traditional-matte-gold-kada-s-or-indian-openable-bangle-attrangi-1.jpg?v=1739814880",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fluorite-mint-traditional-matte-gold-kada-s-indian-openable-bangle?variant=gid://shopify/ProductVariant/43891102843092",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44507515093204": {
@@ -18983,8 +18983,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-10-06at12.45.20AM_1.jpg?v=1750782837",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/heer-kannauti-indian-polki-earrings?variant=gid://shopify/ProductVariant/45698326757588",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45698502099156": {
     "product_title": "Multi Solitaire Crescent Diamond Studs",
@@ -20574,9 +20574,10 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at6.44.49PM.jpg?v=1750783360",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/drizella-beaded-diamond-pastel-bracelet-lala-land-collection?variant=gid://shopify/ProductVariant/45860523180244",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45860599333076": {
     "product_title": "Shira Pastel Ring | Lala Land Collection",
