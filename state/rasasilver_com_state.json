@@ -152,7 +152,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-21.jpg?v=1771916275",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/peacock-kundan-pendant?variant=gid://shopify/ProductVariant/49837202932009",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/49850773078313": {
     "product_title": "Amera Danglers Earrings",
@@ -3436,7 +3437,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05875copy.jpg?v=1747051164",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundanchandrika-pendant?variant=gid://shopify/ProductVariant/50299778892073",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50304274563369": {
     "product_title": "Rose Mist Pendant set",
@@ -13201,7 +13203,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46792_963aca98-dfc1-4e68-8c0a-db5ad4541236.jpg?v=1756821697",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/tulive-pearl-necklace?variant=gid://shopify/ProductVariant/50835679904041",
-    "stock": 2,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50835683115305": {
@@ -88361,7 +88363,7 @@
     "amount": 16745.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2645_resized.jpg?v=1785240768",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/celestial-petal-moissanite-bracelet?variant=gid://shopify/ProductVariant/53346777465129",
     "stock": 1
   },
@@ -90037,7 +90039,7 @@
     "amount": 28135.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2529_resized.jpg?v=1785244940",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/imperial-rose-moissanite-kada?variant=gid://shopify/ProductVariant/53365608481065",
     "stock": 1
   },
