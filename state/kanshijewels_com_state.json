@@ -22213,9 +22213,10 @@
     "amount": 950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadautika950_-_1.jpg?v=1766141387",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-tika-2?variant=gid://shopify/ProductVariant/52445298426156",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445302358316": {
     "product_title": "Jadau tika",
