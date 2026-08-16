@@ -18910,7 +18910,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/81A8AA1C-8D5C-4BB1-A674-F9A086EB385A.jpg?v=1704816121",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/matte-gold-finish-uncut-long-haram-with-earrings?variant=gid://shopify/ProductVariant/44656979050718",
-    "stock": 26
+    "stock": 25,
+    "last_alerted_stock": 25
   },
   "gid://shopify/ProductVariant/44659167101150": {
     "product_title": "2 Line AD Droplet Necklace with Earrings",
@@ -21768,10 +21769,10 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE914FE7-C858-449F-842B-F29124E5954E.jpg?v=1715608816",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-rubygreen-jhumkas-with-attached-mattel-s?variant=gid://shopify/ProductVariant/45363709771998",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45367734436062": {
     "product_title": "Short and Long Guttapusalu Combo",
@@ -22696,8 +22697,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/791832A7-4453-44AB-9327-0A400319B232.jpg?v=1719236590",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-earrings?variant=gid://shopify/ProductVariant/45635376939230",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/45639840563422": {
     "product_title": "Antique Lakshmi Colour stone Necklace with Earrings",
