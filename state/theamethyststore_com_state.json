@@ -21835,9 +21835,10 @@
     "amount": 5112.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6032.jpg?v=1719496216",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/jiya-stone-studs-1?variant=gid://shopify/ProductVariant/45197921779939",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45197926269155": {
     "product_title": "Elicia Stone Studs",
@@ -84540,7 +84541,7 @@
     "amount": 2300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0511.jpg?v=1758622562",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/drusilla-toe-ring?variant=gid://shopify/ProductVariant/47198346576099",
     "stock": 1
   },
