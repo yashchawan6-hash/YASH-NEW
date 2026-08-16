@@ -304,5 +304,41 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/meadow-muse-pendant?variant=gid://shopify/ProductVariant/52948349321513",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20334_resized.jpg?v=1775657129"
+  },
+  {
+    "timestamp_ist": "2026-08-16 21:07:21",
+    "product_title": "Meadow Muse Pendant",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/52485476843817",
+    "sku": "R17124",
+    "price": 19465.0,
+    "variant_price": 19465.0,
+    "product_price": 19465.0,
+    "amount": 19465.0,
+    "total_price": 19465.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 16,
+    "curr_stock": 15,
+    "url": "https://www.rasasilver.com/products/meadow-muse-pendant?variant=gid://shopify/ProductVariant/52485476843817",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2675.jpg?v=1769672524"
+  },
+  {
+    "timestamp_ist": "2026-08-16 21:07:21",
+    "product_title": "Chandralekha Stud Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/51222115418409",
+    "sku": "R13512",
+    "price": 12900.0,
+    "variant_price": 12900.0,
+    "product_price": 12900.0,
+    "amount": 12900.0,
+    "total_price": 12900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/studs-3?variant=gid://shopify/ProductVariant/51222115418409",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0190.jpg?v=1759211499"
   }
 ]
