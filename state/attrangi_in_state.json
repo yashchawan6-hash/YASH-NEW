@@ -14049,9 +14049,10 @@
     "amount": 2850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/pakhi-floral-traditional-pacheli-kada-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815841",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/pakhi-floral-traditional-pacheli-kada-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/48355026501844",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48355026534612": {
     "product_title": "Pakhi Floral Traditional Pacheli Kada | Sone Pe Suhaga Collection",
@@ -14066,9 +14067,10 @@
     "amount": 5450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/pakhi-floral-traditional-pacheli-kada-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815841",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/pakhi-floral-traditional-pacheli-kada-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/48355026534612",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48355026567380": {
     "product_title": "Pakhi Floral Traditional Pacheli Kada | Sone Pe Suhaga Collection",
