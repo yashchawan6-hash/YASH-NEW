@@ -763,7 +763,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-1856.jpg?v=1615377401",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/gold-plated-green-leaves-stone-studs?variant=gid://shopify/ProductVariant/39370450337942",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/39432976924822": {
     "product_title": "Striking Long Necklace",
@@ -4293,7 +4294,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-2791.jpg?v=1748594816",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fiery-floryn?variant=gid://shopify/ProductVariant/43027858620643",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43032328569059": {
     "product_title": "Mayuric Navarathna Earrings",
@@ -5589,7 +5591,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-0476.jpg?v=1764589755",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/calista-stone-pendant?variant=gid://shopify/ProductVariant/43301480071395",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43301482135779": {
     "product_title": "Aarvi Navarathna Stone Pendant",
@@ -5655,9 +5658,10 @@
     "amount": 43707.6,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-107-0631.jpg?v=1662271552",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/ashrith-stone-pair-bangles?variant=gid://shopify/ProductVariant/47027150553315",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43814732431587": {
     "product_title": "Ashrith Stone Pair Bangles",
