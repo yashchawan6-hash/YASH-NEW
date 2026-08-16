@@ -5559,10 +5559,10 @@
     "amount": 7999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_46b13c33-9561-42dc-9ddd-9412ed7ca823.jpg?v=1643037719",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/pure-brass-kemp-pearl-haram-with-earrings?variant=gid://shopify/ProductVariant/42383848112350",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42391386226910": {
     "product_title": "Small kemp Balis",
