@@ -15641,9 +15641,10 @@
     "amount": 54.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX1901XM1_3.jpg?v=1687154008",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/antique-gold-plated-yutha-necklace-earring-set?variant=gid://shopify/ProductVariant/40341861531714",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41664489914434": {
     "product_title": "Antique Gold Plated Yutha Necklace Earring Set",
