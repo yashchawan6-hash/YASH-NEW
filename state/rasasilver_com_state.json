@@ -17103,9 +17103,10 @@
     "amount": 1020.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS230.jpg?v=1759994426",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/s18?variant=gid://shopify/ProductVariant/52279497949481",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52274106958121": {
     "product_title": "White Fire Ring",
