@@ -22705,8 +22705,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/791832A7-4453-44AB-9327-0A400319B232.jpg?v=1719236590",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-mesh-necklace-with-earrings?variant=gid://shopify/ProductVariant/45635376939230",
-    "stock": 10,
-    "last_alerted_stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/45639840563422": {
     "product_title": "Antique Lakshmi Colour stone Necklace with Earrings",
@@ -59096,6 +59096,57 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9BB3FD0D-97BF-49A7-B86C-9B52460569E8.jpg?v=1786875830",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ruby-green-floral-elakkathali-choker-with-studs?variant=gid://shopify/ProductVariant/48605611655390",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48606013096158": {
+    "product_title": "Antique Lakshmi Kada",
+    "product_handle": "antique-lakshmi-kada",
+    "variant_id": "gid://shopify/ProductVariant/48606013096158",
+    "global_id": "gid://shopify/ProductVariant/48606013096158",
+    "variant_title": "2.4",
+    "sku": "1949",
+    "price": 1699.0,
+    "variant_price": 1699.0,
+    "product_price": 1699.0,
+    "amount": 1699.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013096158",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48606013128926": {
+    "product_title": "Antique Lakshmi Kada",
+    "product_handle": "antique-lakshmi-kada",
+    "variant_id": "gid://shopify/ProductVariant/48606013128926",
+    "global_id": "gid://shopify/ProductVariant/48606013128926",
+    "variant_title": "2.6",
+    "sku": "1949",
+    "price": 1699.0,
+    "variant_price": 1699.0,
+    "product_price": 1699.0,
+    "amount": 1699.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013128926",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48606013161694": {
+    "product_title": "Antique Lakshmi Kada",
+    "product_handle": "antique-lakshmi-kada",
+    "variant_id": "gid://shopify/ProductVariant/48606013161694",
+    "global_id": "gid://shopify/ProductVariant/48606013161694",
+    "variant_title": "2.8",
+    "sku": "1949",
+    "price": 1699.0,
+    "variant_price": 1699.0,
+    "product_price": 1699.0,
+    "amount": 1699.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013161694",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47736604426462": {
