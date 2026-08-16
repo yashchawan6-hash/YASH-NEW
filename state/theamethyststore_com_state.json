@@ -3950,7 +3950,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS09736.jpg?v=1695447654",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/rudhra-rope-necklace?variant=gid://shopify/ProductVariant/42926109982947",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42926110048483": {
@@ -7376,7 +7376,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-103-0302_1.jpg?v=1668079743",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/white-kundan-bracelet?variant=gid://shopify/ProductVariant/43521666384099",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/43535023112419": {
     "product_title": "Arsha Studs",
@@ -13549,6 +13549,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/4_5c76753f-f31c-463a-9e66-a969a7d38063.jpg?v=1705588290",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mona-studs?variant=gid://shopify/ProductVariant/43964884910307",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/43965075030243": {
+    "product_title": "Nishthika Victorian Necklace Set",
+    "product_handle": "nishthika-victorian-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/43965075030243",
+    "global_id": "gid://shopify/ProductVariant/43965075030243",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-4829",
+    "price": 112400.0,
+    "variant_price": 112400.0,
+    "product_price": 112400.0,
+    "amount": 112400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4829-_3_b0847d99-3347-4e17-b6fb-0389855e7006.jpg?v=1737012269",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/nishthika-victorian-necklace-set?variant=gid://shopify/ProductVariant/43965075030243",
     "stock": 1
   },
   "gid://shopify/ProductVariant/43967962939619": {
