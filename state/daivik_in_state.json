@@ -1009,9 +1009,10 @@
     "amount": 2499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/lakshmi-coin-haram-with-jhumkas-neckwearnecklace-640.jpg?v=1598194484",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/lakshmi-coin-haram-with-jhumkas?variant=gid://shopify/ProductVariant/35741100966041",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/35852607586457": {
     "product_title": "Dashavatar Hipbelt",
@@ -15681,8 +15682,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DC18AED0-2376-4F2F-AFE9-D6C2CD2A73FF.jpg?v=1695483926",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ruby-ad-jhumkas-with-attached-mattal?variant=gid://shopify/ProductVariant/44358526632158",
-    "stock": 33,
-    "last_alerted_stock": 33
+    "stock": 32,
+    "last_alerted_stock": 32
   },
   "gid://shopify/ProductVariant/44359362347230": {
     "product_title": "Simple Heart shaped AD Necklace with Studs",
@@ -31097,7 +31098,7 @@
     "amount": 1199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0BE7EC98-79A3-4101-B86B-3BDF1B98EF17.jpg?v=1736716955",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-peacock-textured-earcuff?variant=gid://shopify/ProductVariant/46211794075870",
     "stock": 1,
     "last_alerted_stock": 1
