@@ -9712,7 +9712,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/traditional-matte-gold-kada-s-or-indian-openable-bangle-attrangi-1.jpg?v=1739814880",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fluorite-mint-traditional-matte-gold-kada-s-indian-openable-bangle?variant=gid://shopify/ProductVariant/43891102712020",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44507514699988": {
     "product_title": "Traditional Matte Gold Indian Openable Bangle",
@@ -11120,9 +11121,10 @@
     "amount": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/chiranjeevi-long-indian-statement-necklace-attrangi-1.jpg?v=1740902523",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/chiranjeevi-long-indian-statement-necklace?variant=gid://shopify/ProductVariant/44054638854356",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44070356254932": {
     "product_title": "Larissa Bridal Diamond Set with Earrings",
@@ -17330,7 +17332,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-07-23at12.10.53PM_1.jpg?v=1750782199",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/yasmin-jadaau-long-indian-chandbali?variant=gid://shopify/ProductVariant/45468738355412",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45468929425620": {
     "product_title": "Navratna Salima Jadaau Jhumka",
