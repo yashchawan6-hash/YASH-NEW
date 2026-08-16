@@ -4791,10 +4791,10 @@
     "amount": 618.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20PC401286_Model.jpg?v=1785486758",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-minimal-chain-butterfly-motif-zircons-studded-drop-necklace?variant=gid://shopify/ProductVariant/43817424421038",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43817433628846": {
     "product_title": "Chic Butterfly Rose Gold Necklace Chain",
@@ -19330,8 +19330,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS406894_1.jpg?v=1765176664",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-red-stone-sparkling-cubic-zirconia-studded-necklace-set-copy-1?variant=gid://shopify/ProductVariant/46088567128238",
-    "stock": 15,
-    "last_alerted_stock": 0
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/46088567816366": {
     "product_title": "American Diamond Zirconia Blue Necklace Set",
@@ -19366,7 +19366,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-temple-jewellery-set-with-lakshmi-motif-green-cz-floral-accents-necklace-set-37926731645102.jpg?v=1771409683",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-lakshmi-elephant-motifs-temple-jewellery-set-with-green-accents-copy?variant=gid://shopify/ProductVariant/46088568144046",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46088614641838": {
@@ -31044,7 +31044,7 @@
     "amount": 1042.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rose-gold-plated-cubic-zirconia-bangle-style-bracelet-bracelet-1144176252.jpg?v=1755713731",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-cubic-zirconia-bangle-style-bracelet?variant=gid://shopify/ProductVariant/46266741489838",
     "stock": 1,
     "last_alerted_stock": 1
