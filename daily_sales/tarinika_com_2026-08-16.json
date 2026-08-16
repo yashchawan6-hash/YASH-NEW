@@ -322,5 +322,41 @@
     "curr_stock": 1,
     "url": "https://www.tarinika.com/products/aranya-floral-antique-rakhi?variant=gid://shopify/ProductVariant/42294325280834",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TER0002XDY_b06c07aa-4bce-4069-a2d4-f7afd4a3b241.jpg?v=1752149707"
+  },
+  {
+    "timestamp_ist": "2026-08-16 16:16:49",
+    "product_title": "Tanirika Antique Bangles",
+    "variant_title": "2.8",
+    "variant_id": "gid://shopify/ProductVariant/43650362179650",
+    "sku": "US-KBX4486XHC8",
+    "price": 31.99,
+    "variant_price": 31.99,
+    "product_price": 31.99,
+    "amount": 31.99,
+    "total_price": 31.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/tanirika-antique-bangles?variant=gid://shopify/ProductVariant/43650362179650",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/KBX4486X_8fc7bec3-9b6b-4082-a986-1ca98a6c1e72.jpg?v=1778749479"
+  },
+  {
+    "timestamp_ist": "2026-08-16 16:16:49",
+    "product_title": "Bloom Classic CZ Jhumka Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44136928411714",
+    "sku": "US-TXX0048XG6",
+    "price": 17.5,
+    "variant_price": 17.5,
+    "product_price": 17.5,
+    "amount": 17.5,
+    "total_price": 17.5,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.tarinika.com/products/bloom-classic-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/44136928411714",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T048.png?v=1784272234"
   }
 ]

@@ -27098,7 +27098,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6511_1ed9d092-41c3-41eb-ad2b-c2a7ed0a9d4e.jpg?v=1731391026",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/jamaira-studs?variant=gid://shopify/ProductVariant/45466018087139",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45466035650787": {
     "product_title": "Lekha Stone Studs",
@@ -46915,7 +46916,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-9254.jpg?v=1748611948",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/anvaya-short-necklace-set?variant=gid://shopify/ProductVariant/46410921902307",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46410947297507": {
     "product_title": "Laveena Short Necklace Set",
@@ -47155,7 +47157,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8162.jpg?v=1748782206",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vimala-kundan-studs?variant=gid://shopify/ProductVariant/46415624306915",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46415687745763": {
     "product_title": "Mira Kundan Studs",
@@ -47172,7 +47175,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8169.jpg?v=1748785289",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mira-kundan-studs?variant=gid://shopify/ProductVariant/46415687745763",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46416670982371": {
     "product_title": "Sabitha Chandhubaali Earrings",
@@ -51857,7 +51861,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0943.jpg?v=1750416089",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/white-kundan-ring?variant=gid://shopify/ProductVariant/46735430254819",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46735436972259": {
     "product_title": "White Floral Kundan Ring",
@@ -75181,7 +75186,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10915_3.jpg?v=1756293142",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/tanisha-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47070693654755",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47070705647843": {
     "product_title": "Amaira Avikam Choker Set",
@@ -75215,7 +75221,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10984_1.jpg?v=1756295583",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/bhanvi-avikam-short-necklace-set?variant=gid://shopify/ProductVariant/47070723145955",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47070728126691": {
     "product_title": "Fabulous Avikam Short Necklace Set",
@@ -76457,7 +76464,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11234.jpg?v=1756719817",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/shinning-choker-set?variant=gid://shopify/ProductVariant/47081275916515",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47081276113123": {
     "product_title": "Cerlin Drop Earrings",

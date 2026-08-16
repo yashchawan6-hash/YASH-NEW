@@ -25961,7 +25961,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0050_copy_d6fbdb81-a97b-4e95-a914-d69791dd896e.jpg?v=1777358265",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/avarni-emerald-hangings?variant=gid://shopify/ProductVariant/51434724032809",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51434728161577": {
     "product_title": "Ovelyn Hangings",
@@ -27819,7 +27820,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0141_resized.jpg?v=1762319807",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mani-sita-necklace?variant=gid://shopify/ProductVariant/52398120632617",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52398120665385": {
     "product_title": "Mani Sita Navaratna Necklace",
@@ -44479,7 +44481,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0636copy.jpg?v=1766742954",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/marigolda-victorian-studs?variant=gid://shopify/ProductVariant/52333763428649",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52334272610601": {
@@ -44991,7 +44993,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_49_24Dec2055_resized.jpg?v=1767424552",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/glimora-stone-bangles?variant=gid://shopify/ProductVariant/52338158043433",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52338158633257": {
     "product_title": "Starveil Stone Bangles",
@@ -45900,7 +45903,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0357copy_resized_46b3f69b-e349-4b81-a2f6-2199be06fe02.jpg?v=1767683089",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/wingessa-cz-necklace-set?variant=gid://shopify/ProductVariant/52383538676009",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52383679906089": {
     "product_title": "Emerfly CZ Necklace Set",
@@ -45987,7 +45990,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0221copy_resized_c0cb9981-2199-4df9-9749-5f03e3682233.jpg?v=1767685259",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/cz-necklace-set-2?variant=gid://shopify/ProductVariant/52390337577257",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52390351110441": {
     "product_title": "Grevix CZ Necklace Set",
@@ -47471,7 +47475,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3135_resized.jpg?v=1769596783",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/moonlight-cz-necklace-set?variant=gid://shopify/ProductVariant/52419983573289",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52420011852073": {
@@ -47627,7 +47631,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa__silver_Mood__10Jan0486_resized.jpg?v=1769598168",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/fleurie-victorian-necklace-set?variant=gid://shopify/ProductVariant/52420272357673",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52420296835369": {
     "product_title": "Tuskline Victorian Necklace Set",
@@ -49109,7 +49114,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0889_resized.jpg?v=1768975254",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/white-floral-cz-necklace-set?variant=gid://shopify/ProductVariant/52451312894249",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52451321545001": {
@@ -50832,7 +50837,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan0625_resized.jpg?v=1769084015",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/narashima-temple-pendant?variant=gid://shopify/ProductVariant/52469599174953",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52469599338793": {
@@ -50901,7 +50906,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1049_resized.jpg?v=1769584364",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/cz-delight-pendant-set?variant=gid://shopify/ProductVariant/52469845819689",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52469870166313": {
@@ -50919,7 +50924,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1064_resized_185778cd-98b9-44a1-af04-90985e04ff78.jpg?v=1769585165",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/lily-cz-pendant-set?variant=gid://shopify/ProductVariant/52469870166313",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52469905555753": {
@@ -56006,7 +56011,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_30Jan2442_resized.jpg?v=1770477291",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pear-leaf-victorian-kanti?variant=gid://shopify/ProductVariant/52554382475561",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52554400956713": {
     "product_title": "Ruby Oval Victorian Kanti",
@@ -56178,7 +56184,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0128copy_resized_56c39ef5-92dd-416b-84f3-e164da39ea4e.jpg?v=1770272461",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/paradis-royale-cz-pendant?variant=gid://shopify/ProductVariant/52559962472745",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52559964864809": {
