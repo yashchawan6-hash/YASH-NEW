@@ -11179,7 +11179,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/71_b28ebe9a-2e71-4f5e-b006-f15fa709076b.png?v=1756141494",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/parvati-gold-plated-ring?variant=gid://shopify/ProductVariant/48816049422529",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48816156180673": {
     "product_title": "HEMAKANTI MINT POLKI RING",
@@ -23120,9 +23121,10 @@
     "amount": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/2_ca4d31fb-6662-4e76-b4d0-13196bd5b3ce.png?v=1784122961",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/geetika-gold-plated-moissanite-necklace-set?variant=gid://shopify/ProductVariant/50282000056513",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50282009985217": {
     "product_title": "AVLEEN RED & MINT POLKI LONG NECKLACE SET",
@@ -23208,7 +23210,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/32_74753ce5-cffb-40e1-801c-fb95a38749ac.png?v=1784122375",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/jeevika-gold-plated-jhumka?variant=gid://shopify/ProductVariant/50286458896577",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50286563295425": {
     "product_title": "MAYUKI NAVRATAN MOISSANITE POLKI CHANDBALI",
