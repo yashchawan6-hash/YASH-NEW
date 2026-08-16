@@ -8570,8 +8570,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
-    "stock": 21,
-    "last_alerted_stock": 8
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/50712092999977": {
     "product_title": "Teja Valli Danglers",
@@ -44485,7 +44485,7 @@
     "amount": 13430.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0636copy.jpg?v=1766742954",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/marigolda-victorian-studs?variant=gid://shopify/ProductVariant/52333763428649",
     "stock": 1,
     "last_alerted_stock": 0
