@@ -115,9 +115,9 @@
     "amount": 20800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-8.jpg?v=1739170462",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/emerald-kundan-studs?variant=gid://shopify/ProductVariant/49836042322217",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49836176179497": {
@@ -74682,7 +74682,7 @@
     "amount": 11800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May1011_resized.jpg?v=1781865327",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vasantika-kundan-studs?variant=gid://shopify/ProductVariant/53103634612521",
     "stock": 1
   },
