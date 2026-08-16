@@ -14484,7 +14484,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-heart-knot-design-cubic-zirconia-studded-drop-earrings-drop-earrings-37338735870126.jpg?v=1755716967",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-heart-knot-design-cubic-zirconia-studded-drop-earrings?variant=gid://shopify/ProductVariant/45839715106990",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45839717957806": {
     "product_title": "Rubans Rose Gold-Plated Chain Link Open Cuff Bracelet Modern Statement Jewelry",
@@ -14673,7 +14674,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-sapphire-cubic-zicronia-studded-premium-jewellery-set-necklace-set-37351690469550.jpg?v=1755716927",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-sapphire-cubic-zicronia-studded-premium-jewellery-set?variant=gid://shopify/ProductVariant/45839727263918",
-    "stock": 14,
+    "stock": 15,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/45839727591598": {
@@ -27924,7 +27925,7 @@
     "amount": 1223.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-cubic-zirconia-studded-chain-link-design-premium-openable-bracelet-wristwear-1203223081.jpg?v=1770360642",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-cubic-zirconia-studded-chain-link-design-premium-openable-bracelet?variant=gid://shopify/ProductVariant/46212975886510",
     "stock": 1,
     "last_alerted_stock": 1
