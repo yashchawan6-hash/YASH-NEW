@@ -19876,9 +19876,10 @@
     "amount": 136450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5804_b757bf4c-ef0c-4daf-8637-ef0e5ed79b09.jpg?v=1784806842",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kalash-guttapusalu-necklace?variant=gid://shopify/ProductVariant/44741343477987",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44752945184995": {
     "product_title": "Tuhina Long Necklace Set",
@@ -38383,7 +38384,7 @@
     "amount": 30200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1323.jpg?v=1740050873",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/swashtikha-stone-maatal?variant=gid://shopify/ProductVariant/46036079771875",
     "stock": 1
   },
