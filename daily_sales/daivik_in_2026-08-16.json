@@ -1150,5 +1150,41 @@
     "curr_stock": 11,
     "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
+  },
+  {
+    "timestamp_ist": "2026-08-16 15:41:58",
+    "product_title": "AD Stone Leaf Motif Necklace With Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/36285323378841",
+    "sku": "378",
+    "price": 1799.0,
+    "variant_price": 1799.0,
+    "product_price": 1799.0,
+    "amount": 1799.0,
+    "total_price": 1799.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 56,
+    "curr_stock": 55,
+    "url": "https://www.daivik.in/products/ad-stone-leaf-motif-necklace-with-earrings?variant=gid://shopify/ProductVariant/36285323378841",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/ad-stone-leaf-motif-necklace-with-earrings-neckwearnecklace-201.jpg?v=1600798597"
+  },
+  {
+    "timestamp_ist": "2026-08-16 15:41:58",
+    "product_title": "Set of 6 Kemp AD bangles",
+    "variant_title": "2.6",
+    "variant_id": "gid://shopify/ProductVariant/42314254418142",
+    "sku": "988",
+    "price": 1699.0,
+    "variant_price": 1699.0,
+    "product_price": 1699.0,
+    "amount": 1699.0,
+    "total_price": 1699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 18,
+    "curr_stock": 17,
+    "url": "https://www.daivik.in/products/set-of-6-kemp-ad-bangles?variant=gid://shopify/ProductVariant/42314254418142",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_02674945-7b6e-4236-9806-2024c9320bd6.jpg?v=1641656256"
   }
 ]

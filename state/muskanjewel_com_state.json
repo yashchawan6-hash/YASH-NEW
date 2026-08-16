@@ -1346,7 +1346,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260225_231844_fb97a91b-7a29-40db-a52a-323134dbffd8.jpg?v=1772115134",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-and-natural-strawberry-beads-3?variant=gid://shopify/ProductVariant/52802274427196",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52804484301116": {
     "product_title": "Jadau kundan jhumkas with pearl and natural strawberry beads drop",
@@ -4145,10 +4146,10 @@
     "amount": 4200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_100437_8eb1a8c4-a579-4d98-9a5e-62e0bfe699b9.jpg?v=1785154292",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-necklace-with-pearl-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53660206301500",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53660289270076": {
     "product_title": "Jadau Kundan Bridal Peacock Necklace with pearl",
