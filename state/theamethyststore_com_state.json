@@ -18321,9 +18321,10 @@
     "amount": 28755.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1092.jpg?v=1707900903",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/baiza-stone-pair-bangles?variant=gid://shopify/ProductVariant/46773685977315",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46230140682467": {
     "product_title": "Baiza Stone Pair Bangles",
@@ -106429,7 +106430,7 @@
     "amount": 53443.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12800.jpg?v=1763468102",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/amaira-short-necklace?variant=gid://shopify/ProductVariant/47570730909923",
     "stock": 1
   },
