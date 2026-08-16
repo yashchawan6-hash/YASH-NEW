@@ -3652,5 +3652,41 @@
     "curr_stock": 1,
     "url": "https://www.daivik.in/products/anklets?variant=gid://shopify/ProductVariant/44538347716830",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B891EFDC-50F9-4619-9358-6EE1CB63364E.heic?v=1700581000"
+  },
+  {
+    "timestamp_ist": "2026-08-16 22:36:51",
+    "product_title": "AD changeable studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44192837632222",
+    "sku": "106",
+    "price": 799.0,
+    "variant_price": 799.0,
+    "product_price": 799.0,
+    "amount": 799.0,
+    "total_price": 799.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 18,
+    "curr_stock": 17,
+    "url": "https://www.daivik.in/products/ad-changeable-studs?variant=gid://shopify/ProductVariant/44192837632222",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_08e4ed6b-ba61-47e9-b771-865e36387862.heic?v=1684327210"
+  },
+  {
+    "timestamp_ist": "2026-08-16 22:36:51",
+    "product_title": "Victorian AD Pendant Choker with Earrings",
+    "variant_title": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/45763463872734",
+    "sku": "881",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 29,
+    "curr_stock": 28,
+    "url": "https://www.daivik.in/products/victorian-ad-choker-with-earrings?variant=gid://shopify/ProductVariant/45763463872734",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0240.jpg?v=1779468897"
   }
 ]
