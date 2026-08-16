@@ -2204,9 +2204,10 @@
     "amount": 20300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20334_resized.jpg?v=1775657129",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/meadow-muse-pendant?variant=gid://shopify/ProductVariant/52948349321513",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50180739137833": {
     "product_title": "Darpana Karvi Pendant",
@@ -37951,7 +37952,7 @@
     "amount": 59245.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2535_resized.jpg?v=1763459459",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayur-moti-choker?variant=gid://shopify/ProductVariant/51527299858729",
     "stock": 1
   },
@@ -66241,7 +66242,7 @@
     "amount": 35190.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16184_resized.jpg?v=1774273741",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mint-empress-victorian-kada?variant=gid://shopify/ProductVariant/52824391483689",
     "stock": 1
   },
@@ -68136,7 +68137,7 @@
     "amount": 55930.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16165_resized.jpg?v=1774346856",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ratnashila-moissanite-bangles?variant=gid://shopify/ProductVariant/52832177717545",
     "stock": 1
   },
