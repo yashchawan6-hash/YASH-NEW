@@ -196,5 +196,41 @@
     "curr_stock": 14,
     "url": "https://www.kanshijewels.com/products/dulhan-jadau-rani-maangtika?variant=gid://shopify/ProductVariant/53420765151532",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Dulhanjadauranimaangtika1450.jpg?v=1783586526"
+  },
+  {
+    "timestamp_ist": "2026-08-16 17:56:43",
+    "product_title": "Jadau Kundan Clip",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/46477172506924",
+    "sku": "AC122",
+    "price": 997.5,
+    "variant_price": 997.5,
+    "product_price": 997.5,
+    "amount": 997.5,
+    "total_price": 1995.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "prev_stock": 2,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-clip?variant=gid://shopify/ProductVariant/46477172506924",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1100_3.jpg?v=1692612773"
+  },
+  {
+    "timestamp_ist": "2026-08-16 17:56:43",
+    "product_title": "Jadau Kundan Maang Tikka",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48249344524588",
+    "sku": "MT31",
+    "price": 1312.5,
+    "variant_price": 1312.5,
+    "product_price": 1312.5,
+    "amount": 1312.5,
+    "total_price": 1312.5,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-28?variant=gid://shopify/ProductVariant/48249344524588",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1250_3_1.jpg?v=1711011601"
   }
 ]

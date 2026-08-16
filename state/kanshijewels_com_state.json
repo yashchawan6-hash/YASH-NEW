@@ -6184,10 +6184,10 @@
     "amount": 997.5,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1100_3.jpg?v=1692612773",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-clip?variant=gid://shopify/ProductVariant/46477172506924",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46477187088684": {
     "product_title": "Jadau Kundan Clip",
@@ -11719,7 +11719,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1250_3_1.jpg?v=1711011601",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-28?variant=gid://shopify/ProductVariant/48249344524588",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/48249344622892": {
     "product_title": "Jadau Kundan Maang Tikka",
