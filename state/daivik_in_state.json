@@ -8161,7 +8161,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_6e95c64c-ea53-48c1-a589-bc568a5ff3e6.heic?v=1656239729",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-177?variant=gid://shopify/ProductVariant/43015535722718",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/43040268452062": {
     "product_title": "Lakshmi Kemp Brass Necklace with Jhumkas",
@@ -12244,8 +12245,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3afeda71-4d33-4f8d-bb7c-5fa3ee7341cd.heic?v=1680874634",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
-    "stock": 46,
-    "last_alerted_stock": 46
+    "stock": 45,
+    "last_alerted_stock": 45
   },
   "gid://shopify/ProductVariant/44131779477726": {
     "product_title": "Temple Teeka in 4 variants",
@@ -37195,7 +37196,7 @@
     "amount": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/6D306FEB-C930-4743-A32A-FBEB4ECF8E48.jpg?v=1752941521",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/jyothika-mam-inspired-ad-green-pendant-necklace?variant=gid://shopify/ProductVariant/47092708573406",
     "stock": 0,
     "last_alerted_stock": 0
@@ -45205,7 +45206,7 @@
     "amount": 1299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0344.heic?v=1758199863",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-16-inches?variant=gid://shopify/ProductVariant/47542601515230",
     "stock": 0,
     "last_alerted_stock": 0
@@ -57430,7 +57431,7 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/ADD05F51-8F3A-4262-86A7-4E853BC4FB59.jpg?v=1782904755",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/invisible-green-ganesha-chain?variant=gid://shopify/ProductVariant/48447550357726",
     "stock": 5,
     "last_alerted_stock": 5
@@ -57782,7 +57783,7 @@
     "amount": 2299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/JPEGimage-43A4-8F99-E6-0.jpg?v=1783684450",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/10-in-1-changeable-bangles?variant=gid://shopify/ProductVariant/48422119506142",
     "stock": 3,
     "last_alerted_stock": 3
