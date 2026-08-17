@@ -39188,7 +39188,7 @@
     "amount": 137928.86,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8690_3217b298-7da9-450d-a48f-c6d2ff9c6e53.jpg?v=1742628502",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/peacock-designed-nagas-long-necklace?variant=gid://shopify/ProductVariant/46101201453283",
     "stock": 1
   },
@@ -42003,24 +42003,6 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/meera-avikam-necklace-set?variant=gid://shopify/ProductVariant/46201483133155",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/46201554436323": {
-    "product_title": "Roshini Avikam Choker Set",
-    "product_handle": "roshini-avikam-choker-set",
-    "variant_id": "gid://shopify/ProductVariant/46201554436323",
-    "global_id": "gid://shopify/ProductVariant/46201554436323",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-8958",
-    "price": 89455.0,
-    "variant_price": 89455.0,
-    "product_price": 89455.0,
-    "amount": 89455.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8958.jpg?v=1743508315",
-    "available_for_sale": false,
-    "url": "https://www.theamethyststore.com/products/roshini-avikam-choker-set?variant=gid://shopify/ProductVariant/46201554436323",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46201611124963": {
     "product_title": "Sarvani Avikam Necklace Set",
@@ -61978,7 +61960,7 @@
     "amount": 12978.8,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0808-2_bb8ccecb-f2bc-4848-8af6-6d849b94cc1e.jpg?v=1753955050",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/bracelet-2?variant=gid://shopify/ProductVariant/46965398962403",
     "stock": 1
   },
