@@ -16913,9 +16913,10 @@
     "amount": 12000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/56_e69e2ee1-23f4-4051-9320-56662a436073.png?v=1756140985",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/kamini-green-kundan-perphools?variant=gid://shopify/ProductVariant/49237399929025",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49237446852801": {
     "product_title": "INAYA RED & GREEN KUNDAN TIKA",
