@@ -20285,7 +20285,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMTP0003D_2.jpg?v=1724823662",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/monochrome-play-reverie-cz-silver-drop-earrings?variant=gid://shopify/ProductVariant/44555868438679",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44555964612759": {
     "product_title": "Monochrome Play Chandelier CZ Silver Drop Earrings",
@@ -20402,9 +20403,10 @@
     "amount": 8579.4,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMTP0015N.jpg?v=1724934479",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/monochrome-play-cz-silver-cuff-necklace?variant=gid://shopify/ProductVariant/44560059072663",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44571184005271": {
     "product_title": "Tara Silver CZ Necklace set",
