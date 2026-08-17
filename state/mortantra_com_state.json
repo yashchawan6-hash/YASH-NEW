@@ -79343,7 +79343,7 @@
     "variant_id": "gid://shopify/ProductVariant/48513421115615",
     "global_id": "gid://shopify/ProductVariant/48513421115615",
     "variant_title": "Purple",
-    "sku": "MRNG260PR",
+    "sku": "MRNG260PR|7",
     "price": 2500.0,
     "variant_price": 2500.0,
     "product_price": 2500.0,
@@ -79387,6 +79387,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG260LP.jpg?v=1771940118",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng260?variant=gid://shopify/ProductVariant/51211448582367",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/51211453497567": {
+    "product_title": "Gold-Plated Jadau Kundan Adjustable Ring - MRNG260",
+    "product_handle": "gold-plated-jadau-kundan-ring-mrng260",
+    "variant_id": "gid://shopify/ProductVariant/51211453497567",
+    "global_id": "gid://shopify/ProductVariant/51211453497567",
+    "variant_title": "Purple A",
+    "sku": "MRNG260PR|8",
+    "price": 2500.0,
+    "variant_price": 2500.0,
+    "product_price": 2500.0,
+    "amount": 2500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG260PR.jpg?v=1771940118",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng260?variant=gid://shopify/ProductVariant/51211453497567",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48513548124383": {
