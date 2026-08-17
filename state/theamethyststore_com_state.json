@@ -3717,7 +3717,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2497_7f4acb4f-db93-4f34-90e3-bbc5068a165d.jpg?v=1687325143",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/navarathna-studs?variant=gid://shopify/ProductVariant/42820733206755",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45263544811747": {
     "product_title": "Chittra Single Bangles",
@@ -131617,7 +131618,7 @@
     "amount": 45700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3778.jpg?v=1770381146",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/arvika-kundan-pendant?variant=gid://shopify/ProductVariant/48007128678627",
     "stock": 1
   },
