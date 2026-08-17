@@ -1071,9 +1071,10 @@
     "amount": 1919.2,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A6194_copy_copy.jpg?v=1581683490",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/32531033554980",
-    "stock": 6
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32531033587748": {
     "product_title": "Sira Antique Bangles",
