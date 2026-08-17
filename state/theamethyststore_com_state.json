@@ -47295,6 +47295,23 @@
     "url": "https://www.theamethyststore.com/products/jashvitha-kundan-bracelet?variant=gid://shopify/ProductVariant/46416825090275",
     "stock": 2
   },
+  "gid://shopify/ProductVariant/46416954196195": {
+    "product_title": "Lisha Stone Ring",
+    "product_handle": "lisha-stone-ring-1",
+    "variant_id": "gid://shopify/ProductVariant/46416954196195",
+    "global_id": "gid://shopify/ProductVariant/46416954196195",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0861",
+    "price": 4700.0,
+    "variant_price": 4700.0,
+    "product_price": 4700.0,
+    "amount": 4700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0861.jpg?v=1748853266",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/lisha-stone-ring-1?variant=gid://shopify/ProductVariant/46416954196195",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/46417192059107": {
     "product_title": "Lakshana Stone Studs",
     "product_handle": "lakshana-stone-studs",
@@ -47328,6 +47345,23 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kashvin-stone-ring?variant=gid://shopify/ProductVariant/46417210179811",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/46417253466339": {
+    "product_title": "Bianaca Stone Ring",
+    "product_handle": "bianaca-stone-ring",
+    "variant_id": "gid://shopify/ProductVariant/46417253466339",
+    "global_id": "gid://shopify/ProductVariant/46417253466339",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0875",
+    "price": 3900.0,
+    "variant_price": 3900.0,
+    "product_price": 3900.0,
+    "amount": 3900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0875.jpg?v=1748861338",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/bianaca-stone-ring?variant=gid://shopify/ProductVariant/46417253466339",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/46417260708067": {
     "product_title": "Jashwanti Stone Studs",
