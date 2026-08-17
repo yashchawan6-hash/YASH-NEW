@@ -18988,9 +18988,10 @@
     "amount": 89.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0008N.jpg?v=1706776372",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/alyssa-statement-kundan-necklace-set?variant=gid://shopify/ProductVariant/40743314817090",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41105391779906": {
     "product_title": "Classic Shine Polki Necklace Set",
