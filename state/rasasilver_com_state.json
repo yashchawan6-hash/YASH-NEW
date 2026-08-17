@@ -71557,7 +71557,7 @@
     "amount": 8160.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar0142_resized.jpg?v=1775208186",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/indira-temple-necklace?variant=gid://shopify/ProductVariant/52889885016361",
     "stock": 3,
     "last_alerted_stock": 3
@@ -93388,6 +93388,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0709.jpg?v=1786953988",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/aarvini-cz-danglers?variant=gid://shopify/ProductVariant/53419078811945",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53419081859369": {
+    "product_title": "Eshvani CZ Danglers",
+    "product_handle": "eshvani-cz-danglers",
+    "variant_id": "gid://shopify/ProductVariant/53419081859369",
+    "global_id": "gid://shopify/ProductVariant/53419081859369",
+    "variant_title": "Default Title",
+    "sku": "R28417",
+    "price": 12800.0,
+    "variant_price": 12800.0,
+    "product_price": 12800.0,
+    "amount": 12800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0697.jpg?v=1786954413",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/eshvani-cz-danglers?variant=gid://shopify/ProductVariant/53419081859369",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53419089264937": {
