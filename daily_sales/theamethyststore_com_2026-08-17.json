@@ -16,5 +16,41 @@
     "curr_stock": 35,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
+  },
+  {
+    "timestamp_ist": "2026-08-17 10:38:05",
+    "product_title": "Fariya Nose Pin",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/43691532189923",
+    "sku": "AMS-113-0238",
+    "price": 1300.0,
+    "variant_price": 1300.0,
+    "product_price": 1300.0,
+    "amount": 1300.0,
+    "total_price": 2600.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "prev_stock": 19,
+    "curr_stock": 17,
+    "url": "https://www.theamethyststore.com/products/fariya-nose-pin-1?variant=gid://shopify/ProductVariant/43691532189923",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0238.jpg?v=1675164694"
+  },
+  {
+    "timestamp_ist": "2026-08-17 10:38:05",
+    "product_title": "Yalika Nose Pin",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/43691563024611",
+    "sku": "AMS-113-0254",
+    "price": 1300.0,
+    "variant_price": 1300.0,
+    "product_price": 1300.0,
+    "amount": 1300.0,
+    "total_price": 1300.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.theamethyststore.com/products/yalika-nose-pin?variant=gid://shopify/ProductVariant/43691563024611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-113-0254.jpg?v=1675167729"
   }
 ]
