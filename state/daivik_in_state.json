@@ -54500,7 +54500,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/91A12708-AC32-473E-B57E-E240D95BA0BD.jpg?v=1776078743",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/manga-pure-kemp-bangles?variant=gid://shopify/ProductVariant/48086454501598",
-    "stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/48087932436702": {
     "product_title": "Pure Kemp Brass Peacock Pearl Choker with Jhumkas",
@@ -54885,8 +54886,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5121.jpg?v=1776594365",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-7?variant=gid://shopify/ProductVariant/48128940703966",
-    "stock": 13,
-    "last_alerted_stock": 13
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/48128940736734": {
     "product_title": "Heritage Watch Bracelet",
@@ -54903,8 +54904,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5123.jpg?v=1776594365",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-8?variant=gid://shopify/ProductVariant/48128940736734",
-    "stock": 34,
-    "last_alerted_stock": 34
+    "stock": 32,
+    "last_alerted_stock": 32
   },
   "gid://shopify/ProductVariant/48129394671838": {
     "product_title": "Kids / Adult Antique Jhumkas",
@@ -54921,8 +54922,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/3A9B8E45-FE6F-4859-B896-8C7099DE99DB.jpg?v=1776599140",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kids-adult-antique-jhumkas?variant=gid://shopify/ProductVariant/48129394671838",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/48133143757022": {
     "product_title": "Antique Lakshmi Chariot Kumkum Box",
@@ -59113,7 +59114,7 @@
     "amount": 1699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C212A11D-8F23-46DE-8894-E34661B11E0C.jpg?v=1786900231",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/antique-lakshmi-kada?variant=gid://shopify/ProductVariant/48606013096158",
     "stock": -1
   },
