@@ -17502,9 +17502,9 @@
     "amount": 3550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-08-02_at_1.40.47_PM.jpg?v=1750782263",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/floral-pea-diana-invisible-setting-diamond-studs?variant=gid://shopify/ProductVariant/45506792390868",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45506735833300": {
@@ -60023,7 +60023,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.30.19_PM.jpg?v=1786973335",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404770516",
     "stock": -1
   },
