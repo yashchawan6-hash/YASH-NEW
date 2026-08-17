@@ -14459,7 +14459,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-red-heart-shaped-crystal-choker-necklace-with-cubiczirconia-accents-necklace-chain-37338583695534.jpg?v=1755716983",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-red-heart-shaped-crystal-choker-necklace-with-cubiczirconia-accents?variant=gid://shopify/ProductVariant/45839709208750",
-    "stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/45839710191790": {
     "product_title": "Silver Toned Bracelet With Black & Champagne Crystals",
@@ -68511,7 +68512,7 @@
     "amount": 3237.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10MP411878-Model-1.jpg?v=1768549713",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re10mp411878?variant=gid://shopify/ProductVariant/47377719328942",
     "stock": 8,
     "last_alerted_stock": 8
