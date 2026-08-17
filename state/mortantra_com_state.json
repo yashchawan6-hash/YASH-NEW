@@ -7194,23 +7194,6 @@
     "url": "https://www.mortantra.com/products/mr-s502m-mishr-necklace-set?variant=gid://shopify/ProductVariant/44563240779999",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/44563348586719": {
-    "product_title": "Multicolor Dual-Tone Gold-Plated Mishr Necklace Set with Jadau Kundan - MR-S576M",
-    "product_handle": "mr-s576m-mishr-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/44563348586719",
-    "global_id": "gid://shopify/ProductVariant/44563348586719",
-    "variant_title": "Default Title",
-    "sku": "MR-S576M",
-    "price": 12000.0,
-    "variant_price": 12000.0,
-    "product_price": 12000.0,
-    "amount": 12000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S576M-2.jpg?v=1701339868",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/mr-s576m-mishr-necklace-set?variant=gid://shopify/ProductVariant/44563348586719",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/44573167845599": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Jhumka with Kanauti - ME1136M",
     "product_handle": "me1136m-jadau-kundan-earrings",
@@ -114147,6 +114130,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/44563348586719": {
+    "product_title": "Multicolor Dual-Tone Gold-Plated Mishr Necklace Set with Jadau Kundan - MR-S576M",
+    "product_handle": "mr-s576m-mishr-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/44563348586719",
+    "global_id": "gid://shopify/ProductVariant/44563348586719",
+    "variant_title": "Default Title",
+    "sku": "MR-S576M",
+    "price": 12000.0,
+    "variant_price": 12000.0,
+    "product_price": 12000.0,
+    "amount": 12000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S576M-2.jpg?v=1701339868",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mr-s576m-mishr-necklace-set?variant=gid://shopify/ProductVariant/44563348586719",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48385166901471": {
     "product_title": "Pichwai Inspired Chandbali Earrings with Peacock and Kundan Rosette - TN-EAR2",
