@@ -4856,7 +4856,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/manisha-polki-choker-set-attrangi.jpg?v=1739813509",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/manisha-polki-choker-set?variant=gid://shopify/ProductVariant/41614557348009",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42034249007316": {
     "product_title": "Salma Navratna Chandbali",
@@ -37388,7 +37389,7 @@
     "amount": 2850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770884308",
     "stock": 1,
     "last_alerted_stock": 1
@@ -49017,7 +49018,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-01at3.41.18PM.jpg?v=1775046541",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/nook-diamond-single-line-mangalsutra-set-gold-polish?variant=gid://shopify/ProductVariant/47747383558356",
     "stock": 2,
     "last_alerted_stock": 2
