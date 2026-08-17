@@ -1071,9 +1071,9 @@
     "amount": 1919.2,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A6194_copy_copy.jpg?v=1581683490",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.in/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/32531033554980",
-    "stock": 0,
+    "stock": 6,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32531033587748": {
@@ -22025,7 +22025,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0014XGY_b000107b-17a1-43b2-8fc6-dd3ab1fae5c1.jpg?v=1752149559",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/mayura-heritage-antique-rakhi?variant=gid://shopify/ProductVariant/52394175332720",
-    "stock": 2,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52394176250224": {

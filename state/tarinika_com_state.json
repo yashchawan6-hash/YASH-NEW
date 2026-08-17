@@ -1134,9 +1134,9 @@
     "amount": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A6194_copy_copy.jpg?v=1762530974",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/13845719744578",
-    "stock": 0,
+    "stock": 6,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40805494095938": {
