@@ -92688,7 +92688,7 @@
     "amount": 1020.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19643.jpg?v=1786021961",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/endless-sibling-rakhi?variant=gid://shopify/ProductVariant/53410123546921",
     "stock": 3
   },
@@ -92705,7 +92705,7 @@
     "amount": 1020.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19648.jpg?v=1786022736",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/endless-sibling-rakhi?variant=gid://shopify/ProductVariant/53410123579689",
     "stock": 3
   },
@@ -92791,7 +92791,7 @@
     "amount": 1020.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug19651.jpg?v=1786020567",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/best-bro-rakhi?variant=gid://shopify/ProductVariant/53409745174825",
     "stock": 4
   },
@@ -93099,6 +93099,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_41_107Pics0454_2.jpg?v=1786706815",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/radhika-temple-necklace?variant=gid://shopify/ProductVariant/53411191423273",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411191750953": {
+    "product_title": "Maragatha Reversable Kundan Choker",
+    "product_handle": "maragatha-reversable-kundan-choker",
+    "variant_id": "gid://shopify/ProductVariant/53411191750953",
+    "global_id": "gid://shopify/ProductVariant/53411191750953",
+    "variant_title": "Default Title",
+    "sku": "R32438",
+    "price": 31500.0,
+    "variant_price": 31500.0,
+    "product_price": 31500.0,
+    "amount": 31500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0262.jpg?v=1786967187",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/maragatha-reversable-kundan-choker?variant=gid://shopify/ProductVariant/53411191750953",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53411200598313": {

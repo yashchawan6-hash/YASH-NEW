@@ -3613,7 +3613,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-0794.jpg?v=1749195091",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shiviya-pendant?variant=gid://shopify/ProductVariant/46235892089059",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/42778491748579": {
     "product_title": "Rithva Earrings",
