@@ -1637,7 +1637,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/oversized-navratna-jadaau-ring-attrangi-1.jpg?v=1739812798",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/overdized-navratna-jadaau-ring?variant=gid://shopify/ProductVariant/40411692368041",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40411692433577": {
     "product_title": "Uncut Polki Rudra Ruby and Emerald Ring",
@@ -16003,6 +16004,23 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lavina-floral-diamond-maangtikka?variant=gid://shopify/ProductVariant/44982888464596",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/44982933029076": {
+    "product_title": "Sasha Single Line Polki Victorian Set",
+    "product_handle": "sasha-single-line-polki-victorian-set",
+    "variant_id": "gid://shopify/ProductVariant/44982933029076",
+    "global_id": "gid://shopify/ProductVariant/44982933029076",
+    "variant_title": "Default Title",
+    "sku": "SJO4214",
+    "price": 3650.0,
+    "variant_price": 3650.0,
+    "product_price": 3650.0,
+    "amount": 3650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-05-04at7.17.03PM.jpg?v=1739816354",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/sasha-single-line-polki-victorian-set?variant=gid://shopify/ProductVariant/44982933029076",
+    "stock": 0
   },
   "gid://shopify/ProductVariant/44982957703380": {
     "product_title": "Gitanjali long Single Line Sona Moti Mala",
@@ -55244,7 +55262,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at4.49.22PM.jpg?v=1784291551",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pink-rose-heavy-designer-floral-cocktail-diamond-ring-adjustable?variant=gid://shopify/ProductVariant/48318667358420",
     "stock": 3,
     "last_alerted_stock": 0
