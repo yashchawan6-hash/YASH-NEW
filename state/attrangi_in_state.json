@@ -16018,9 +16018,10 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-05-04at7.17.03PM.jpg?v=1739816354",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sasha-single-line-polki-victorian-set?variant=gid://shopify/ProductVariant/44982933029076",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/44982957703380": {
     "product_title": "Gitanjali long Single Line Sona Moti Mala",
@@ -17797,8 +17798,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-08-21at2.58.46PM.jpg?v=1750782418",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-glaze-long-earrings-multi-solitaire?variant=gid://shopify/ProductVariant/45557088321748",
-    "stock": 6,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45881220825300": {
     "product_title": "Auro Classic Diamond Bangle | Coloured Stones",
@@ -59803,6 +59804,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-14at1.12.50PM.jpg?v=1786710417",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ira-diamond-daily-wear-bracelet-unisex-rakhi?variant=gid://shopify/ProductVariant/48471412179156",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48485370626260": {
+    "product_title": "Aamne Saamne Polki Jhumka with Latkans | Traditional",
+    "product_handle": "aamne-saamne-polki-jhumka-with-latkans-traditional",
+    "variant_id": "gid://shopify/ProductVariant/48485370626260",
+    "global_id": "gid://shopify/ProductVariant/48485370626260",
+    "variant_title": "Default Title",
+    "sku": "SM9818-ER",
+    "price": 4250.0,
+    "variant_price": 4250.0,
+    "product_price": 4250.0,
+    "amount": 4250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-12at4.53.33PM_473cfe07-e2a7-4ef5-bae8-0c5feba59fb0.jpg?v=1786972175",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/aamne-saamne-polki-jhumka-with-latkans-traditional?variant=gid://shopify/ProductVariant/48485370626260",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47310500790484": {
