@@ -111507,6 +111507,23 @@
     "url": "https://www.theamethyststore.com/products/short-necklace-set-24?variant=gid://shopify/ProductVariant/47726696628451",
     "stock": -1
   },
+  "gid://shopify/ProductVariant/47726733066467": {
+    "product_title": "Tanuja Short Necklace Set",
+    "product_handle": "tanuja-short-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/47726733066467",
+    "global_id": "gid://shopify/ProductVariant/47726733066467",
+    "variant_title": "Default Title",
+    "sku": "AMS-102-13190",
+    "price": 47100.0,
+    "variant_price": 47100.0,
+    "product_price": 47100.0,
+    "amount": 47100.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13190.jpg?v=1765458985",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/tanuja-short-necklace-set?variant=gid://shopify/ProductVariant/47726733066467",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/47726741258467": {
     "product_title": "Sherivini Pair Bangle",
     "product_handle": "pair-bangle-15",
@@ -136498,23 +136515,6 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diyaara-bugadi-earrings?variant=gid://shopify/ProductVariant/48170439573731",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/48170445275363": {
-    "product_title": "Lithika Nagas Bracelet",
-    "product_handle": "lithika-nagas-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/48170445275363",
-    "global_id": "gid://shopify/ProductVariant/48170445275363",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1133",
-    "price": 15000.0,
-    "variant_price": 15000.0,
-    "product_price": 15000.0,
-    "amount": 15000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1133.jpg?v=1770806073",
-    "available_for_sale": false,
-    "url": "https://www.theamethyststore.com/products/lithika-nagas-bracelet?variant=gid://shopify/ProductVariant/48170445275363",
-    "stock": -1
   },
   "gid://shopify/ProductVariant/48170469392611": {
     "product_title": "Lakshita Kundan Chain",
