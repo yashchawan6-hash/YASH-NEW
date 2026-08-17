@@ -22004,9 +22004,10 @@
     "amount": 2079.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14B406211.jpg?v=1770707479",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-4-rhodium-plated-cubic-zirconia-studded-bangles-re14b406211-re14b406211?variant=gid://shopify/ProductVariant/47084599967918",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084600000686": {
     "product_title": "Rubans Set of 4 Rhodium-Plated Cubic Zirconia Studded Bangles",
@@ -22298,7 +22299,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-baguette-cut-cubic-zirconia-bow-design-adjustable-statement-ring-finger-ring-1120145066.jpg?v=1765192931",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-baguette-cut-cubic-zirconia-bow-design-adjustable-statement-ring-rw30ro407764?variant=gid://shopify/ProductVariant/46172496724142",
-    "stock": 20
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/46172496756910": {
     "product_title": "Gold Ring In American Diamond Zirconia",
@@ -22333,7 +22335,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-pave-baguette-cubic-zirconia-studded-adjustable-finger-ring-rings-1203271561.jpg?v=1774598551",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-pave-baguette-cubic-zirconia-studded-adjustable-ring-rw04ro407771?variant=gid://shopify/ProductVariant/46172496789678",
-    "stock": 14,
+    "stock": 20,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/46172496822446": {
