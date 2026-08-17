@@ -18887,9 +18887,10 @@
     "amount": 16.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VDE0002N_01d83fc7-0d78-44be-91ce-31da3f272b51.jpg?v=1715921229",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/pearl-dainty-cz-drop-earrings?variant=gid://shopify/ProductVariant/40729597706306",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40729597673538": {
     "product_title": "Pearl Dainty CZ Drop Earrings",
