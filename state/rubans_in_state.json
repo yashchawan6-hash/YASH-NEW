@@ -2809,9 +2809,9 @@
     "amount": 1082.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/6df9995f-dcf7-4bb0-8977-c8274cc41a8e1657521832350RubansRoseGoldPlatedWhiteCZStuddedHandcraftedJewellerySet1.jpg?v=1765520022",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-zirconia-stone-studded-handcrafted-necklace-set-1?variant=gid://shopify/ProductVariant/43043687694510",
-    "stock": 0,
+    "stock": 6,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43043687104686": {
@@ -2916,7 +2916,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-gold-plated-red-enamelled-bangles-bangles-bracelets-35074453012654.jpg?v=1776255079",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-plated-red-enamel-set-of-2-bangles?variant=gid://shopify/ProductVariant/43043681206446",
-    "stock": 2,
+    "stock": 20,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43043681239214": {
@@ -7273,7 +7273,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-antique-gold-plated-multi-colour-pearl-studded-statement-chandbali-earrings-earrings-34689214283950.jpg?v=1755721826",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-antique-gold-plated-multi-colour-pearl-studded-statement-chandbali-earrings?variant=gid://shopify/ProductVariant/44255537332398",
-    "stock": 8,
+    "stock": 9,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/44255577342126": {
@@ -7565,8 +7565,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-zirconia-studded-elegant-bracelet-bangles-bracelets-34771292389550.jpg?v=1776229992",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-zirconia-studded-elegant-bracelet?variant=gid://shopify/ProductVariant/44291108012206",
-    "stock": 18,
-    "last_alerted_stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/44295821885614": {
     "product_title": "Traditional Grace Red Green American Diamond Zirconia Necklace Set",

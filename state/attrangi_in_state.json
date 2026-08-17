@@ -13448,7 +13448,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/orla-multi-coloured-screwless-studs-attrangi-1.jpg?v=1739815790",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/orla-multi-coloured-screwless-studs?variant=gid://shopify/ProductVariant/44473953943764",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46085517148372": {
@@ -17744,40 +17744,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/poornima-meenakari-polki-indian-earrings?variant=gid://shopify/ProductVariant/45765907480788",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/45557078655188": {
-    "product_title": "3 Carat Round Diamond Solitaire Chain with 2 Carat Earrings | Pendant Set",
-    "product_handle": "soltiaire-pendant-set",
-    "variant_id": "gid://shopify/ProductVariant/45557078655188",
-    "global_id": "gid://shopify/ProductVariant/45557078655188",
-    "variant_title": "Rose gold",
-    "sku": "WG10345RG-PS",
-    "price": 2250.0,
-    "variant_price": 2250.0,
-    "product_price": 2250.0,
-    "amount": 2250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-08-21at3.13.19PM.jpg?v=1750782416",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/soltiaire-pendant-set?variant=gid://shopify/ProductVariant/45557078655188",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/45951995674836": {
-    "product_title": "3 Carat Round Diamond Solitaire Chain with 2 Carat Earrings | Pendant Set",
-    "product_handle": "soltiaire-pendant-set",
-    "variant_id": "gid://shopify/ProductVariant/45951995674836",
-    "global_id": "gid://shopify/ProductVariant/45951995674836",
-    "variant_title": "Silver",
-    "sku": "WG10345S-PS",
-    "price": 2250.0,
-    "variant_price": 2250.0,
-    "product_price": 2250.0,
-    "amount": 2250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-11-02_at_6.16.15_PM.jpg?v=1739816992",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/soltiaire-pendant-set?variant=gid://shopify/ProductVariant/45951995674836",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/45951995707604": {
     "product_title": "3 Carat Round Diamond Solitaire Chain with 2 Carat Earrings | Pendant Set",
@@ -50371,24 +50337,6 @@
     "stock": 1,
     "last_alerted_stock": 0
   },
-  "gid://shopify/ProductVariant/47781290115284": {
-    "product_title": "Lisa Diamond Delicate Designer Ring| Daily Wear",
-    "product_handle": "lisa-diamond-delicate-designer-ring-daily-wear",
-    "variant_id": "gid://shopify/ProductVariant/47781290115284",
-    "global_id": "gid://shopify/ProductVariant/47781290115284",
-    "variant_title": "Adjustable",
-    "sku": "WG5830S-RI",
-    "price": 2150.0,
-    "variant_price": 2150.0,
-    "product_price": 2150.0,
-    "amount": 2150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at5.10.29PM_65779f37-3008-4ca4-9e8b-2072b010f02f.jpg?v=1775826331",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/lisa-diamond-delicate-designer-ring-daily-wear?variant=gid://shopify/ProductVariant/47781290115284",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/47781293490388": {
     "product_title": "Kareem Jadaau Indian Navratna Earrings",
     "product_handle": "kareem-jadaau-indian-navratna-earrings",
@@ -56476,7 +56424,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM_1.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379711946964",
     "stock": 1,
     "last_alerted_stock": 0
@@ -56847,7 +56795,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379712733396",
     "stock": 3
   },
@@ -57598,7 +57546,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714339028",
     "stock": 2,
     "last_alerted_stock": 2
