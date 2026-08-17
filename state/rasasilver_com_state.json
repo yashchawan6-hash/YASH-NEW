@@ -7983,9 +7983,9 @@
     "amount": 1445.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00637copy-2.jpg?v=1753351641",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/om-trishakti-rakhi?variant=gid://shopify/ProductVariant/50680479744297",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50680487412009": {
