@@ -15078,10 +15078,10 @@
     "amount": 1018.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02B405926_eca34851-602b-4878-bf23-e1b6a405f182.jpg?v=1770888876",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans18k-mehandi-gold-plated-multicolor-kundan-and-cubic-zirconia-studed-bangles-re02b405926?variant=gid://shopify/ProductVariant/45980041412782",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084617269422": {
     "product_title": "Ivory Affair Designer Kundan Bangles",
@@ -15285,7 +15285,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02B405962.jpg?v=1765201684",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-18k-mehandi-gold-plated-kundan-cubic-zirconia-studded-handcrafted-bangle-re02b405962?variant=gid://shopify/ProductVariant/47084616843438",
-    "stock": 16,
+    "stock": 17,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/47084616876206": {
@@ -22573,7 +22573,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04NS407630.jpg?v=1770725361",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-24k-gold-plated-ruby-studded-pearl-beaded-handcrafted-choker-necklace-set-re04ns407630?variant=gid://shopify/ProductVariant/46172497674414",
-    "stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/46172497707182": {
     "product_title": "Multicolor Studded Pearl Necklace Set",
