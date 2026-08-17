@@ -273,8 +273,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
-    "stock": 13,
-    "last_alerted_stock": 7
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/49856597590313": {
     "product_title": "Mirnali Victorian Danglers",
@@ -12416,7 +12416,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP213.jpg?v=1756542102",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pushpmani-danglers?variant=gid://shopify/ProductVariant/52279154049321",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52279154082089": {
     "product_title": "Pushpmani Dangle Earrings",
@@ -40696,7 +40697,7 @@
     "amount": 4165.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0010_copy_resized.jpg?v=1769154101",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rosavia-ring?variant=gid://shopify/ProductVariant/52166970310953",
     "stock": 1
   },
@@ -41382,7 +41383,7 @@
     "amount": 19805.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0161copy_resized_fe057a7d-db15-4527-8642-729b0cd00a1b.jpg?v=1764065081",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/florabelle-gleam-bracelet?variant=gid://shopify/ProductVariant/52170928128297",
     "stock": 1
   },
@@ -41399,7 +41400,7 @@
     "amount": 15725.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0174copy_resized_d90768b1-a5f1-4243-9ab3-de1825992c36.jpg?v=1764065487",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/moissabloom-arc-bracelet?variant=gid://shopify/ProductVariant/52170942906665",
     "stock": 1
   },
@@ -51137,7 +51138,7 @@
     "amount": 4080.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0161copy_resized_921b2877-53c9-4128-a62c-44086297b914.jpg?v=1769232678",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/luvia-cz-ring?variant=gid://shopify/ProductVariant/52486730711337",
     "stock": 1
   },
@@ -51599,7 +51600,7 @@
     "amount": 3060.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0125copy_resized_21dee974-3a41-4a9c-8319-d1652eac7170.jpg?v=1769244734",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ice-sparkle-ring?variant=gid://shopify/ProductVariant/52495078031657",
     "stock": 1
   },
@@ -51633,7 +51634,7 @@
     "amount": 3145.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0091copy_resized_03ce144e-eeee-4a1d-84d2-a877309aa163.jpg?v=1769245113",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/love-wing-ring?variant=gid://shopify/ProductVariant/52495125676329",
     "stock": 1
   },
@@ -59539,7 +59540,7 @@
     "amount": 3570.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0337copy_bbab0dbc-4ffe-47a6-add5-f7976eaa7177.jpg?v=1771179322",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kundan-ring-5?variant=gid://shopify/ProductVariant/52681036562729",
     "stock": 1
   },
@@ -65820,7 +65821,7 @@
     "amount": 31280.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16319_resized.jpg?v=1774271055",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/butterfly-victorian-chandbali?variant=gid://shopify/ProductVariant/52819698057513",
     "stock": 1
   },
