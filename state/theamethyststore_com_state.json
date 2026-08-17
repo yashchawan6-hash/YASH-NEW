@@ -52751,6 +52751,23 @@
     "stock": 0,
     "last_alerted_stock": 0
   },
+  "gid://shopify/ProductVariant/46745268912355": {
+    "product_title": "Magical Navaratna Stone Ring",
+    "product_handle": "magical-navaratna-stone-ring",
+    "variant_id": "gid://shopify/ProductVariant/46745268912355",
+    "global_id": "gid://shopify/ProductVariant/46745268912355",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-0968",
+    "price": 3500.0,
+    "variant_price": 3500.0,
+    "product_price": 3500.0,
+    "amount": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0968.jpg?v=1750655865",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/magical-navaratna-stone-ring?variant=gid://shopify/ProductVariant/46745268912355",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/46745288245475": {
     "product_title": "Vithula Stone Ring",
     "product_handle": "vithula-stone-ring",
@@ -55574,7 +55591,7 @@
     "amount": 7200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1197.jpg?v=1751432975",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/glitzy-victorian-ring?variant=gid://shopify/ProductVariant/46770479726819",
     "stock": 1
   },
@@ -71887,6 +71904,23 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/beautiful-nagas-pendant-2?variant=gid://shopify/ProductVariant/47059369787619",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/47059379749091": {
+    "product_title": "Isha Stone Ring",
+    "product_handle": "isha-stone-ring",
+    "variant_id": "gid://shopify/ProductVariant/47059379749091",
+    "global_id": "gid://shopify/ProductVariant/47059379749091",
+    "variant_title": "Default Title",
+    "sku": "AMS-101-1460",
+    "price": 4800.0,
+    "variant_price": 4800.0,
+    "product_price": 4800.0,
+    "amount": 4800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1460.jpg?v=1756038590",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/isha-stone-ring?variant=gid://shopify/ProductVariant/47059379749091",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/47059384893667": {
     "product_title": "Sahara Stone Ring",
