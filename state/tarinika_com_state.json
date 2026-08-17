@@ -19180,9 +19180,10 @@
     "amount": 84.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0332XD.jpg?v=1741697384",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/rosemary-cz-green-necklace-set?variant=gid://shopify/ProductVariant/41121717223490",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41121741307970": {
     "product_title": "Rosemary CZ Pink Necklace Set",
@@ -22205,10 +22206,10 @@
     "amount": 94.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/2500x2500_px.jpg?v=1741860094",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/rukmini-kundan-necklace-set?variant=gid://shopify/ProductVariant/41977337741378",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41977337806914": {
     "product_title": "Samaira Kundan Necklace Set",
