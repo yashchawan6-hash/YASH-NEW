@@ -8186,24 +8186,6 @@
     "url": "https://www.mortantra.com/products/ek-sfear325p-pink-color-tribal-earrings?variant=gid://shopify/ProductVariant/44683882070239",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/44689588453599": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Danglers with Peacock and Floral Motifs - ME1124M",
-    "product_handle": "me1124m-multicolor-gold-plated-jadau-kundan-earrings",
-    "variant_id": "gid://shopify/ProductVariant/44689588453599",
-    "global_id": "gid://shopify/ProductVariant/44689588453599",
-    "variant_title": "Default Title",
-    "sku": "ME1124M",
-    "price": 5000.0,
-    "variant_price": 5000.0,
-    "product_price": 5000.0,
-    "amount": 5000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1124M_1.jpg?v=1723617290",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/me1124m-multicolor-gold-plated-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/44689588453599",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/44689818222815": {
     "product_title": "Multicolor Gold Plated Temple Earrings with Kundan - TMPEAR80M",
     "product_handle": "tmpear80m-pink-color-gold-plated-temple-earrings",
@@ -80188,6 +80170,23 @@
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2874?variant=gid://shopify/ProductVariant/48545936933087",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/48545942307039": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Small Maang Teeka with Floral and Moon Motif - MT559",
+    "product_handle": "gold-plated-jadau-kundan-maangteeka-mt559",
+    "variant_id": "gid://shopify/ProductVariant/48545942307039",
+    "global_id": "gid://shopify/ProductVariant/48545942307039",
+    "variant_title": "Multicolor",
+    "sku": "MT559M",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT559M.jpg?v=1772018902",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt559?variant=gid://shopify/ProductVariant/48545942307039",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/48545945288927": {
     "product_title": "Dark Green Gold-Plated Faux Polki Bridal Necklace Set with Kundan Setting - PK-S157GR",
     "product_handle": "green-color-gold-plated-faux-polki-bridal-necklace-set-pk-s157gr",
@@ -96803,7 +96802,7 @@
     "amount": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA236M.jpg?v=1779094221",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-braid-accessories-mha236?variant=gid://shopify/ProductVariant/49217459585247",
     "stock": 0
   },
@@ -113959,6 +113958,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/44689588453599": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Danglers with Peacock and Floral Motifs - ME1124M",
+    "product_handle": "me1124m-multicolor-gold-plated-jadau-kundan-earrings",
+    "variant_id": "gid://shopify/ProductVariant/44689588453599",
+    "global_id": "gid://shopify/ProductVariant/44689588453599",
+    "variant_title": "Default Title",
+    "sku": "ME1124M",
+    "price": 5000.0,
+    "variant_price": 5000.0,
+    "product_price": 5000.0,
+    "amount": 5000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1124M_1.jpg?v=1723617290",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/me1124m-multicolor-gold-plated-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/44689588453599",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47461891801311": {
     "product_title": "Light Green Antique Gold-Plated Moissanite Stud Earrings - MO-EAR69GR",

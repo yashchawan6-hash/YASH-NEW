@@ -63206,7 +63206,7 @@
     "amount": 57230.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10810.jpg?v=1754131743",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kalashikha-attigai-necklace?variant=gid://shopify/ProductVariant/46971790196963",
     "stock": 1
   },
@@ -98779,23 +98779,6 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/stunning-long-necklace?variant=gid://shopify/ProductVariant/47382017442019",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/47384923373795": {
-    "product_title": "Sparkle Charm Choker Set",
-    "product_handle": "sparkle-charm-choker-set",
-    "variant_id": "gid://shopify/ProductVariant/47384923373795",
-    "global_id": "gid://shopify/ProductVariant/47384923373795",
-    "variant_title": "Default Title",
-    "sku": "AMS-102-12567",
-    "price": 50939.0,
-    "variant_price": 50939.0,
-    "product_price": 50939.0,
-    "amount": 50939.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12567.jpg?v=1761281912",
-    "available_for_sale": false,
-    "url": "https://www.theamethyststore.com/products/sparkle-charm-choker-set?variant=gid://shopify/ProductVariant/47384923373795",
-    "stock": -1
   },
   "gid://shopify/ProductVariant/47384936415459": {
     "product_title": "Mithusha Kundan Short Necklace Set",
@@ -136453,23 +136436,6 @@
     "url": "https://www.theamethyststore.com/products/timeless-elegance-nagas-short-necklace-set-1?variant=gid://shopify/ProductVariant/48170581426403",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/46383150727395": {
-    "product_title": "Varshika Nagas Pair Bangle",
-    "product_handle": "varshika-nagas-pair-bangle",
-    "variant_id": "gid://shopify/ProductVariant/46383150727395",
-    "global_id": "gid://shopify/ProductVariant/46383150727395",
-    "variant_title": "2.2\"",
-    "sku": "AMS-107-1975-2.2",
-    "price": 32013.9,
-    "variant_price": 32013.9,
-    "product_price": 32013.9,
-    "amount": 32013.9,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1975-_2.jpg?v=1747747896",
-    "available_for_sale": true,
-    "url": "https://www.theamethyststore.com/products/varshika-nagas-pair-bangle?variant=gid://shopify/ProductVariant/46383150727395",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48170585325795": {
     "product_title": "Yashika Nagas Short Necklace Set",
     "product_handle": "yashika-nagas-short-necklace-set",
@@ -136485,6 +136451,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-14665.jpg?v=1770809065",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/yashika-nagas-short-necklace-set?variant=gid://shopify/ProductVariant/48170585325795",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/46383150727395": {
+    "product_title": "Varshika Nagas Pair Bangle",
+    "product_handle": "varshika-nagas-pair-bangle",
+    "variant_id": "gid://shopify/ProductVariant/46383150727395",
+    "global_id": "gid://shopify/ProductVariant/46383150727395",
+    "variant_title": "2.2\"",
+    "sku": "AMS-107-1975-2.2",
+    "price": 32013.9,
+    "variant_price": 32013.9,
+    "product_price": 32013.9,
+    "amount": 32013.9,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1975-_2.jpg?v=1747747896",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/varshika-nagas-pair-bangle?variant=gid://shopify/ProductVariant/46383150727395",
     "stock": 1
   },
   "gid://shopify/ProductVariant/48171566825699": {
