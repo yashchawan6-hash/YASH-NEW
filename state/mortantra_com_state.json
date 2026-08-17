@@ -4175,6 +4175,40 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
+  "gid://shopify/ProductVariant/44039770046687": {
+    "product_title": "White Color Gold Plated Thappa Jadau Kundan Ring - TJ-R60W",
+    "product_handle": "tj-r60w-thappa-jadau-kundan-ring",
+    "variant_id": "gid://shopify/ProductVariant/44039770046687",
+    "global_id": "gid://shopify/ProductVariant/44039770046687",
+    "variant_title": "Default Title",
+    "sku": "TJ-R60W",
+    "price": 2500.0,
+    "variant_price": 2500.0,
+    "product_price": 2500.0,
+    "amount": 2500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/TJ-R60W.jpg?v=1677476906",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/tj-r60w-thappa-jadau-kundan-ring?variant=gid://shopify/ProductVariant/44039770046687",
+    "stock": 2
+  },
+  "gid://shopify/ProductVariant/44039770767583": {
+    "product_title": "Multicolor Antique Gold-Plated Thappa Jadau Kundan Adjustable Ring with Peacock Motif - TJ-R60M",
+    "product_handle": "tj-r60m-thappa-jadau-kundan-ring",
+    "variant_id": "gid://shopify/ProductVariant/44039770767583",
+    "global_id": "gid://shopify/ProductVariant/44039770767583",
+    "variant_title": "Default Title",
+    "sku": "TJ-R60M",
+    "price": 2500.0,
+    "variant_price": 2500.0,
+    "product_price": 2500.0,
+    "amount": 2500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/TJ-R60M.jpg?v=1677477119",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/tj-r60m-thappa-jadau-kundan-ring?variant=gid://shopify/ProductVariant/44039770767583",
+    "stock": 4
+  },
   "gid://shopify/ProductVariant/44039945093343": {
     "product_title": "Multicolor Antique Gold-Plated Jadau Kundan Adjustable Ring with Peacock and Moon Motif - MRNG138M",
     "product_handle": "mrng138m-jadau-kundan-ring",
@@ -28609,7 +28643,7 @@
     "amount": 2800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1441.jpg?v=1749291357",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-earrings-me1441?variant=gid://shopify/ProductVariant/46545429496031",
     "stock": 0,
     "last_alerted_stock": 0
@@ -31270,6 +31304,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s290?variant=gid://shopify/ProductVariant/46599257686239",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/46599432962271": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff Kanphool with Peacock Motif - ME1438M",
+    "product_handle": "multicolor-gold-plated-earrings-me1438m",
+    "variant_id": "gid://shopify/ProductVariant/46599432962271",
+    "global_id": "gid://shopify/ProductVariant/46599432962271",
+    "variant_title": "Default Title",
+    "sku": "ME1438M",
+    "price": 2800.0,
+    "variant_price": 2800.0,
+    "product_price": 2800.0,
+    "amount": 2800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1438M.jpg?v=1749022055",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-earrings-me1438m?variant=gid://shopify/ProductVariant/46599432962271",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46599518355679": {
     "product_title": "Multicolor Gold-Plated Layered Jadau Kundan Haram Necklace Set with Pearl Strands - MS2098",
@@ -53471,7 +53522,7 @@
     "amount": 2500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1452GR.jpg?v=1750316368",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-earrings-me1452?variant=gid://shopify/ProductVariant/47070023024863",
     "stock": 0
   },
@@ -95213,6 +95264,23 @@
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-necklace-set-ms2920w?variant=gid://shopify/ProductVariant/49163412013279",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/49163498225887": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Princess Necklace Set with Floral Motifs - MS2924M",
+    "product_handle": "multicolor-gold-plated-jadau-kundan-necklace-set-ms2924m",
+    "variant_id": "gid://shopify/ProductVariant/49163498225887",
+    "global_id": "gid://shopify/ProductVariant/49163498225887",
+    "variant_title": "Default Title",
+    "sku": "MS2924M",
+    "price": 4000.0,
+    "variant_price": 4000.0,
+    "product_price": 4000.0,
+    "amount": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2924M-2.jpg?v=1778658404",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2924m?variant=gid://shopify/ProductVariant/49163498225887",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/49163700895967": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker & Pearl Belt Necklace Set with Peacock Motif - MS2922M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-necklace-set-ms2922m",
@@ -118071,20 +118139,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-bracelet-mhp261m?variant=gid://shopify/ProductVariant/46395342455007",
     "stock": 1,
     "last_alerted_stock": 1
-  },
-  "gid://shopify/ProductVariant/46599432962271": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan EarCuff Kanphool with Peacock Motif - ME1438M",
-    "product_handle": "multicolor-gold-plated-earrings-me1438m",
-    "variant_id": "gid://shopify/ProductVariant/46599432962271",
-    "global_id": "gid://shopify/ProductVariant/46599432962271",
-    "variant_title": "Default Title",
-    "sku": "ME1438M",
-    "price": 1960.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1438M.jpg?v=1749022055",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-earrings-me1438m?variant=gid://shopify/ProductVariant/46599432962271",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/46824598044895": {
     "product_title": "White Gold-Plated Mishr Maang Teeka with Jadau Kundan and Pearl Drops - MR-T62",
