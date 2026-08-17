@@ -52,5 +52,41 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/leafy-classic-antique-maang-tikka?variant=gid://shopify/ProductVariant/40300665536578",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ATX0148.jpg?v=1731479046"
+  },
+  {
+    "timestamp_ist": "2026-08-18 03:52:10",
+    "product_title": "Bloom Classic CZ Jhumka Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44136928411714",
+    "sku": "US-TXX0048XG6",
+    "price": 17.5,
+    "variant_price": 17.5,
+    "product_price": 17.5,
+    "amount": 17.5,
+    "total_price": 17.5,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.tarinika.com/products/bloom-classic-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/44136928411714",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T048.png?v=1784272234"
+  },
+  {
+    "timestamp_ist": "2026-08-18 03:52:10",
+    "product_title": "Alana CZ Blue Jhumka Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44136934146114",
+    "sku": "US-TXX0066XB6",
+    "price": 20.99,
+    "variant_price": 20.99,
+    "product_price": 20.99,
+    "amount": 20.99,
+    "total_price": 20.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.tarinika.com/products/alana-cz-blue-jhumka-earrings?variant=gid://shopify/ProductVariant/44136934146114",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/T066.png?v=1784354979"
   }
 ]
