@@ -50147,7 +50147,7 @@
     "amount": 59000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_14Jan1007_resized.jpg?v=1769075642",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/svarika?variant=gid://shopify/ProductVariant/52463844131113",
     "stock": 1
   },
@@ -93662,6 +93662,23 @@
     "url": "https://www.rasasilver.com/products/vedaishri-kundan-jhumki?variant=gid://shopify/ProductVariant/53413302141225",
     "stock": -1
   },
+  "gid://shopify/ProductVariant/53413302370601": {
+    "product_title": "Sumanika Victorian Studs",
+    "product_handle": "sumanika-studs",
+    "variant_id": "gid://shopify/ProductVariant/53413302370601",
+    "global_id": "gid://shopify/ProductVariant/53413302370601",
+    "variant_title": "Default Title",
+    "sku": "R30977",
+    "price": 6500.0,
+    "variant_price": 6500.0,
+    "product_price": 6500.0,
+    "amount": 6500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0610.jpg?v=1786972519",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/sumanika-studs?variant=gid://shopify/ProductVariant/53413302370601",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/53413306106153": {
     "product_title": "Madhurvya Kundan Necklace",
     "product_handle": "madhurvya-kundan-necklace",
@@ -93881,6 +93898,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0421.jpg?v=1786959334",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shravya-nakshi-jhumki?variant=gid://shopify/ProductVariant/53416972845353",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53416993292585": {
+    "product_title": "Janaki Temple Studs",
+    "product_handle": "janaki-temple-studs",
+    "variant_id": "gid://shopify/ProductVariant/53416993292585",
+    "global_id": "gid://shopify/ProductVariant/53416993292585",
+    "variant_title": "Default Title",
+    "sku": "R20897",
+    "price": 7700.0,
+    "variant_price": 7700.0,
+    "product_price": 7700.0,
+    "amount": 7700.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__12Aug0369.jpg?v=1786972860",
+    "available_for_sale": true,
+    "url": "https://www.rasasilver.com/products/janaki-temple-studs?variant=gid://shopify/ProductVariant/53416993292585",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53419073896745": {
