@@ -6655,8 +6655,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_0755.heic?v=1649768309",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/1-4?variant=gid://shopify/ProductVariant/42679325982942",
-    "stock": 18,
-    "last_alerted_stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/42679454695646": {
     "product_title": "Simple Embossed Choker with pendant",
@@ -22833,10 +22833,10 @@
     "amount": 2249.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/72BA016F-8BAE-49FC-9B55-22C72EDEA103.jpg?v=1720105255",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/3-line-single-colour-mala-with-earrings-in-3-colors?variant=gid://shopify/ProductVariant/45696427589854",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45696427622622": {
     "product_title": "3 Line Single-colour Mala with earrings in 3 Colors",
