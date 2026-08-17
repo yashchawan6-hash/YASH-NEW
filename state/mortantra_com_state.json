@@ -64139,24 +64139,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1509m?variant=gid://shopify/ProductVariant/47461891342559",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/47461891801311": {
-    "product_title": "Light Green Antique Gold-Plated Moissanite Stud Earrings - MO-EAR69GR",
-    "product_handle": "green-color-gold-plated-moissanite-earrings-mo-ear69gr",
-    "variant_id": "gid://shopify/ProductVariant/47461891801311",
-    "global_id": "gid://shopify/ProductVariant/47461891801311",
-    "variant_title": "Default Title",
-    "sku": "MO-EAR69GR",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-EAR69GR.jpg?v=1763373052",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-earrings-mo-ear69gr?variant=gid://shopify/ProductVariant/47461891801311",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/47461893963999": {
     "product_title": "Gold-Plated Jadau Kundan Jhumka Earrings with Peacock Motif and Pearl Drops - ME1512",
     "product_handle": "gold-plated-jadau-kundan-earrings-me1512",
@@ -113977,6 +113959,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47461891801311": {
+    "product_title": "Light Green Antique Gold-Plated Moissanite Stud Earrings - MO-EAR69GR",
+    "product_handle": "green-color-gold-plated-moissanite-earrings-mo-ear69gr",
+    "variant_id": "gid://shopify/ProductVariant/47461891801311",
+    "global_id": "gid://shopify/ProductVariant/47461891801311",
+    "variant_title": "Default Title",
+    "sku": "MO-EAR69GR",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-EAR69GR.jpg?v=1763373052",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-earrings-mo-ear69gr?variant=gid://shopify/ProductVariant/47461891801311",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50588802515167": {
     "product_title": "White Color Gold Plated Kaleera - MKL16",

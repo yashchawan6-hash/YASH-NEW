@@ -21807,7 +21807,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-12at10.59.07PM.jpg?v=1750783542",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/eisha-polki-moissanite-pendant-set?variant=gid://shopify/ProductVariant/45909229240532",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46018058584276": {
     "product_title": "Debby Oversized Coloured Diamond Dangler Earrings",
@@ -39041,7 +39042,7 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-11-17at11.24.28AM_2.jpg?v=1763370365",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/ratika-moissanite-polki-meenakari-studs?variant=gid://shopify/ProductVariant/47272278393044",
     "stock": 1
   },
