@@ -2219,9 +2219,10 @@
     "amount": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/erum-dasti-attrangi-6.jpg?v=1739813011",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/erum-dasti?variant=gid://shopify/ProductVariant/40411702821033",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411702853801": {
     "product_title": "Erum Dasti",
@@ -12336,9 +12337,10 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/aarohi-moissanite-indian-bangle-kada-openable-attrangi-2.jpg?v=1739815539",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/aarohi-moissanite-indian-bangle-kada-openable?variant=gid://shopify/ProductVariant/44267448336596",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44267448369364": {
     "product_title": "Aarohi Moissanite Indian Bangle Openable",
