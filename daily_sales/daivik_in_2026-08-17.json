@@ -646,5 +646,41 @@
     "curr_stock": 17,
     "url": "https://www.daivik.in/products/199?variant=gid://shopify/ProductVariant/34430554505369",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/regular-use-stone-set-of-four-bangles-879.png?v=1594319536"
+  },
+  {
+    "timestamp_ist": "2026-08-17 20:42:08",
+    "product_title": "AD Changeable Gold Finish Necklace with Changeable Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44551102529758",
+    "sku": "490",
+    "price": 2499.0,
+    "variant_price": 2499.0,
+    "product_price": 2499.0,
+    "amount": 2499.0,
+    "total_price": 2499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.daivik.in/products/changeable?variant=gid://shopify/ProductVariant/44551102529758",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1DF004A1-DB1E-4F72-97E6-50D308963DF0.heic?v=1700842120"
+  },
+  {
+    "timestamp_ist": "2026-08-17 20:42:08",
+    "product_title": "Lakshmi Pearl AD Choker with Jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45070434762974",
+    "sku": "972",
+    "price": 1499.0,
+    "variant_price": 1499.0,
+    "product_price": 1499.0,
+    "amount": 1499.0,
+    "total_price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 56,
+    "curr_stock": 55,
+    "url": "https://www.daivik.in/products/lakshmi-pearl-ad-choker-with-jhumkas?variant=gid://shopify/ProductVariant/45070434762974",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/26A37DB0-ACCE-42E6-AA25-8AD17241684E.jpg?v=1712329585"
   }
 ]
