@@ -1336,7 +1336,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/274685.jpg?v=1765287178",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-24k-gold-plated-handcrafted-pastel-color-drop-earrings?variant=gid://shopify/ProductVariant/43043789144238",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46503600095406": {
@@ -1680,7 +1680,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/aefef56f-bd89-4fb9-9ede-5f8280382b0a1627627164175-Rubans-Oxidized-Silver-Plated-Pink-Stone-Studded-Handcrafte-4.jpg?v=1765287259",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-oxidised-silver-plated-handcrafted-pink-stone-filigree-bangle?variant=gid://shopify/ProductVariant/47084622282926",
-    "stock": 12,
+    "stock": 13,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/43043748249774": {
@@ -4329,9 +4329,9 @@
     "amount": 930.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-pearls-cubic-zirconia-studded-oversized-premium-floral-stud-earrings-studs-earrings-1150858252.jpg?v=1755718877",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-plated-stud-earrings-studded-with-american-diamonds-and-pearls?variant=gid://shopify/ProductVariant/43580471181486",
-    "stock": 0,
+    "stock": 20,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43581890658478": {
@@ -4642,7 +4642,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-gold-plated-beaded-kada-bracelet-bangles-bracelets-33768476541102.jpg?v=1774604268",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-women-gold-plated-handcrafted-elasticated-bracelet?variant=gid://shopify/ProductVariant/43812228858030",
-    "stock": 20
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/43812266737838": {
     "product_title": "Rubans Women Gold-Plated Kada Bracelet",
@@ -4710,7 +4711,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones-necklace-set-33573510480046.jpg?v=1755718556",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones?variant=gid://shopify/ProductVariant/43813884493998",
-    "stock": 7,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43814258573486": {
@@ -6152,7 +6153,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-voguish-golden-cascade-shoulder-duster-earrings-earrings-34476629491886.jpg?v=1774941037",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-golden-cascade-shoulder-duster-earrings?variant=gid://shopify/ProductVariant/44172803768494",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44172996214958": {
@@ -6221,7 +6222,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain-jewellery-sets-34518077079726.jpg?v=1755722304",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain?variant=gid://shopify/ProductVariant/44173336903854",
-    "stock": 9,
+    "stock": 10,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/44174609907886": {

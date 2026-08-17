@@ -11456,7 +11456,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diamond-bud-small-studs-attrangi-2.jpg?v=1768203375",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-bud-small-studs?variant=gid://shopify/ProductVariant/44116674052308",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44116705149140": {
     "product_title": "Mini Diamond Jhumkis with Pearls",
@@ -57030,7 +57031,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.07PM.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713159380",
     "stock": 3
   },
@@ -57414,7 +57415,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713978580",
     "stock": 3,
     "last_alerted_stock": 2
