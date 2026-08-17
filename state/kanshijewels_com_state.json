@@ -26133,5 +26133,22 @@
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/swaroski-pearls-multi-tumble-triple-layer-necklace?variant=gid://shopify/ProductVariant/53468191752492",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/53712532046124": {
+    "product_title": "Classic jadau earrings",
+    "product_handle": "classic-jadau-earrings",
+    "variant_id": "gid://shopify/ProductVariant/53712532046124",
+    "global_id": "gid://shopify/ProductVariant/53712532046124",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 1499.0,
+    "variant_price": 1499.0,
+    "product_price": 1499.0,
+    "amount": 1499.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_29.jpg?v=1786972957",
+    "available_for_sale": true,
+    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings?variant=gid://shopify/ProductVariant/53712532046124",
+    "stock": -1
   }
 }
