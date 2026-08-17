@@ -12029,9 +12029,9 @@
     "amount": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-14_at_1.18.42_PM.jpg?v=1786693752",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/drizzle-indo-western-studs-gemz-collection?variant=gid://shopify/ProductVariant/48471118807252",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44229577769172": {
