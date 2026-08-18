@@ -901,7 +901,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-0440.jpg?v=1766491908",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/twisted-gold-plated-silver-pendant?variant=gid://shopify/ProductVariant/39609588383894",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/39610156023958": {
     "product_title": "Muster Beads Pendant",
@@ -117792,7 +117793,7 @@
     "amount": 9650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3173.jpg?v=1767868248",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dithiya-stone-pendant?variant=gid://shopify/ProductVariant/47804739322083",
     "stock": 1
   },
