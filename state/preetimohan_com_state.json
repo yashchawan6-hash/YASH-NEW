@@ -24525,9 +24525,9 @@
     "amount": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/16_07b5821f-d431-4a84-b01d-fda46aebe73f.png?v=1783926014",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/rama-navratan-polki-ring?variant=gid://shopify/ProductVariant/50316934021313",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50316934512833": {
