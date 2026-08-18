@@ -20268,7 +20268,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMTP0001D_2.jpg?v=1724821764",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/monochrome-play-cz-silver-drop-earrings?variant=gid://shopify/ProductVariant/44555816009879",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44555868438679": {
     "product_title": "Monochrome Play Reverie CZ Silver Drop Earrings",
@@ -20285,8 +20286,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMTP0003D_2.jpg?v=1724823662",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/monochrome-play-reverie-cz-silver-drop-earrings?variant=gid://shopify/ProductVariant/44555868438679",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44555964612759": {
     "product_title": "Monochrome Play Chandelier CZ Silver Drop Earrings",
@@ -20320,7 +20321,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMTP0008D.jpg?v=1724830088",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/monochrome-play-cz-silver-triangular-drop-earrings?variant=gid://shopify/ProductVariant/44556203393175",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44556651921559": {
     "product_title": "Monochrome play Trinket CZ Silver Drop Earrings",

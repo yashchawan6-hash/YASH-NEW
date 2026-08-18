@@ -18675,7 +18675,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PUB0049F.jpg?v=1707799942",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/simple-floral-cz-silver-finger-ring?variant=gid://shopify/ProductVariant/44375973363948",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44376044470508": {
     "product_title": "Floral Bloom CZ Silver Finger Ring",
@@ -20171,7 +20172,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PMTP0001D_2.jpg?v=1774308253",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/monochrome-play-cz-silver-drop-earrings?variant=gid://shopify/ProductVariant/45655617306860",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45655746412780": {
     "product_title": "Monochrome Play Reverie CZ Silver Drop Earrings",
@@ -20186,10 +20188,10 @@
     "amount": 95.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PMTP0003D_2_920495ba-ca2a-4fc7-992a-2b8467d7d501.jpg?v=1774308135",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.com/products/monochrome-play-reverie-cz-silver-drop-earrings?variant=gid://shopify/ProductVariant/45655746412780",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45656175018220": {
     "product_title": "Monochrome Play Chandelier CZ Silver Drop Earrings",
@@ -20223,7 +20225,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/PMTP0008D.jpg?v=1774307774",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/monochrome-play-cz-silver-triangular-drop-earrings?variant=gid://shopify/ProductVariant/45656327127276",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45656984355052": {
     "product_title": "Monochrome play Trinket CZ Silver Drop Earrings",
