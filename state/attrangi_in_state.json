@@ -3327,7 +3327,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/pear-shaped-colored-solitaire-ring-attrangi-7.jpg?v=1739813166",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pear-shaped-coloured-solitaire-ring?variant=gid://shopify/ProductVariant/40833450213545",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40833450246313": {
     "product_title": "Pear Shaped Colored Solitaire Ring",
@@ -3651,7 +3652,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/multi-slim-band-ring-attrangi-1.jpg?v=1739813218",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/multi-slim-band-ring?variant=gid://shopify/ProductVariant/40856436474025",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43676764045524": {
@@ -4304,7 +4305,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-25_at_6.21.39_PM.jpg?v=1750781280",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sanober-multi-colour-traditional-mala?variant=gid://shopify/ProductVariant/41018510999721",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41031358742697": {
     "product_title": "Dingli Dainty Choker Set",
@@ -12038,9 +12040,9 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-10-16_at_1.22.48_AM.jpg?v=1750781593",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/diamond-round-pear-solitaire-drop-earrings-daily-wear?variant=gid://shopify/ProductVariant/44898859385044",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48471118807252": {
