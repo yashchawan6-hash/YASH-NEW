@@ -214,5 +214,41 @@
     "curr_stock": 1,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-pendant-44?variant=gid://shopify/ProductVariant/50702974681388",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1400.heic?v=1741260376"
+  },
+  {
+    "timestamp_ist": "2026-08-18 20:22:26",
+    "product_title": "Elegant minimal gold chain with pendant",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53368913658156",
+    "sku": "NK910",
+    "price": 850.0,
+    "variant_price": 850.0,
+    "product_price": 850.0,
+    "amount": 850.0,
+    "total_price": 850.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 8,
+    "curr_stock": 7,
+    "url": "https://www.kanshijewels.com/products/elegant-minimal-gold-chain-with-pendant?variant=gid://shopify/ProductVariant/53368913658156",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantminimalgoldchainwithpendant850.jpg?v=1782215731"
+  },
+  {
+    "timestamp_ist": "2026-08-18 20:22:26",
+    "product_title": "Elegant diamond look earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53369017139500",
+    "sku": "ER525",
+    "price": 759.0,
+    "variant_price": 759.0,
+    "product_price": 759.0,
+    "amount": 759.0,
+    "total_price": 759.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.kanshijewels.com/products/elegant-diamond-look-earrings?variant=gid://shopify/ProductVariant/53369017139500",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantdiamondlookearrings759.jpg?v=1782218155"
   }
 ]

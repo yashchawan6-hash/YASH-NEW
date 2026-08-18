@@ -1436,8 +1436,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05618_copy.jpg?v=1743661239",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/raghukul-ratnaraj-studs?variant=gid://shopify/ProductVariant/50869189050665",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/50869189083433": {
     "product_title": "Raghukul Ratnaraj Studs",
@@ -20863,9 +20863,10 @@
     "amount": 25000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0079_resized.jpg?v=1762249948",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/fleur-d-emeraude-necklace-set-copy?variant=gid://shopify/ProductVariant/51408334291241",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51397142315305": {
     "product_title": "Charvi Oval Lace Necklace",
@@ -21396,7 +21397,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct3202_resized.jpg?v=1762260618",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/misra-mangalam-tali-necklace?variant=gid://shopify/ProductVariant/51408742121769",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51408759488809": {
     "product_title": "Greenora Stone Bangles",
@@ -33762,7 +33764,7 @@
     "amount": 22800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Nov0154_resized.jpg?v=1763374440",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/arvona-bangles?variant=gid://shopify/ProductVariant/51527364509993",
     "stock": 1
   },
@@ -76064,7 +76066,7 @@
     "amount": 24310.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May15311_resized.jpg?v=1782121456",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ivy-glow-cz-necklace?variant=gid://shopify/ProductVariant/53282812887337",
     "stock": 1
   },
