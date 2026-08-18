@@ -1234,7 +1234,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/ba553334-cf26-4c6c-852e-acec310f0c891602715851338-3.jpg?v=1765287293",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-plated-handcrafted-oxidised-dual-tone-jhumka-earrings?variant=gid://shopify/ProductVariant/43043800187054",
-    "stock": 20
+    "stock": 18,
+    "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/43043799269550": {
     "product_title": "Rubans Silver Plated Handcrafted Dual Toned Filigree Choker",
@@ -1337,7 +1338,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/274685.jpg?v=1765287178",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-24k-gold-plated-handcrafted-pastel-color-drop-earrings?variant=gid://shopify/ProductVariant/43043789144238",
-    "stock": 1,
+    "stock": 10,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46503600095406": {
@@ -8742,10 +8743,10 @@
     "amount": 853.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-royal-elegance-22k-gold-plated-red-kemp-stone-bangles-bangles-bracelets-37923559899310.jpg?v=1755720904",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/copy-of-rubans-22k-gold-plated-handcrafted-ruby-stone-studded-bangles?variant=gid://shopify/ProductVariant/47084619464878",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44669906911406": {
     "product_title": "Pink & Green Floral Pearl Beaded Necklace Set",
@@ -9432,8 +9433,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-4-gold-plated-kundan-studded-bangles-bangles-bracelets-35672505778350.jpg?v=1755720561",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-gold-plated-kundan-studded-bangles-1?variant=gid://shopify/ProductVariant/47084619071662",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/47084619104430": {
     "product_title": "Minimal Tales of Kundan Bangles",
@@ -13455,7 +13456,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02HB404482_Amzon_Model.jpg?v=1785244521",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-kundan-studded-pearl-beaded-hair-choti-braid-jewelry?variant=gid://shopify/ProductVariant/45782205497518",
-    "stock": 13,
+    "stock": 14,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/45782211330222": {
@@ -13628,8 +13629,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rhodium-plated-blue-sapphire-cubic-zirconia-studded-premium-jewelry-set-jewellery-set-37193448685742.jpg?v=1755717251",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rhodium-plated-blue-sapphire-cubic-zirconia-studded-premium-jewelry-set?variant=gid://shopify/ProductVariant/45786528743598",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/46076922855598": {
     "product_title": "Chic Saphire Blue Necklace Set",
@@ -15517,7 +15518,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-pack-of-4-18kgold-plated-pearl-beaded-bangles-bangles-37369180881070.jpg?v=1755716875",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-pack-of-4-18kgold-plated-pearl-beaded-bangles-re10b406333?variant=gid://shopify/ProductVariant/47084614942894",
-    "stock": 14,
+    "stock": 15,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47084614975662": {
@@ -43540,7 +43541,7 @@
     "amount": 382.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30ES409677_3.jpg?v=1769758102",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-voguish-18k-gold-plated-stainless-steel-tarnish-free-waterproof-sculpted-swirl-stud-earrings?variant=gid://shopify/ProductVariant/46805041119406",
     "stock": 6,
     "last_alerted_stock": 6
