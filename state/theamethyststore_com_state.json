@@ -21965,9 +21965,10 @@
     "amount": 3400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6063.jpg?v=1719499303",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/naviha-stone-studs?variant=gid://shopify/ProductVariant/45198079197411",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45198083129571": {
     "product_title": "Delisa Stone Studs",
