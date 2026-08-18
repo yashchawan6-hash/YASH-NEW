@@ -22041,9 +22041,10 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0016XC5_426edebe-e25d-45a5-bcc0-fe41af04b83c.jpg?v=1752149567",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/ruby-radiance-cz-rakhi?variant=gid://shopify/ProductVariant/52394176250224",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52394178118000": {
     "product_title": "Aakar Antique Rakhi",
