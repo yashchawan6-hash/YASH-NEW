@@ -1966,9 +1966,9 @@
     "amount": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/uncut-kemp-guttaspusalu-balis-earrings-312.jpg?v=1614006032",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/uncut-kemp-guttaspusalu-balis?variant=gid://shopify/ProductVariant/38152291090585",
-    "stock": 0
+    "stock": 29
   },
   "gid://shopify/ProductVariant/38170188677273": {
     "product_title": "Big gold polish teeka",
@@ -49088,7 +49088,7 @@
     "amount": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E6598837-509B-44AF-9493-4863FC5D5D59.jpg?v=1766485850",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/pure-kemp-lotus-jhumka-with-mattals?variant=gid://shopify/ProductVariant/47777295696094",
     "stock": 0,
     "last_alerted_stock": 0
