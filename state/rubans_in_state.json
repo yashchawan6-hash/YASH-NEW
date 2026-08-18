@@ -3340,7 +3340,7 @@
     "product_handle": "rubans-rose-gold-plated-white-stoned-round-shapped-ad-studded-maangtikka",
     "variant_id": "gid://shopify/ProductVariant/42384380919982",
     "global_id": "gid://shopify/ProductVariant/42384380919982",
-    "variant_title": "Rose Gold",
+    "variant_title": "Default Title",
     "sku": "RE13MT278942",
     "price": 808.0,
     "variant_price": 808.0,
@@ -90330,7 +90330,7 @@
     "amount": 1164.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04B413150-Model.jpg?v=1784889568",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re04b413150?variant=gid://shopify/ProductVariant/48236189483182",
     "stock": 6,
     "last_alerted_stock": 6
