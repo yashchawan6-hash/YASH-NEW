@@ -10983,7 +10983,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BRAC1WP_2_copy.jpg?v=1709905576",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-brac1wp-pink-color-gold-plated-faux-diamond-bracelet?variant=gid://shopify/ProductVariant/45044977696991",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45060993679583": {
     "product_title": "Maroon Gold-Plated Jadau Kundan Ranihaar Layered Necklace - MN162MR",
@@ -14221,9 +14222,10 @@
     "amount": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG90_1.jpg?v=1716213060",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/czrng90-white-color-silver-plated-faux-diamond-ring?variant=gid://shopify/ProductVariant/45769240314079",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45769240346847": {
     "product_title": "White Color Silver Plated Faux Diamond Ring with Diamante - CZRNG90",
@@ -14529,7 +14531,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG94.jpg?v=1716372459",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/czrng94-white-color-silver-plated-faux-diamond-ring?variant=gid://shopify/ProductVariant/45789845487839",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45789845520607": {
     "product_title": "White Color Silver Plated Faux Diamond Ring with Diamante - CZRNG94",
@@ -15645,24 +15648,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-r11p-pink-color-gold-plated-faux-polki-ring?variant=gid://shopify/ProductVariant/45900587892959",
     "stock": 5
-  },
-  "gid://shopify/ProductVariant/45900828573919": {
-    "product_title": "White Gold-Plated Faux Polki Kundan Ring Set with Pearl Accents - PK-R14",
-    "product_handle": "pk-r14-white-color-gold-plated-faux-polki-ring",
-    "variant_id": "gid://shopify/ProductVariant/45900828573919",
-    "global_id": "gid://shopify/ProductVariant/45900828573919",
-    "variant_title": "Default Title",
-    "sku": "PK-R14",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R14.jpg?v=1717144622",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/pk-r14-white-color-gold-plated-faux-polki-ring?variant=gid://shopify/ProductVariant/45900828573919",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45900865339615": {
     "product_title": "Gold-Plated Faux Polki Adjustable Ring with Pearl Flower Cluster - PK-R17",
@@ -34022,24 +34007,6 @@
     "stock": 2,
     "last_alerted_stock": 2
   },
-  "gid://shopify/ProductVariant/46670844657887": {
-    "product_title": "White Gold-Plated Faux Polki Lotus Ring with Kundan Setting - PK-R35",
-    "product_handle": "white-color-gold-plated-faux-polki-ring-pk-r35",
-    "variant_id": "gid://shopify/ProductVariant/46670844657887",
-    "global_id": "gid://shopify/ProductVariant/46670844657887",
-    "variant_title": "Default Title",
-    "sku": "PK-R35",
-    "price": 3500.0,
-    "variant_price": 3500.0,
-    "product_price": 3500.0,
-    "amount": 3500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R35_dd19144f-e8f2-445d-9872-c09c89ef8394.jpg?v=1736315498",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-ring-pk-r35?variant=gid://shopify/ProductVariant/46670844657887",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/46670861009119": {
     "product_title": "Gold-Plated Faux Polki Kundan Bangles (One Pair) - PK-BAN16",
     "product_handle": "gold-plated-faux-polki-bangles-pk-ban16",
@@ -48283,23 +48250,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-thappa-jadau-kundan-ring-tj-r74?variant=gid://shopify/ProductVariant/49168083091679",
     "stock": 5,
     "last_alerted_stock": 4
-  },
-  "gid://shopify/ProductVariant/47022765375711": {
-    "product_title": "Baby Pink Gold-Plated Faux Polki Adjustable Ring with Floral Motif - PK-R60LP",
-    "product_handle": "baby-pink-color-gold-plated-faux-polki-ring-pk-r60lp",
-    "variant_id": "gid://shopify/ProductVariant/47022765375711",
-    "global_id": "gid://shopify/ProductVariant/47022765375711",
-    "variant_title": "Default Title",
-    "sku": "PK-R60LP",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R60LP.jpg?v=1748511852",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/baby-pink-color-gold-plated-faux-polki-ring-pk-r60lp?variant=gid://shopify/ProductVariant/47022765375711",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/47022793720031": {
     "product_title": "Multicolor Gold Plated Temple Mathapatti with Kundan - TMPMM15M",
@@ -71915,23 +71865,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-braid-accessories-mha294?variant=gid://shopify/ProductVariant/48379853668575",
     "stock": 12
   },
-  "gid://shopify/ProductVariant/48379856945375": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Accessory with Flower and Moon Motifs - MHA296",
-    "product_handle": "gold-plated-jadau-kundan-braid-accessories-mha296",
-    "variant_id": "gid://shopify/ProductVariant/48379856945375",
-    "global_id": "gid://shopify/ProductVariant/48379856945375",
-    "variant_title": "Multicolor",
-    "sku": "MHA296M",
-    "price": 3500.0,
-    "variant_price": 3500.0,
-    "product_price": 3500.0,
-    "amount": 3500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA296M.jpg?v=1770876663",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-braid-accessories-mha296?variant=gid://shopify/ProductVariant/48379856945375",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/48379871985887": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Haath Phool (Single Piece) - MHP292",
     "product_handle": "gold-plated-jadau-kundan-hathphool-1-piece-mhp292",
@@ -83228,7 +83161,7 @@
     "amount": 7000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BAN33M-2.jpg?v=1774262412",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-bangles-one-pair-pk-ban33m?variant=gid://shopify/ProductVariant/48675087352031",
     "stock": 2
   },
@@ -88590,7 +88523,7 @@
     "amount": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG122LGR.jpg?v=1775457970",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-ring-czrng122?variant=gid://shopify/ProductVariant/48822143156447",
     "stock": 1
   },
@@ -88709,7 +88642,7 @@
     "amount": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG125PR.jpg?v=1775459111",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-ring-czrng125?variant=gid://shopify/ProductVariant/48822188572895",
     "stock": 1
   },
@@ -88763,23 +88696,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG126PR.jpg?v=1775459371",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-ring-czrng126?variant=gid://shopify/ProductVariant/48822189818079",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/48822198075615": {
-    "product_title": "Silver Plated Faux Diamond Ring with Diamante - CZRNG127",
-    "product_handle": "silver-plated-faux-diamond-ring-czrng127",
-    "variant_id": "gid://shopify/ProductVariant/48822198075615",
-    "global_id": "gid://shopify/ProductVariant/48822198075615",
-    "variant_title": "Purple",
-    "sku": "CZRNG127PR",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG127PR.jpg?v=1775459761",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-ring-czrng127?variant=gid://shopify/ProductVariant/48822198075615",
     "stock": 1
   },
   "gid://shopify/ProductVariant/48822199681247": {
@@ -93403,24 +93319,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-faux-polki-necklace-set-pk-s475gr?variant=gid://shopify/ProductVariant/49023414698207",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/49023421186271": {
-    "product_title": "Purple Gold-Plated Thappa Jadau Kundan Choker Necklace Set with Flower Motif - TJ-S146",
-    "product_handle": "purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s146",
-    "variant_id": "gid://shopify/ProductVariant/49023421186271",
-    "global_id": "gid://shopify/ProductVariant/49023421186271",
-    "variant_title": "Default Title",
-    "sku": "TJ-S146",
-    "price": 9000.0,
-    "variant_price": 9000.0,
-    "product_price": 9000.0,
-    "amount": 9000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S146-2.jpg?v=1777030600",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s146?variant=gid://shopify/ProductVariant/49023421186271",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49023427346655": {
     "product_title": "Multicolor Gold-Plated Thappa Jadau Kundan Necklace Set with Flower and Lotus Motifs - TJ-S195M",
@@ -114217,6 +114115,111 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/45900828573919": {
+    "product_title": "White Gold-Plated Faux Polki Kundan Ring Set with Pearl Accents - PK-R14",
+    "product_handle": "pk-r14-white-color-gold-plated-faux-polki-ring",
+    "variant_id": "gid://shopify/ProductVariant/45900828573919",
+    "global_id": "gid://shopify/ProductVariant/45900828573919",
+    "variant_title": "Default Title",
+    "sku": "PK-R14",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R14.jpg?v=1717144622",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/pk-r14-white-color-gold-plated-faux-polki-ring?variant=gid://shopify/ProductVariant/45900828573919",
+    "stock": 1,
+    "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/46670844657887": {
+    "product_title": "White Gold-Plated Faux Polki Lotus Ring with Kundan Setting - PK-R35",
+    "product_handle": "white-color-gold-plated-faux-polki-ring-pk-r35",
+    "variant_id": "gid://shopify/ProductVariant/46670844657887",
+    "global_id": "gid://shopify/ProductVariant/46670844657887",
+    "variant_title": "Default Title",
+    "sku": "PK-R35",
+    "price": 3500.0,
+    "variant_price": 3500.0,
+    "product_price": 3500.0,
+    "amount": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R35_dd19144f-e8f2-445d-9872-c09c89ef8394.jpg?v=1736315498",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-ring-pk-r35?variant=gid://shopify/ProductVariant/46670844657887",
+    "stock": 1,
+    "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/47022765375711": {
+    "product_title": "Baby Pink Gold-Plated Faux Polki Adjustable Ring with Floral Motif - PK-R60LP",
+    "product_handle": "baby-pink-color-gold-plated-faux-polki-ring-pk-r60lp",
+    "variant_id": "gid://shopify/ProductVariant/47022765375711",
+    "global_id": "gid://shopify/ProductVariant/47022765375711",
+    "variant_title": "Default Title",
+    "sku": "PK-R60LP",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-R60LP.jpg?v=1748511852",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/baby-pink-color-gold-plated-faux-polki-ring-pk-r60lp?variant=gid://shopify/ProductVariant/47022765375711",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/48379856945375": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Accessory with Flower and Moon Motifs - MHA296",
+    "product_handle": "gold-plated-jadau-kundan-braid-accessories-mha296",
+    "variant_id": "gid://shopify/ProductVariant/48379856945375",
+    "global_id": "gid://shopify/ProductVariant/48379856945375",
+    "variant_title": "Multicolor",
+    "sku": "MHA296M",
+    "price": 3500.0,
+    "variant_price": 3500.0,
+    "product_price": 3500.0,
+    "amount": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHA296M.jpg?v=1770876663",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-braid-accessories-mha296?variant=gid://shopify/ProductVariant/48379856945375",
+    "stock": 3
+  },
+  "gid://shopify/ProductVariant/48822198075615": {
+    "product_title": "Silver Plated Faux Diamond Ring with Diamante - CZRNG127",
+    "product_handle": "silver-plated-faux-diamond-ring-czrng127",
+    "variant_id": "gid://shopify/ProductVariant/48822198075615",
+    "global_id": "gid://shopify/ProductVariant/48822198075615",
+    "variant_title": "Purple",
+    "sku": "CZRNG127PR",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZRNG127PR.jpg?v=1775459761",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/silver-plated-faux-diamond-ring-czrng127?variant=gid://shopify/ProductVariant/48822198075615",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/49023421186271": {
+    "product_title": "Purple Gold-Plated Thappa Jadau Kundan Choker Necklace Set with Flower Motif - TJ-S146",
+    "product_handle": "purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s146",
+    "variant_id": "gid://shopify/ProductVariant/49023421186271",
+    "global_id": "gid://shopify/ProductVariant/49023421186271",
+    "variant_title": "Default Title",
+    "sku": "TJ-S146",
+    "price": 9000.0,
+    "variant_price": 9000.0,
+    "product_price": 9000.0,
+    "amount": 9000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S146-2.jpg?v=1777030600",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s146?variant=gid://shopify/ProductVariant/49023421186271",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44563348586719": {
     "product_title": "Multicolor Dual-Tone Gold-Plated Mishr Necklace Set with Jadau Kundan - MR-S576M",
