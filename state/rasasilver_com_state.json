@@ -7213,9 +7213,10 @@
     "amount": 20655.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_2_68d0c43f-f914-454e-ac2d-b5ff3dc9a0db.jpg?v=1754374086",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emeronika-necklace-set?variant=gid://shopify/ProductVariant/50611633619241",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50612149387561": {
     "product_title": "Nava Tales Necklace",
@@ -28179,7 +28180,7 @@
     "amount": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0198_copy.jpg?v=1769154388",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/silvabead-bloom-payal?variant=gid://shopify/ProductVariant/51500318654761",
     "stock": 1
   },
@@ -89875,6 +89876,40 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0788.jpg?v=1787057485",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-1?variant=gid://shopify/ProductVariant/53429137408297",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53429198717225": {
+    "product_title": "Tanirika Kundan Kanti",
+    "product_handle": "ishira-kundan-kanti-copy-2",
+    "variant_id": "gid://shopify/ProductVariant/53429198717225",
+    "global_id": "gid://shopify/ProductVariant/53429198717225",
+    "variant_title": "Default Title",
+    "sku": "R33944",
+    "price": 16900.0,
+    "variant_price": 16900.0,
+    "product_price": 16900.0,
+    "amount": 16900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0797.jpg?v=1787058134",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-2?variant=gid://shopify/ProductVariant/53429198717225",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53429223489833": {
+    "product_title": "Mayura-Chand Kundan Kanti",
+    "product_handle": "ishira-kundan-kanti-copy-3",
+    "variant_id": "gid://shopify/ProductVariant/53429223489833",
+    "global_id": "gid://shopify/ProductVariant/53429223489833",
+    "variant_title": "Default Title",
+    "sku": "R33946",
+    "price": 21400.0,
+    "variant_price": 21400.0,
+    "product_price": 21400.0,
+    "amount": 21400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_43_19Pics0784.jpg?v=1787058564",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/ishira-kundan-kanti-copy-3?variant=gid://shopify/ProductVariant/53429223489833",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53431577313577": {
