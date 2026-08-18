@@ -24978,8 +24978,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Preciousswaroskikundanworkfusionmala1550.jpg?v=1782216958",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/precious-swaroski-kundan-work-fusion-mala?variant=gid://shopify/ProductVariant/53368954454316",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/53368993972524": {
     "product_title": "classic gold jadau jhumkas",
@@ -26611,6 +26611,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/4599_5.jpg?v=1787036658",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-28?variant=gid://shopify/ProductVariant/53714561499436",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53714565955884": {
+    "product_title": "Classic Jadau Earrings",
+    "product_handle": "classic-jadau-earrings-29",
+    "variant_id": "gid://shopify/ProductVariant/53714565955884",
+    "global_id": "gid://shopify/ProductVariant/53714565955884",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 3999.0,
+    "variant_price": 3999.0,
+    "product_price": 3999.0,
+    "amount": 3999.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_2_d352d44c-8fba-43dc-9a73-9dc71e8b0d9f.jpg?v=1787036899",
+    "available_for_sale": true,
+    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-29?variant=gid://shopify/ProductVariant/53714565955884",
     "stock": -1
   }
 }

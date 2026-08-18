@@ -103566,24 +103566,6 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
-  "gid://shopify/ProductVariant/50117188845791": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Ring with Floral and Peacock Motif - MRNG283M",
-    "product_handle": "multicolor-gold-plated-jadau-kundan-ring-mrng283m",
-    "variant_id": "gid://shopify/ProductVariant/50117188845791",
-    "global_id": "gid://shopify/ProductVariant/50117188845791",
-    "variant_title": "Default Title",
-    "sku": "MRNG283M",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG283M.jpg?v=1781524421",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-ring-mrng283m?variant=gid://shopify/ProductVariant/50117188845791",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/50117208375519": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Adjustable Ring with Floral Kundan Cluster - MRNG284M",
     "product_handle": "multicolor-gold-plated-jadau-kundan-ring-mrng284m",
@@ -114122,6 +114104,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/50117188845791": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Ring with Floral and Peacock Motif - MRNG283M",
+    "product_handle": "multicolor-gold-plated-jadau-kundan-ring-mrng283m",
+    "variant_id": "gid://shopify/ProductVariant/50117188845791",
+    "global_id": "gid://shopify/ProductVariant/50117188845791",
+    "variant_title": "Default Title",
+    "sku": "MRNG283M",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG283M.jpg?v=1781524421",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-ring-mrng283m?variant=gid://shopify/ProductVariant/50117188845791",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45900828573919": {
     "product_title": "White Gold-Plated Faux Polki Kundan Ring Set with Pearl Accents - PK-R14",
