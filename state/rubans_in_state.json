@@ -14377,7 +14377,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10ED406233.jpg?v=1767159553",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22kt-gold-plated-emerald-green-cubic-zirconia-studded-chandelie-with-pearl-drops?variant=gid://shopify/ProductVariant/46074100514990",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46074100547758": {
     "product_title": "Regal Aura Green Stone & Pearl Danglers",
@@ -28049,7 +28050,7 @@
     "amount": 753.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-silver-plated-multi-layered-statement-bracelet-bangles-bracelet-1143858506.jpg?v=1755714163",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-plated-multi-layered-statement-bracelet?variant=gid://shopify/ProductVariant/46213288689838",
     "stock": 12,
     "last_alerted_stock": 12
