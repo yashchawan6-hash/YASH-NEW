@@ -16459,7 +16459,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PUB0023S_f6363ed4-f05d-40c9-8f4c-c1151e6df82e.jpg?v=1705488570",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/floral-moissanite-green-enamel-stud-earrings?variant=gid://shopify/ProductVariant/43360815710359",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43360827506839": {
     "product_title": "Blush and Green Bouquet Stud Earrings",
@@ -16782,7 +16783,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PANV0007S_8bb7c7e8-940a-47e9-bfdb-a4434115e83f.jpg?v=1697700179",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/radiant-blue-oasis-silver-cz-stud-earrings?variant=gid://shopify/ProductVariant/43365322686615",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43365361811607": {
     "product_title": "Navaratna and Moissanites Brilliance Silver Drop Earrings",
@@ -18770,9 +18772,10 @@
     "amount": 4909.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PUB0049F_01f8d1c0-7fef-4b57-b13e-cdeac673c734.jpg?v=1708145558",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/simple-floral-cz-silver-finger-ring?variant=gid://shopify/ProductVariant/43668749058199",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43668862992535": {
     "product_title": "Floral Bloom CZ Silver Finger Ring",
@@ -20284,7 +20287,7 @@
     "amount": 5873.4,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PMTP0003D_2.jpg?v=1724823662",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/monochrome-play-reverie-cz-silver-drop-earrings?variant=gid://shopify/ProductVariant/44555868438679",
     "stock": 0,
     "last_alerted_stock": 0
