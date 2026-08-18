@@ -8073,7 +8073,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-10-06_at_12.07.27_AM.jpg?v=1761822772",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zoya-jadaau-necklace-set?variant=gid://shopify/ProductVariant/45698377613524",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43429808472276": {
     "product_title": "Adaaonwali Jadaau Sheeshpatti",
@@ -10639,9 +10640,10 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/meeta-polki-antique-gold-jhumkas-attrangi-4.jpg?v=1739815096",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/meeta-polki-antique-gold-jhumkas?variant=gid://shopify/ProductVariant/43935384961236",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43935126159572": {
     "product_title": "Dhara Antique Gold Moissanite Bangle With Meenakari Work - Blue",
@@ -36231,7 +36233,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-30at4.07.13PM.jpg?v=1759231302",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/jhunjhun-gold-traditional-inidan-bangle-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/46986658316500",
     "stock": 1,
     "last_alerted_stock": 1
@@ -53513,24 +53515,6 @@
     "stock": 3,
     "last_alerted_stock": 2
   },
-  "gid://shopify/ProductVariant/48216856002772": {
-    "product_title": "Clover Diamond Multigemstone Rainbow Coloured Tennis Bracelet",
-    "product_handle": "clover-diamond-multigemstone-rainbow-coloured-tennis-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/48216856002772",
-    "global_id": "gid://shopify/ProductVariant/48216856002772",
-    "variant_title": "Default Title",
-    "sku": "NPJ9981MU-BR",
-    "price": 2950.0,
-    "variant_price": 2950.0,
-    "product_price": 2950.0,
-    "amount": 2950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_7.13.57_PM.jpg?v=1786543182",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/clover-diamond-multigemstone-rainbow-coloured-tennis-bracelet?variant=gid://shopify/ProductVariant/48216856002772",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/48216976064724": {
     "product_title": "Eva Multi Solitaire Big Hoop Diamond Earrings",
     "product_handle": "eva-multi-solitaire-big-hoop-diamond-earrings",
@@ -60187,6 +60171,24 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404836052",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/48216856002772": {
+    "product_title": "Clover Diamond Multigemstone Rainbow Coloured Tennis Bracelet",
+    "product_handle": "clover-diamond-multigemstone-rainbow-coloured-tennis-bracelet",
+    "variant_id": "gid://shopify/ProductVariant/48216856002772",
+    "global_id": "gid://shopify/ProductVariant/48216856002772",
+    "variant_title": "Default Title",
+    "sku": "NPJ9981MU-BR",
+    "price": 2950.0,
+    "variant_price": 2950.0,
+    "product_price": 2950.0,
+    "amount": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_7.13.57_PM.jpg?v=1786543182",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/clover-diamond-multigemstone-rainbow-coloured-tennis-bracelet?variant=gid://shopify/ProductVariant/48216856002772",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47310500790484": {
     "product_title": "Rainbow Multi Coloured Solitaire Diamond Tennis Bracelet",
