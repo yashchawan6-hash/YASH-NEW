@@ -9540,8 +9540,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/products/diana-invisible-setting-earrings-or-diamond-studs-attrangi-2.jpg?v=1739814798",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-invisible-setting-earrings-diamond-studs?variant=gid://shopify/ProductVariant/43868202205396",
-    "stock": 4,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43868202238164": {
     "product_title": "Diana Invisible Setting Earrings | Diamond Studs",
@@ -15737,9 +15737,10 @@
     "amount": 3150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-22_at_2.59.04_PM.jpg?v=1739816239",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/diana-band-ring-with-diamond-floral-motif?variant=gid://shopify/ProductVariant/46017868628180",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46017868660948": {
     "product_title": "Diana Band Ring with Diamond Floral Motif",
@@ -17706,7 +17707,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-08-02at1.32.33PM_1.jpg?v=1750782322",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-petal-diana-diamond-studs-invisible-setting?variant=gid://shopify/ProductVariant/45517690863828",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45517690896596": {
     "product_title": "3 Petal Diana Diamond Studs | Invisible Setting",
