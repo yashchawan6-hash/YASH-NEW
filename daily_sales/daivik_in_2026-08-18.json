@@ -1114,5 +1114,41 @@
     "curr_stock": 10,
     "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
+  },
+  {
+    "timestamp_ist": "2026-08-18 22:04:12",
+    "product_title": "Matte Gold Finish Uncut Long Haram with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/32600742723643",
+    "sku": "42",
+    "price": 2499.0,
+    "variant_price": 2499.0,
+    "product_price": 2499.0,
+    "amount": 2499.0,
+    "total_price": 2499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.daivik.in/products/42?variant=gid://shopify/ProductVariant/32600742723643",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae83b031-205e-453b-8bb4-cd73dcec54c8.jpg?v=1598451549"
+  },
+  {
+    "timestamp_ist": "2026-08-18 22:04:12",
+    "product_title": "Pure kemp antique teeka",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/37826102591641",
+    "sku": "549",
+    "price": 1499.0,
+    "variant_price": 1499.0,
+    "product_price": 1499.0,
+    "amount": 1499.0,
+    "total_price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 29,
+    "curr_stock": 28,
+    "url": "https://www.daivik.in/products/pure-kemp-antique-teeka?variant=gid://shopify/ProductVariant/37826102591641",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/pure-kemp-antique-teeka-other-essentials-516.jpg?v=1610892151"
   }
 ]
