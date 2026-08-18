@@ -1410,9 +1410,9 @@
     "amount": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/simple-ad-peacock-necklace-with-balis-neckwearnecklace-676.jpg?v=1605712387",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-ad-peacock-necklace-with-balis?variant=gid://shopify/ProductVariant/37198393475225",
-    "stock": 0,
+    "stock": 56,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/37230922170521": {
@@ -5789,9 +5789,9 @@
     "amount": 2299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c2cdcf29-39e0-4dc7-a6fb-a771880e3218.jpg?v=1644558611",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-leaf-long-haram-with-earrings?variant=gid://shopify/ProductVariant/42449536975070",
-    "stock": 0
+    "stock": 29
   },
   "gid://shopify/ProductVariant/42454621913310": {
     "product_title": "Layered Pearl Pure Kemp Brass",
@@ -24781,7 +24781,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F88CAC1A-BAC3-4FF6-9796-B0F957142D9D.jpg?v=1727277842",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/coral-ad-green-stone-necklace-with-studs?variant=gid://shopify/ProductVariant/45915404501214",
-    "stock": 11,
+    "stock": 23,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/45921812742366": {
