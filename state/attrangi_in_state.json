@@ -83,9 +83,9 @@
     "amount": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659206825",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43535590293716": {
@@ -103,7 +103,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/43535590293716",
-    "stock": 1,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40411659337897": {
@@ -12188,7 +12188,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diana-invisible-setting-floral-ring-attrangi-5.jpg?v=1739815513",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-invisible-setting-floral-ring?variant=gid://shopify/ProductVariant/44248104108244",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46104921080020": {
@@ -17815,9 +17815,9 @@
     "amount": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-11-02_at_6.22.20_PM.jpg?v=1739816998",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/soltiaire-pendant-set?variant=gid://shopify/ProductVariant/45951995707604",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45557088321748": {
@@ -30016,7 +30016,7 @@
     "amount": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kamali-dainty-choker-set-attrangi-1_85b0d5fb-6065-4d4f-8610-002de0c408f7.jpg?v=1749411393",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/kamali-dainty-choker-set?variant=gid://shopify/ProductVariant/46351890120916",
     "stock": 0,
     "last_alerted_stock": 0
@@ -34921,7 +34921,7 @@
     "amount": 1850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-21at1.44.30PM.jpg?v=1758456012",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/classic-marquise-slim-diamond-band-ring-daily-wear?variant=gid://shopify/ProductVariant/48163137585364",
     "stock": 1
   },
@@ -46618,7 +46618,7 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at6.30.54PM_2.jpg?v=1774340274",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/alibi-wrap-diamond-coloured-stone-cocktail-ring-adjustable?variant=gid://shopify/ProductVariant/47715647586516",
     "stock": 1,
     "last_alerted_stock": 1
@@ -51871,7 +51871,7 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-08at3.26.05PM.jpg?v=1778241548",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/4-carat-oval-classic-diamond-solitaire-earrings?variant=gid://shopify/ProductVariant/47905549189332",
     "stock": 8,
     "last_alerted_stock": 8
