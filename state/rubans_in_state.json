@@ -788,10 +788,10 @@
     "amount": 950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/272568-2.jpg?v=1765287297",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-silver-plated-oxidised-handcrafted-multi-layer-boho-necklace-1?variant=gid://shopify/ProductVariant/43043833774254",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43043831185582": {
     "product_title": "Rubans Gold Plated Handcrafted Kundan Maangtikka",
@@ -2605,8 +2605,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE51ES276976.jpg?v=1765520165",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-multicolor-ad-stud-earrings?variant=gid://shopify/ProductVariant/43043699458222",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43043699392686": {
     "product_title": "Classic Spark American Diamond Zirconia Studs",
@@ -2812,8 +2812,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/6df9995f-dcf7-4bb0-8977-c8274cc41a8e1657521832350RubansRoseGoldPlatedWhiteCZStuddedHandcraftedJewellerySet1.jpg?v=1765520022",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-zirconia-stone-studded-handcrafted-necklace-set-1?variant=gid://shopify/ProductVariant/43043687694510",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/43043687104686": {
     "product_title": "Rubans Rose Gold Plated Zirconia Stone Studded Handcrafted Necklace Set.",
@@ -3451,9 +3451,9 @@
     "amount": 920.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-ruby-pink-emerald-green-stone-studded-bangles-bangles-bracelets-1171024628.jpg?v=1774252411",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-handcrafted-pink-green-stone-studded-bangle?variant=gid://shopify/ProductVariant/42389818704046",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42389818736814": {
@@ -14358,10 +14358,10 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10ED406233.jpg?v=1767159553",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22kt-gold-plated-emerald-green-cubic-zirconia-studded-chandelie-with-pearl-drops?variant=gid://shopify/ProductVariant/46074100482222",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46074100514990": {
     "product_title": "Regal Aura Green Stone & Pearl Danglers",
