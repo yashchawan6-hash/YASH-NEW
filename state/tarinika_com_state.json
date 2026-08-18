@@ -5082,9 +5082,9 @@
     "amount": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL9678copycopy.jpg?v=1640781099",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/pusp-antique-silver-jhumka-earrings?variant=gid://shopify/ProductVariant/32523117985858",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32644918313026": {
