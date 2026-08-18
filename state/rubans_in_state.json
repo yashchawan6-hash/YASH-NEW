@@ -3278,7 +3278,7 @@
     "product_price": 1296.0,
     "amount": 1296.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-voguish-18k-gold-and-rhodium-plated-stainless-steel-waterproof-stud-earrings-earrings-33541916098734.jpg?v=1751574690",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/VCW30EH278541_4.jpg?v=1787034359",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-22k-gold-and-silver-plated-hoop-earring?variant=gid://shopify/ProductVariant/42379958386862",
     "stock": 2,
@@ -11329,7 +11329,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30N405457-Model.jpg?v=1767077412",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/18k-gold-plated-stainless-steel-tarnish-free-waterproof-bow-pendant-necklace-1?variant=gid://shopify/ProductVariant/45649213292718",
-    "stock": 16,
+    "stock": 15,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/45649216110766": {
@@ -11417,8 +11417,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04PC405801_02.jpg?v=1767159722",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/voguish-rhodium-plated-sparkling-ad-cubic-zirconia-studded-rectangle-pendant-necklace?variant=gid://shopify/ProductVariant/46074204749998",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45668028776622": {
     "product_title": "Colour Burst American Diamond Zirconia Drop Earrings",
@@ -21562,9 +21562,10 @@
     "amount": 902.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-rhodium-plated-sparkling-cubic-zirconia-studded-premium-bangles-bangles-bracelets-1172951323.jpg?v=1755715857",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-2-rhodium-plated-sparkling-cubic-zirconia-studded-premium-bangles-re14b406991-re14b406991?variant=gid://shopify/ProductVariant/47084602753198",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084602785966": {
     "product_title": "Rubans Set of 2, Rhodium-Plated Sparkling Cubic Zirconia Studded Premium Bangles",

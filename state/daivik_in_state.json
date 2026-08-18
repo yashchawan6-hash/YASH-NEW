@@ -572,9 +572,9 @@
     "amount": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image.jpg?v=1591983690",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/peacock-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/34474361782425",
-    "stock": 0
+    "stock": 15
   },
   "gid://shopify/ProductVariant/34489888637081": {
     "product_title": "Regular Use Kemp Stone Bangles",

@@ -25090,9 +25090,10 @@
     "amount": 109.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANL1309XMC.jpg?v=1757398550",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/saanvi-antique-coin-long-necklace-set?variant=gid://shopify/ProductVariant/42417391009858",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42417391042626": {
     "product_title": "Mahika Laxmi Antique Necklace Set",
