@@ -376,5 +376,41 @@
     "curr_stock": 5,
     "url": "https://www.daivik.in/products/pure?variant=gid://shopify/ProductVariant/44441935085790",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-2284_71bdd27a-815b-42c6-9bea-b239a4faddc1.png?v=1698076193"
+  },
+  {
+    "timestamp_ist": "2026-08-18 09:06:50",
+    "product_title": "Uncut Kemp Vintage Necklace With Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44178228478174",
+    "sku": "400",
+    "price": 1749.0,
+    "variant_price": 1749.0,
+    "product_price": 1749.0,
+    "amount": 1749.0,
+    "total_price": 1749.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 31,
+    "curr_stock": 30,
+    "url": "https://www.daivik.in/products/pure-uncut-kemp-vintage-necklace-with-earrings?variant=gid://shopify/ProductVariant/44178228478174",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C737AC2D-4625-48B3-A0E8-1A1FD009E918.jpg?v=1737636280"
+  },
+  {
+    "timestamp_ist": "2026-08-18 09:06:50",
+    "product_title": "AD Uncut necklace with earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44440279449822",
+    "sku": "386",
+    "price": 1999.0,
+    "variant_price": 1999.0,
+    "product_price": 1999.0,
+    "amount": 1999.0,
+    "total_price": 1999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 21,
+    "curr_stock": 20,
+    "url": "https://www.daivik.in/products/ad-uncut-necklace-with-earrings?variant=gid://shopify/ProductVariant/44440279449822",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/9A15156A-F2F5-401E-964A-288A2AA9824C.jpg?v=1697989253"
   }
 ]
