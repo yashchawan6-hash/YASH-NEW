@@ -9493,9 +9493,10 @@
     "amount": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/15.jpg?v=1756141696",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/meher-green-polki-bangles?variant=gid://shopify/ProductVariant/48790255206593",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48790255239361": {
     "product_title": "MEHER GREEN POLKI BANGLES",

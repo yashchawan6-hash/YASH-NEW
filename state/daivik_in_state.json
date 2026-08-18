@@ -2816,10 +2816,10 @@
     "amount": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b84b91f3-39db-464f-a5f2-32b92eb228b7.jpg?v=1625765057",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/kids-mini-choker?variant=gid://shopify/ProductVariant/40510053089433",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40525218087065": {
     "product_title": "3 Line Pearl Mattals",
