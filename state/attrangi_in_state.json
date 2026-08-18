@@ -2522,7 +2522,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/polki-ear-chain-attrangi-1.jpg?v=1739813062",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-ear-chain?variant=gid://shopify/ProductVariant/43311038595284",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45778513690836": {
@@ -5533,7 +5533,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/guchedaar-pearl-mala-attrangi-1.jpg?v=1739813796",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/guchedaar-pearl-mala?variant=gid://shopify/ProductVariant/42681271189716",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42681305923796": {
     "product_title": "Smriti Polki Choker Set",
@@ -10765,8 +10766,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ruby-and-moissanite-single-line-polki-long-necklace-attrangi-1.jpg?v=1739815105",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ruby-moissanite-single-line-polki-long-necklace?variant=gid://shopify/ProductVariant/43936504250580",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43941154128084": {
     "product_title": "Light Weight Indian Jhumkas | Antique Gold Victorian Collection",
@@ -16261,10 +16262,10 @@
     "amount": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/antique-gold-polki-pendant-set-with-stud-attrangi-1.jpg?v=1739816418",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/antique-gold-polki-pendant-set-with-stud?variant=gid://shopify/ProductVariant/45067505139924",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45271117824212": {
     "product_title": "Rachel Diamond Statement Kada",
