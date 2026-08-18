@@ -107729,7 +107729,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12836.jpg?v=1763971911",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/majestic-long-necklace-set?variant=gid://shopify/ProductVariant/47624229388515",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47624593015011": {
     "product_title": "Fabulous Long Necklace",
@@ -107746,7 +107746,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12752_11d67110-6c3b-4051-9b69-35b6a1458c1d.jpg?v=1771331212",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/fabulous-long-necklace-2?variant=gid://shopify/ProductVariant/47624593015011",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47624903229667": {
     "product_title": "Charming Glow Short Necklace",
@@ -107865,7 +107865,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11254.jpg?v=1763980480",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/heritage-nagas-jhumkas-2?variant=gid://shopify/ProductVariant/47625799958755",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47625898229987": {
     "product_title": "Nihara Nagas Jhumkas",
@@ -107933,7 +107933,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11290.jpg?v=1763983051",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/trishali-hook-jhumkas?variant=gid://shopify/ProductVariant/47626201006307",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47626203463907": {
     "product_title": "Aarani Hook Jhumkas",
@@ -107950,7 +107950,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11291.jpg?v=1763983208",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/aarani-hook-jhumkas?variant=gid://shopify/ProductVariant/47626203463907",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47626252124387": {
     "product_title": "Nilani Hook Jhumkas",
@@ -108001,7 +108001,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13043.jpg?v=1763987773",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/gorgeous-short-necklace-set-2?variant=gid://shopify/ProductVariant/47626300293347",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47626347544803": {
     "product_title": "Sobha Nagas Drops",
@@ -108086,7 +108086,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12718_5f7b1f1a-4bd1-4222-8abf-14cc19bd90a3.jpg?v=1781763306",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/dhivana-short-necklace?variant=gid://shopify/ProductVariant/47629990822115",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47630051770595": {
     "product_title": "Green Glow Short Necklace",
@@ -108120,7 +108121,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13063.jpg?v=1764066237",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nethra-short-necklace-set-1?variant=gid://shopify/ProductVariant/47630062026979",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47630482243811": {
     "product_title": "Prathika Kundan Pendant",
@@ -108256,7 +108257,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12730.jpg?v=1764079407",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/anisha-beads-necklace?variant=gid://shopify/ProductVariant/47631494217955",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47654587957475": {
     "product_title": "Grandeur Short Necklace Set",
@@ -108290,7 +108291,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-113-0339.jpg?v=1764238404",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dhanya-nose-pin?variant=gid://shopify/ProductVariant/47654592610531",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47654712803555": {
     "product_title": "Hersitha Nose Pin",
@@ -108375,7 +108376,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3624.jpg?v=1764590827",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/facinate-pendant?variant=gid://shopify/ProductVariant/47685940707555",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47685947654371": {
     "product_title": "Greenish Pendant",
