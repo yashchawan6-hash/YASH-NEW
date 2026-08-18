@@ -23313,9 +23313,9 @@
     "amount": 3000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP0632.jpg?v=1780405416",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/avni-red-green-kundan-stud?variant=gid://shopify/ProductVariant/50287857631425",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50291916538049": {
@@ -24594,9 +24594,9 @@
     "amount": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/2NGP02750.jpg?v=1781085648",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mohan-red-moissanite-ring?variant=gid://shopify/ProductVariant/50317238927553",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50317244563649": {
@@ -24969,7 +24969,7 @@
     "amount": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP1256.jpg?v=1781184058",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/brinda-red-green-kundan-juda-pin?variant=gid://shopify/ProductVariant/50322724389057",
     "stock": 0,
     "last_alerted_stock": 0
@@ -26232,7 +26232,7 @@
     "amount": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP1737.jpg?v=1781783343",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chitrani-green-polki-necklace-set?variant=gid://shopify/ProductVariant/50343224934593",
     "stock": 0,
     "last_alerted_stock": 0
