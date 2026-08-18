@@ -632,9 +632,9 @@
     "amount": 1224.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-toned-peacock-embellished-necklace-set-necklace-set-33839784788142.jpg?v=1765280102",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-toned-peacock-embellished-necklace-set?variant=gid://shopify/ProductVariant/43043849732270",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43043849699502": {
@@ -15967,8 +15967,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22kt-gold-plated-cubic-zirconia-stone-studded-pearls-beaded-jewellery-set-necklace-set-37838668562606.jpg?v=1755716808",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22kt-gold-plated-cubic-zirconia-stone-studded-pearls-beaded-jewellery-set?variant=gid://shopify/ProductVariant/45914937000110",
-    "stock": 12,
-    "last_alerted_stock": 12
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/45914937032878": {
     "product_title": "Necklace Set in American Diamond Zirconia",
@@ -16019,7 +16019,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-pink-ad-white-cubiczirconia-studded-jewellery-set-with-pearl-drop-ring-37531653144750.jpg?v=1755716802",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-pink-ad-white-cubiczirconia-studded-jewellery-set-with-pearl-drop?variant=gid://shopify/ProductVariant/45914938015918",
-    "stock": 12,
+    "stock": 13,
     "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/45914938081454": {
