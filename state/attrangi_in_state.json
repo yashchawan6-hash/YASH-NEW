@@ -9782,7 +9782,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/traditional-matte-gold-kada-s-or-indian-openable-bangle-attrangi-1.jpg?v=1739814880",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fluorite-mint-traditional-matte-gold-kada-s-indian-openable-bangle?variant=gid://shopify/ProductVariant/43891102777556",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44507514896596": {
     "product_title": "Traditional Matte Gold Indian Openable Bangle",
@@ -23129,7 +23130,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-01-22at10.29.39AM.jpg?v=1739818326",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bali-in-polki-indian-earrings-indo-western?variant=gid://shopify/ProductVariant/46017652752596",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46017676116180": {
@@ -46477,7 +46478,7 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-23at4.40.46PM.jpg?v=1774338447",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/fooldhaar-delicate-polki-long-indian-earrings-indo-western?variant=gid://shopify/ProductVariant/47715545088212",
     "stock": 1,
     "last_alerted_stock": 1
