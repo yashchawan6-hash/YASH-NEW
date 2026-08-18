@@ -26578,5 +26578,22 @@
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-25?variant=gid://shopify/ProductVariant/53714530828588",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/53714540364076": {
+    "product_title": "Classic Jadau Earrings",
+    "product_handle": "classic-jadau-earrings-26",
+    "variant_id": "gid://shopify/ProductVariant/53714540364076",
+    "global_id": "gid://shopify/ProductVariant/53714540364076",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 4599.0,
+    "variant_price": 4599.0,
+    "product_price": 4599.0,
+    "amount": 4599.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_4.jpg?v=1787036162",
+    "available_for_sale": true,
+    "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-26?variant=gid://shopify/ProductVariant/53714540364076",
+    "stock": -1
   }
 }

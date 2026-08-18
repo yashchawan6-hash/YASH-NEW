@@ -11002,9 +11002,9 @@
     "amount": 950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-07-24_at_6.17.29_PM.jpg?v=1784897749",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jadaau-unisex-reusable-bracelet?variant=gid://shopify/ProductVariant/43976312357076",
-    "stock": 0,
+    "stock": 6,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43983496347860": {
@@ -18171,7 +18171,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-10-03_at_10.58.53_PM.jpg?v=1750782489",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/draupadi-polki-and-pearl-choker-set?variant=gid://shopify/ProductVariant/45682652676308",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45586405523668": {
     "product_title": "Ambika 2 Line Gold Haar with Jhumkis | Sone pe Suhaga",
@@ -20870,7 +20871,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-22at8.23.33PM.jpg?v=1750783397",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/khili-royal-polki-antique-gold-brooch-for-men-women?variant=gid://shopify/ProductVariant/45877270249684",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45877281751252": {
