@@ -22756,7 +22756,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-10_at_12.03.50_AM_1.jpg?v=1757504799",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/amara-pearl-drop-classic-diamond-studs?variant=gid://shopify/ProductVariant/46017836744916",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45957023334612": {
     "product_title": "Divya Double Finger Polki Gold Ring",
@@ -51864,7 +51865,7 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-08at3.26.05PM.jpg?v=1778241548",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/4-carat-oval-classic-diamond-solitaire-earrings?variant=gid://shopify/ProductVariant/47905549189332",
     "stock": 8,
     "last_alerted_stock": 8

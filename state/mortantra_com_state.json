@@ -1728,6 +1728,24 @@
     "stock": 2,
     "last_alerted_stock": 2
   },
+  "gid://shopify/ProductVariant/42362261766367": {
+    "product_title": "White Pearl Gold-Plated Ear Chains - MKS25",
+    "product_handle": "mks25-jadau-kundan-earchains",
+    "variant_id": "gid://shopify/ProductVariant/42362261766367",
+    "global_id": "gid://shopify/ProductVariant/42362261766367",
+    "variant_title": "Default Title",
+    "sku": "MKS25",
+    "price": 650.0,
+    "variant_price": 650.0,
+    "product_price": 650.0,
+    "amount": 650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/MKS25.jpg?v=1640856756",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mks25-jadau-kundan-earchains?variant=gid://shopify/ProductVariant/42362261766367",
+    "stock": 22,
+    "last_alerted_stock": 1
+  },
   "gid://shopify/ProductVariant/42362278346975": {
     "product_title": "White Pearl Gold-Plated Temple Ear Chains - MKS26",
     "product_handle": "mks26-jadau-kundan-earchains",
@@ -1743,7 +1761,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKS26_675490b8-3fec-4237-a88c-fedd9ebbbd8d.jpg?v=1785147416",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mks26-jadau-kundan-earchains?variant=gid://shopify/ProductVariant/42362278346975",
-    "stock": 3,
+    "stock": 22,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/42362985775327": {
@@ -2138,6 +2156,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/me915ma-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/42546590253279",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/42560841842911": {
+    "product_title": "White Pearl Gold-Plated Ear Chains - MKS24",
+    "product_handle": "mks24-jadau-kundan-earchains",
+    "variant_id": "gid://shopify/ProductVariant/42560841842911",
+    "global_id": "gid://shopify/ProductVariant/42560841842911",
+    "variant_title": "Default Title",
+    "sku": "MKS24",
+    "price": 1200.0,
+    "variant_price": 1200.0,
+    "product_price": 1200.0,
+    "amount": 1200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/MKS24.jpg?v=1644411857",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mks24-jadau-kundan-earchains?variant=gid://shopify/ProductVariant/42560841842911",
+    "stock": 22
   },
   "gid://shopify/ProductVariant/42564638834911": {
     "product_title": "White Gold-Plated Jadau Kundan Nosering with Kundan Stone - MNTH124Y",
@@ -114028,6 +114063,23 @@
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-choker-necklace-set-with-peacock-motif-ms2938y?variant=gid://shopify/ProductVariant/50681527697631",
     "stock": -1
   },
+  "gid://shopify/ProductVariant/51225399296223": {
+    "product_title": "Firoza Color Gold Plated Necklace - MN669FA",
+    "product_handle": "firoza-color-gold-plated-necklace-mn669fa",
+    "variant_id": "gid://shopify/ProductVariant/51225399296223",
+    "global_id": "gid://shopify/ProductVariant/51225399296223",
+    "variant_title": "Default Title",
+    "sku": "MN669FA",
+    "price": 1500.0,
+    "variant_price": 1500.0,
+    "product_price": 1500.0,
+    "amount": 1500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MN669FA.jpg?v=1787054203",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/firoza-color-gold-plated-necklace-mn669fa?variant=gid://shopify/ProductVariant/51225399296223",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/43717702156511": {
     "product_title": "Multicolor Dual-Tone Mishr Hasli Necklace Set with Kundan Stonework - MR-S44M",
     "product_handle": "mr-s44m-mishr-necklace-set",
@@ -115297,21 +115349,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2166M_1.jpg?v=1720445353",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ms2166m-multicolor-gold-plated-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46093854441695",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
-  "gid://shopify/ProductVariant/42362261766367": {
-    "product_title": "White Pearl Gold-Plated Ear Chains - MKS25",
-    "product_handle": "mks25-jadau-kundan-earchains",
-    "variant_id": "gid://shopify/ProductVariant/42362261766367",
-    "global_id": "gid://shopify/ProductVariant/42362261766367",
-    "variant_title": "Default Title",
-    "sku": "MKS25",
-    "price": 650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/MKS25.jpg?v=1640856756",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/mks25-jadau-kundan-earchains?variant=gid://shopify/ProductVariant/42362261766367",
     "stock": 1,
     "last_alerted_stock": 1
   },
