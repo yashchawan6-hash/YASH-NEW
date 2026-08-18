@@ -17810,10 +17810,10 @@
     "amount": 2250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-11-02_at_6.22.20_PM.jpg?v=1739816998",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/soltiaire-pendant-set?variant=gid://shopify/ProductVariant/45951995707604",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45557088321748": {
     "product_title": "Diamond Glaze Long Earrings Multi Solitaire",
