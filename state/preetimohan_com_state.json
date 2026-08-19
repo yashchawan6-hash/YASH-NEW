@@ -23542,9 +23542,9 @@
     "amount": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/48_da66d3b0-fce5-4a2d-b71a-4446defef92f.png?v=1786359019",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/gargi-mint-polki-stud?variant=gid://shopify/ProductVariant/50295627284673",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50295629578433": {
     "product_title": "BHAVINI RED & GREEN POLKI STUDS",
