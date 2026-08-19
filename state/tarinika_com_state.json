@@ -16520,10 +16520,10 @@
     "amount": 124.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1NX0273X.jpg?v=1693213572",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/dorothy-kundan-choker-set?variant=gid://shopify/ProductVariant/40406102736962",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40430689124418": {
     "product_title": "Chitra Temple Antique Necklace Set",
@@ -19026,10 +19026,10 @@
     "amount": 129.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANL2754XHY_b65ea6b8-f6e1-4e07-8473-ec7221d1f440.jpg?v=1739168665",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/govind-antique-temple-long-necklace-set?variant=gid://shopify/ProductVariant/41113675432002",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41113711738946": {
     "product_title": "Gana Lakshmi Antique Temple Necklace Set",
