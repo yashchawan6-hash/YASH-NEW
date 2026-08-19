@@ -4899,7 +4899,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPBAN94P_1.jpg?v=1765619592",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/tmpban94p-temple-bangles?variant=gid://shopify/ProductVariant/47031771791583",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/44230108184799": {
     "product_title": "Pink Color Gold Plated Temple Bangles (One Pair) with Kundan - TMPBAN94P",
@@ -29249,7 +29250,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1439WGR.jpg?v=1749022303",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-earrings-me1439?variant=gid://shopify/ProductVariant/46455981801695",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46455981736159": {
     "product_title": "Gold-Plated Jadau Kundan EarCuff Kanphool with Floral Kundan Setting - ME1439",
