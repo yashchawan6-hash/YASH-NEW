@@ -1273,24 +1273,6 @@
     "url": "https://www.attrangi.in/products/sleek-jadaau-chandbali?variant=gid://shopify/ProductVariant/43078142722260",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/43036898558164": {
-    "product_title": "Zakeen Jadaau Indian Chandbali",
-    "product_handle": "navratna-zakeen-chandbali",
-    "variant_id": "gid://shopify/ProductVariant/43036898558164",
-    "global_id": "gid://shopify/ProductVariant/43036898558164",
-    "variant_title": "Gold / White",
-    "sku": "QS0162W",
-    "price": 4650.0,
-    "variant_price": 4650.0,
-    "product_price": 4650.0,
-    "amount": 4650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_1.16.27_PM_1.jpg?v=1741341517",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/navratna-zakeen-chandbali?variant=gid://shopify/ProductVariant/43036898558164",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/45482247028948": {
     "product_title": "Zakeen Jadaau Indian Chandbali",
     "product_handle": "navratna-zakeen-chandbali",
@@ -25617,7 +25599,7 @@
     "amount": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at7.55.57PM_1.jpg?v=1744968806",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/navratna-next-to-real-diamond-indian-bangle-copy?variant=gid://shopify/ProductVariant/46132756480212",
     "stock": 3
   },
@@ -25634,7 +25616,7 @@
     "amount": 4550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at7.55.57PM_1.jpg?v=1744968806",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/navratna-next-to-real-diamond-indian-bangle-copy?variant=gid://shopify/ProductVariant/46132756512980",
     "stock": 2,
     "last_alerted_stock": 2
@@ -40719,7 +40701,7 @@
     "amount": 6450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-18at11.28.22AM.jpg?v=1766042201",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sabhya-bijooriya-multicolour-gemstone-kada-gemz?variant=gid://shopify/ProductVariant/47368749580500",
     "stock": 1,
     "last_alerted_stock": 1
@@ -51832,7 +51814,7 @@
     "amount": 8250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-24at5.57.57PM_3.jpg?v=1778321527",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/mini-jayati-moissanite-gajra-indian-polki-bracelet?variant=gid://shopify/ProductVariant/47909233524948",
     "stock": 0,
     "last_alerted_stock": 0
@@ -59767,7 +59749,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-17at3.26.27PM.jpg?v=1786968793",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404410068",
     "stock": -1
   },
@@ -59818,7 +59800,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.27.25_PM.jpg?v=1786969581",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404508372",
     "stock": -1
   },
@@ -59835,7 +59817,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.31.39_PM.jpg?v=1786969889",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404541140",
     "stock": -1
   },
@@ -59852,7 +59834,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.27.47_PM.jpg?v=1786970275",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404573908",
     "stock": -1
   },
@@ -59869,7 +59851,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.28.12_PM.jpg?v=1786970394",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404606676",
     "stock": -1
   },
@@ -59937,7 +59919,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.30.51_PM.jpg?v=1786970956",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404737748",
     "stock": -1
   },
