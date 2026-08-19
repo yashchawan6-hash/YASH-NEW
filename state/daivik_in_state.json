@@ -3269,10 +3269,10 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_759a774f-96d7-41af-a149-dc4f82e5ba7c.jpg?v=1630159442",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/mini-version-of-the-big-size-jhumkas?variant=gid://shopify/ProductVariant/44757040464094",
-    "stock": 26,
-    "last_alerted_stock": 26
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40979176521881": {
     "product_title": "Designer AD Necklace with earrings in 3 colours",
