@@ -15764,9 +15764,10 @@
     "amount": 3150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-22_at_2.59.04_PM.jpg?v=1739816239",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/diana-band-ring-with-diamond-floral-motif?variant=gid://shopify/ProductVariant/46017868660948",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44898825371860": {
     "product_title": "Tehnaaz Jadaau Navratna Necklace / Choker Set",
@@ -49027,7 +49028,7 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-30_at_5.04.17_PM.jpg?v=1774873737",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gia-multi-diamond-drop-dainty-daily-wear-necklace?variant=gid://shopify/ProductVariant/47738189119700",
     "stock": 0,
     "last_alerted_stock": 0
@@ -50113,7 +50114,7 @@
     "amount": 2850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-06at8.22.44PM_1.jpg?v=1775567425",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rainbow-dust-multigemstone-diamond-bracelet-flexible?variant=gid://shopify/ProductVariant/47768932876500",
     "stock": 1
   },
