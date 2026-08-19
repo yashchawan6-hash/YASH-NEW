@@ -56612,7 +56612,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0382_S.jpg?v=1775372483",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mangalsutra-chain-double-layer?variant=gid://shopify/ProductVariant/46779081195747",
-    "stock": 26
+    "stock": 25,
+    "last_alerted_stock": 25
   },
   "gid://shopify/ProductVariant/46779086012643": {
     "product_title": "Mangalsutra Chain Double layer-24\"",
@@ -62251,7 +62252,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1647.jpg?v=1754049606",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/classic-stone-maatal?variant=gid://shopify/ProductVariant/46968678777059",
-    "stock": -1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/46968680546531": {
     "product_title": "Shinning Stone Jhumkas",
@@ -66568,7 +66569,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0247_1.jpg?v=1755071180",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/ilyra-toe-ring?variant=gid://shopify/ProductVariant/47019612864739",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47019620237539": {
     "product_title": "Kiora Toe Ring",
@@ -66619,7 +66621,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-117-0250.jpg?v=1755072328",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/olyra-toe-ring?variant=gid://shopify/ProductVariant/47019642126563",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47019644616931": {
     "product_title": "Nyria Toe Ring",
@@ -70884,7 +70887,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1207.jpg?v=1755856124",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/calista-ring-1?variant=gid://shopify/ProductVariant/47048920498403",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47048934064355": {
     "product_title": "Dual Charms Oddiyanam",
@@ -71621,7 +71625,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9820_1.jpg?v=1756016899",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/drops-earrings?variant=gid://shopify/ProductVariant/47059050954979",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47059057508579": {
     "product_title": "Dual Shine Bugadi",
@@ -71638,7 +71643,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-9821_1.jpg?v=1756017016",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dual-drops-earrings?variant=gid://shopify/ProductVariant/47059057508579",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47059068158179": {
     "product_title": "Chic & Fabulous Kundan Oddiyanam",
@@ -72047,7 +72053,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1457.jpg?v=1756037698",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/princess-stone-ring?variant=gid://shopify/ProductVariant/47059338723555",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47059368902883": {
     "product_title": "Nisha Stone Ring",
@@ -72098,7 +72105,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1460.jpg?v=1756038590",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/isha-stone-ring?variant=gid://shopify/ProductVariant/47059379749091",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47059384893667": {
     "product_title": "Sahara Stone Ring",
@@ -72115,7 +72122,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1462.jpg?v=1756038731",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/sahara-stone-ring?variant=gid://shopify/ProductVariant/47059384893667",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47059396821219": {
     "product_title": "Lavita Stone Ring",
