@@ -406,24 +406,6 @@
     "url": "https://www.attrangi.in/products/marquise-dangler-earrings?variant=gid://shopify/ProductVariant/40411662581929",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/40411664679081": {
-    "product_title": "Bouquet Stiff Earrings",
-    "product_handle": "bouquet-stiff-earrings",
-    "variant_id": "gid://shopify/ProductVariant/40411664679081",
-    "global_id": "gid://shopify/ProductVariant/40411664679081",
-    "variant_title": "Silver / Diamond",
-    "sku": "SS1700S",
-    "price": 2650.0,
-    "variant_price": 2650.0,
-    "product_price": 2650.0,
-    "amount": 2650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/bouquet-stiff-earrings-attrangi-1.jpg?v=1739812514",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/bouquet-stiff-earrings?variant=gid://shopify/ProductVariant/40411664679081",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/40411664711849": {
     "product_title": "Bouquet Stiff Earrings",
     "product_handle": "bouquet-stiff-earrings",
@@ -7992,23 +7974,6 @@
     "url": "https://www.attrangi.in/products/ubeida-tikdi-earrings?variant=gid://shopify/ProductVariant/43403650826452",
     "stock": 1,
     "last_alerted_stock": 1
-  },
-  "gid://shopify/ProductVariant/43403650859220": {
-    "product_title": "Ubeida Tikdi Earrings",
-    "product_handle": "ubeida-tikdi-earrings",
-    "variant_id": "gid://shopify/ProductVariant/43403650859220",
-    "global_id": "gid://shopify/ProductVariant/43403650859220",
-    "variant_title": "White",
-    "sku": "QS0544W",
-    "price": 1650.0,
-    "variant_price": 1650.0,
-    "product_price": 1650.0,
-    "amount": 1650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ubeida-tikdi-earrings-attrangi-4.jpg?v=1752922583",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/ubeida-tikdi-earrings?variant=gid://shopify/ProductVariant/43403650859220",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/44248352653524": {
     "product_title": "Sona Moti 3 layer Jhumkas",
@@ -20976,9 +20941,9 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-22at8.23.49PM.jpg?v=1750783410",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sethi-polki-antique-gold-brooch-men-women?variant=gid://shopify/ProductVariant/46101337211092",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46101338620116": {
@@ -21853,9 +21818,10 @@
     "amount": 22550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.05_PM.jpg?v=1764672308",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sadabahar-bridal-heavy-polki-emerald-set?variant=gid://shopify/ProductVariant/47304628994260",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45909229240532": {
     "product_title": "Eisha Polki Moissanite Pendant Set | Victorian Polish",
