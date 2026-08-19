@@ -97,9 +97,10 @@
     "amount": 8075.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/161.png?v=1756142626",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/manjushree-gold-bangles?variant=gid://shopify/ProductVariant/47587652239553",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47587652272321": {
     "product_title": "Manjushree Bangles",
@@ -17525,9 +17526,10 @@
     "amount": 6000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/86_d21393b7-9d77-4d33-96f0-979b976f8ed9.png?v=1756140903",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/liliana-red-zircon-bangles?variant=gid://shopify/ProductVariant/49281546879169",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49281555759297": {
     "product_title": "SAYLOR WHITE ZIRCON BANGLES",
