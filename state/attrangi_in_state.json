@@ -419,9 +419,9 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/bouquet-stiff-earrings-attrangi-1.jpg?v=1739812514",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bouquet-stiff-earrings?variant=gid://shopify/ProductVariant/40411664679081",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411664711849": {
@@ -10220,7 +10220,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sharpay-diamond-cocktail-ring-with-invisible-setting-attrangi-6.jpg?v=1739814953",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sharpay-diamond-cocktail-ring-with-invisible-setting?variant=gid://shopify/ProductVariant/43909806031060",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43909806063828": {
     "product_title": "Sharpay Diamond Cocktail Ring With Invisible Setting",
@@ -37393,60 +37394,6 @@
     "stock": 0,
     "last_alerted_stock": 0
   },
-  "gid://shopify/ProductVariant/47027770949844": {
-    "product_title": "Rosy Moissanite Pacheli Style Thin Polki Bangle | Openable",
-    "product_handle": "rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable",
-    "variant_id": "gid://shopify/ProductVariant/47027770949844",
-    "global_id": "gid://shopify/ProductVariant/47027770949844",
-    "variant_title": "Pair / 2.2",
-    "sku": "RC41018Z2X2-BN",
-    "price": 5650.0,
-    "variant_price": 5650.0,
-    "product_price": 5650.0,
-    "amount": 5650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770949844",
-    "stock": 1,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/47027770982612": {
-    "product_title": "Rosy Moissanite Pacheli Style Thin Polki Bangle | Openable",
-    "product_handle": "rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable",
-    "variant_id": "gid://shopify/ProductVariant/47027770982612",
-    "global_id": "gid://shopify/ProductVariant/47027770982612",
-    "variant_title": "Pair / 2.4",
-    "sku": "RC41018Z4X2-BN",
-    "price": 5650.0,
-    "variant_price": 5650.0,
-    "product_price": 5650.0,
-    "amount": 5650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770982612",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/47027771015380": {
-    "product_title": "Rosy Moissanite Pacheli Style Thin Polki Bangle | Openable",
-    "product_handle": "rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable",
-    "variant_id": "gid://shopify/ProductVariant/47027771015380",
-    "global_id": "gid://shopify/ProductVariant/47027771015380",
-    "variant_title": "Pair / 2.6",
-    "sku": "RC41018Z6X2-BN",
-    "price": 5650.0,
-    "variant_price": 5650.0,
-    "product_price": 5650.0,
-    "amount": 5650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027771015380",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/47045697175764": {
     "product_title": "Runjun Polki Moissanite Thick Uncut Diamond Kada",
     "product_handle": "runjun-polki-moissanite-thick-uncut-diamond-kada",
@@ -59913,6 +59860,24 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404836052",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47027770949844": {
+    "product_title": "Rosy Moissanite Pacheli Style Thin Polki Bangle | Openable",
+    "product_handle": "rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable",
+    "variant_id": "gid://shopify/ProductVariant/47027770949844",
+    "global_id": "gid://shopify/ProductVariant/47027770949844",
+    "variant_title": "Pair / 2.2",
+    "sku": "RC41018Z2X2-BN",
+    "price": 5650.0,
+    "variant_price": 5650.0,
+    "product_price": 5650.0,
+    "amount": 5650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770949844",
+    "stock": 1,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48429809696980": {
     "product_title": "Mehra Elephant Lotus Diamond Magnetic Brooch | Unisex",
