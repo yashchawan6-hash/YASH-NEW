@@ -10492,7 +10492,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sasha-basic-victorian-polki-choker-necklace-set-attrangi-1.jpg?v=1739814999",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sasha-basic-victorian-polki-choker-necklace-set?variant=gid://shopify/ProductVariant/43910066897108",
-    "stock": 9,
+    "stock": 10,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/43910163366100": {
@@ -50507,7 +50507,7 @@
     "amount": 5250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-04-13at3.58.53PM_1.jpg?v=1776077306",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/renita-silver-gold-cnc-bangle-set-daily-wear?variant=gid://shopify/ProductVariant/48309312159956",
     "stock": 0,
     "last_alerted_stock": 0
@@ -53547,24 +53547,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kalki-traditional-indian-gold-jhumka-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48234872144084",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/48234872176852": {
-    "product_title": "Kalki traditional Indian Gold Jhumka | Sone Pe Suhaga",
-    "product_handle": "kalki-traditional-indian-gold-jhumka-sone-pe-suhaga",
-    "variant_id": "gid://shopify/ProductVariant/48234872176852",
-    "global_id": "gid://shopify/ProductVariant/48234872176852",
-    "variant_title": "Green",
-    "sku": "SH02590GR-ER",
-    "price": 2850.0,
-    "variant_price": 2850.0,
-    "product_price": 2850.0,
-    "amount": 2850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/SH02590GR-ER_101900_2026010370706_1.jpg?v=1783594076",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/kalki-traditional-indian-gold-jhumka-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48234872176852",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48234959306964": {
     "product_title": "Charming Lara Solitaire Earrings",
