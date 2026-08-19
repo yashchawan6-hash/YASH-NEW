@@ -3841,6 +3841,23 @@
     "url": "https://www.theamethyststore.com/products/lavina-long-earrings?variant=gid://shopify/ProductVariant/42910451073251",
     "stock": 2
   },
+  "gid://shopify/ProductVariant/42910502158563": {
+    "product_title": "Navarathna Earrings",
+    "product_handle": "navarathna-earrings-1",
+    "variant_id": "gid://shopify/ProductVariant/42910502158563",
+    "global_id": "gid://shopify/ProductVariant/42910502158563",
+    "variant_title": "Default Title",
+    "sku": "AMS-106-2563",
+    "price": 12900.0,
+    "variant_price": 12900.0,
+    "product_price": 12900.0,
+    "amount": 12900.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/DSC06812.jpg?v=1748344865",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/navarathna-earrings-1?variant=gid://shopify/ProductVariant/42910502158563",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/42911494144227": {
     "product_title": "Vikashini Long Necklace",
     "product_handle": "vikashini-long-necklace",
@@ -48088,6 +48105,23 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/rakshi-stone-pendant?variant=gid://shopify/ProductVariant/46423380426979",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/46423388848355": {
+    "product_title": "Avanthikha Beads Chain",
+    "product_handle": "avanthikha-beads-chain",
+    "variant_id": "gid://shopify/ProductVariant/46423388848355",
+    "global_id": "gid://shopify/ProductVariant/46423388848355",
+    "variant_title": "Default Title",
+    "sku": "AMS-105-0892",
+    "price": 9300.0,
+    "variant_price": 9300.0,
+    "product_price": 9300.0,
+    "amount": 9300.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-0892.jpg?v=1749032697",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/avanthikha-beads-chain?variant=gid://shopify/ProductVariant/46423388848355",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/46425260949731": {
     "product_title": "Marina Short Necklace",
