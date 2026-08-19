@@ -17381,23 +17381,6 @@
     "url": "https://www.preetimohan.com/products/mishka-green-polki-long-necklace?variant=gid://shopify/ProductVariant/49263561736385",
     "stock": 1
   },
-  "gid://shopify/ProductVariant/49263586672833": {
-    "product_title": "GAURIKA GREEN POLKI NECKLACE SET",
-    "product_handle": "gaurika-green-polki-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/49263586672833",
-    "global_id": "gid://shopify/ProductVariant/49263586672833",
-    "variant_title": "Default Title",
-    "sku": "WNKBTH441",
-    "price": 22000.0,
-    "variant_price": 22000.0,
-    "product_price": 22000.0,
-    "amount": 22000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/75_d0e8eb98-1a05-4612-9cd5-5baa3ee6bf37.png?v=1756191494",
-    "available_for_sale": true,
-    "url": "https://www.preetimohan.com/products/gaurika-green-polki-necklace-set?variant=gid://shopify/ProductVariant/49263586672833",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49263600795841": {
     "product_title": "INAAYA GREEN POLKI NECKLACE SET",
     "product_handle": "inaaya-green-polki-necklace-set",
@@ -27551,6 +27534,23 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chandni-red-green-kundan-waist-belts?variant=gid://shopify/ProductVariant/50485596618945",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/49263586672833": {
+    "product_title": "GAURIKA GREEN POLKI NECKLACE SET",
+    "product_handle": "gaurika-green-polki-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/49263586672833",
+    "global_id": "gid://shopify/ProductVariant/49263586672833",
+    "variant_title": "Default Title",
+    "sku": "WNKBTH441",
+    "price": 22000.0,
+    "variant_price": 22000.0,
+    "product_price": 22000.0,
+    "amount": 22000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/75_d0e8eb98-1a05-4612-9cd5-5baa3ee6bf37.png?v=1756191494",
+    "available_for_sale": true,
+    "url": "https://www.preetimohan.com/products/gaurika-green-polki-necklace-set?variant=gid://shopify/ProductVariant/49263586672833",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42546649563329": {
     "product_title": "MANAH MOTHER OF PEARL EARRING",
