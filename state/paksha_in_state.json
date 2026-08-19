@@ -14793,9 +14793,10 @@
     "amount": 10309.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PNG0027B.jpg?v=1696058540",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.paksha.in/products/moroccan-blue-stackable-silver-bracelet?variant=gid://shopify/ProductVariant/43210840834199",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43210843226263": {
     "product_title": "Moroccan Blue Simple Drop Silver Earrings",

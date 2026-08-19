@@ -15711,9 +15711,9 @@
     "amount": 3150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-01-22_at_2.59.04_PM.jpg?v=1739816239",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-band-ring-with-diamond-floral-motif?variant=gid://shopify/ProductVariant/46017868628180",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46017868660948": {
@@ -25514,8 +25514,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-08-25at3.37.23PM_1.jpg?v=1744968789",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sanchi-meenakari-oversized-indian-ring-and-stud-combo-copy?variant=gid://shopify/ProductVariant/46122974413012",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46130329845972": {
     "product_title": "Sabhya Multicolour Gemstone IndoWestern Ring",
@@ -25601,7 +25601,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at7.55.57PM_1.jpg?v=1744968806",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/navratna-next-to-real-diamond-indian-bangle-copy?variant=gid://shopify/ProductVariant/46132756480212",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46132756512980": {
     "product_title": "Navratna Next To Real Diamond Indian Bangle",
@@ -25618,8 +25619,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at7.55.57PM_1.jpg?v=1744968806",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/navratna-next-to-real-diamond-indian-bangle-copy?variant=gid://shopify/ProductVariant/46132756512980",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46132756545748": {
     "product_title": "Navratna Next To Real Diamond Indian Bangle",
@@ -25966,7 +25967,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-08-20_at_2.32.46_PM.jpg?v=1755682846",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sabhya-oval-sleek-multicoloured-choker-necklace-set-gemz?variant=gid://shopify/ProductVariant/46169894486228",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46169923289300": {
@@ -44410,23 +44411,6 @@
     "url": "https://www.attrangi.in/products/mehra-elephant-lotus-diamond-magnetic-brooch-unisex?variant=gid://shopify/ProductVariant/48429805011156",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/48429809696980": {
-    "product_title": "Mehra Elephant Lotus Diamond Magnetic Brooch | Unisex",
-    "product_handle": "mehra-elephant-lotus-diamond-magnetic-brooch-unisex",
-    "variant_id": "gid://shopify/ProductVariant/48429809696980",
-    "global_id": "gid://shopify/ProductVariant/48429809696980",
-    "variant_title": "Green",
-    "sku": "RP47914GR-BR",
-    "price": 4250.0,
-    "variant_price": 4250.0,
-    "product_price": 4250.0,
-    "amount": 4250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-06_at_2.33.57_PM.jpg?v=1786007326",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/mehra-elephant-lotus-diamond-magnetic-brooch-unisex?variant=gid://shopify/ProductVariant/48429809696980",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47579135606996": {
     "product_title": "Gamla Rose cut diamond and emerald Brooch | Unisex",
     "product_handle": "gamla-rose-cut-diamond-and-emerald-brooch-unisex",
@@ -59970,9 +59954,26 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.32.53_PM.jpg?v=1786971487",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404836052",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/48429809696980": {
+    "product_title": "Mehra Elephant Lotus Diamond Magnetic Brooch | Unisex",
+    "product_handle": "mehra-elephant-lotus-diamond-magnetic-brooch-unisex",
+    "variant_id": "gid://shopify/ProductVariant/48429809696980",
+    "global_id": "gid://shopify/ProductVariant/48429809696980",
+    "variant_title": "Green",
+    "sku": "RP47914GR-BR",
+    "price": 4250.0,
+    "variant_price": 4250.0,
+    "product_price": 4250.0,
+    "amount": 4250.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-06_at_2.33.57_PM.jpg?v=1786007326",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/mehra-elephant-lotus-diamond-magnetic-brooch-unisex?variant=gid://shopify/ProductVariant/48429809696980",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47579097170132": {
     "product_title": "Gajajan Elephant Gold Polki Coloured Brooch | Unisex",
