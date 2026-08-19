@@ -1531,23 +1531,6 @@
     "url": "https://www.paksha.in/products/utkalika-kempu-jadau-silver-necklace?variant=gid://shopify/ProductVariant/41465416482967",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/41465416712343": {
-    "product_title": "Kalika Kempu Jadau Silver Jhumki Earrings",
-    "product_handle": "kalika-kempu-jadau-silver-jhumki-earrings",
-    "variant_id": "gid://shopify/ProductVariant/41465416712343",
-    "global_id": "gid://shopify/ProductVariant/41465416712343",
-    "variant_title": "Default Title",
-    "sku": "PLE0046XM2",
-    "price": 37699.0,
-    "variant_price": 37699.0,
-    "product_price": 37699.0,
-    "amount": 37699.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/PLE0046X.jpg?v=1638870265",
-    "available_for_sale": true,
-    "url": "https://www.paksha.in/products/kalika-kempu-jadau-silver-jhumki-earrings?variant=gid://shopify/ProductVariant/41465416712343",
-    "stock": 9999
-  },
   "gid://shopify/ProductVariant/41465416810647": {
     "product_title": "Sirisha Jadau Silver Jhumka Earrings",
     "product_handle": "sirisha-jadau-silver-jhumka-earrings",
@@ -18763,24 +18746,6 @@
     "url": "https://www.paksha.in/products/bhavani-antique-temple-choker-set?variant=gid://shopify/ProductVariant/43667631964311",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/43668749058199": {
-    "product_title": "Simple Floral CZ Silver Finger Ring",
-    "product_handle": "simple-floral-cz-silver-finger-ring",
-    "variant_id": "gid://shopify/ProductVariant/43668749058199",
-    "global_id": "gid://shopify/ProductVariant/43668749058199",
-    "variant_title": "Default Title",
-    "sku": "PUB0049FW5",
-    "price": 4909.0,
-    "variant_price": 4909.0,
-    "product_price": 4909.0,
-    "amount": 4909.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/PUB0049F_01f8d1c0-7fef-4b57-b13e-cdeac673c734.jpg?v=1708145558",
-    "available_for_sale": false,
-    "url": "https://www.paksha.in/products/simple-floral-cz-silver-finger-ring?variant=gid://shopify/ProductVariant/43668749058199",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/43668862992535": {
     "product_title": "Floral Bloom CZ Silver Finger Ring",
     "product_handle": "floral-bloom-cz-silver-finger-ring",
@@ -29788,7 +29753,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0001OTE.png?v=1785923132",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/shiv-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48101050089623",
-    "stock": -1
+    "stock": 6
   },
   "gid://shopify/ProductVariant/48101050155159": {
     "product_title": "Trishul Gold Plated Silver Rakhi",
@@ -29805,7 +29770,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0002OW5.png?v=1785923544",
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/trishul-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48101050155159",
-    "stock": -1
+    "stock": 7
   },
   "gid://shopify/ProductVariant/48101050187927": {
     "product_title": "Om Kiran Gold Plated Silver Rakhi",
@@ -29942,6 +29907,23 @@
     "available_for_sale": true,
     "url": "https://www.paksha.in/products/trinetra-rudraksha-silver-rakhi?variant=gid://shopify/ProductVariant/48101050482839",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/41465416712343": {
+    "product_title": "Kalika Kempu Jadau Silver Jhumki Earrings",
+    "product_handle": "kalika-kempu-jadau-silver-jhumki-earrings",
+    "variant_id": "gid://shopify/ProductVariant/41465416712343",
+    "global_id": "gid://shopify/ProductVariant/41465416712343",
+    "variant_title": "Default Title",
+    "sku": "PLE0046XM2",
+    "price": 37699.0,
+    "variant_price": 37699.0,
+    "product_price": 37699.0,
+    "amount": 37699.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/products/PLE0046X.jpg?v=1638870265",
+    "available_for_sale": true,
+    "url": "https://www.paksha.in/products/kalika-kempu-jadau-silver-jhumki-earrings?variant=gid://shopify/ProductVariant/41465416712343",
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/47696177365143": {
     "product_title": "Tisha Coin Silver Bracelet",
