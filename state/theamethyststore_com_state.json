@@ -17940,9 +17940,10 @@
     "amount": 45672.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5533.jpg?v=1707054323",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/sharmik-stone-choker?variant=gid://shopify/ProductVariant/44365458899171",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44365459947747": {
     "product_title": "Skanda Short Kundan Necklace",
