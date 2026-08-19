@@ -3722,7 +3722,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG03115G_101900.jpg?v=1779885331",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/charming-lara-solitaire-set?variant=gid://shopify/ProductVariant/47992208457940",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47992215896276": {
     "product_title": "Charming Lara Solitaire Set",
@@ -17164,8 +17165,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_11.15.56_PM.jpg?v=1757498085",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gabala-diamond-long-chandelier-earrings?variant=gid://shopify/ProductVariant/45426470224084",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45426487689428": {
     "product_title": "Eloise Mid Sized Diamond Earring",
@@ -24500,7 +24501,7 @@
     "amount": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-10at7.01.57PM_1.jpg?v=1739818543",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/layered-goddess-diamond-3-layered-hairchain-mattel?variant=gid://shopify/ProductVariant/46229619540180",
     "stock": 1,
     "last_alerted_stock": 1
@@ -28854,7 +28855,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-16at4.20.18PM_2.jpg?v=1749411044",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/jayapradha-moissanite-slim-kada-in-meenakari-openable-1?variant=gid://shopify/ProductVariant/46267383775444",
     "stock": 3
   },
