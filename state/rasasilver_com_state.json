@@ -99,8 +99,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-44_3c348a4d-d5da-458b-8db5-7e116fdfa192.jpg?v=1740814119",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/daisy-emerald-necklace?variant=gid://shopify/ProductVariant/49810565038377",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/49836042322217": {
     "product_title": "Emerald Kundan Studs",
@@ -1523,8 +1523,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/22_26864588-0f79-45e3-9e00-abb12fcedf8b.jpg?v=1743842365",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/stellar-nine-short-necklace?variant=gid://shopify/ProductVariant/50083435872553",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/50087147995433": {
     "product_title": "Kasumala Dharini Lakshmi",
@@ -1558,7 +1558,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/5_e95873d4-54a8-4d6a-b610-8421710bd2c4.jpg?v=1743839871",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/navapuspha-haar?variant=gid://shopify/ProductVariant/50087589511465",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50087860437289": {
     "product_title": "Navamayura Ratna Addige",
@@ -2291,8 +2292,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP00739copy.jpg?v=1750486458",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/twinkle-bindu-nath?variant=gid://shopify/ProductVariant/50203857420585",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/50225735991593": {
     "product_title": "Triveni Devi Pendant.",
@@ -16889,9 +16890,10 @@
     "amount": 108715.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasasilver7Oct1513.jpg?v=1760077986",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/necklace-61?variant=gid://shopify/ProductVariant/51290806714665",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51290809303337": {
     "product_title": "Bikaneri Kundan Bangles",
@@ -41195,7 +41197,7 @@
     "amount": 34425.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0372copy_resized.jpg?v=1767355979",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/heera-victorian-necklace-set?variant=gid://shopify/ProductVariant/52362219487529",
     "stock": 0,
     "last_alerted_stock": 0
@@ -76092,7 +76094,7 @@
     "amount": 17595.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1552_resized.jpg?v=1782123243",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/bloom-aura-stone-necklace?variant=gid://shopify/ProductVariant/53282819277097",
     "stock": 1,
     "last_alerted_stock": 0
@@ -81591,7 +81593,7 @@
     "amount": 18700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40216_resized.jpg?v=1783666180",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayura-queen-nakshi-necklace-set?variant=gid://shopify/ProductVariant/53312595624233",
     "stock": 2,
     "last_alerted_stock": 1

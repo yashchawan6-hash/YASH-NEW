@@ -20972,8 +20972,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-cubic-zirconia-studded-floral-charm-tennis-necklace-necklace-chain-38046433771694.jpg?v=1762457375",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-crystal-cubic-zirconia-studded-pear-drop-statement-necklace-copy?variant=gid://shopify/ProductVariant/46147658776750",
-    "stock": 13,
-    "last_alerted_stock": 12
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46147670442158": {
     "product_title": "Beloved Hearts Adorn Necklace",
@@ -21008,7 +21008,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-sparkling-cubic-zirconia-studded-pendant-necklace-necklace-chain-38046521032878.jpg?v=1765177675",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-multicolor-ad-cubic-zirconia-studded-heart-charm-tennis-necklace-copy?variant=gid://shopify/ProductVariant/46147684204718",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46149673418926": {
@@ -76645,6 +76645,23 @@
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/re57hv411705?variant=gid://shopify/ProductVariant/47662491533486",
     "stock": 20
+  },
+  "gid://shopify/ProductVariant/47691084103854": {
+    "product_title": "Signature Sparkle Jewellery Perfume Gift Set",
+    "product_handle": "rw30413750",
+    "variant_id": "gid://shopify/ProductVariant/47691084103854",
+    "global_id": "gid://shopify/ProductVariant/47691084103854",
+    "variant_title": "Default Title",
+    "sku": "RW30413750",
+    "price": 1485.0,
+    "variant_price": 1485.0,
+    "product_price": 1485.0,
+    "amount": 1485.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30413750_01.jpg?v=1774949476",
+    "available_for_sale": true,
+    "url": "https://www.rubans.in/products/rw30413750?variant=gid://shopify/ProductVariant/47691084103854",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/47769369739438": {
     "product_title": "Demi Fine 18K Gold Plated Stainless steel Interlocked Crystal Pendant Necklace",
