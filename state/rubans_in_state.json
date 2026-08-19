@@ -9846,9 +9846,9 @@
     "amount": 938.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE57MS404255-model.jpg?v=1767159674",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rose-gold-plated-cubic-zirconia-studded-mangalsutra?variant=gid://shopify/ProductVariant/45315713433774",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45315728146606": {
@@ -10503,8 +10503,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-emerald-green-stone-studded-traditional-handcrafted-bangle-bangles-bracelets-1151970256.jpg?v=1767509253",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22k-gold-plated-emerald-stone-studded-set-of-2-bangles?variant=gid://shopify/ProductVariant/47084618907822",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47084618940590": {
     "product_title": "Rubans Set of 2 22K Gold-Plated Emerald Green Stone Studded Traditional Handcrafted Bangle",
@@ -10714,7 +10714,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R404731_-Model.jpg?v=1774857358",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18kt-gold-plated-crystal-studded-beaded-peacock-motif-ring?variant=gid://shopify/ProductVariant/45604278599854",
-    "stock": 17,
+    "stock": 16,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/45604278665390": {
@@ -11194,8 +11194,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04N405466_01.jpg?v=1765175944",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rhodium-plated-ad-cubic-zirconia-studded-bow-design-statement-necklace?variant=gid://shopify/ProductVariant/45648662626478",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45715394560174": {
     "product_title": "American Diamond Zirconia Cascading Necklace Set",
@@ -75904,7 +75904,7 @@
     "amount": 1469.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16HC412109Model.jpg?v=1774273018",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re16hc412109?variant=gid://shopify/ProductVariant/47662489338030",
     "stock": 0
   },
