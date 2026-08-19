@@ -24099,7 +24099,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-07at5.55.43PM.jpg?v=1757493869",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jhilmil-diamond-mattel-diamond-hair-chain?variant=gid://shopify/ProductVariant/46229671248084",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46605344997588": {
@@ -24152,7 +24152,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-07at5.47.25PM.jpg?v=1739818484",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bijoori-moissanite-uncut-diamond-thick-kada?variant=gid://shopify/ProductVariant/46062146388180",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46062146453716": {
     "product_title": "Bijoori Moissanite Uncut Diamond Thick Kada | Next To Real",
@@ -37285,57 +37286,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable?variant=gid://shopify/ProductVariant/47011870015700",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/47011870081236": {
-    "product_title": "Samohar Polki Uncut Diamond Moissanite Ruby Green Bangle | Openable",
-    "product_handle": "samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable",
-    "variant_id": "gid://shopify/ProductVariant/47011870081236",
-    "global_id": "gid://shopify/ProductVariant/47011870081236",
-    "variant_title": "Pair / 2.2",
-    "sku": "RC40919Z2X2-BN",
-    "price": 4650.0,
-    "variant_price": 4650.0,
-    "product_price": 4650.0,
-    "amount": 4650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.12.27_PM_6.jpg?v=1764753881",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable?variant=gid://shopify/ProductVariant/47011870081236",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47011870114004": {
-    "product_title": "Samohar Polki Uncut Diamond Moissanite Ruby Green Bangle | Openable",
-    "product_handle": "samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable",
-    "variant_id": "gid://shopify/ProductVariant/47011870114004",
-    "global_id": "gid://shopify/ProductVariant/47011870114004",
-    "variant_title": "Pair / 2.4",
-    "sku": "RC40919Z4X2-BN",
-    "price": 4650.0,
-    "variant_price": 4650.0,
-    "product_price": 4650.0,
-    "amount": 4650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.12.27_PM_6.jpg?v=1764753881",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable?variant=gid://shopify/ProductVariant/47011870114004",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47011870146772": {
-    "product_title": "Samohar Polki Uncut Diamond Moissanite Ruby Green Bangle | Openable",
-    "product_handle": "samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable",
-    "variant_id": "gid://shopify/ProductVariant/47011870146772",
-    "global_id": "gid://shopify/ProductVariant/47011870146772",
-    "variant_title": "Pair / 2.6",
-    "sku": "RC40919Z6X2-BN",
-    "price": 4650.0,
-    "variant_price": 4650.0,
-    "product_price": 4650.0,
-    "amount": 4650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.12.27_PM_6.jpg?v=1764753881",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/samohar-polki-uncut-diamond-moissanite-ruby-green-bangle-openable?variant=gid://shopify/ProductVariant/47011870146772",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/47808623706324": {
     "product_title": "Abhilasha Uncut Diamond Ruby Mint Polki Moissanite Bangle Set| Openable",

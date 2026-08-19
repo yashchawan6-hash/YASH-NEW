@@ -8218,9 +8218,10 @@
     "amount": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/PM_31July_0190copy.jpg?v=1756141790",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/mohini-moissanite-brecelets?variant=gid://shopify/ProductVariant/49817994395841",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49817994363073": {
     "product_title": "AASHNA MINT POLKI BRECELETS BRECELETS",
@@ -13521,9 +13522,10 @@
     "amount": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/237.png?v=1756141256",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/bhawna-green-polki-bracelet?variant=gid://shopify/ProductVariant/49150849777857",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49150865211585": {
     "product_title": "GARIMA GREEN POLKI BRACELET",
