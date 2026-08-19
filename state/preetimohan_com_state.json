@@ -17675,9 +17675,9 @@
     "amount": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/59_e1207f9d-0502-4ae2-a082-c08a7565d00b.png?v=1756140891",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/evelina-white-zircon-bangles?variant=gid://shopify/ProductVariant/49281636532417",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49281641709761": {
     "product_title": "AVIVA PINK ZIRCON BANGLES",
