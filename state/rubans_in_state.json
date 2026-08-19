@@ -15040,10 +15040,10 @@
     "amount": 645.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02B405914_972eca22-65c8-4269-a1dd-9a43e095435b.jpg?v=1771222570",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-4-18k-mehandi-gold-plated-multicolor-kundan-gemstone-studded-bangles-re02b405914?variant=gid://shopify/ProductVariant/47084617433262",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45980041347246": {
     "product_title": "Rubans18K Mehandi Gold-Plated Multicolor Kundan and Cubic Zirconia Studed Bangles",
@@ -15299,7 +15299,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02B405962.jpg?v=1765201684",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-18k-mehandi-gold-plated-kundan-cubic-zirconia-studded-handcrafted-bangle-re02b405962?variant=gid://shopify/ProductVariant/47084616843438",
-    "stock": 18,
+    "stock": 17,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47084616876206": {
@@ -57623,7 +57623,7 @@
     "amount": 1213.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B409330-Model-2_b1433913-8826-44c4-9c65-f347aa12e3ae.jpg?v=1769592689",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re10b409330?variant=gid://shopify/ProductVariant/47377474977966",
     "stock": 1,
     "last_alerted_stock": 1
