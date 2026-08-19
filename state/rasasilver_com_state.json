@@ -16735,9 +16735,10 @@
     "amount": 7990.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_1_Oct1057_resized.jpg?v=1759822423",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/danglers-15?variant=gid://shopify/ProductVariant/51274753868073",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51274757079337": {
     "product_title": "Regal Bells Jhumki",
@@ -32540,7 +32541,7 @@
     "amount": 45815.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box01_12Nov0522_resized.jpg?v=1763465861",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rosmeryl-necklace?variant=gid://shopify/ProductVariant/51526515491113",
     "stock": 0
   },
@@ -59637,7 +59638,7 @@
     "amount": 53295.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36637.jpg?v=1773991397",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/royal-peacock-nakshi-necklace?variant=gid://shopify/ProductVariant/52797908517161",
     "stock": 1,
     "last_alerted_stock": 0
@@ -69951,7 +69952,7 @@
     "amount": 13005.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0017_resized.jpg?v=1781682638",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shrinika-kundan-danglers?variant=gid://shopify/ProductVariant/53101297205545",
     "stock": 0
   },

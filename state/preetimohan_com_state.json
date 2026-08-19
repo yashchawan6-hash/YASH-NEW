@@ -10004,9 +10004,9 @@
     "amount": 12000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/34_272c5534-385c-4610-b70a-3bba0eeceff0.jpg?v=1756141655",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/kavita-red-green-kundan-passa?variant=gid://shopify/ProductVariant/48792476582081",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48792511676609": {
     "product_title": "RISHIKA RED & GREEN KUNDAN PASSA",
@@ -10755,9 +10755,10 @@
     "amount": 16000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/61_ee4af130-e0c6-4323-bb57-d1fad3575aca.png?v=1756141528",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/priya-kundan-passa?variant=gid://shopify/ProductVariant/48812727795905",
-    "stock": 4
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48814692565185": {
     "product_title": "DEEPALI KUNDAN TIKA",
@@ -11830,9 +11831,10 @@
     "amount": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/50_ee3ef672-cfa2-4ba8-8d29-b195ed19becd.png?v=1756141411",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/sanjana-gold-plated-kundan-passa?variant=gid://shopify/ProductVariant/48869936300225",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48869980700865": {
     "product_title": "RUHI KUNDAN PASSA",
@@ -20311,7 +20313,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/108_a7f0e180-6bad-495e-a5c1-f96e35db5852.png?v=1762952247",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/vaidehi-green-kundan-passa?variant=gid://shopify/ProductVariant/49668233887937",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49668244537537": {
     "product_title": "URVI MOISSANITE WHITE & GREEN TIKKA",
