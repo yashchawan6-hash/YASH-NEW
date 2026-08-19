@@ -62201,6 +62201,23 @@
     "url": "https://www.theamethyststore.com/products/chic-trendy-bracelet?variant=gid://shopify/ProductVariant/46965592883427",
     "stock": 0
   },
+  "gid://shopify/ProductVariant/46968678777059": {
+    "product_title": "Classic Hair Maatal",
+    "product_handle": "classic-stone-maatal",
+    "variant_id": "gid://shopify/ProductVariant/46968678777059",
+    "global_id": "gid://shopify/ProductVariant/46968678777059",
+    "variant_title": "Default Title",
+    "sku": "AMS-109-1647",
+    "price": 14800.0,
+    "variant_price": 14800.0,
+    "product_price": 14800.0,
+    "amount": 14800.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1647.jpg?v=1754049606",
+    "available_for_sale": true,
+    "url": "https://www.theamethyststore.com/products/classic-stone-maatal?variant=gid://shopify/ProductVariant/46968678777059",
+    "stock": -1
+  },
   "gid://shopify/ProductVariant/46968680546531": {
     "product_title": "Shinning Stone Jhumkas",
     "product_handle": "stone-jhumkas-2",
@@ -136747,23 +136764,6 @@
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/aarvika-bugadi-earrings?variant=gid://shopify/ProductVariant/48170386325731",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/48170438820067": {
-    "product_title": "Vithrsa Nagas Bracelet",
-    "product_handle": "vithrsa-nagas-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/48170438820067",
-    "global_id": "gid://shopify/ProductVariant/48170438820067",
-    "variant_title": "Default Title",
-    "sku": "AMS-103-1132",
-    "price": 14300.0,
-    "variant_price": 14300.0,
-    "product_price": 14300.0,
-    "amount": 14300.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-1132.jpg?v=1770805933",
-    "available_for_sale": false,
-    "url": "https://www.theamethyststore.com/products/vithrsa-nagas-bracelet?variant=gid://shopify/ProductVariant/48170438820067",
-    "stock": -1
   },
   "gid://shopify/ProductVariant/48170439573731": {
     "product_title": "Diyaara Bugadi Earrings",
