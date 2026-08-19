@@ -14926,9 +14926,10 @@
     "amount": 35000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/88.png?v=1756191530",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/tanika-green-kundan-long-necklace?variant=gid://shopify/ProductVariant/49183015796929",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49818292715713": {
     "product_title": "NITARA GREEN KUNDAN CHOKER SET",

@@ -295,9 +295,9 @@
     "amount": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-6.jpg?v=1739812494",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661172905",
-    "stock": 0,
+    "stock": 5,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411661205673": {
@@ -315,7 +315,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-2.jpg?v=1739812490",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661205673",
-    "stock": 1,
+    "stock": 6,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40411661566121": {
@@ -25640,7 +25640,7 @@
     "amount": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at7.55.57PM_1.jpg?v=1744968806",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/navratna-next-to-real-diamond-indian-bangle-copy?variant=gid://shopify/ProductVariant/46132756545748",
     "stock": 0,
     "last_alerted_stock": 0
