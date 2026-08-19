@@ -11282,9 +11282,10 @@
     "amount": 25000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/9_dcbb33bd-c9de-4b0b-b61d-0452251213b4.png?v=1756191620",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/jyotsana-red-green-kundan-long-necklace?variant=gid://shopify/ProductVariant/48817071620289",
-    "stock": 3
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48817122803905": {
     "product_title": "DAYITA RED & GREEN KUNDAN CHOKER",
