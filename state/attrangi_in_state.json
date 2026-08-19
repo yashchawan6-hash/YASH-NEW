@@ -2466,9 +2466,9 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/baguette-solitaire-ring-with-band-attrangi-4.jpg?v=1739813035",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/baguette-solitaire-ring-with-band?variant=gid://shopify/ProductVariant/48344507515092",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46229671084244": {
@@ -18462,10 +18462,10 @@
     "amount": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-09-11at5.04.15PM.jpg?v=1750782578",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/giza-round-solitaire-cocktail-diamond-ring-baguettes?variant=gid://shopify/ProductVariant/48432480780500",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45629289365716": {
     "product_title": "Foolan Sone pe Suhaga Ring",
@@ -37437,7 +37437,7 @@
     "amount": 2850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027770884308",
     "stock": 0,
     "last_alerted_stock": 0
@@ -37491,7 +37491,7 @@
     "amount": 5650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-28_at_11.27.40_PM.jpg?v=1764400104",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rosy-moissanite-pacheli-style-thin-polki-bangle-set-openable?variant=gid://shopify/ProductVariant/47027771015380",
     "stock": 0,
     "last_alerted_stock": 0
