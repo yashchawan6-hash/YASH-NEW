@@ -10445,9 +10445,10 @@
     "amount": 18000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/46.jpg?v=1756141600",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/ishika-red-green-kundan-seesh-peach?variant=gid://shopify/ProductVariant/48797369696449",
-    "stock": 4
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48797379461313": {
     "product_title": "MAANVI PINK & GREEN KUNDAN EARCHAIN",
@@ -11640,9 +11641,10 @@
     "amount": 14000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/DSC00416_4005ae03-e189-4523-a108-61bf52b4ce55.jpg?v=1756141437",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/aarushi-pink-kundan-sheesh-pech?variant=gid://shopify/ProductVariant/48826654949569",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48826680115393": {
     "product_title": "SHRUTII PINK KUNDAN NECKLACE SET",
@@ -16647,9 +16649,9 @@
     "amount": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/85_15d58c65-2f0e-419c-af15-3f1b07aa1727.png?v=1756140981",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/iqra-red-green-kundan-tikka?variant=gid://shopify/ProductVariant/49237459960001",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49237462876353": {
     "product_title": "YASHASVINI RED KUNDAN TIKA",
