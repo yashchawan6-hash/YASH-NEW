@@ -29714,9 +29714,9 @@
     "amount": 2709.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0598/4501/7751/files/SBR0003OW5.png?v=1785925128",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.paksha.in/products/om-kiran-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/48101050187927",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48101050220695": {
     "product_title": "Swastik Gold Plated Silver Rakhi",
