@@ -5150,7 +5150,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8278d7cc-e802-4090-bcb1-15f381e3bf50.jpg?v=1642311058",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/set-of-4-green-bangles?variant=gid://shopify/ProductVariant/42350496121054",
-    "stock": 50,
+    "stock": 56,
     "last_alerted_stock": 50
   },
   "gid://shopify/ProductVariant/42350497726686": {
@@ -5168,7 +5168,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8278d7cc-e802-4090-bcb1-15f381e3bf50.jpg?v=1642311058",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/set-of-4-green-bangles?variant=gid://shopify/ProductVariant/42350497726686",
-    "stock": 24,
+    "stock": 56,
     "last_alerted_stock": 24
   },
   "gid://shopify/ProductVariant/42350497759454": {
@@ -58706,7 +58706,7 @@
     "amount": 1999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B64A32E3-F256-4FBB-9AFC-A8820BE399C2.jpg?v=1786206007",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/premium-gold-look-alike-antique-kada?variant=gid://shopify/ProductVariant/48584804729054",
     "stock": 1
   },

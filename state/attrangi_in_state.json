@@ -4603,7 +4603,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/triloka-traditional-kada-attrangi-4.jpg?v=1764417261",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/triloka-traditional-kada?variant=gid://shopify/ProductVariant/42074441154772",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46202839105748": {
     "product_title": "Triloka Traditional Kada",
@@ -21096,7 +21097,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-05at5.01.28PM.jpg?v=1750783433",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-minimal-floral-indian-polki-ring?variant=gid://shopify/ProductVariant/45889233060052",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45889358692564": {
@@ -52132,40 +52133,6 @@
     "url": "https://www.attrangi.in/products/oval-1-carat-halo-solitaire-pendant-set-with-solitaires?variant=gid://shopify/ProductVariant/47927774052564",
     "stock": 1,
     "last_alerted_stock": 1
-  },
-  "gid://shopify/ProductVariant/47928367612116": {
-    "product_title": "Oval 1 carat halo Solitaire Pendant Set with Earrings",
-    "product_handle": "oval-1-carat-halo-solitaire-pendant-set-with-solitaires",
-    "variant_id": "gid://shopify/ProductVariant/47928367612116",
-    "global_id": "gid://shopify/ProductVariant/47928367612116",
-    "variant_title": "Gold",
-    "sku": "WG42542G-PS",
-    "price": 2150.0,
-    "variant_price": 2150.0,
-    "product_price": 2150.0,
-    "amount": 2150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-05-12_at_6.27.07_PM_2.jpg?v=1778590680",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/oval-1-carat-halo-solitaire-pendant-set-with-solitaires?variant=gid://shopify/ProductVariant/47928367612116",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/48217278152916": {
-    "product_title": "Oval 1 carat halo Solitaire Pendant Set with Earrings",
-    "product_handle": "oval-1-carat-halo-solitaire-pendant-set-with-solitaires",
-    "variant_id": "gid://shopify/ProductVariant/48217278152916",
-    "global_id": "gid://shopify/ProductVariant/48217278152916",
-    "variant_title": "Rose gold",
-    "sku": "WG42542RG-PS",
-    "price": 2150.0,
-    "variant_price": 2150.0,
-    "product_price": 2150.0,
-    "amount": 2150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-05-12_at_3.51.15_PM.jpg?v=1783340069",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/oval-1-carat-halo-solitaire-pendant-set-with-solitaires?variant=gid://shopify/ProductVariant/48217278152916",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/47927933141204": {
     "product_title": "Oh Dear Mint Polki Designer Brooch | Unisex",
