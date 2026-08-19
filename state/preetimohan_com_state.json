@@ -8902,23 +8902,6 @@
     "url": "https://www.preetimohan.com/products/mahima-chawla-in-bhavika-red-green-green-polki-necklace-set-copy?variant=gid://shopify/ProductVariant/48640548208833",
     "stock": 10
   },
-  "gid://shopify/ProductVariant/48643449684161": {
-    "product_title": "SURUCHI MINT KUNDAN EARRING",
-    "product_handle": "suruchi-mint-kundan-earring",
-    "variant_id": "gid://shopify/ProductVariant/48643449684161",
-    "global_id": "gid://shopify/ProductVariant/48643449684161",
-    "variant_title": "Default Title",
-    "sku": "WERMPJ239",
-    "price": 15000.0,
-    "variant_price": 15000.0,
-    "product_price": 15000.0,
-    "amount": 15000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Preeti_Mohan_5th_Aug_24_3071_Highres.jpg?v=1756141743",
-    "available_for_sale": true,
-    "url": "https://www.preetimohan.com/products/suruchi-mint-kundan-earring?variant=gid://shopify/ProductVariant/48643449684161",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/48643490054337": {
     "product_title": "HANITA GREEN & WHITE KUNDAN CHANDBALI",
     "product_handle": "hanita-green-white-kundan-chandbali",
@@ -19300,9 +19283,9 @@
     "amount": 5000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/249_7c7fc1b7-0e2d-4d0a-aa1b-859894764dc8.png?v=1762599474",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/jaya-green-polki-ear-cuffs?variant=gid://shopify/ProductVariant/49656712855745",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49656719900865": {
@@ -19471,9 +19454,10 @@
     "amount": 12500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/297.png?v=1762671810",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/kashi-green-kundan-statement-earring?variant=gid://shopify/ProductVariant/49658748403905",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49661020537025": {
     "product_title": "CHAHAK GOLD PLATED POLKI STATEMENT EARRING",
@@ -27601,6 +27585,23 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/chandni-red-green-kundan-waist-belts?variant=gid://shopify/ProductVariant/50485596618945",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/48643449684161": {
+    "product_title": "SURUCHI MINT KUNDAN EARRING",
+    "product_handle": "suruchi-mint-kundan-earring",
+    "variant_id": "gid://shopify/ProductVariant/48643449684161",
+    "global_id": "gid://shopify/ProductVariant/48643449684161",
+    "variant_title": "Default Title",
+    "sku": "WERMPJ239",
+    "price": 15000.0,
+    "variant_price": 15000.0,
+    "product_price": 15000.0,
+    "amount": 15000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Preeti_Mohan_5th_Aug_24_3071_Highres.jpg?v=1756141743",
+    "available_for_sale": true,
+    "url": "https://www.preetimohan.com/products/suruchi-mint-kundan-earring?variant=gid://shopify/ProductVariant/48643449684161",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49180761915585": {
     "product_title": "NAVITA PINK KUNDAN STATEMENT EARRING",

@@ -9539,9 +9539,10 @@
     "amount": 54000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_9b0470db-723a-4972-9f06-4766317a3522.jpg?v=1755585759",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayura-mosaic-bangles?variant=gid://shopify/ProductVariant/50816097714473",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52273452810537": {
     "product_title": "Mayura Mosaic Bangles",
@@ -9556,9 +9557,10 @@
     "amount": 54000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_9b0470db-723a-4972-9f06-4766317a3522.jpg?v=1755585759",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayura-mosaic-bangles?variant=gid://shopify/ProductVariant/52273452810537",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50816069796137": {
     "product_title": "Wavy Flora Bangles",
@@ -10772,9 +10774,10 @@
     "amount": 40000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP32.jpg?v=1756383251",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/padmarohini-pendant?variant=gid://shopify/ProductVariant/50808073978153",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50808088199465": {
     "product_title": "Rangamaya Kundan Pendant",
@@ -10908,9 +10911,10 @@
     "amount": 152800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Compressp10.jpg?v=1756379226",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kundramayi-necklace?variant=gid://shopify/ProductVariant/50808231264553",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50808249778473": {
     "product_title": "Ovalika Stone Danglers",
@@ -13505,9 +13509,10 @@
     "amount": 20200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP941.jpg?v=1758028072",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pranava-blossom-studs?variant=gid://shopify/ProductVariant/51173032460585",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51173072830761": {
     "product_title": "Blooming Royale Studs",
