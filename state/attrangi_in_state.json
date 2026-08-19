@@ -17635,9 +17635,10 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-08-08at7.23.56PM_1.jpg?v=1750782319",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bauble-floral-mid-sized-diamond-studs?variant=gid://shopify/ProductVariant/45517678477524",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45517690863828": {
     "product_title": "3 Petal Diana Diamond Studs | Invisible Setting",
@@ -22547,7 +22548,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-03at10.52.37PM.jpg?v=1750783693",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/multi-gemstone-navratna-diamond-studs?variant=gid://shopify/ProductVariant/45939651313876",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45949778165972": {
@@ -24503,8 +24504,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-10at7.01.57PM_1.jpg?v=1739818543",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/layered-goddess-diamond-3-layered-hairchain-mattel?variant=gid://shopify/ProductVariant/46229619540180",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46069743747284": {
     "product_title": "Bahubali Gold Necklace Set | Sone Pe Suhaga",
@@ -53691,7 +53692,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-11at3.20.41PM_1.jpg?v=1783769645",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-peary-designer-cocktail-ring-daily-wear-bling?variant=gid://shopify/ProductVariant/48256054067412",
     "stock": 1,
     "last_alerted_stock": 1
@@ -53709,7 +53710,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-11at3.20.41PM_1.jpg?v=1783769645",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-peary-designer-cocktail-ring-daily-wear-bling?variant=gid://shopify/ProductVariant/48256054100180",
     "stock": 1,
     "last_alerted_stock": 1
@@ -59144,7 +59145,7 @@
     "product_price": 6950.0,
     "amount": 6950.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_6.16.34_PM.jpg?v=1786538832",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-12_at_4.35.28_PM.jpg?v=1786534318",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/boho-tribe-gold-indo-western-funky-polki-choker-set?variant=gid://shopify/ProductVariant/48459746312404",
     "stock": 3

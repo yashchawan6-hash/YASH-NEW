@@ -2587,7 +2587,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_193648_3815b6e4-afc5-4df4-b925-3059da9c60f7.webp?v=1775827219",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-jhumkas-with-pearl-and-natural-strawberry-beads-10?variant=gid://shopify/ProductVariant/52971511447868",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52974914961724": {
     "product_title": "Jadau kundan floral round tika with pearl and natural strawberry beads",
@@ -2933,10 +2934,10 @@
     "amount": 900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/PXL_20260407_160428293.PORTRAIT_2.jpg?v=1777382076",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/temple-antique-peacock-bangles-multi-colour-pair?variant=gid://shopify/ProductVariant/53016630329660",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53016630362428": {
     "product_title": "Temple/Antique peacock bangles multi colour (Pair)",
