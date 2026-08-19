@@ -1799,9 +1799,10 @@
     "amount": 97500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/PMJ-759-Edit.jpg?v=1756142527",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/chandni-gold-plated-moissanite-hairband?variant=gid://shopify/ProductVariant/42270091968705",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42270099701953": {
     "product_title": "PRASANNA EARCHAIN",
@@ -13621,23 +13622,6 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/dhruvi-green-polki-sheesh-pech?variant=gid://shopify/ProductVariant/49150884937921",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/49150889197761": {
-    "product_title": "AVNI GREEN POLKI SHEESH PECH",
-    "product_handle": "avni-green-polki-sheesh-pech",
-    "variant_id": "gid://shopify/ProductVariant/49150889197761",
-    "global_id": "gid://shopify/ProductVariant/49150889197761",
-    "variant_title": "Default Title",
-    "sku": "WSPBTH35",
-    "price": 14000.0,
-    "variant_price": 14000.0,
-    "product_price": 14000.0,
-    "amount": 14000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/38_2b1ec55e-b4ae-4855-b5ce-9cb3daac4f6b.png?v=1756141248",
-    "available_for_sale": false,
-    "url": "https://www.preetimohan.com/products/avni-green-polki-sheesh-pech?variant=gid://shopify/ProductVariant/49150889197761",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/49150936285377": {
     "product_title": "SUMAN ANTIQUE FINISH POLKI HATHPHOOLS",
