@@ -5328,7 +5328,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Capture0412-1474.jpg?v=1756142155",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/mrinalini-kundan-hathphool?variant=gid://shopify/ProductVariant/47618826010817",
-    "stock": 10
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47619448799425": {
     "product_title": "Deepa Mother Of Pearl Bangles",
@@ -8204,24 +8205,6 @@
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/yashmita-moissanite-brecelets?variant=gid://shopify/ProductVariant/49817994428609",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/49817994395841": {
-    "product_title": "MOHINI MOISSANITE BRECELETS",
-    "product_handle": "mohini-moissanite-brecelets",
-    "variant_id": "gid://shopify/ProductVariant/49817994395841",
-    "global_id": "gid://shopify/ProductVariant/49817994395841",
-    "variant_title": "Free Size",
-    "sku": "WBRKAM1",
-    "price": 9000.0,
-    "variant_price": 9000.0,
-    "product_price": 9000.0,
-    "amount": 9000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/PM_31July_0190copy.jpg?v=1756141790",
-    "available_for_sale": false,
-    "url": "https://www.preetimohan.com/products/mohini-moissanite-brecelets?variant=gid://shopify/ProductVariant/49817994395841",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49817994363073": {
     "product_title": "AASHNA MINT POLKI BRECELETS BRECELETS",

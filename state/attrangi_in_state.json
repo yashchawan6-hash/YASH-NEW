@@ -8652,9 +8652,10 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/coloured-baguette-clustered-cocktail-ring-attrangi-2.jpg?v=1739814444",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/coloured-baguette-clustered-cocktail-ring?variant=gid://shopify/ProductVariant/43676773482708",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44080506339540": {
     "product_title": "Coloured Baguette Clustered Cocktail Ring",
@@ -9511,8 +9512,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/products/diana-invisible-setting-earrings-or-diamond-studs-attrangi-1.jpg?v=1739814797",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-invisible-setting-earrings-diamond-studs?variant=gid://shopify/ProductVariant/43868201648340",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43868202205396": {
     "product_title": "Diana Invisible Setting Earrings | Diamond Studs",
@@ -10838,9 +10839,9 @@
     "amount": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sushmi-antique-gold-moissanite-polki-bangles-attrangi-3.jpg?v=1739815156",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sushmi-antique-gold-moissanite-polki-bangle-set?variant=gid://shopify/ProductVariant/47156212695252",
-    "stock": 0,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47156212728020": {
@@ -10856,9 +10857,9 @@
     "amount": 5850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sushmi-antique-gold-moissanite-polki-bangles-attrangi-3.jpg?v=1739815156",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sushmi-antique-gold-moissanite-polki-bangle-set?variant=gid://shopify/ProductVariant/47156212728020",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43947928453332": {
@@ -10874,9 +10875,9 @@
     "amount": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sushmi-antique-gold-moissanite-polki-bangles-attrangi-1.jpg?v=1739815153",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sushmi-antique-gold-moissanite-polki-bangle-set?variant=gid://shopify/ProductVariant/43947928453332",
-    "stock": 0,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43947928486100": {
@@ -10892,9 +10893,9 @@
     "amount": 5850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sushmi-antique-gold-moissanite-polki-bangles-attrangi-1.jpg?v=1739815153",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sushmi-antique-gold-moissanite-polki-bangle-set?variant=gid://shopify/ProductVariant/43947928486100",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/44288047907028": {
     "product_title": "Sushmi Antique Gold Moissanite Polki Bangles",
@@ -44862,7 +44863,7 @@
     "amount": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-06at6.45.58PM.jpg?v=1772803592",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/thanos-sabhya-multicoloured-gemstone-designer-cuff-kada?variant=gid://shopify/ProductVariant/47627275075796",
     "stock": 2,
     "last_alerted_stock": 0

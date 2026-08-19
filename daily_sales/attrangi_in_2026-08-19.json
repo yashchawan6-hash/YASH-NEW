@@ -538,5 +538,41 @@
     "curr_stock": 0,
     "url": "https://www.attrangi.in/products/diana-floral-fantasy-invisible-setting-diamond-studs?variant=gid://shopify/ProductVariant/43910163366100",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_12.16.19_PM.jpg?v=1774248611"
+  },
+  {
+    "timestamp_ist": "2026-08-19 18:07:00",
+    "product_title": "Coloured Baguette Clustered Cocktail Ring",
+    "variant_title": "Blue / 8",
+    "variant_id": "gid://shopify/ProductVariant/43676773482708",
+    "sku": "NPJ1310B8",
+    "price": 2150.0,
+    "variant_price": 2150.0,
+    "product_price": 2150.0,
+    "amount": 2150.0,
+    "total_price": 2150.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.attrangi.in/products/coloured-baguette-clustered-cocktail-ring?variant=gid://shopify/ProductVariant/43676773482708",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/coloured-baguette-clustered-cocktail-ring-attrangi-2.jpg?v=1739814444"
+  },
+  {
+    "timestamp_ist": "2026-08-19 18:07:00",
+    "product_title": "Diana Invisible Setting Earrings | Diamond Studs",
+    "variant_title": "Blue",
+    "variant_id": "gid://shopify/ProductVariant/43868201648340",
+    "sku": "WG4011B",
+    "price": 2950.0,
+    "variant_price": 2950.0,
+    "product_price": 2950.0,
+    "amount": 2950.0,
+    "total_price": 2950.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.attrangi.in/products/diana-invisible-setting-earrings-diamond-studs?variant=gid://shopify/ProductVariant/43868201648340",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/products/diana-invisible-setting-earrings-or-diamond-studs-attrangi-1.jpg?v=1739814797"
   }
 ]
