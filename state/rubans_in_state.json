@@ -21136,9 +21136,10 @@
     "amount": 2057.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-handcrafted-traditional-bridal-bangles-with-multicolor-enamel-work-bangles-1143857579.jpg?v=1770786675",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-2-22k-gold-plated-handcrafted-traditional-bangles-with-red-stones-kundan-and-multicolor-enamel-work-copy?variant=gid://shopify/ProductVariant/47084603670702",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084603703470": {
     "product_title": "Radha Krishna Multicolour Divine Bangles",
