@@ -16889,9 +16889,9 @@
     "amount": 108715.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasasilver7Oct1513.jpg?v=1760077986",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/necklace-61?variant=gid://shopify/ProductVariant/51290806714665",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/51290809303337": {
     "product_title": "Bikaneri Kundan Bangles",

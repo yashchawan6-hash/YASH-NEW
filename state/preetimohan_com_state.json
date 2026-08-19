@@ -22165,9 +22165,9 @@
     "amount": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/22_c3b1a242-8003-4749-b227-8266d8cf3781.png?v=1779702203",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/varahi-silver-finish-zircon-hathphools?variant=gid://shopify/ProductVariant/50251263443137",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50251264032961": {
