@@ -502,5 +502,41 @@
     "curr_stock": 24,
     "url": "https://www.daivik.in/products/ad-pendant-long-chain-with-earrings?variant=gid://shopify/ProductVariant/45167765881054",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/58434AA7-CE46-4464-82BC-A7E246516ADA.jpg?v=1713105126"
+  },
+  {
+    "timestamp_ist": "2026-08-19 16:17:23",
+    "product_title": "Tikka (Price for each )",
+    "variant_title": "3.",
+    "variant_id": "gid://shopify/ProductVariant/43630214349022",
+    "sku": "1023",
+    "price": 1099.0,
+    "variant_price": 1099.0,
+    "product_price": 1099.0,
+    "amount": 1099.0,
+    "total_price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 10,
+    "curr_stock": 9,
+    "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7b2d0a3f-57f6-4b02-90e0-6cb541445113.heic?v=1667830084"
+  },
+  {
+    "timestamp_ist": "2026-08-19 16:17:23",
+    "product_title": "AD Diamond Necklace with earrings in 4 colours",
+    "variant_title": "Dark Green",
+    "variant_id": "gid://shopify/ProductVariant/47432696299742",
+    "sku": "364",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 13,
+    "curr_stock": 12,
+    "url": "https://www.daivik.in/products/untitled-aug24_21-15?variant=gid://shopify/ProductVariant/47432696299742",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/525DCDBC-6BF7-47DA-9D19-EE6FFE0C430D.jpg?v=1754654187"
   }
 ]
