@@ -62826,24 +62826,6 @@
     "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-ek-sfneck552ma?variant=gid://shopify/ProductVariant/47387929641183",
     "stock": 7
   },
-  "gid://shopify/ProductVariant/47387935080671": {
-    "product_title": "Multicolor Dual-Tone Tribal Long Necklace with Jadau Kundan - EK-SFNECK572A",
-    "product_handle": "multicolor-tribal-necklace-ek-sfneck572a",
-    "variant_id": "gid://shopify/ProductVariant/47387935080671",
-    "global_id": "gid://shopify/ProductVariant/47387935080671",
-    "variant_title": "Default Title",
-    "sku": "EK-SFNECK572A",
-    "price": 5000.0,
-    "variant_price": 5000.0,
-    "product_price": 5000.0,
-    "amount": 5000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK572A.jpg?v=1756981244",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-ek-sfneck572a?variant=gid://shopify/ProductVariant/47387935080671",
-    "stock": 15,
-    "last_alerted_stock": 15
-  },
   "gid://shopify/ProductVariant/47388002123999": {
     "product_title": "Multicolor Dual-Tone Tribal Long Necklace with Jadau Kundan and Peacock Motif - EK-SFNECK576A",
     "product_handle": "multicolor-tribal-necklace-ek-sfneck576a",
@@ -114084,6 +114066,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/firoza-color-gold-plated-necklace-mn669fa?variant=gid://shopify/ProductVariant/51225399296223",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47387935080671": {
+    "product_title": "Multicolor Dual-Tone Tribal Long Necklace with Jadau Kundan - EK-SFNECK572A",
+    "product_handle": "multicolor-tribal-necklace-ek-sfneck572a",
+    "variant_id": "gid://shopify/ProductVariant/47387935080671",
+    "global_id": "gid://shopify/ProductVariant/47387935080671",
+    "variant_title": "Default Title",
+    "sku": "EK-SFNECK572A",
+    "price": 5000.0,
+    "variant_price": 5000.0,
+    "product_price": 5000.0,
+    "amount": 5000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK572A.jpg?v=1756981244",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-tribal-necklace-ek-sfneck572a?variant=gid://shopify/ProductVariant/47387935080671",
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/43717702156511": {
     "product_title": "Multicolor Dual-Tone Mishr Hasli Necklace Set with Kundan Stonework - MR-S44M",
