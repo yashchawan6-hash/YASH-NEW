@@ -94294,23 +94294,6 @@
     "url": "https://www.mortantra.com/products/the-gota-dil-silk-potli-bag-mbg49?variant=gid://shopify/ProductVariant/49048400265439",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/49048406327519": {
-    "product_title": "Vintage Kodi Silk Potli Puppet Bag - MBG44",
-    "product_handle": "vintage-kodi-silk-potli-puppet-bag-mbg44",
-    "variant_id": "gid://shopify/ProductVariant/49048406327519",
-    "global_id": "gid://shopify/ProductVariant/49048406327519",
-    "variant_title": "Baby Pink",
-    "sku": "MBG44",
-    "price": 10000.0,
-    "variant_price": 10000.0,
-    "product_price": 10000.0,
-    "amount": 10000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBG44.jpg?v=1777623154",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/vintage-kodi-silk-potli-puppet-bag-mbg44?variant=gid://shopify/ProductVariant/49048406327519",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49048416059615": {
     "product_title": "Mirror Work Gota Silk Kiran Potli Bag - MBG45",
     "product_handle": "mirror-work-gota-silk-kiran-potli-bag-multicolour-mbg45",
@@ -114201,6 +114184,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-necklace-set-mo-s159wgr?variant=gid://shopify/ProductVariant/51231192711391",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/49048406327519": {
+    "product_title": "Vintage Kodi Silk Potli Puppet Bag - MBG44",
+    "product_handle": "vintage-kodi-silk-potli-puppet-bag-mbg44",
+    "variant_id": "gid://shopify/ProductVariant/49048406327519",
+    "global_id": "gid://shopify/ProductVariant/49048406327519",
+    "variant_title": "Baby Pink",
+    "sku": "MBG44",
+    "price": 10000.0,
+    "variant_price": 10000.0,
+    "product_price": 10000.0,
+    "amount": 10000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBG44.jpg?v=1777623154",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/vintage-kodi-silk-potli-puppet-bag-mbg44?variant=gid://shopify/ProductVariant/49048406327519",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/46824428667103": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Adjustable Ring with Floral Kundan Setting - MRNG214M",
