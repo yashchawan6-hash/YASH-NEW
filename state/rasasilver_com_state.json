@@ -23514,9 +23514,9 @@
     "amount": 10600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0141copy_resized_c8ab29aa-5614-40c0-8ccc-6e8fce150232.jpg?v=1761721991",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pearmukta-pendant?variant=gid://shopify/ProductVariant/51441045504297",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51441071653161": {
