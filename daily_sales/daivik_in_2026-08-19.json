@@ -1060,5 +1060,41 @@
     "curr_stock": 1,
     "url": "https://www.daivik.in/products/reversible-2-sides-lakshmi-golden-beads-long-chain-with-extra-links?variant=gid://shopify/ProductVariant/44644046176478",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/64D40FFC-112B-45B9-B282-1E24C0F0E11B.jpg?v=1704298598"
+  },
+  {
+    "timestamp_ist": "2026-08-19 23:37:16",
+    "product_title": "Two line Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45333722759390",
+    "sku": "708",
+    "price": 2299.0,
+    "variant_price": 2299.0,
+    "product_price": 2299.0,
+    "amount": 2299.0,
+    "total_price": 2299.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 10,
+    "curr_stock": 9,
+    "url": "https://www.daivik.in/products/two-line-necklace-with-earrings?variant=gid://shopify/ProductVariant/45333722759390",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B98339A8-F58B-42BE-A566-F73DD079D750.jpg?v=1715100306"
+  },
+  {
+    "timestamp_ist": "2026-08-19 23:37:16",
+    "product_title": "Victorian AD Necklace with Earrings in Four Colors",
+    "variant_title": "Dark Green",
+    "variant_id": "gid://shopify/ProductVariant/45910587670750",
+    "sku": "190",
+    "price": 1799.0,
+    "variant_price": 1799.0,
+    "product_price": 1799.0,
+    "amount": 1799.0,
+    "total_price": 1799.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.daivik.in/products/victorian-ad-necklace-with-earrings-in-two-colors?variant=gid://shopify/ProductVariant/45910587670750",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_0af09535-1a26-4328-a41b-31245169720b.jpg?v=1727103170"
   }
 ]
