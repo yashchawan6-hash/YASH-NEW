@@ -8642,9 +8642,10 @@
     "amount": 15300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/85_7d8e7334-c1be-4f20-97e7-63c6b2a50eda.png?v=1756577197",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/karalika-kundan-shees-pech-1?variant=gid://shopify/ProductVariant/48637110976705",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48637111730369": {
     "product_title": "YADAV SILVER FINISH ZIRCON NECKLACE SET",
