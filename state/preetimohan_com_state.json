@@ -13503,9 +13503,9 @@
     "amount": 7500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/3_d5834aaa-4f64-4e7a-bb66-e7355bdc3a09.jpg?v=1756141258",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/supriya-gold-plated-polki-bracelet?variant=gid://shopify/ProductVariant/49150844731585",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49150849777857": {
