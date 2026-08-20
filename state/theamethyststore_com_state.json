@@ -121252,7 +121252,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3751.jpg?v=1768389255",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/grandeur-kundan-pendant?variant=gid://shopify/ProductVariant/47825372381411",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47825435951331": {
@@ -121287,7 +121287,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12174.jpg?v=1768392358",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fantasika-stone-studs?variant=gid://shopify/ProductVariant/47825508565219",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47825516626147": {
@@ -121305,7 +121305,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12175.jpg?v=1768392537",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/samaira-stone-studs?variant=gid://shopify/ProductVariant/47825516626147",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47825568432355": {
@@ -121323,7 +121323,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12180.jpg?v=1768393419",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vidhya-stone-studs-1?variant=gid://shopify/ProductVariant/47825568432355",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47825582162147": {
@@ -121341,7 +121341,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12182.jpg?v=1768393586",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/mithila-stone-studs?variant=gid://shopify/ProductVariant/47825582162147",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47825596088547": {
@@ -121478,7 +121478,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1584.jpg?v=1768462758",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/mahitha-mugappu-chain?variant=gid://shopify/ProductVariant/47831195484387",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47831372169443": {
     "product_title": "Glitz Stone Studs",
@@ -121529,7 +121529,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11775.jpg?v=1768473429",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/srisha-stone-studs-4?variant=gid://shopify/ProductVariant/47831387341027",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47831398088931": {
     "product_title": "Girisha Stone Studs",
@@ -121750,7 +121750,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11779.jpg?v=1768480701",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bhavikha-stone-studs?variant=gid://shopify/ProductVariant/47831533519075",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47831570645219": {
     "product_title": "Grandeur Stone Studs",
