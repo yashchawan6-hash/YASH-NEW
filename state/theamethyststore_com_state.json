@@ -33251,7 +33251,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7755.jpg?v=1732790405",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/renisha-attigai-necklace?variant=gid://shopify/ProductVariant/45756412461283",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45763697049827": {
     "product_title": "Kiran Stone Studs",
@@ -50372,7 +50373,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0931.jpg?v=1749478093",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/shinning-pink-stone-ring?variant=gid://shopify/ProductVariant/46502620659939",
-    "stock": -1
+    "stock": 6
   },
   "gid://shopify/ProductVariant/46528537788643": {
     "product_title": "Theksha Chandubaali Earrings",
@@ -61142,7 +61143,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-1760_d9c331d1-3193-4340-8de0-dce5c3ed07dc.jpg?v=1779278529",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/fabulous-kundan-maatal?variant=gid://shopify/ProductVariant/46942730322147",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46942731960547": {
     "product_title": "Uthidha Kundan Maatal",
