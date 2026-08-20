@@ -6412,8 +6412,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_43306862-9c20-4c2f-8de0-0710b7926c4f.heic?v=1647966185",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/pearl-kemp-pendant-short-haram-with-earrings?variant=gid://shopify/ProductVariant/42596492411102",
-    "stock": 41,
-    "last_alerted_stock": 41
+    "stock": 40,
+    "last_alerted_stock": 40
   },
   "gid://shopify/ProductVariant/44437456486622": {
     "product_title": "Cluster Pearl Necklace with earrings ( Price for each)",
@@ -50461,23 +50461,6 @@
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/designer-diamond-look-alike-floral-necklace-with-earrings?variant=gid://shopify/ProductVariant/47858398396638",
     "stock": 4
-  },
-  "gid://shopify/ProductVariant/47859898450142": {
-    "product_title": "Simple Floral Pendant Set with Chain",
-    "product_handle": "simple-floral-pendant-set-with-chain",
-    "variant_id": "gid://shopify/ProductVariant/47859898450142",
-    "global_id": "gid://shopify/ProductVariant/47859898450142",
-    "variant_title": "Default Title",
-    "sku": "1354",
-    "price": 699.0,
-    "variant_price": 699.0,
-    "product_price": 699.0,
-    "amount": 699.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FEBD777E-FBE6-42B0-9C70-6A9AC7C934FC.jpg?v=1769531496",
-    "available_for_sale": false,
-    "url": "https://www.daivik.in/products/simple-floral-pendant-set-with-chain?variant=gid://shopify/ProductVariant/47859898450142",
-    "stock": -1
   },
   "gid://shopify/ProductVariant/47859902054622": {
     "product_title": "Simple Leaf Pendant set with Chain",
