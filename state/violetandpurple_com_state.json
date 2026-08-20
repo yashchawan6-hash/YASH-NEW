@@ -794,9 +794,10 @@
     "amount": 1350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/products/12.0_662b4ebf-536e-476e-87ac-106fff291a8b.jpg?v=1765196475",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.violetandpurple.com/products/cz-bangles-zbgl10658-1?variant=gid://shopify/ProductVariant/39824801824867",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50020721885477": {
     "product_title": "Designer Rose Gold Zirconia Choker Set",
