@@ -8328,8 +8328,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/30-cents-solitaire-tennis-bracelet-attrangi-1.jpg?v=1739814435",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/30-cent-solitaire-tennis-bracelet?variant=gid://shopify/ProductVariant/43593120973012",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43593125560532": {
     "product_title": "25 cents Round Solitaire Tennis Bracelet| 4mm",
@@ -53698,6 +53698,23 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/timothy-indo-western-studs-gemz-collection?variant=gid://shopify/ProductVariant/48250687127764",
     "stock": 1
+  },
+  "gid://shopify/ProductVariant/48255764496596": {
+    "product_title": "Rajwada Indian Gold Watch Bracelet | Sone Pe Suhaga",
+    "product_handle": "rajwada-indian-gold-watch-bracelet-sone-pe-suhaga",
+    "variant_id": "gid://shopify/ProductVariant/48255764496596",
+    "global_id": "gid://shopify/ProductVariant/48255764496596",
+    "variant_title": "Default Title",
+    "sku": "ST92626-BR",
+    "price": 5850.0,
+    "variant_price": 5850.0,
+    "product_price": 5850.0,
+    "amount": 5850.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-11at3.18.02PM_2.jpg?v=1783768638",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/rajwada-indian-gold-watch-bracelet-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48255764496596",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/48256054067412": {
     "product_title": "Diamond Peary Designer Cocktail Ring | Daily Wear Bling",

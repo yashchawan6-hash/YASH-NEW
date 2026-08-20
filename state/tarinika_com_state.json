@@ -404,7 +404,7 @@
     "variant_id": "gid://shopify/ProductVariant/12215597269100",
     "global_id": "gid://shopify/ProductVariant/12215597269100",
     "variant_title": "2.4 / White Red Green",
-    "sku": "ABX0059XMC4",
+    "sku": "US-ABX0059XMC4",
     "price": 74.99,
     "variant_price": 74.99,
     "product_price": 74.99,
@@ -413,7 +413,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0059XM.jpg?v=1762526566",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sarang-antique-bangles?variant=gid://shopify/ProductVariant/12215597269100",
-    "stock": 9999,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/12215597334636": {
@@ -6908,7 +6908,7 @@
     "variant_id": "gid://shopify/ProductVariant/40865159905346",
     "global_id": "gid://shopify/ProductVariant/40865159905346",
     "variant_title": "Antique Gold Finish with White Red Green variant / 2.6",
-    "sku": "ABX0401XMC6",
+    "sku": "US-ABX0401XMC6",
     "price": 49.99,
     "variant_price": 49.99,
     "product_price": 49.99,
@@ -6917,7 +6917,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0401X.jpg?v=1640780009",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/kangna-antique-bangles?variant=gid://shopify/ProductVariant/40865159905346",
-    "stock": 9999
+    "stock": 1
   },
   "gid://shopify/ProductVariant/40791541416002": {
     "product_title": "Kangna Antique Bangles",

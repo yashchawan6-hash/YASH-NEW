@@ -1440,7 +1440,7 @@
     "product_price": 695.0,
     "amount": 695.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-oxidised-silver-plated-ghungroo-studded-handcrafted-adjustable-finger-ring-rings-28826353402030.jpg?v=1751575973",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/303bacd3-ab7b-41a1-a3dc-f3561af8daa21623061829314RubansOxidisedSilver-PlatedGhungroo-StuddedHandcraftedAdjust5.jpg?v=1785741387",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-oxidised-silver-plated-ghungroo-studded-handcrafted-adjustable-finger-ring?variant=gid://shopify/ProductVariant/43043777970350",
     "stock": 20
@@ -3132,7 +3132,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE03EJ278342.jpg?v=1785300141",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-24k-gold-plated-enamel-handpainted-white-beaded-filigree-jhumka-earrings?variant=gid://shopify/ProductVariant/43043618848942",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/43043618554030": {
     "product_title": "Rubans 24K Gold Plated Stone Studded Pearl Beaded Drop Earrings",
@@ -6296,7 +6297,7 @@
     "product_price": 760.0,
     "amount": 760.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-rose-gold-plated-cz-studded-finger-ring-rings-34486722953390.jpg?v=1774939416",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/re13r401275_2.jpg?v=1785758869",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-rose-gold-plated-cz-studded-finger-ring?variant=gid://shopify/ProductVariant/44176896819374",
     "stock": 17,
@@ -10042,8 +10043,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/22kt-gold-plated-cubic-zirconia-stone-studded-floral-pendent-set-pendent-set-36336958734510.jpg?v=1755720341",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22kt-gold-plated-cubic-zirconia-stone-studded-floral-pendent-jewellery-set?variant=gid://shopify/ProductVariant/45315717922990",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/45315717988526": {
     "product_title": "Royal Kundan Choker Necklace Set",
@@ -27107,7 +27108,7 @@
     "product_price": 1876.0,
     "amount": 1876.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-kundan-pearl-handcrafted-multi-layer-waist-chain-kamarband-saree-accessories-1143858991.jpg?v=1765193306",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02KB407682.jpg?v=1787211080",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-kundan-pearl-handcrafted-multi-layer-waist-chain-kamarband-re02kb407682?variant=gid://shopify/ProductVariant/46206546149550",
     "stock": 10,
@@ -53045,7 +53046,7 @@
     "amount": 755.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02ED410194.jpg?v=1769075524",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/royal-green-glow-chandelier-re02ed410194?variant=gid://shopify/ProductVariant/47186757157038",
     "stock": 15,
     "last_alerted_stock": 15
