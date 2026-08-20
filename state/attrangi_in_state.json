@@ -9468,24 +9468,6 @@
     "stock": 3,
     "last_alerted_stock": 3
   },
-  "gid://shopify/ProductVariant/43868201648340": {
-    "product_title": "Diana Invisible Setting Earrings | Diamond Studs",
-    "product_handle": "diana-invisible-setting-earrings-diamond-studs",
-    "variant_id": "gid://shopify/ProductVariant/43868201648340",
-    "global_id": "gid://shopify/ProductVariant/43868201648340",
-    "variant_title": "Blue",
-    "sku": "WG4011B",
-    "price": 2950.0,
-    "variant_price": 2950.0,
-    "product_price": 2950.0,
-    "amount": 2950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diana-invisible-setting-earrings-or-diamond-studs-attrangi-9.jpg?v=1739814804",
-    "available_for_sale": true,
-    "url": "https://www.attrangi.in/products/diana-invisible-setting-earrings-diamond-studs?variant=gid://shopify/ProductVariant/43868201648340",
-    "stock": 3,
-    "last_alerted_stock": 2
-  },
   "gid://shopify/ProductVariant/43868202205396": {
     "product_title": "Diana Invisible Setting Earrings | Diamond Studs",
     "product_handle": "diana-invisible-setting-earrings-diamond-studs",
@@ -9520,6 +9502,24 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-invisible-setting-earrings-diamond-studs?variant=gid://shopify/ProductVariant/43868202238164",
     "stock": 2,
+    "last_alerted_stock": 2
+  },
+  "gid://shopify/ProductVariant/43868201648340": {
+    "product_title": "Diana Invisible Setting Earrings | Diamond Studs",
+    "product_handle": "diana-invisible-setting-earrings-diamond-studs",
+    "variant_id": "gid://shopify/ProductVariant/43868201648340",
+    "global_id": "gid://shopify/ProductVariant/43868201648340",
+    "variant_title": "Blue",
+    "sku": "WG4011B",
+    "price": 2950.0,
+    "variant_price": 2950.0,
+    "product_price": 2950.0,
+    "amount": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diana-invisible-setting-earrings-or-diamond-studs-attrangi-9.jpg?v=1739814804",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/diana-invisible-setting-earrings-diamond-studs?variant=gid://shopify/ProductVariant/43868201648340",
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44057942851796": {
