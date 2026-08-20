@@ -21850,9 +21850,10 @@
     "amount": 5464.16,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6019.jpg?v=1719493346",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/cluster-stone-studs?variant=gid://shopify/ProductVariant/45197751582947",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45197877706979": {
     "product_title": "Delina Stone Studs",
@@ -23849,9 +23850,10 @@
     "amount": 81926.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6512.jpg?v=1721398587",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/hiranti-victorian-short-necklace-set?variant=gid://shopify/ProductVariant/45287960314083",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45291583176931": {
     "product_title": "Aadhani Victorian Pair Bangles",
@@ -101103,7 +101105,7 @@
     "amount": 19711.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-105-1342-_2.jpg?v=1761911786",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/stylish-chain-with-earrings?variant=gid://shopify/ProductVariant/47432018165987",
     "stock": 1
   },
@@ -115091,7 +115093,7 @@
     "amount": 90454.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13416.jpg?v=1767424662",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/vianna-stone-long-necklace-1?variant=gid://shopify/ProductVariant/47790122008803",
     "stock": 1
   },
@@ -125173,7 +125175,7 @@
     "amount": 49562.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-111-0237.jpg?v=1768829617",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kum-kum-box-1?variant=gid://shopify/ProductVariant/47852475777251",
     "stock": 1
   },
