@@ -29545,6 +29545,23 @@
     "url": "https://www.tarinika.com/products/vighnesh-temple-necklace-set?variant=gid://shopify/ProductVariant/43652268785730",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/43652272783426": {
+    "product_title": "Ruchira Antique Pendant Set",
+    "product_handle": "ruchira-antique-pendant-set",
+    "variant_id": "gid://shopify/ProductVariant/43652272783426",
+    "global_id": "gid://shopify/ProductVariant/43652272783426",
+    "variant_title": "Default Title",
+    "sku": "ANP4257CTC",
+    "price": 29.99,
+    "variant_price": 29.99,
+    "product_price": 29.99,
+    "amount": 29.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANP4257C_3b9c62e8-4653-4b82-bff0-485b5a9076d8.jpg?v=1778670933",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/ruchira-antique-pendant-set?variant=gid://shopify/ProductVariant/43652272783426",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/43652273045570": {
     "product_title": "Aarivya Antique Bracelet",
     "product_handle": "aarivya-antique-bracelet",
@@ -31592,23 +31609,6 @@
     "url": "https://www.tarinika.com/products/trishul-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/44672206438466",
     "stock": 5,
     "last_alerted_stock": 5
-  },
-  "gid://shopify/ProductVariant/43652272783426": {
-    "product_title": "Ruchira Antique Pendant Set",
-    "product_handle": "ruchira-antique-pendant-set",
-    "variant_id": "gid://shopify/ProductVariant/43652272783426",
-    "global_id": "gid://shopify/ProductVariant/43652272783426",
-    "variant_title": "Default Title",
-    "sku": "US-ANP4257CTC",
-    "price": 29.99,
-    "variant_price": 29.99,
-    "product_price": 29.99,
-    "amount": 29.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANP4257C_3b9c62e8-4653-4b82-bff0-485b5a9076d8.jpg?v=1778670933",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/ruchira-antique-pendant-set?variant=gid://shopify/ProductVariant/43652272783426",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/40726129606722": {
     "product_title": "Petal CZ Stud Earrings",
