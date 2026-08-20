@@ -16186,7 +16186,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/1NX0273X.jpg?v=1693213664",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/dorothy-kundan-choker-set?variant=gid://shopify/ProductVariant/40730298744868",
-    "stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/40750044184612": {
     "product_title": "Chitra Temple Antique Necklace Set",
@@ -18792,7 +18793,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TNX0318X_0d4f99c3-424d-4f62-ab5a-5bf922b7b939.jpg?v=1722228068",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/simple-antique-red-green-kempu-necklace-set?variant=gid://shopify/ProductVariant/41327095709732",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/41327099084836": {
@@ -21925,7 +21926,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/Paksha6968_copy.jpg?v=1752149501",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/radiant-cz-rakhi?variant=gid://shopify/ProductVariant/52393360982384",
-    "stock": 5,
+    "stock": 4,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52393410658672": {
@@ -22117,9 +22118,9 @@
     "amount": 2639.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PTRK0012BT6_6562c9f5-0d68-4987-aa42-09577ef389a7.jpg?v=1752476507",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.in/products/murlidhar-silver-rakhi?variant=gid://shopify/ProductVariant/52394396975472",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/52394441310576": {
     "product_title": "Shree Ganesha Gold Plated Silver Rakhi",
@@ -22136,7 +22137,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PTRK0013BR2_071803dc-20fe-4064-9f3d-081a5eec03b0.jpg?v=1752150579",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/shree-ganesha-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/52394441310576",
-    "stock": 1,
+    "stock": 6,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52394523591024": {
@@ -22206,7 +22207,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/PTRK0017BC2_5ae8b8b4-1a61-4809-9325-766154a9b983.jpg?v=1752151941",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/bhairav-gold-plated-silver-rakhi?variant=gid://shopify/ProductVariant/52394616783216",
-    "stock": 2,
+    "stock": 5,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52394629792112": {
