@@ -5556,8 +5556,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2300.jpg?v=1692607020",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-stud-earrings-29?variant=gid://shopify/ProductVariant/46472990523692",
-    "stock": 2,
-    "last_alerted_stock": 0
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46473018835244": {
     "product_title": "Jadau Kundan Stud Earrings",
@@ -24595,7 +24595,7 @@
     "amount": 450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Screenshot2026-06-16144512.png?v=1781601374",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/elegant-victorian-emerald?variant=gid://shopify/ProductVariant/53331945455916",
     "stock": 1,
     "last_alerted_stock": 0
