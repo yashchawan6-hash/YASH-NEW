@@ -1780,5 +1780,41 @@
     "curr_stock": 27,
     "url": "https://www.daivik.in/products/ruby-ad-jhumkas-with-attached-mattal?variant=gid://shopify/ProductVariant/44358526632158",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DC18AED0-2376-4F2F-AFE9-D6C2CD2A73FF.jpg?v=1695483926"
+  },
+  {
+    "timestamp_ist": "2026-08-20 16:02:34",
+    "product_title": "Traditional Teeka in 2 variants",
+    "variant_title": "2",
+    "variant_id": "gid://shopify/ProductVariant/40399475310745",
+    "sku": "756",
+    "price": 699.0,
+    "variant_price": 699.0,
+    "product_price": 699.0,
+    "amount": 699.0,
+    "total_price": 699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 49,
+    "curr_stock": 48,
+    "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475310745",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fd7e08cd-80c2-41df-b519-fd0c018cf3a5.jpg?v=1624462225"
+  },
+  {
+    "timestamp_ist": "2026-08-20 16:02:34",
+    "product_title": "Floral Mattals and Anklets combo",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42255222309086",
+    "sku": "977",
+    "price": 1999.0,
+    "variant_price": 1999.0,
+    "product_price": 1999.0,
+    "amount": 1999.0,
+    "total_price": 1999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.daivik.in/products/floral-mattals-and-anklets-combo?variant=gid://shopify/ProductVariant/42255222309086",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3f45ca47-7209-4bca-9b2c-7216d6b0c666.jpg?v=1640267810"
   }
 ]
