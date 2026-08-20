@@ -8017,7 +8017,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/TNX0024X_2.jpg?v=1739525058",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/flowery-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/39618940829732",
-    "stock": 4,
+    "stock": 9999,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/39618940764196": {
@@ -8035,7 +8035,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/TNX0024X_5.jpg?v=1739525047",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/flowery-delicate-cz-necklace-set?variant=gid://shopify/ProductVariant/39618940764196",
-    "stock": 12
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/39618940796964": {
     "product_title": "Flowery Delicate CZ Necklace Set",
@@ -15997,9 +15997,9 @@
     "amount": 17039.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TNX0265X_2.jpg?v=1694250119",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/aruni-nakshatra-cz-bridal-choker-set?variant=gid://shopify/ProductVariant/40729432784932",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40729436717092": {
     "product_title": "Sruti Nakshatra CZ Mini Jhumki",

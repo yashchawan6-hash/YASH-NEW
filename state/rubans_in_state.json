@@ -22828,7 +22828,7 @@
     "product_price": 509.0,
     "amount": 509.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV04RO407977.jpg?v=1765192739",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV04RO407977_39d4e7e8-d768-4119-8cc7-bdd3b7c29cb7.jpg?v=1765192739",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-rhodium-plated-statement-bow-adjustable-ring-rv04ro407977?variant=gid://shopify/ProductVariant/46172498559150",
     "stock": 1,
@@ -25019,7 +25019,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-cubic-zirconia-studded-heart-shape-hoop-earrings-earrings-1203248199.jpg?v=1770619584",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-cubic-zirconia-studded-heart-shape-hoop-earrings-rw04eh407761?variant=gid://shopify/ProductVariant/46194500305070",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/46194500370606": {
     "product_title": "Moonbeam Circles American Diamond Zirconia Hoops",
@@ -53047,7 +53048,7 @@
     "amount": 755.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02ED410194.jpg?v=1769075524",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/royal-green-glow-chandelier-re02ed410194?variant=gid://shopify/ProductVariant/47186757157038",
     "stock": 15,
     "last_alerted_stock": 15
