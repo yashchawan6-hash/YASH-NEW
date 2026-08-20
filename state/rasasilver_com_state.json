@@ -67671,7 +67671,7 @@
     "amount": 9945.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20534_resized.jpg?v=1775485643",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/indulekha-matil?variant=gid://shopify/ProductVariant/52898274640169",
     "stock": 1,
     "last_alerted_stock": 0
@@ -86348,7 +86348,7 @@
     "amount": 25400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0051.jpg?v=1786356278",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/coral-grace-victorian-danglers?variant=gid://shopify/ProductVariant/53370151534889",
     "stock": 1
   },
