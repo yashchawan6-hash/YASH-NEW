@@ -20068,9 +20068,10 @@
     "amount": 2380.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS597.jpg?v=1761373466",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rubymehka-studs?variant=gid://shopify/ProductVariant/51363105571113",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51363143483689": {
     "product_title": "Chatur Bloom\u00e9 Stud Earrings",
