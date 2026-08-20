@@ -11326,7 +11326,7 @@
     "variant_id": "gid://shopify/ProductVariant/41483155243074",
     "global_id": "gid://shopify/ProductVariant/41483155243074",
     "variant_title": "White Red",
-    "sku": "FNX2082XCC",
+    "sku": "US-FNX2082XCC",
     "price": 69.99,
     "variant_price": 69.99,
     "product_price": 69.99,
@@ -11335,7 +11335,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL4871copycopy.jpg?v=1654667165",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/rahee-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/41483155243074",
-    "stock": 9999,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39798614687810": {
@@ -17422,7 +17422,7 @@
     "variant_id": "gid://shopify/ProductVariant/40464065101890",
     "global_id": "gid://shopify/ProductVariant/40464065101890",
     "variant_title": "Default Title",
-    "sku": "ANE3399XCS",
+    "sku": "US-ANE3399XCS",
     "price": 24.99,
     "variant_price": 24.99,
     "product_price": 24.99,
@@ -17431,8 +17431,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANE3399X.jpg?v=1697257984",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/ulka-nakshatra-cz-earrings?variant=gid://shopify/ProductVariant/40464065101890",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40464065790018": {
     "product_title": "Karna Nakshatra CZ Drop Earrings",
@@ -19938,9 +19938,10 @@
     "amount": 47.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNE0222XCS.jpg?v=1725101799",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/ariana-cz-red-jhumka-earrings?variant=gid://shopify/ProductVariant/41607037616194",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41607038828610": {
     "product_title": "Ariana CZ Blue Jhumka Earrings",
@@ -28379,7 +28380,7 @@
     "amount": 29.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1EX0163XTP.png?v=1766211765",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/ketki-antique-jhumka?variant=gid://shopify/ProductVariant/42782904909890",
     "stock": 1
   },

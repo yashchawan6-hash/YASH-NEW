@@ -160,5 +160,41 @@
     "curr_stock": 8,
     "url": "https://www.tarinika.com/products/aashi-antique-earrings?variant=gid://shopify/ProductVariant/41483278975042",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3842copycopy.jpg?v=1640780599"
+  },
+  {
+    "timestamp_ist": "2026-08-20 12:17:25",
+    "product_title": "Ulka Nakshatra CZ Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40464065101890",
+    "sku": "US-ANE3399XCS",
+    "price": 24.99,
+    "variant_price": 24.99,
+    "product_price": 24.99,
+    "amount": 24.99,
+    "total_price": 24.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.tarinika.com/products/ulka-nakshatra-cz-earrings?variant=gid://shopify/ProductVariant/40464065101890",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANE3399X.jpg?v=1697257984"
+  },
+  {
+    "timestamp_ist": "2026-08-20 12:17:25",
+    "product_title": "Ariana CZ Red Jhumka Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41607037616194",
+    "sku": "US-TNE0222XCS",
+    "price": 47.99,
+    "variant_price": 47.99,
+    "product_price": 47.99,
+    "amount": 47.99,
+    "total_price": 47.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/ariana-cz-red-jhumka-earrings?variant=gid://shopify/ProductVariant/41607037616194",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNE0222XCS.jpg?v=1725101799"
   }
 ]

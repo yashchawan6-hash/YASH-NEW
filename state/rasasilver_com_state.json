@@ -5467,9 +5467,10 @@
     "amount": 35200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R4256.jpg?v=1751365009",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/amrapali-spark-short-necklace?variant=gid://shopify/ProductVariant/50400962216233",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50400990757161": {
     "product_title": "Ruhani Tear Necklace Set",
@@ -5928,9 +5929,10 @@
     "amount": 196100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/xswdwq.jpg?v=1749287731",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/yashi-1?variant=gid://shopify/ProductVariant/50444081889577",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50444092637481": {
     "product_title": "Gulnari Stud Earrings",
@@ -6857,9 +6859,10 @@
     "amount": 21700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R5832.jpg?v=1751363512",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kusumratna-kanti?variant=gid://shopify/ProductVariant/50577186750761",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50577812357417": {
     "product_title": "Flore Moissan Polki Danglers",
@@ -10434,9 +10437,10 @@
     "amount": 16915.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP632.jpg?v=1757405179",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/oceanis-bloom-danglers?variant=gid://shopify/ProductVariant/50788923113769",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50788991009065": {
     "product_title": "Lustre Royale Pendant",
@@ -15372,9 +15376,10 @@
     "amount": 19550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28152.jpg?v=1758960154",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/13-2?variant=gid://shopify/ProductVariant/51226624000297",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51226624327977": {
     "product_title": "Serpenza Cz Bracelet",
@@ -63831,7 +63836,7 @@
     "amount": 80400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16169_resized.jpg?v=1774347730",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/zeloria-victorian-bangles?variant=gid://shopify/ProductVariant/52838446498089",
     "stock": 1
   },
@@ -70639,7 +70644,7 @@
     "amount": 8330.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May1041_resized.jpg?v=1781875383",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/royal-manor-victorian-studs-copy?variant=gid://shopify/ProductVariant/53278259380521",
     "stock": 1
   },
