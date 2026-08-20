@@ -15434,7 +15434,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MNTH172WGR.jpg?v=1735368616",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mnth172wgr-green-color-gold-plated-jadau-kundan-nosepin?variant=gid://shopify/ProductVariant/45893643731167",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/45893654511839": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Nosepin - MNTH172WP",
@@ -44601,23 +44602,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-ring-mrng196?variant=gid://shopify/ProductVariant/46983295959263",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/46983308640479": {
-    "product_title": "Dark Green Gold-Plated Jadau Kundan Ring with Floral Motif - MRNG200",
-    "product_handle": "green-color-gold-plated-jadau-kundan-ring-mrng200",
-    "variant_id": "gid://shopify/ProductVariant/46983308640479",
-    "global_id": "gid://shopify/ProductVariant/46983308640479",
-    "variant_title": "Default Title",
-    "sku": "MRNG200",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG200.jpg?v=1747398603",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-ring-mrng200?variant=gid://shopify/ProductVariant/46983308640479",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/46983318044895": {
     "product_title": "Gold-Plated Jadau Kundan Floral Ring, White & Multicolor - MRNG209",
@@ -113694,6 +113678,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-necklace-set-mo-s159wgr?variant=gid://shopify/ProductVariant/51231192711391",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46983308640479": {
+    "product_title": "Dark Green Gold-Plated Jadau Kundan Ring with Floral Motif - MRNG200",
+    "product_handle": "green-color-gold-plated-jadau-kundan-ring-mrng200",
+    "variant_id": "gid://shopify/ProductVariant/46983308640479",
+    "global_id": "gid://shopify/ProductVariant/46983308640479",
+    "variant_title": "Default Title",
+    "sku": "MRNG200",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG200.jpg?v=1747398603",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-ring-mrng200?variant=gid://shopify/ProductVariant/46983308640479",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48351645663455": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Braid Hair Accessory - MHA267",
