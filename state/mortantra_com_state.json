@@ -15145,8 +15145,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E118W.jpg?v=1716970924",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/tj-e118w-white-color-gold-plated-thappa-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/45879216505055",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45880956944607": {
     "product_title": "Multicolor Gold-Plated Mishr Chandbali Earrings with Jadau Kundan and Fish Motif - MR-E143A",
@@ -42531,24 +42531,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1355?variant=gid://shopify/ProductVariant/47070013653215",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/46952439415007": {
-    "product_title": "Multicolor Gold-Plated Jadau Kundan Stud Earrings with Pearl Accents - ME1357M",
-    "product_handle": "multicolor-gold-plated-jadau-kundan-earrings-me1357m",
-    "variant_id": "gid://shopify/ProductVariant/46952439415007",
-    "global_id": "gid://shopify/ProductVariant/46952439415007",
-    "variant_title": "Default Title",
-    "sku": "ME1357M",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1357M.jpg?v=1746788579",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1357m?variant=gid://shopify/ProductVariant/46952439415007",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47001566380255": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Statement Danglers with Pearl Drops - ME1359",
@@ -113684,6 +113666,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-necklace-set-mo-s159wgr?variant=gid://shopify/ProductVariant/51231192711391",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46952439415007": {
+    "product_title": "Multicolor Gold-Plated Jadau Kundan Stud Earrings with Pearl Accents - ME1357M",
+    "product_handle": "multicolor-gold-plated-jadau-kundan-earrings-me1357m",
+    "variant_id": "gid://shopify/ProductVariant/46952439415007",
+    "global_id": "gid://shopify/ProductVariant/46952439415007",
+    "variant_title": "Default Title",
+    "sku": "ME1357M",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1357M.jpg?v=1746788579",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earrings-me1357m?variant=gid://shopify/ProductVariant/46952439415007",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46983308640479": {
     "product_title": "Dark Green Gold-Plated Jadau Kundan Ring with Floral Motif - MRNG200",
