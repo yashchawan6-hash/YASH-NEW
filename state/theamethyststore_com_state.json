@@ -31419,7 +31419,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7601_d38f5f25-a90a-4997-844b-998bc5e4e0a5.jpg?v=1739431658",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nishka-long-necklace?variant=gid://shopify/ProductVariant/45671618904291",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45671646593251": {
     "product_title": "Vaideki Long Necklace",
@@ -35665,7 +35666,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8323.jpg?v=1738324448",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/pratipa-avikam-necklace-set?variant=gid://shopify/ProductVariant/45953214611683",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45953234305251": {
     "product_title": "Uthitha Short Necklace Set",
@@ -36911,7 +36912,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0731.jpg?v=1739098344",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/delia-stone-ring?variant=gid://shopify/ProductVariant/45993677816035",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45993879568611": {
     "product_title": "Sananya Kundan Bracelet",
@@ -37303,7 +37305,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8547.jpg?v=1739346882",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/renita-short-necklace?variant=gid://shopify/ProductVariant/46001922506979",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46001936236771": {
     "product_title": "Dhanvikha Short Necklace",
