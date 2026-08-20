@@ -1531,9 +1531,10 @@
     "amount": 3399.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/guttaspusalu-kemp-choker-with-earrings-neckwearnecklace-981.jpg?v=1608566555",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/guttaspusalu-kemp-choker-with-earrings?variant=gid://shopify/ProductVariant/37547684331673",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/37587461308569": {
     "product_title": "Floral kemp bangles",
@@ -1968,7 +1969,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/uncut-kemp-guttaspusalu-balis-earrings-312.jpg?v=1614006032",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/uncut-kemp-guttaspusalu-balis?variant=gid://shopify/ProductVariant/38152291090585",
-    "stock": 29
+    "stock": 28,
+    "last_alerted_stock": 28
   },
   "gid://shopify/ProductVariant/38170188677273": {
     "product_title": "Big gold polish teeka",
@@ -4301,8 +4303,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4269ed91-982d-4eef-9bb6-eed0b967e689.jpg?v=1637935787",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/peacock-pure-kemp-balis?variant=gid://shopify/ProductVariant/42115154084062",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/42121213542622": {
     "product_title": "Ghungroo Hipbelt in 2 variants",
@@ -11123,8 +11125,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ef5eb739-5d3b-4326-8a74-cf3f0202e146.heic?v=1673087775",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-floral-kadas?variant=gid://shopify/ProductVariant/43863551508702",
-    "stock": 36,
-    "last_alerted_stock": 36
+    "stock": 35,
+    "last_alerted_stock": 35
   },
   "gid://shopify/ProductVariant/43863551541470": {
     "product_title": "Ad Floral Kadas",
@@ -46252,7 +46254,7 @@
     "amount": 1699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1B5CED12-903A-4779-8106-E18991B1BA6C.jpg?v=1759762176",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/bangle-combo?variant=gid://shopify/ProductVariant/47588954210526",
     "stock": 1
   },
