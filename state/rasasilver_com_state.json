@@ -3523,9 +3523,10 @@
     "amount": 12200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06818copy2.jpg?v=1747130631",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rosabelle-pendant-set?variant=gid://shopify/ProductVariant/50307341320489",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51441089741097": {
     "product_title": "Ruby Elegant Necklace",
@@ -55460,7 +55461,7 @@
     "amount": 21080.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4571_resized.jpg?v=1771655422",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/carat-culture-cz-necklace-set?variant=gid://shopify/ProductVariant/52682087727401",
     "stock": 1
   },
@@ -73182,7 +73183,7 @@
     "amount": 6630.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11600_resized.jpg?v=1780836706",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/boho-mayuri-oxidized-kada?variant=gid://shopify/ProductVariant/53158455640361",
     "stock": 1,
     "last_alerted_stock": 0
@@ -76227,7 +76228,7 @@
     "amount": 7480.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262356_resized.jpg?v=1782124704",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pear-drops-cz-necklace?variant=gid://shopify/ProductVariant/53282874523945",
     "stock": 1,
     "last_alerted_stock": 0
