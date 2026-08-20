@@ -3748,7 +3748,7 @@
     "product_price": 2849.0,
     "amount": 2849.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-silver-colour-clutch-with-black-embroided-design-handbag-wallet-accessories-32712100020398.jpg?v=1751574005",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rw61cl0077_05.jpg?v=1787217608",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-colour-clutch-with-black-embroided-design?variant=gid://shopify/ProductVariant/43032644780206",
     "stock": 5,
@@ -6058,7 +6058,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-and-white-beads-chain-with-gold-toned-stone-pendant-necklace-set-jewellery-sets-34471701643438.jpg?v=1755717755",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-and-white-beads-chain-with-gold-toned-stone-pendant-necklace-set?variant=gid://shopify/ProductVariant/44170697900206",
-    "stock": 20
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/44170840473774": {
     "product_title": "Rubans Women Silver-Plated Oxidised Kada Bracelet",
@@ -6161,7 +6162,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-voguish-golden-cascade-shoulder-duster-earrings-earrings-34476629491886.jpg?v=1774941037",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-golden-cascade-shoulder-duster-earrings?variant=gid://shopify/ProductVariant/44172803768494",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44172996214958": {
@@ -6230,7 +6231,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain-jewellery-sets-34518077079726.jpg?v=1755722304",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain?variant=gid://shopify/ProductVariant/44173336903854",
-    "stock": 5,
+    "stock": 20,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/44174609907886": {
@@ -8558,7 +8559,7 @@
     "product_price": 756.0,
     "amount": 756.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-urban-elegance-handcrafted-grey-textured-clutch-handbag-wallet-accessories-clutches-35153154736302.jpg?v=1755721146",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE62SB403476_model.jpg?v=1787217771",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-urban-elegance-handcrafted-grey-textured-clutch?variant=gid://shopify/ProductVariant/44663291871406",
     "stock": 7,
@@ -45249,7 +45250,7 @@
     "product_price": 1516.0,
     "amount": 1516.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-brass-white-kundan-bridal-choker-necklace-set-with-multi-strand-pearls-glossy-pearl-beads-necklace-sets-1193972609.jpg?v=1758537297",
+    "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02NS409219_amazon_New_Model_01.jpg?v=1787217506",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-brass-white-kundan-bridal-choker-necklace-set-with-multi-strand-pearls-glossy-pearl-beads?variant=gid://shopify/ProductVariant/46942589288622",
     "stock": 20
@@ -66541,7 +66542,7 @@
     "amount": 938.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS411417-Model.jpg?v=1768564240",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re10ns411417?variant=gid://shopify/ProductVariant/47290237550766",
     "stock": 2,
     "last_alerted_stock": 2
