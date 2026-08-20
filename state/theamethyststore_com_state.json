@@ -99557,7 +99557,7 @@
     "amount": 114100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12596.jpg?v=1761303973",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/ineshka-nagas-long-necklace?variant=gid://shopify/ProductVariant/47386920026339",
     "stock": 1
   },
@@ -171127,7 +171127,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14863.jpg?v=1783497459",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/dhanisha-kundan-jhumkas?variant=gid://shopify/ProductVariant/49375723880675",
-    "stock": 2
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49375726633187": {
     "product_title": "Kenisha Kundan Jhumkas",
@@ -171393,7 +171393,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15213.jpg?v=1783592025",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-studs-19?variant=gid://shopify/ProductVariant/49383203897571",
-    "stock": 4
+    "stock": 3
   },
   "gid://shopify/ProductVariant/49383237714147": {
     "product_title": "Tanirika Kundan Short Necklace Set",
@@ -171491,7 +171491,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15224.jpg?v=1783593180",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/bugadi-earrings-4?variant=gid://shopify/ProductVariant/49383326482659",
-    "stock": 4
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49383326875875": {
     "product_title": "Fabulous Kundan Long Necklace Set",
@@ -171631,7 +171631,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-15938.jpg?v=1783658670",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/hasli-necklace-18?variant=gid://shopify/ProductVariant/49388214157539",
-    "stock": 7
+    "stock": 6
   },
   "gid://shopify/ProductVariant/49388215402723": {
     "product_title": "Florikha Brooch Pin",
@@ -173919,7 +173919,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16678.jpg?v=1784090931",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kaasumalai-nagas-short-necklace?variant=gid://shopify/ProductVariant/49408986710243",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49409016529123": {
     "product_title": "Traditional Nagas Short Necklace",
@@ -174031,7 +174031,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16697.jpg?v=1784093541",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/gorgeous-boho-short-necklace?variant=gid://shopify/ProductVariant/49409078952163",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49409092878563": {
     "product_title": "Trendy Boho Short Necklace",
@@ -174101,7 +174101,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14924.jpg?v=1784094426",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/boho-earrings-4?variant=gid://shopify/ProductVariant/49409117356259",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49409119781091": {
     "product_title": "Zuhikaa Boho Earrings",
@@ -174115,7 +174115,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14930.jpg?v=1784094611",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/boho-earrings-5?variant=gid://shopify/ProductVariant/49409119781091",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49409122566371": {
     "product_title": "Unique Design Boho Short Necklace",
@@ -174171,7 +174171,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4695.jpg?v=1784095719",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/thekshikha-boho-pendants?variant=gid://shopify/ProductVariant/49409134854371",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49409137836259": {
     "product_title": "Drift willow Boho Earrings",
@@ -174451,7 +174451,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14947.jpg?v=1784099509",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/long-earrings-47?variant=gid://shopify/ProductVariant/49409252983011",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49409274249443": {
     "product_title": "Desert Dusk Long Earrings",
@@ -175573,7 +175573,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15186.jpg?v=1784269341",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-studs-22?variant=gid://shopify/ProductVariant/49420686655715",
-    "stock": 4
+    "stock": 3
   },
   "gid://shopify/ProductVariant/49420687245539": {
     "product_title": "Lakshmi 3D Spl Pendant",
@@ -175839,7 +175839,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-2404_e73bd379-7303-4ac3-820b-6ded3d6babaf.jpg?v=1784284613",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/avikam-maangtikka-7?variant=gid://shopify/ProductVariant/49421198983395",
-    "stock": 3
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49421199343843": {
     "product_title": "Glowing Avikam Necklace Set",
@@ -176091,7 +176091,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16806.jpg?v=1784291346",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/facinate-avikam-necklace-set?variant=gid://shopify/ProductVariant/49421305086179",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49421305217251": {
     "product_title": "Mesmerizing Avikam Necklace Set",
@@ -176287,7 +176287,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17036_8daeaa3b-433a-444c-94fb-96a11ddf9c63.jpg?v=1785414807",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kundan-short-necklace-38?variant=gid://shopify/ProductVariant/49421378420963",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/49421380780259": {
@@ -176793,7 +176793,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-16756.jpg?v=1784358187",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/eternal-heritage-3d-spl-long-necklace?variant=gid://shopify/ProductVariant/49423171354851",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49423173255395": {
     "product_title": "Eternal Bride 3D Spl Long Necklace",
@@ -177185,7 +177185,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3391_2.jpg?v=1784465923",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nagas-pair-bangles-59?variant=gid://shopify/ProductVariant/49426835243235",
-    "stock": 3
+    "stock": 2
   },
   "gid://shopify/ProductVariant/49426843468003": {
     "product_title": "Glitz Victorian Short Necklace Set",
@@ -179650,7 +179650,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17116.jpg?v=1784880630",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/auranika-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442433073379",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49442438119651": {
     "product_title": "Ruchikaa Diamond Design Stud",
@@ -179664,7 +179664,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-15411.jpg?v=1784880676",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/diamond-design-stud-15?variant=gid://shopify/ProductVariant/49442438119651",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49442438480099": {
     "product_title": "Kanorra Moissanite Short Necklace Set",
@@ -179748,7 +179748,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-17130.jpg?v=1784887963",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kiara-moissanite-short-necklace-set?variant=gid://shopify/ProductVariant/49442598387939",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49442628632803": {
     "product_title": "Yalisha Moissanite Short Necklace Set",
@@ -180000,7 +180000,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-3476.jpg?v=1784960459",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/pair-bangles-18?variant=gid://shopify/ProductVariant/49445988466915",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49446002852067": {
     "product_title": "Pretty Look Moissanite Ring",
