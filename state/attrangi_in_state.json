@@ -5284,10 +5284,10 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.08_PM_1.jpg?v=1764681788",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/50-cent-round-solitaire-cocktail-ring?variant=gid://shopify/ProductVariant/42579748290772",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42620163752148": {
     "product_title": "Heart Out Ring",
@@ -55243,7 +55243,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at6.52.10PM_2.jpg?v=1784361916",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/maria-diamond-pearl-drop-mid-sized-classic-earrings-grey-off-white-pearl?variant=gid://shopify/ProductVariant/48324858544340",
     "stock": 1
   },
