@@ -10589,9 +10589,9 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/meeta-polki-antique-gold-jhumkas-attrangi-4.jpg?v=1739815096",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/meeta-polki-antique-gold-jhumkas?variant=gid://shopify/ProductVariant/43935384961236",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43935126159572": {
@@ -13017,7 +13017,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/nasim-big-oversized-jadaau-jhumka-with-kannauti-attrangi-2.jpg?v=1770889507",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nasim-big-oversized-jadaau-jhumka-with-kannauti?variant=gid://shopify/ProductVariant/47545585041620",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47545617416404": {
@@ -16322,7 +16322,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_11.08.15_PM.jpg?v=1750781920",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/10-cent-daily-wear-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/45075445252308",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45075576324308": {
@@ -53209,7 +53209,7 @@
     "amount": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-14_at_5.59.33_PM.jpg?v=1786712491",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/rainbow-princess-cut-tennis-bracelet-multicolour-multi-gemstone?variant=gid://shopify/ProductVariant/48216713724116",
     "stock": 0,
     "last_alerted_stock": 0
