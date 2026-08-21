@@ -9750,10 +9750,10 @@
     "amount": 833.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/women-22kt-gold-plated-brass-red-and-green-stone-studded-jewellery-set-necklace-set-36188384559278.jpg?v=1755720449",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/women-22kt-gold-plated-brass-red-and-green-stone-studded-jewellery-set?variant=gid://shopify/ProductVariant/45214844879022",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45246595072174": {
     "product_title": "18KT Gold Plated Floral Brass Bangle Style Bracelet",
