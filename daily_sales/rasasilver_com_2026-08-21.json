@@ -178,5 +178,41 @@
     "curr_stock": 0,
     "url": "https://www.rasasilver.com/products/shobhamayur-kaan-karela-copy?variant=gid://shopify/ProductVariant/51397261558057",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0242_1.jpg?v=1762252159"
+  },
+  {
+    "timestamp_ist": "2026-08-21 17:27:11",
+    "product_title": "Emerald Swanora Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/51257378308393",
+    "sku": "R14063",
+    "price": 38900.0,
+    "variant_price": 38900.0,
+    "product_price": 38900.0,
+    "amount": 38900.0,
+    "total_price": 38900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.rasasilver.com/products/necklace-53?variant=gid://shopify/ProductVariant/51257378308393",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep280621.jpg?v=1758965209"
+  },
+  {
+    "timestamp_ist": "2026-08-21 17:27:11",
+    "product_title": "Ornella Mango Bangles",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/51274156474665",
+    "sku": "R14351",
+    "price": 35900.0,
+    "variant_price": 35900.0,
+    "product_price": 35900.0,
+    "amount": 35900.0,
+    "total_price": 35900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.rasasilver.com/products/bangles-10?variant=gid://shopify/ProductVariant/51274156474665",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS68.jpg?v=1759819469"
   }
 ]
