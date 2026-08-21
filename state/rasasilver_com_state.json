@@ -5472,7 +5472,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R4256.jpg?v=1751365009",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/amrapali-spark-short-necklace?variant=gid://shopify/ProductVariant/50400962216233",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50400990757161": {
@@ -15407,7 +15407,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep28152.jpg?v=1758960154",
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/13-2?variant=gid://shopify/ProductVariant/51226624000297",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51226624327977": {
@@ -16311,9 +16311,9 @@
     "amount": 38900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_58_Pics_22Sep280621.jpg?v=1758965209",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/necklace-53?variant=gid://shopify/ProductVariant/51257378308393",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51257608732969": {
@@ -55091,7 +55091,7 @@
     "amount": 3825.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0317copy_1.jpg?v=1771178187",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-ring-2?variant=gid://shopify/ProductVariant/52704079708457",
     "stock": -1
   },
@@ -57861,7 +57861,7 @@
     "amount": 23885.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5366_resized.jpg?v=1772538659",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pushpari-kundan-pendant?variant=gid://shopify/ProductVariant/52748119245097",
     "stock": -1
   },
