@@ -16043,7 +16043,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/CaptureOneCatalog3735copycopy.jpg?v=1690974261",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/millia-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40382293049410",
-    "stock": 9999
+    "stock": 12
   },
   "gid://shopify/ProductVariant/40382341480514": {
     "product_title": "Jalaja Floral Statement Cuff Necklace",
@@ -30056,6 +30056,23 @@
     "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
     "stock": 1,
     "last_alerted_stock": 0
+  },
+  "gid://shopify/ProductVariant/43652298965058": {
+    "product_title": "Auric Sleek Antique Chain",
+    "product_handle": "pdh0007xtc",
+    "variant_id": "gid://shopify/ProductVariant/43652298965058",
+    "global_id": "gid://shopify/ProductVariant/43652298965058",
+    "variant_title": "Default Title",
+    "sku": "PDH0007XTC",
+    "price": 19.99,
+    "variant_price": 19.99,
+    "product_price": 19.99,
+    "amount": 19.99,
+    "currency": "USD",
+    "image_url": null,
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/pdh0007xtc?variant=gid://shopify/ProductVariant/43652298965058",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/43652299522114": {
     "product_title": "Elira Dual Line Antique Chain",
