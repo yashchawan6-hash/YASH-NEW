@@ -1042,5 +1042,41 @@
     "curr_stock": 41,
     "url": "https://www.daivik.in/products/simple-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/40134303842457",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_9b82dd71-ab63-4caf-8192-86bc317a2f4d.jpg?v=1621521874"
+  },
+  {
+    "timestamp_ist": "2026-08-21 14:52:21",
+    "product_title": "Kemp bangles",
+    "variant_title": "2.4",
+    "variant_id": "gid://shopify/ProductVariant/40599688642713",
+    "sku": "782",
+    "price": 1599.0,
+    "variant_price": 1599.0,
+    "product_price": 1599.0,
+    "amount": 1599.0,
+    "total_price": 1599.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 8,
+    "curr_stock": 7,
+    "url": "https://www.daivik.in/products/kemp-bangles?variant=gid://shopify/ProductVariant/40599688642713",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_a1da812c-c8d8-4acf-b89f-9cd545f843c4.jpg?v=1626669706"
+  },
+  {
+    "timestamp_ist": "2026-08-21 14:52:21",
+    "product_title": "AD Kemp Studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41139977191577",
+    "sku": "866",
+    "price": 699.0,
+    "variant_price": 699.0,
+    "product_price": 699.0,
+    "amount": 699.0,
+    "total_price": 699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 13,
+    "curr_stock": 12,
+    "url": "https://www.daivik.in/products/ad-kemp-studs?variant=gid://shopify/ProductVariant/41139977191577",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3c05de13-4034-4f37-aadf-c735bb209236.jpg?v=1631804839"
   }
 ]
