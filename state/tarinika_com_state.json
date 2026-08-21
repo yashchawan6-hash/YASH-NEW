@@ -3179,10 +3179,10 @@
     "global_id": "gid://shopify/ProductVariant/14964320010306",
     "variant_title": "Default Title",
     "sku": "FNK0705XCC",
-    "price": 212.49,
-    "variant_price": 212.49,
-    "product_price": 212.49,
-    "amount": 212.49,
+    "price": 249.99,
+    "variant_price": 249.99,
+    "product_price": 249.99,
+    "amount": 249.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A1781_copy_copy_1312c620-1574-46b1-bc60-139a67ec410d.jpg?v=1762533661",
     "available_for_sale": true,
@@ -5906,7 +5906,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3667copycopy.jpg?v=1640780544",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/banvi-antique-bangles?variant=gid://shopify/ProductVariant/39274360242242",
-    "stock": 9999
+    "stock": 11
   },
   "gid://shopify/ProductVariant/39274360275010": {
     "product_title": "Banvi Antique Bangles",
@@ -5921,9 +5921,9 @@
     "amount": 74.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3667copycopy.jpg?v=1640780544",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/banvi-antique-bangles?variant=gid://shopify/ProductVariant/39274360275010",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40733609066562": {
     "product_title": "Banvi Antique Bangles",
@@ -8538,10 +8538,10 @@
     "global_id": "gid://shopify/ProductVariant/40733503946818",
     "variant_title": "Antique Gold Platting 2.4",
     "sku": "TBX0026XTC4",
-    "price": 39.99,
-    "variant_price": 39.99,
-    "product_price": 39.99,
-    "amount": 39.99,
+    "price": 49.99,
+    "variant_price": 49.99,
+    "product_price": 49.99,
+    "amount": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TBX0026X_1.jpg?v=1684152572",
     "available_for_sale": true,

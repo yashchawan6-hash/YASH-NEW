@@ -8440,7 +8440,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/coloured-baguette-clustered-cocktail-ring-attrangi-1.jpg?v=1739814443",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/coloured-baguette-clustered-cocktail-ring?variant=gid://shopify/ProductVariant/43600066576596",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44080506274004": {
@@ -9765,7 +9765,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/traditional-matte-gold-kada-s-or-indian-openable-bangle-attrangi-1.jpg?v=1739814880",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/fluorite-mint-traditional-matte-gold-kada-s-indian-openable-bangle?variant=gid://shopify/ProductVariant/43891102843092",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44507515093204": {
@@ -13017,7 +13017,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/nasim-big-oversized-jadaau-jhumka-with-kannauti-attrangi-2.jpg?v=1770889507",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nasim-big-oversized-jadaau-jhumka-with-kannauti?variant=gid://shopify/ProductVariant/47545585041620",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47545617416404": {
@@ -13033,10 +13033,10 @@
     "amount": 6450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-02-12_at_3.06.23_PM.jpg?v=1770889507",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/nasim-big-oversized-jadaau-jhumka-with-kannauti?variant=gid://shopify/ProductVariant/47545617416404",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45474030715092": {
     "product_title": "Kunti Gold Polki Necklace Set | Sone Pe Suhaga",
@@ -53783,7 +53783,7 @@
     "amount": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-10at12.10.56AM_897ae764-bddd-4d1a-899b-14c0d7667a33.jpg?v=1784017733",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lisa-round-solitaire-diamond-pear-drop-earrings?variant=gid://shopify/ProductVariant/48285712744660",
     "stock": 1,
     "last_alerted_stock": 1
