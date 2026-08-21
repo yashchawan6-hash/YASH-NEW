@@ -8745,9 +8745,9 @@
     "amount": 18300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_22.jpg?v=1754910631",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rupali-cz-bangle?variant=gid://shopify/ProductVariant/52273353195817",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50839397007657": {
@@ -15317,9 +15317,10 @@
     "amount": 19900.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS255.jpg?v=1759993721",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/s9?variant=gid://shopify/ProductVariant/51226601652521",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51226608861481": {
     "product_title": "Leafcrest Emerald Danglers",
