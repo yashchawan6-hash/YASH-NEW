@@ -2037,9 +2037,9 @@
     "amount": 4999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7ae5c79e-4775-4dd9-b08e-9b385c9dec05.jpg?v=1614696780",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/semi-bridal-combo-3?variant=gid://shopify/ProductVariant/39341422117017",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/39361900904601": {
     "product_title": "Zirconium stone beads choker with earrings",
@@ -24585,9 +24585,9 @@
     "amount": 2799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_7c06fd76-abef-457a-897b-363d1a19d5d6.jpg?v=1726841699",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-flower-pearl-combo?variant=gid://shopify/ProductVariant/45903847719134",
-    "stock": 0,
+    "stock": 5,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45903852241118": {
