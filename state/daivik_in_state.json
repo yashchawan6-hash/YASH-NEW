@@ -10010,9 +10010,9 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_53420f7a-2acc-41f8-89b3-e97b3002fb4c.heic?v=1666190684",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-327?variant=gid://shopify/ProductVariant/43546226196702",
-    "stock": 0,
+    "stock": 56,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43546238583006": {
@@ -21671,9 +21671,9 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FE914FE7-C858-449F-842B-F29124E5954E.jpg?v=1715608816",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-rubygreen-jhumkas-with-attached-mattel-s?variant=gid://shopify/ProductVariant/45363709771998",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45367734436062": {
@@ -49568,7 +49568,7 @@
     "amount": 3599.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C263EF27-F38A-4C5B-8B40-09E9FD67CAA1.jpg?v=1767458681",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/antique-lakshmi-pearl-hanging-necklace-with-balis?variant=gid://shopify/ProductVariant/47797500575966",
     "stock": 4,
     "last_alerted_stock": 4

@@ -16745,7 +16745,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-ruby-emerald-studded-temple-necklace-set-with-pearl-beaded-drops-necklace-set-37559085007022.jpg?v=1755716713",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-emerald-studded-temple-necklace-set-with-pearl-beaded-drops?variant=gid://shopify/ProductVariant/45914953842862",
-    "stock": 14
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/45914954465454": {
     "product_title": "Ruby Pink Studded Golden Necklace Set",
@@ -16986,7 +16987,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-aqua-green-ad-white-cubic-zirconia-studded-jewellery-set-with-pearl-drops-jewellery-sets-37535794430126.jpg?v=1773821091",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-emerald-green-white-kundan-studded-pearl-gold-beaded-necklace-set-copy-1?variant=gid://shopify/ProductVariant/45923066282158",
-    "stock": 15,
+    "stock": 16,
     "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/45923105341614": {
@@ -65553,7 +65554,7 @@
     "amount": 693.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10MS411067-MODEL-1.jpg?v=1768640975",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re10ms411067?variant=gid://shopify/ProductVariant/47290234044590",
     "stock": 1
   },
