@@ -68,8 +68,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ec716232-9924-41f1-819a-8bc18601c00b.jpg?v=1599550627",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/45?variant=gid://shopify/ProductVariant/32600770707515",
-    "stock": 20,
-    "last_alerted_stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/32600788041787": {
     "product_title": "Two(2) Line AD Star Necklace with Earrings",
@@ -1254,9 +1254,9 @@
     "amount": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/small-tribal-bali-jhumka-earrings-745.jpg?v=1601913641",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/small-tribal-bali-jhumka?variant=gid://shopify/ProductVariant/36547713302681",
-    "stock": 0,
+    "stock": 6,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/36578934849689": {
@@ -3137,8 +3137,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1eecba09-fcd4-4213-8e6f-4fc0be7b593a.jpg?v=1629554787",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/peacock-kemp-earcuffs?variant=gid://shopify/ProductVariant/40886249291929",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40886406709401": {
     "product_title": "Simple kemp studs",
@@ -4111,10 +4111,10 @@
     "amount": 1899.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_a0b56c97-95e6-451e-9173-66e432c9241c.jpg?v=1636383529",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/combo-of-2-pairs-of-hot-sellers?variant=gid://shopify/ProductVariant/42024287961310",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44212596441310": {
     "product_title": "2 Layered Necklace with earrings",
@@ -22137,7 +22137,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FED4387D-66CA-4B9C-BFD1-0AEA808D84AF.jpg?v=1717565089",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kemp-earrings-and-mattals-combo?variant=gid://shopify/ProductVariant/45493469806814",
-    "stock": 2
+    "stock": 6
   },
   "gid://shopify/ProductVariant/45501364699358": {
     "product_title": "Victorian AD Flower Pattern Necklace with Earrings",
