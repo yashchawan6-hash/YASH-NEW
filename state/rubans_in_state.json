@@ -10047,10 +10047,10 @@
     "amount": 1041.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/22kt-gold-plated-cubic-zirconia-stone-studded-floral-pendent-set-pendent-set-36336958734510.jpg?v=1755720341",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/22kt-gold-plated-cubic-zirconia-stone-studded-floral-pendent-jewellery-set?variant=gid://shopify/ProductVariant/45315717922990",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45315717988526": {
     "product_title": "Royal Kundan Choker Necklace Set",
