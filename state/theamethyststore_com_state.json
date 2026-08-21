@@ -1257,9 +1257,10 @@
     "amount": 208666.16,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/29_dab0fefb-e510-47a1-832e-13e3ab03fc4f.jpg?v=1640437300",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kuhoo-oddiyanam?variant=gid://shopify/ProductVariant/39765199224982",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39770129596566": {
     "product_title": "Anivika Guttapusalu Necklace",
@@ -13709,8 +13710,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
-    "stock": 27,
-    "last_alerted_stock": 27
+    "stock": 25,
+    "last_alerted_stock": 25
   },
   "gid://shopify/ProductVariant/43971136225507": {
     "product_title": "Pragin Jhumkhas",
@@ -20531,9 +20532,10 @@
     "amount": 11167.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0545.jpg?v=1715867913",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/arina-floral-ring?variant=gid://shopify/ProductVariant/44979905462499",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44985306185955": {
     "product_title": "Jivika Bracelet",
@@ -28414,7 +28416,7 @@
     "amount": 59300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-7207_d90b75ef-d9ff-467e-9c30-16d8f8d635f0.jpg?v=1783078477",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/glorious-diamond-design-necklace-set?variant=gid://shopify/ProductVariant/45522373509347",
     "stock": 1
   },
@@ -100527,7 +100529,7 @@
     "amount": 26660.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11032.jpg?v=1761806754",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/timeless-nagas-nakshi-earrings?variant=gid://shopify/ProductVariant/47421749887203",
     "stock": 1
   },
@@ -124822,7 +124824,7 @@
     "amount": 107272.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13946.jpg?v=1768828045",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/grandeur-nagas-short-necklace-1?variant=gid://shopify/ProductVariant/47852462735587",
     "stock": 1
   },
