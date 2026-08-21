@@ -1718,7 +1718,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLE0054X.jpg?v=1774430623",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/sauparna-enamel-jadau-silver-stud-earrings?variant=gid://shopify/ProductVariant/40895206129816",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895215894680": {
     "product_title": "Sheva Jadau Silver Chandbali Earrings",
@@ -1735,7 +1735,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLE0063X.jpg?v=1774430534",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/sheva-jadau-silver-chandbali-earrings?variant=gid://shopify/ProductVariant/40895215894680",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895345262744": {
     "product_title": "Mahisi Jadau Silver Choker",
@@ -1752,7 +1752,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0019X.jpg?v=1774430382",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/mahisi-jadau-silver-choker?variant=gid://shopify/ProductVariant/40895345262744",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895355814040": {
     "product_title": "Svarupa Jadau Silver Pendant Necklace",
@@ -1769,7 +1769,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0035X.jpg?v=1774430201",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/svarupa-jadau-silver-pendant-necklace?variant=gid://shopify/ProductVariant/40895355814040",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895368331416": {
     "product_title": "Maruka Mayur Silver Pendant Necklace",
@@ -1786,7 +1786,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0041X.jpg?v=1774430082",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/maruka-mayur-silver-pendant-necklace?variant=gid://shopify/ProductVariant/40895368331416",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40895379701912": {
     "product_title": "Maugdha Enamel Jadau Silver Pendant Necklace",
@@ -1803,7 +1804,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0054X.jpg?v=1774429994",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/maugdha-enamel-jadau-silver-pendant-necklace?variant=gid://shopify/ProductVariant/40895379701912",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895423643800": {
     "product_title": "Neeyati Silver Maangtika",
@@ -1820,7 +1821,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLT0005X.jpg?v=1774429901",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/neeyati-silver-maangtika?variant=gid://shopify/ProductVariant/40895423643800",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895478038680": {
     "product_title": "Vihasta Jadau Silver Maangtika",
@@ -1837,7 +1838,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLT0007X.jpg?v=1774435961",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/vihasta-jadau-silver-maangtika?variant=gid://shopify/ProductVariant/40895478038680",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895499436184": {
     "product_title": "Fulia Jadau Silver Earrings",
@@ -1854,7 +1855,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4890copycopy.jpg?v=1774435873",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/fulia-jadau-silver-earrings?variant=gid://shopify/ProductVariant/40895499436184",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895516213400": {
     "product_title": "Phullati Jadau Silver Stud Earrings",
@@ -1871,7 +1872,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLE0035X.jpg?v=1774435693",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/phullati-jadau-silver-stud-earrings?variant=gid://shopify/ProductVariant/40895516213400",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895529025688": {
     "product_title": "Maruka Mayur Silver Earrings",
@@ -1888,7 +1889,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLE0036X.jpg?v=1774435660",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/maruka-mayur-silver-earrings?variant=gid://shopify/ProductVariant/40895529025688",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895542493336": {
     "product_title": "Kijjala Jadau Silver Earrings",
@@ -1905,7 +1906,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLE0039X.jpg?v=1774435483",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/kijjala-jadau-silver-earrings?variant=gid://shopify/ProductVariant/40895542493336",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895553011864": {
     "product_title": "Kalapi Jadau Silver Earrings",
@@ -1922,7 +1923,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLE0044X.jpg?v=1774435543",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/kalapi-jadau-silver-earrings?variant=gid://shopify/ProductVariant/40895553011864",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895563890840": {
     "product_title": "Striva Kempu Pearl Silver Earrings",
@@ -1939,7 +1940,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4885copycopy.jpg?v=1774435394",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/striva-kempu-pearl-silver-earrings?variant=gid://shopify/ProductVariant/40895563890840",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895583781016": {
     "product_title": "Barkha Kempu Silver Earrings",
@@ -1956,7 +1957,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4878copycopy.jpg?v=1774435302",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/barkha-kempu-silver-earrings?variant=gid://shopify/ProductVariant/40895583781016",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895597478040": {
     "product_title": "Nakshatra Jadau Silver Stud Earrings",
@@ -1973,7 +1974,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLE0050X.jpg?v=1774435213",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/nakshatra-jadau-silver-stud-earrings?variant=gid://shopify/ProductVariant/40895597478040",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895607570584": {
     "product_title": "Jalika Chandbali Silver Earrings",
@@ -1990,7 +1991,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL8760copycopy.jpg?v=1774435122",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/jalika-chandbali-silver-earrings?variant=gid://shopify/ProductVariant/40895607570584",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895622447256": {
     "product_title": "Nipuna Jadau Silver Chaandbali Earrings",
@@ -2007,7 +2008,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL8715copycopy.jpg?v=1774435001",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/nipuna-jadau-silver-chaandbali-earrings?variant=gid://shopify/ProductVariant/40895622447256",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895644434584": {
     "product_title": "Satkriti Silver Chaandbali Earrings",
@@ -2024,7 +2025,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL8726copycopy.jpg?v=1774434822",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/satkriti-silver-chaandbali-earrings?variant=gid://shopify/ProductVariant/40895644434584",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895819415704": {
     "product_title": "Samvadita Contemporary Kempu Silver Necklace",
@@ -2041,7 +2042,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0001X.jpg?v=1774436475",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/samvadita-contemporary-kempu-silver-necklace?variant=gid://shopify/ProductVariant/40895819415704",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895915688088": {
     "product_title": "Maitreyi Kempu Silver Bridal Choker",
@@ -2058,7 +2059,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL8655copycopy.jpg?v=1774436594",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/maitreyi-kempu-silver-bridal-choker?variant=gid://shopify/ProductVariant/40895915688088",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895926141080": {
     "product_title": "Udyana Silver Necklace Gold Plated",
@@ -2075,7 +2076,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0026X.jpg?v=1774436293",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/udyana-silver-necklace-gold-plated?variant=gid://shopify/ProductVariant/40895926141080",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895931121816": {
     "product_title": "Zahra Jadau Silver Pendant Necklace",
@@ -2092,7 +2093,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0032X.jpg?v=1774436141",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/zahra-jadau-silver-pendant-necklace?variant=gid://shopify/ProductVariant/40895931121816",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895942590616": {
     "product_title": "Nargis Jadau Silver Bridal Choker Necklace",
@@ -2109,7 +2110,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0038X.jpg?v=1774436055",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/nargis-jadau-silver-bridal-choker-necklace?variant=gid://shopify/ProductVariant/40895942590616",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895948423320": {
     "product_title": "Rohita Gold Plated Pendant Necklace",
@@ -2126,7 +2127,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLN0049X.jpg?v=1774436353",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/rohita-gold-plated-pendant-necklace?variant=gid://shopify/ProductVariant/40895948423320",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895971164312": {
     "product_title": "Mehtab Kempu Jadau Silver Maangtika",
@@ -2143,7 +2144,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLT0003X.jpg?v=1774425014",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/mehtab-kempu-jadau-silver-maangtika?variant=gid://shopify/ProductVariant/40895971164312",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895980208280": {
     "product_title": "Mayur Kempu Jadau Silver Maangtika",
@@ -2160,7 +2161,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLT0004X_cc22c5d1-1ad3-4463-8fe5-ff52c6142844.jpg?v=1636806284",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/mayur-kempu-jadau-silver-maangtika?variant=gid://shopify/ProductVariant/40895980208280",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/40895990464664": {
     "product_title": "Nala Jadau Silver Maangtika",
@@ -2177,7 +2178,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/PLT0006X.jpg?v=1774424774",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/nala-jadau-silver-maangtika?variant=gid://shopify/ProductVariant/40895990464664",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107899416728": {
     "product_title": "Duhita Jadau Silver Bangle",
@@ -2194,7 +2195,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4956copy2copy.jpg?v=1774424535",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/duhita-jadau-silver-bangle?variant=gid://shopify/ProductVariant/41107899416728",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/43002883440876": {
     "product_title": "Rasika Blossoming Floral CZ Silver Bangle",
@@ -2211,7 +2212,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/SR1743copycopy.jpg?v=1774424262",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/rasika-blossoming-floral-cz-silver-bangle?variant=gid://shopify/ProductVariant/43002883440876",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/43002883473644": {
     "product_title": "Rasika Blossoming Floral CZ Silver Bangle",
@@ -2228,7 +2229,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4976copycopy.jpg?v=1774424414",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/rasika-blossoming-floral-cz-silver-bangle?variant=gid://shopify/ProductVariant/43002883473644",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107901874328": {
     "product_title": "Mohini Polki Silver Bangle",
@@ -2245,7 +2246,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4961copy2copy.jpg?v=1774424233",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/mohini-polki-silver-bangle?variant=gid://shopify/ProductVariant/41107901874328",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107931824280": {
     "product_title": "Indu Polki Silver Bangle",
@@ -2262,7 +2263,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4974copycopy.jpg?v=1774424081",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/indu-polki-silver-bangle?variant=gid://shopify/ProductVariant/41107931824280",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107934118040": {
     "product_title": "Padhma Classic Heirloom Silver Bangle",
@@ -2279,7 +2280,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4967copy2copy.jpg?v=1637186224",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/padhma-classic-heirloom-silver-bangle?variant=gid://shopify/ProductVariant/41107934118040",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107982123160": {
     "product_title": "Elin CZ Silver Choker Necklace",
@@ -2296,7 +2297,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4747copycopy.jpg?v=1774423858",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/elin-cz-silver-choker-necklace?variant=gid://shopify/ProductVariant/41107982123160",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107982483608": {
     "product_title": "Adela Grand CZ Silver Choker",
@@ -2313,7 +2314,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4735copycopy.jpg?v=1774423755",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/adela-grand-cz-silver-choker?variant=gid://shopify/ProductVariant/41107982483608",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107985236120": {
     "product_title": "Rasika Grand Silver CZ Choker",
@@ -2330,7 +2331,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4738copycopy.jpg?v=1774423634",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/rasika-grand-silver-cz-choker?variant=gid://shopify/ProductVariant/41107985236120",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41107991003288": {
     "product_title": "Rasika Grandeur Moissanite Silver Choker",
@@ -2347,7 +2348,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4732copycopy.jpg?v=1637185413",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/rasika-grandeur-moissanite-silver-choker?variant=gid://shopify/ProductVariant/41107991003288",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108030750872": {
     "product_title": "Nivriti Moissanite Silver Choker",
@@ -2364,7 +2365,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4731copycopy.jpg?v=1774423423",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/nivriti-moissanite-silver-choker?variant=gid://shopify/ProductVariant/41108030750872",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108033011864": {
     "product_title": "Sarika Jadau Polki Silver Earrings",
@@ -2381,7 +2382,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4917copycopy.jpg?v=1774423333",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/sarika-jadau-polki-silver-earrings?variant=gid://shopify/ProductVariant/41108033011864",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108036812952": {
     "product_title": "Rasika Dazzling Silver CZ Earrings",
@@ -2398,7 +2399,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4906copycopy.jpg?v=1774423243",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/rasika-dazzling-silver-cz-earrings?variant=gid://shopify/ProductVariant/41108036812952",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108042252440": {
     "product_title": "Padhma Signature Silver Earrings",
@@ -2415,7 +2416,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4903copycopy.jpg?v=1774423154",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/padhma-signature-silver-earrings?variant=gid://shopify/ProductVariant/41108042252440",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108043530392": {
     "product_title": "Saira Moissanite Nakshi Jhumki Earrings",
@@ -2432,7 +2433,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4923copycopy.jpg?v=1774423033",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/saira-moissanite-nakshi-jhumki-earrings?variant=gid://shopify/ProductVariant/41108043530392",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108046839960": {
     "product_title": "Bharavi Three Layered CZ Silver Necklace",
@@ -2449,7 +2450,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4730copycopy.jpg?v=1774422882",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/bharavi-three-layered-cz-silver-necklace?variant=gid://shopify/ProductVariant/41108046839960",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108052607128": {
     "product_title": "Anjasi Polki Silver Ranihaar Necklace",
@@ -2466,7 +2467,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4900copycopy.jpg?v=1774422793",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/anjasi-polki-silver-ranihaar-necklace?variant=gid://shopify/ProductVariant/41108052607128",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108057260184": {
     "product_title": "Delicate Pearl Silver Strand",
@@ -2483,7 +2484,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4752copycopy.jpg?v=1774422673",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/delicate-pearl-silver-strand?variant=gid://shopify/ProductVariant/41108057260184",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108059553944": {
     "product_title": "Himani Grand Jadau Necklace",
@@ -2500,7 +2501,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4899copycopy.jpg?v=1774422553",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/himani-grand-jadau-necklace?variant=gid://shopify/ProductVariant/41108059553944",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108060143768": {
     "product_title": "Nipuna CZ Statement Silver Necklace Set",
@@ -2517,7 +2518,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/files/2NX0024XW2.jpg?v=1768373118",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/nipuna-cz-statement-silver-necklace-set?variant=gid://shopify/ProductVariant/41108060143768",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108088225944": {
     "product_title": "Malar Navaratna Silver Ring",
@@ -2534,7 +2535,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4941copycopy.jpg?v=1774422314",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/malar-navaratna-silver-ring?variant=gid://shopify/ProductVariant/41108088225944",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108089274520": {
     "product_title": "Millenia CZ Silver Ring",
@@ -2551,7 +2552,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0558/3509/9288/products/IMGL4947copycopy.jpg?v=1774422220",
     "available_for_sale": true,
     "url": "https://www.paksha.com/products/millenia-cz-silver-ring?variant=gid://shopify/ProductVariant/41108089274520",
-    "stock": 9999
+    "stock": 0
   },
   "gid://shopify/ProductVariant/41108090945688": {
     "product_title": "Atreyi Jadau Silver Finger Ring",
