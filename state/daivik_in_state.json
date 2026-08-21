@@ -2730,9 +2730,9 @@
     "amount": 2899.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_cd07e6f1-9e8f-4c5b-9ca2-d9d18620bb09.jpg?v=1624115583",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-flower-anklets?variant=gid://shopify/ProductVariant/40371317997721",
-    "stock": 0
+    "stock": 3
   },
   "gid://shopify/ProductVariant/40392151400601": {
     "product_title": "Kemp Bridal Mattals",
@@ -3556,7 +3556,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_294f3be9-2678-4322-97ee-9c0360ac148d.jpg?v=1632147707",
     "available_for_sale": false,
     "url": "https://www.daivik.in/products/simple-ghungroo-anklets-in-2-variants?variant=gid://shopify/ProductVariant/41169523638425",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/41210956284057": {
     "product_title": "Light weight Kemp Balis",
@@ -13495,9 +13495,9 @@
     "amount": 899.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_7892307f-fe93-4db6-9fb1-8d4e414ddd6a.heic?v=1687604759",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-120?variant=gid://shopify/ProductVariant/44243143786718",
-    "stock": 0,
+    "stock": 25,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44243266994398": {
@@ -15279,9 +15279,9 @@
     "amount": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DEE2914A-8A94-4C23-94AB-D692BD547557.jpg?v=1693928121",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/untitled-sep5_21-04?variant=gid://shopify/ProductVariant/44335981199582",
-    "stock": 0
+    "stock": 30
   },
   "gid://shopify/ProductVariant/44337321148638": {
     "product_title": "AD changeable necklace with changeable earrings",
@@ -16993,9 +16993,9 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0A336DBE-4A40-489B-B454-B8A29AA08C8D.jpg?v=1697212556",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-gold-finish-anklets?variant=gid://shopify/ProductVariant/44406505308382",
-    "stock": 0
+    "stock": 7
   },
   "gid://shopify/ProductVariant/44408679039198": {
     "product_title": "AD Diamond look alike Necklace and Earrings In 2 colors (Prices for each)",
@@ -17821,9 +17821,9 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B891EFDC-50F9-4619-9358-6EE1CB63364E.heic?v=1700581000",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/anklets?variant=gid://shopify/ProductVariant/44538347684062",
-    "stock": 0
+    "stock": 7
   },
   "gid://shopify/ProductVariant/44538347716830": {
     "product_title": "Simple AD Stones Anklets in 2 Colors (Price for Each Pair)",
@@ -17840,7 +17840,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B891EFDC-50F9-4619-9358-6EE1CB63364E.heic?v=1700581000",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/anklets?variant=gid://shopify/ProductVariant/44538347716830",
-    "stock": 1,
+    "stock": 17,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44544110330078": {
@@ -30497,7 +30497,7 @@
     "amount": 499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/129BD151-AFAD-4AC4-A66C-66BC6FD1559C.jpg?v=1735653418",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-gold-finish-anklets-1?variant=gid://shopify/ProductVariant/46188375965918",
     "stock": 0
   },
