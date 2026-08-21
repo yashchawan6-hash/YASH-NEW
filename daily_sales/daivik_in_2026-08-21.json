@@ -1384,5 +1384,41 @@
     "curr_stock": 31,
     "url": "https://www.daivik.in/products/multicolour-pearl-chain?variant=gid://shopify/ProductVariant/44195427713246",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_ee2b36b9-e729-480d-81bf-bf88b3f0d671.heic?v=1684498714"
+  },
+  {
+    "timestamp_ist": "2026-08-21 20:27:08",
+    "product_title": "AD Star Balis",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41410536079513",
+    "sku": "921",
+    "price": 1199.0,
+    "variant_price": 1199.0,
+    "product_price": 1199.0,
+    "amount": 1199.0,
+    "total_price": 1199.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 55,
+    "curr_stock": 54,
+    "url": "https://www.daivik.in/products/ad-star-balis?variant=gid://shopify/ProductVariant/41410536079513",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_5f42795d-5631-4d3f-9714-d331e7d47ca2.jpg?v=1635167209"
+  },
+  {
+    "timestamp_ist": "2026-08-21 20:27:08",
+    "product_title": "White stone bangles (4 bangles)",
+    "variant_title": "2.4",
+    "variant_id": "gid://shopify/ProductVariant/42060601163998",
+    "sku": "951",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 41,
+    "curr_stock": 40,
+    "url": "https://www.daivik.in/products/white-stone-bangles-4-bangles?variant=gid://shopify/ProductVariant/42060601163998",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_2a6687dc-c1be-4dfd-9d83-e59b62d8f05f.jpg?v=1636992035"
   }
 ]
