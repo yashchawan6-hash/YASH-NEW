@@ -324,8 +324,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/b35a36eb-2a04-41bc-a87d-573ccf59597f1600022504465RubansOxidisedSilverPlatedFauxRubyFloralNecklaceSet6.jpg?v=1765287388",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-oxidised-silver-plated-embellished-with-faux-ruby-floral-necklace-set?variant=gid://shopify/ProductVariant/43043865985198",
-    "stock": 20,
-    "last_alerted_stock": 19
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/43043856711854": {
     "product_title": "Premium Radiance American Diamond Zirconia Drop Earrings",
@@ -428,7 +428,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13MT270055-model.jpg?v=1765280134",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-zircon-stone-studded-statement-mangtika-1?variant=gid://shopify/ProductVariant/43043855073454",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43043855007918": {
@@ -444,10 +444,10 @@
     "amount": 813.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13R270174Model02.jpg?v=1786010762",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-gold-plated-zircon-stone-studded-eligant-adjustable-finger-ring?variant=gid://shopify/ProductVariant/43043855007918",
-    "stock": 20,
-    "last_alerted_stock": 6
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43043853926574": {
     "product_title": "Rubans Gold Plated Hand Crafted Eligant Mutlti -Strand Temple Necklace Set",
