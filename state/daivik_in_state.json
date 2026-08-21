@@ -1709,7 +1709,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_93adf55e-51ba-4f64-9ca2-fcade8ca86a5.jpg?v=1610893048",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/lakshmi-nagasi-teeka?variant=gid://shopify/ProductVariant/37826167636121",
-    "stock": 10,
+    "stock": 15,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/43923929923806": {
@@ -5067,8 +5067,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c920ba8f-3819-41cb-8d62-09fae78769ef.jpg?v=1642085779",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/pure-kemp-brass-teeka?variant=gid://shopify/ProductVariant/42338491891934",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/42348479578334": {
     "product_title": "Party wear Necklaces in 4 styles with earrings",
@@ -15092,9 +15092,10 @@
     "amount": 1799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F4824BE1-2D28-4A73-BC66-EA6A3388D5E4.jpg?v=1692979507",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/untitled-aug25_21-31?variant=gid://shopify/ProductVariant/44324336337118",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44325395202270": {
     "product_title": "Pearl Chain with earrings",
@@ -30549,7 +30550,7 @@
     "amount": 3799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C7FA953A-D7D0-4DE6-BA69-E275D8899DBE.jpg?v=1735918386",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/antique-cage-hair-bun?variant=gid://shopify/ProductVariant/46193503568094",
     "stock": 4
   },
@@ -39078,7 +39079,7 @@
     "amount": 499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_a8c48825-b0b1-4f94-9968-81cb4ce52c69.jpg?v=1755326733",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/designer-ad-hairpin?variant=gid://shopify/ProductVariant/47451036713182",
     "stock": 4
   },
@@ -39112,7 +39113,7 @@
     "amount": 499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_a8c48825-b0b1-4f94-9968-81cb4ce52c69.jpg?v=1755326733",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/designer-ad-hairpin?variant=gid://shopify/ProductVariant/47451036778718",
     "stock": 1,
     "last_alerted_stock": 1
@@ -55664,7 +55665,7 @@
     "amount": 1699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0207.jpg?v=1779276471",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/heritage-watch-bracelet-10?variant=gid://shopify/ProductVariant/48266768056542",
     "stock": -1
   },
