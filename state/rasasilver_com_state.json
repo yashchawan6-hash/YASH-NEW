@@ -5468,9 +5468,9 @@
     "amount": 35200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R4256.jpg?v=1751365009",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/amrapali-spark-short-necklace?variant=gid://shopify/ProductVariant/50400962216233",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50400990757161": {
@@ -20974,10 +20974,10 @@
     "amount": 36000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0238_1.jpg?v=1762252159",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shobhamayur-kaan-karela-copy?variant=gid://shopify/ProductVariant/51397261525289",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51397261558057": {
     "product_title": "Nimai Stone Kaan Karela",
@@ -45405,7 +45405,7 @@
     "amount": 19805.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_14_Jan0966_resized.jpg?v=1768980530",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rajmika-nakshi-bangles-copy?variant=gid://shopify/ProductVariant/52455918797097",
     "stock": 1
   },
@@ -55082,7 +55082,7 @@
     "amount": 3825.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0317copy_1.jpg?v=1771178187",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kundan-ring-2?variant=gid://shopify/ProductVariant/52704079708457",
     "stock": -1
   },
@@ -55099,7 +55099,7 @@
     "amount": 3400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0290copy.jpg?v=1771088706",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/hariyali-phool-kundan-ring?variant=gid://shopify/ProductVariant/52681013526825",
     "stock": 1
   },
@@ -55116,7 +55116,7 @@
     "amount": 3825.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0294copy_1.jpg?v=1771163423",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/kundan-ring-3?variant=gid://shopify/ProductVariant/52681019425065",
     "stock": 1
   },
