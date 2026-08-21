@@ -350,10 +350,10 @@
     "amount": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/cluster-of-marquise-with-pearl-drop-attrangi-1.jpg?v=1739812501",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/cluster-of-marquise-with-pearl-drop?variant=gid://shopify/ProductVariant/40411662319785",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411662516393": {
     "product_title": "Pearl Drop Floral Diamond Studs",
