@@ -119,9 +119,9 @@
     "amount": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/small-round-solitaires-halo-attrangi-4.jpg?v=1739812458",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/small-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659337897",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411659370665": {
@@ -12981,8 +12981,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/nasim-big-oversized-jadaau-jhumka-with-kannauti-attrangi-2.jpg?v=1770889507",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nasim-big-oversized-jadaau-jhumka-with-kannauti?variant=gid://shopify/ProductVariant/47545585041620",
-    "stock": 3,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47545617416404": {
     "product_title": "Nasim Big Oversized Jadaau Jhumka with Kannauti",
@@ -14844,7 +14844,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_6.02.55_PM.jpg?v=1750781743",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/samudra-fluorite-and-polki-necklace-set?variant=gid://shopify/ProductVariant/45766034260180",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44694536716500": {
@@ -18466,7 +18466,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-10-15_at_9.41.48_PM.jpg?v=1750782602",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/tota-pari-gold-contemporary-maangtika?variant=gid://shopify/ProductVariant/45629683957972",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45629736911060": {
     "product_title": "Popping Morni Indian Ring | Sone pe Suhaga collection",
@@ -55170,7 +55171,7 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at7.09.34PM_2.jpg?v=1784356271",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bhakti-polki-red-green-mid-sized-clip-hair-accessory?variant=gid://shopify/ProductVariant/48323598123220",
     "stock": 1,
     "last_alerted_stock": 1
