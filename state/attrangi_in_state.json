@@ -7647,9 +7647,9 @@
     "amount": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-subtle-rainbow-ring-attrangi-2.jpg?v=1739814216",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/classic-subtle-rainbow-ring?variant=gid://shopify/ProductVariant/43759109931220",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43434079748308": {
@@ -7685,7 +7685,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-subtle-rainbow-ring-attrangi-2.jpg?v=1739814216",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/classic-subtle-rainbow-ring?variant=gid://shopify/ProductVariant/43759109963988",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43434079781076": {
@@ -48090,7 +48090,7 @@
     "amount": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at5.54.50PM.jpg?v=1774606193",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/princess-play-diamond-overlay-cocktail-band-ring?variant=gid://shopify/ProductVariant/47727307391188",
     "stock": 0,
     "last_alerted_stock": 0
