@@ -5468,9 +5468,9 @@
     "amount": 35200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R4256.jpg?v=1751365009",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/amrapali-spark-short-necklace?variant=gid://shopify/ProductVariant/50400962216233",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50400990757161": {
@@ -55082,7 +55082,7 @@
     "amount": 3825.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0317copy_1.jpg?v=1771178187",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-ring-2?variant=gid://shopify/ProductVariant/52704079708457",
     "stock": -1
   },
