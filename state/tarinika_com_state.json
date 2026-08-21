@@ -30022,6 +30022,41 @@
     "url": "https://www.tarinika.com/products/siya-antique-maang-tikka?variant=gid://shopify/ProductVariant/43652296179778",
     "stock": 9999
   },
+  "gid://shopify/ProductVariant/43652296507458": {
+    "product_title": "Dhira Delicate Antique Necklace",
+    "product_handle": "dhira-delicate-antique-necklace",
+    "variant_id": "gid://shopify/ProductVariant/43652296507458",
+    "global_id": "gid://shopify/ProductVariant/43652296507458",
+    "variant_title": "Default Title",
+    "sku": "MALA0031XTC",
+    "price": 24.99,
+    "variant_price": 24.99,
+    "product_price": 24.99,
+    "amount": 24.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0031X.jpg?v=1779964543",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/dhira-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296507458",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/43652296769602": {
+    "product_title": "Suhani Delicate Antique Necklace",
+    "product_handle": "suhani-delicate-antique-necklace",
+    "variant_id": "gid://shopify/ProductVariant/43652296769602",
+    "global_id": "gid://shopify/ProductVariant/43652296769602",
+    "variant_title": "Default Title",
+    "sku": "MALA0007XTC",
+    "price": 39.99,
+    "variant_price": 39.99,
+    "product_price": 39.99,
+    "amount": 39.99,
+    "currency": "USD",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0007X.jpg?v=1779964134",
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
+    "stock": 1,
+    "last_alerted_stock": 0
+  },
   "gid://shopify/ProductVariant/43652299522114": {
     "product_title": "Elira Dual Line Antique Chain",
     "product_handle": "elira-dual-line-antique-chain",
@@ -31606,21 +31641,6 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/petal-cz-stud-earrings?variant=gid://shopify/ProductVariant/40726129606722",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/43652296769602": {
-    "product_title": "Suhani Delicate Antique Necklace",
-    "product_handle": "suhani-delicate-antique-necklace",
-    "variant_id": "gid://shopify/ProductVariant/43652296769602",
-    "global_id": "gid://shopify/ProductVariant/43652296769602",
-    "variant_title": "Default Title",
-    "sku": "MALA0007XTC",
-    "price": 39.99,
-    "currency": "USD",
-    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/MXX0007X.jpg?v=1779964134",
-    "available_for_sale": false,
-    "url": "https://www.tarinika.com/products/suhani-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296769602",
-    "stock": 1,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40285698654274": {
     "product_title": "Ketak Antique Choker Set",
