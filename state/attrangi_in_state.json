@@ -103,7 +103,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/43535590293716",
-    "stock": 3,
+    "stock": 13,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40411659337897": {
@@ -1048,7 +1048,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rose-shaped-studs-attrangi-2.jpg?v=1774100972",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/earrings-diamond-studs?variant=gid://shopify/ProductVariant/40411676082345",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411676967081": {
@@ -4278,10 +4278,10 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/dingli-dainty-choker-set-attrangi-1.jpg?v=1739813326",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/dingli-dainty-choker-set?variant=gid://shopify/ProductVariant/41031358742697",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41031358775465": {
     "product_title": "Dingli Dainty Choker Set",
@@ -32915,24 +32915,6 @@
     "url": "https://www.attrangi.in/products/durga-2-layer-moissanite-cuff-jhumki?variant=gid://shopify/ProductVariant/46778851262676",
     "stock": 2,
     "last_alerted_stock": 2
-  },
-  "gid://shopify/ProductVariant/46789300125908": {
-    "product_title": "Lopamudra Long Gold Traditional Set | Sone Pe Suhaga",
-    "product_handle": "lopamudra-long-gold-traditional-set-sone-pe-suhaga",
-    "variant_id": "gid://shopify/ProductVariant/46789300125908",
-    "global_id": "gid://shopify/ProductVariant/46789300125908",
-    "variant_title": "Default Title",
-    "sku": "SH043613-JS",
-    "price": 3850.0,
-    "variant_price": 3850.0,
-    "product_price": 3850.0,
-    "amount": 3850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-10_at_12.03.16_AM.jpg?v=1757504387",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/lopamudra-long-gold-traditional-set-sone-pe-suhaga?variant=gid://shopify/ProductVariant/46789300125908",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46792246493396": {
     "product_title": "Birdichant Polki Long Victorian Indian Earrings",
