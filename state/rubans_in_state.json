@@ -3476,10 +3476,10 @@
     "amount": 1000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-ruby-pink-emerald-green-stone-studded-bangles-bangles-bracelets-1171024628.jpg?v=1774252411",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-handcrafted-pink-green-stone-studded-bangle?variant=gid://shopify/ProductVariant/42389818736814",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46604615352494": {
     "product_title": "Rubans Set of 2 22K Gold Plated Ruby Pink & Emerald Green Stone Studded Bangles",

@@ -18903,8 +18903,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/0140D6CA-AE5E-456B-9707-71FA3598F63A.jpg?v=1705071171",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/antique-matte-finish-lakshmi-peacock-jhumkas?variant=gid://shopify/ProductVariant/44665226035422",
-    "stock": 49,
-    "last_alerted_stock": 49
+    "stock": 48,
+    "last_alerted_stock": 48
   },
   "gid://shopify/ProductVariant/44667373748446": {
     "product_title": "Long Pearl Antique Brass Lakshmi haram",
@@ -19337,23 +19337,6 @@
     "url": "https://www.daivik.in/products/3-line-pearl-kemp-pendant-haram-with-earrings?variant=gid://shopify/ProductVariant/44730808860894",
     "stock": 14,
     "last_alerted_stock": 14
-  },
-  "gid://shopify/ProductVariant/44733673177310": {
-    "product_title": "Multicolour Flower kids / Adult longchain with Earrings",
-    "product_handle": "multicolour-kids-adult-longchain-with-earrings",
-    "variant_id": "gid://shopify/ProductVariant/44733673177310",
-    "global_id": "gid://shopify/ProductVariant/44733673177310",
-    "variant_title": "Default Title",
-    "sku": "928",
-    "price": 649.0,
-    "variant_price": 649.0,
-    "product_price": 649.0,
-    "amount": 649.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/590FB02A-7A40-4CF1-B06B-0C732EFBFBFE.jpg?v=1706367658",
-    "available_for_sale": false,
-    "url": "https://www.daivik.in/products/multicolour-kids-adult-longchain-with-earrings?variant=gid://shopify/ProductVariant/44733673177310",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/44736076644574": {
     "product_title": "Two Layered AD Flower Color Stone Necklace with Earrings in 2 Variants",
@@ -59073,6 +59056,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F07B3D62-F7C5-4A9C-AF33-EA3958501861.jpg?v=1787313150",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/pearl-kemp-floral-droplet-balis?variant=gid://shopify/ProductVariant/48623898886366",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48624208937182": {
+    "product_title": "Guttapusalu Balaji Long Haram and Choker with Earrings",
+    "product_handle": "balaji-haram",
+    "variant_id": "gid://shopify/ProductVariant/48624208937182",
+    "global_id": "gid://shopify/ProductVariant/48624208937182",
+    "variant_title": "Default Title",
+    "sku": "928",
+    "price": 7499.0,
+    "variant_price": 7499.0,
+    "product_price": 7499.0,
+    "amount": 7499.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47736604426462": {
