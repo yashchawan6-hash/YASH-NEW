@@ -334,7 +334,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/flower-pearl-drop-diamond-stud-attrangi.jpg?v=1739812497",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/flower-pearl-drop-diamond-stud?variant=gid://shopify/ProductVariant/40411661566121",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411662319785": {
@@ -59838,6 +59838,40 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.04.19AM.jpg?v=1787309503",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/stellar-pear-shaped-diamond-huggies-bali-earring?variant=gid://shopify/ProductVariant/48512628752596",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48512658866388": {
+    "product_title": "Flowers that Blossom Big Diamond Designer Studs",
+    "product_handle": "flowers-that-blossom-big-diamond-designer-studs",
+    "variant_id": "gid://shopify/ProductVariant/48512658866388",
+    "global_id": "gid://shopify/ProductVariant/48512658866388",
+    "variant_title": "Green",
+    "sku": "NPJ01617GR-ER",
+    "price": 3650.0,
+    "variant_price": 3650.0,
+    "product_price": 3650.0,
+    "amount": 3650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.14AM.jpg?v=1787310087",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/flowers-that-blossom-big-diamond-designer-studs?variant=gid://shopify/ProductVariant/48512658866388",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48512658899156": {
+    "product_title": "Flowers that Blossom Big Diamond Designer Studs",
+    "product_handle": "flowers-that-blossom-big-diamond-designer-studs",
+    "variant_id": "gid://shopify/ProductVariant/48512658899156",
+    "global_id": "gid://shopify/ProductVariant/48512658899156",
+    "variant_title": "Red",
+    "sku": "NPJ01617R-ER",
+    "price": 3650.0,
+    "variant_price": 3650.0,
+    "product_price": 3650.0,
+    "amount": 3650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.14AM_2.jpg?v=1787310088",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/flowers-that-blossom-big-diamond-designer-studs?variant=gid://shopify/ProductVariant/48512658899156",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47027770949844": {
