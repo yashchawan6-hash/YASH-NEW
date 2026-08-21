@@ -3554,7 +3554,7 @@
     "amount": 1799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_294f3be9-2678-4322-97ee-9c0360ac148d.jpg?v=1632147707",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-ghungroo-anklets-in-2-variants?variant=gid://shopify/ProductVariant/41169523638425",
     "stock": 5
   },
@@ -4718,7 +4718,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3f45ca47-7209-4bca-9b2c-7216d6b0c666.jpg?v=1640267810",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/floral-mattals-and-anklets-combo?variant=gid://shopify/ProductVariant/42255222309086",
-    "stock": 2,
+    "stock": 12,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42258990465246": {
@@ -21554,7 +21554,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a37513b4-a655-422c-a285-e05fca6e172f.heic?v=1715271908",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/jadau-butterfly-anklets-in-3-colours?variant=gid://shopify/ProductVariant/45345958199518",
-    "stock": 3
+    "stock": 5
   },
   "gid://shopify/ProductVariant/45345958232286": {
     "product_title": "Jadau Butterfly Anklets in 3 Colours",
@@ -21571,7 +21571,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a37513b4-a655-422c-a285-e05fca6e172f.heic?v=1715271908",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/jadau-butterfly-anklets-in-3-colours?variant=gid://shopify/ProductVariant/45345958232286",
-    "stock": 2
+    "stock": 4
   },
   "gid://shopify/ProductVariant/45345958265054": {
     "product_title": "Jadau Butterfly Anklets in 3 Colours",
@@ -21588,7 +21588,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_a37513b4-a655-422c-a285-e05fca6e172f.heic?v=1715271908",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/jadau-butterfly-anklets-in-3-colours?variant=gid://shopify/ProductVariant/45345958265054",
-    "stock": 9
+    "stock": 15
   },
   "gid://shopify/ProductVariant/45355639898334": {
     "product_title": "Lakshmi Ruby Green bangles (Set of 4)",
@@ -34424,7 +34424,7 @@
     "amount": 499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5FA66BBC-A543-4B5A-88E2-C381F7723259.jpg?v=1745063216",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-anklets-in-4-variants-price-for-a-pair?variant=gid://shopify/ProductVariant/46623689441502",
     "stock": 0
   },
@@ -57242,7 +57242,7 @@
     "amount": 499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/006995CB-6D6A-442B-8D24-B0ECA03F962B.jpg?v=1782648270",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/antique-lakshmi-jada-billa-price-for-1-pc?variant=gid://shopify/ProductVariant/48378829111518",
     "stock": 0
   },
