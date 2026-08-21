@@ -88,5 +88,41 @@
     "curr_stock": 16,
     "url": "https://www.kanshijewels.com/products/classic-peacock-motive-jadau-chokar_?variant=gid://shopify/ProductVariant/53420215927084",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1890_-Classicpeacockmotivejadauchokar.jpg?v=1783573256"
+  },
+  {
+    "timestamp_ist": "2026-08-21 18:47:11",
+    "product_title": "Jadau Accessories",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47854162149676",
+    "sku": "AC112",
+    "price": 1890.0,
+    "variant_price": 1890.0,
+    "product_price": 1890.0,
+    "amount": 1890.0,
+    "total_price": 1890.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.kanshijewels.com/products/jadau-accessories-1?variant=gid://shopify/ProductVariant/47854162149676",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800-min.jpg?v=1706268694"
+  },
+  {
+    "timestamp_ist": "2026-08-21 18:47:11",
+    "product_title": "Jadau Kundan Chain",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50042223067436",
+    "sku": "AC111",
+    "price": 1890.0,
+    "variant_price": 1890.0,
+    "product_price": 1890.0,
+    "amount": 1890.0,
+    "total_price": 1890.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-chain?variant=gid://shopify/ProductVariant/50042223067436",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaukundanchain1800_-_1.jpg?v=1729689762"
   }
 ]

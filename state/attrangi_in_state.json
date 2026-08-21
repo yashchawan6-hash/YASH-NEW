@@ -103,8 +103,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/basic-round-solitaires-halo-attrangi-1.jpg?v=1739812451",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-round-solitaires-halo?variant=gid://shopify/ProductVariant/43535590293716",
-    "stock": 13,
-    "last_alerted_stock": 1
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40411659337897": {
     "product_title": "50 Cent Small Round Solitaires Halo| Screwback",
@@ -1048,8 +1048,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/rose-shaped-studs-attrangi-2.jpg?v=1774100972",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/earrings-diamond-studs?variant=gid://shopify/ProductVariant/40411676082345",
-    "stock": 4,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40411676967081": {
     "product_title": "Saba Polki Kada",
@@ -1605,7 +1605,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/uncut-polki-rudra-ruby-and-emerald-ring-attrangi-1.jpg?v=1739812807",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/uncut-polki-ruby-and-emerald-ring?variant=gid://shopify/ProductVariant/40411692433577",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411692761257": {
@@ -10763,9 +10763,9 @@
     "amount": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sushmi-antique-gold-moissanite-polki-bangles-attrangi-1.jpg?v=1739815153",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sushmi-antique-gold-moissanite-polki-bangle-set?variant=gid://shopify/ProductVariant/43947928453332",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44288047907028": {
@@ -10888,24 +10888,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/nakshi-sona-moti-indian-thin-kada-bangle-set?variant=gid://shopify/ProductVariant/43983496380628",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/43983535505620": {
-    "product_title": "Banjaran Hasli Twistable Flexible Statement Necklace",
-    "product_handle": "banjaran-hasli-twistable-flexible-statement-necklace",
-    "variant_id": "gid://shopify/ProductVariant/43983535505620",
-    "global_id": "gid://shopify/ProductVariant/43983535505620",
-    "variant_title": "Default Title",
-    "sku": "MP1132",
-    "price": 6450.0,
-    "variant_price": 6450.0,
-    "product_price": 6450.0,
-    "amount": 6450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/banjaran-hasli-twistable-flexible-statement-necklace-attrangi-1.jpg?v=1739815210",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/banjaran-hasli-twistable-flexible-statement-necklace?variant=gid://shopify/ProductVariant/43983535505620",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43991320887508": {
     "product_title": "Rhea Mangalsutra with Earrings in Rose Gold",
@@ -34120,7 +34102,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-09-15at11.16.40PM.jpg?v=1758024821",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/oscar-winner-diamond-c-style-stud-earrings?variant=gid://shopify/ProductVariant/46984450801876",
     "stock": 2
   },
@@ -45200,7 +45182,7 @@
     "amount": 4950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-11at6.38.30PM_1.jpg?v=1773304515",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/medina-classic-diamond-necklace-choker-set-with-studs?variant=gid://shopify/ProductVariant/47644955574484",
     "stock": 3
   },
@@ -49869,24 +49851,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ekra-3-row-diamond-tennis-bracelet-attached-10-20-30-cent?variant=gid://shopify/ProductVariant/47771530002644",
     "stock": 2,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/47776179486932": {
-    "product_title": "Sigma Coloured Stone Diamond Tennis Bracelet",
-    "product_handle": "sigma-coloured-stone-diamond-tennis-bracelet",
-    "variant_id": "gid://shopify/ProductVariant/47776179486932",
-    "global_id": "gid://shopify/ProductVariant/47776179486932",
-    "variant_title": "Pink",
-    "sku": "WG8210PI-BG",
-    "price": 2650.0,
-    "variant_price": 2650.0,
-    "product_price": 2650.0,
-    "amount": 2650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01110.jpg?v=1775717257",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/sigma-coloured-stone-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47776179486932",
-    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47776187252948": {
@@ -59752,7 +59716,7 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.04.19AM.jpg?v=1787309503",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/stellar-pear-shaped-diamond-huggies-bali-earring?variant=gid://shopify/ProductVariant/48512628752596",
     "stock": -1
   },
@@ -59769,7 +59733,7 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.14AM.jpg?v=1787310087",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/flowers-that-blossom-big-diamond-designer-studs?variant=gid://shopify/ProductVariant/48512658866388",
     "stock": -1
   },
@@ -59786,8 +59750,25 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.14AM_2.jpg?v=1787310088",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/flowers-that-blossom-big-diamond-designer-studs?variant=gid://shopify/ProductVariant/48512658899156",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48512788988116": {
+    "product_title": "Selfridge Diamond Coloured Studs",
+    "product_handle": "selfridge-diamond-coloured-studs",
+    "variant_id": "gid://shopify/ProductVariant/48512788988116",
+    "global_id": "gid://shopify/ProductVariant/48512788988116",
+    "variant_title": "Ruby",
+    "sku": "SM6750R-ER",
+    "price": 2350.0,
+    "variant_price": 2350.0,
+    "product_price": 2350.0,
+    "amount": 2350.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM.jpg?v=1787312880",
+    "available_for_sale": true,
+    "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788988116",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48512788955348": {
@@ -59805,23 +59786,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM_1.jpg?v=1787312880",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788955348",
-    "stock": -1
-  },
-  "gid://shopify/ProductVariant/48512788988116": {
-    "product_title": "Selfridge Diamond Coloured Studs",
-    "product_handle": "selfridge-diamond-coloured-studs",
-    "variant_id": "gid://shopify/ProductVariant/48512788988116",
-    "global_id": "gid://shopify/ProductVariant/48512788988116",
-    "variant_title": "Ruby",
-    "sku": "SM6750R-ER",
-    "price": 2350.0,
-    "variant_price": 2350.0,
-    "product_price": 2350.0,
-    "amount": 2350.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM.jpg?v=1787312880",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788988116",
     "stock": -1
   },
   "gid://shopify/ProductVariant/43947928355028": {
