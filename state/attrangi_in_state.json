@@ -10763,9 +10763,9 @@
     "amount": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sushmi-antique-gold-moissanite-polki-bangles-attrangi-1.jpg?v=1739815153",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sushmi-antique-gold-moissanite-polki-bangle-set?variant=gid://shopify/ProductVariant/43947928453332",
-    "stock": 4,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44288047907028": {
@@ -12911,10 +12911,10 @@
     "amount": 6450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/nasim-big-oversized-jadaau-jhumka-with-kannauti-attrangi-2.jpg?v=1770889507",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/nasim-big-oversized-jadaau-jhumka-with-kannauti?variant=gid://shopify/ProductVariant/47545585041620",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47545617416404": {
     "product_title": "Nasim Big Oversized Jadaau Jhumka with Kannauti",
@@ -59770,7 +59770,7 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.04.19AM.jpg?v=1787309503",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/stellar-pear-shaped-diamond-huggies-bali-earring?variant=gid://shopify/ProductVariant/48512628752596",
     "stock": -1
   },
@@ -59787,7 +59787,7 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.14AM.jpg?v=1787310087",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/flowers-that-blossom-big-diamond-designer-studs?variant=gid://shopify/ProductVariant/48512658866388",
     "stock": -1
   },
@@ -59804,7 +59804,7 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.14AM_2.jpg?v=1787310088",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/flowers-that-blossom-big-diamond-designer-studs?variant=gid://shopify/ProductVariant/48512658899156",
     "stock": -1
   },
@@ -59838,7 +59838,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM.jpg?v=1787312880",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788988116",
     "stock": -1
   },
