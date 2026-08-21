@@ -17009,9 +17009,10 @@
     "amount": 7074.44,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0508.jpg?v=1706338857",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/avyukt-kundan-ring?variant=gid://shopify/ProductVariant/44342583623907",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44342615015651": {
     "product_title": "Alhena Kundan Ring",

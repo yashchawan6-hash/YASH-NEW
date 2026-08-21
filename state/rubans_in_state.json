@@ -6908,10 +6908,10 @@
     "amount": 1729.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-elegant-golden-ad-necklace-set-jewellery-sets-34626720563374.jpg?v=1755721955",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-elegant-golden-ad-necklace-set?variant=gid://shopify/ProductVariant/44226715746478",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44226755952814": {
     "product_title": "American Diamond Zirconia Floral Motif Necklace Set",
