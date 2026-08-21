@@ -22131,10 +22131,10 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0014XGY_b000107b-17a1-43b2-8fc6-dd3ab1fae5c1.jpg?v=1752149559",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/mayura-heritage-antique-rakhi?variant=gid://shopify/ProductVariant/52394175332720",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52394176250224": {
     "product_title": "Ruby Radiance CZ Rakhi",

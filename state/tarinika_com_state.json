@@ -6709,9 +6709,10 @@
     "amount": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TB3.jpg?v=1640780078",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/twisted-delicate-cz-bangles?variant=gid://shopify/ProductVariant/39530125623362",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39530153443394": {
     "product_title": "Glittering Delicate CZ Bracelet",

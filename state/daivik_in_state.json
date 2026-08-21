@@ -1062,9 +1062,9 @@
     "amount": 12999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/full-bridal-gold-finish-combo-collections-124.jpg?v=1599837535",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/full-bridal-gold-finish-combo-1?variant=gid://shopify/ProductVariant/36091693629593",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/36131243163801": {
     "product_title": "Uncut Kemp Guttapusalu Short Haram With Earrings",
