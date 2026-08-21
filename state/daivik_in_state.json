@@ -18773,9 +18773,9 @@
     "amount": 1499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BFFDAB1C-F725-4707-B32A-B4A504AF4C09.jpg?v=1704467125",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/simple-pastel-green-premium-beads-choker-with-earrings?variant=gid://shopify/ProductVariant/44648110260446",
-    "stock": 0,
+    "stock": 48,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44652019024094": {
@@ -50103,7 +50103,7 @@
     "amount": 1199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/BE5ABD48-4AB9-4EB9-B346-1DA544273FC4.jpg?v=1768652833",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/half-moon-pearl-anklets?variant=gid://shopify/ProductVariant/47839081332958",
     "stock": -1
   },
