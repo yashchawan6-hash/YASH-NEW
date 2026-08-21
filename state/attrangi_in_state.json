@@ -16882,8 +16882,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/classic-round-solitaire-drop-earring-attrangi-2.jpg?v=1764670805",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/classic-round-solitaire-drop-earring?variant=gid://shopify/ProductVariant/45347904487636",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47290269270228": {
     "product_title": "Classic Round Solitaire Drop Earring",
@@ -23262,7 +23262,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/shifa-jadaau-navratna-kada-attrangi-1.jpg?v=1739818344",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/basic-jadau-kada?variant=gid://shopify/ProductVariant/46017925087444",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46017925120212": {
     "product_title": "Basic Thick Jadaau Kada",
@@ -34224,7 +34225,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-03-23_at_12.26.58_PM.jpg?v=1774249108",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/oscar-winner-diamond-c-style-stud-earrings?variant=gid://shopify/ProductVariant/46984451424468",
     "stock": 1,
     "last_alerted_stock": 1
@@ -59890,7 +59891,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM_1.jpg?v=1787312880",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788955348",
     "stock": -1
   },
