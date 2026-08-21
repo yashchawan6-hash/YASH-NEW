@@ -1909,9 +1909,10 @@
     "amount": 22700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP08295copy.jpg?v=1745054523",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/vedika-vyom-short-necklace?variant=gid://shopify/ProductVariant/50153089761577",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50157703921961": {
     "product_title": "Navakari Stud Earrings",
