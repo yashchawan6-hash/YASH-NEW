@@ -25077,10 +25077,10 @@
     "amount": 3750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-27_at_3.53.31_PM_2.jpg?v=1782733023",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/apsara-polki-moissanite-light-weight-chandbalis?variant=gid://shopify/ProductVariant/48186115096788",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46169813876948": {
     "product_title": "Apsara Polki Moissanite Light Weight Chandbalis",
@@ -59890,7 +59890,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM_1.jpg?v=1787312880",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788955348",
     "stock": -1
   },
@@ -59907,7 +59907,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM.jpg?v=1787312880",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788988116",
     "stock": -1
   },
