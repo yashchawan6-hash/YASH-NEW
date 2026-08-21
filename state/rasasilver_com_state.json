@@ -273,8 +273,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
-    "stock": 13,
-    "last_alerted_stock": 9
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/49856597590313": {
     "product_title": "Mirnali Victorian Danglers",
@@ -12818,9 +12818,10 @@
     "amount": 33300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46991.jpg?v=1756815709",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/glorinite-kada?variant=gid://shopify/ProductVariant/50839137976617",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50839165534505": {
     "product_title": "Glitzonite Polki Kada",
@@ -18485,9 +18486,9 @@
     "amount": 1700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0073_copy.jpg?v=1761283433",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ring-21?variant=gid://shopify/ProductVariant/52291044311337",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/51350170435881": {
     "product_title": "Ruvanya Stone Ring",
@@ -20534,7 +20535,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2347_resized.jpg?v=1761553505",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/crystina-bangles?variant=gid://shopify/ProductVariant/52263604158761",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52263713636649": {
     "product_title": "Crystina Stone Bangles",
@@ -20996,9 +20998,10 @@
     "amount": 36000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0242_1.jpg?v=1762252159",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shobhamayur-kaan-karela-copy?variant=gid://shopify/ProductVariant/51397261558057",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51397309464873": {
     "product_title": "Prana Two Layer Short Necklace",
@@ -63651,7 +63654,7 @@
     "amount": 43945.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsApp_Image_2026-03-14_at_4.00.04_PM.jpg?v=1773488078",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pushpachitra-moissanite-tikka?variant=gid://shopify/ProductVariant/52831904497961",
     "stock": 1
   },
@@ -78275,7 +78278,7 @@
     "amount": 1275.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5714_resized.jpg?v=1782368636",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rose-prestige-ring?variant=gid://shopify/ProductVariant/53288195916073",
     "stock": -1
   },
@@ -82940,7 +82943,7 @@
     "amount": 37485.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42551_resized.jpg?v=1784182592",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/crystal-luxe-victorian-kada?variant=gid://shopify/ProductVariant/53333209514281",
     "stock": 1,
     "last_alerted_stock": 0
@@ -83406,7 +83409,7 @@
     "amount": 5440.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42596_resized.jpg?v=1784187161",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/twin-soul-moissanite-ring?variant=gid://shopify/ProductVariant/53336879726889",
     "stock": 1,
     "last_alerted_stock": 0
@@ -84415,7 +84418,7 @@
     "amount": 6460.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0129_resized.jpg?v=1785929128",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mint-majesty-moissanite-ring?variant=gid://shopify/ProductVariant/53349433082153",
     "stock": 1
   },
@@ -84432,7 +84435,7 @@
     "amount": 7820.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0085_resized.jpg?v=1785929243",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pearlisse-moissanite-ring?variant=gid://shopify/ProductVariant/53350414680361",
     "stock": 1
   },
@@ -84501,7 +84504,7 @@
     "amount": 8925.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0060_resized.jpg?v=1785929563",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/vintage-sunflower-moissanite-ring?variant=gid://shopify/ProductVariant/53350418415913",
     "stock": 1
   },
@@ -84553,7 +84556,7 @@
     "amount": 8330.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0170_resized.jpg?v=1785929971",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/timeless-glow-moissanite-ring?variant=gid://shopify/ProductVariant/53350413173033",
     "stock": 1
   },
@@ -84656,7 +84659,7 @@
     "amount": 4505.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July08901.jpg?v=1786347255",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/trio-spark-gemstone-ring?variant=gid://shopify/ProductVariant/53350522814761",
     "stock": 1
   },
@@ -84673,7 +84676,7 @@
     "amount": 4845.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0907.jpg?v=1786346625",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/lavender-gemstone-ring?variant=gid://shopify/ProductVariant/53416814313769",
     "stock": 1
   },
@@ -84690,7 +84693,7 @@
     "amount": 2550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0883.jpg?v=1786347558",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/oval-sparsh-gemstone-ring?variant=gid://shopify/ProductVariant/53350533857577",
     "stock": 1
   },
@@ -85188,7 +85191,7 @@
     "amount": 12750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0130.jpg?v=1786368942",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/royal-pear-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362558533929",
     "stock": 1
   },
@@ -85290,7 +85293,7 @@
     "amount": 11985.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0134.jpg?v=1786368787",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/violet-elegance-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362709791017",
     "stock": 1
   },
@@ -85358,7 +85361,7 @@
     "amount": 129030.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0751.jpg?v=1786342241",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/queens-heritage-moissanite-necklace-set?variant=gid://shopify/ProductVariant/53365422850345",
     "stock": 1
   },
@@ -85665,7 +85668,7 @@
     "amount": 21505.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2607_resized.jpg?v=1785239594",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pearl-elite-moissanite-haath-phool?variant=gid://shopify/ProductVariant/53365618180393",
     "stock": -1
   },
@@ -86073,7 +86076,7 @@
     "amount": 21930.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0031.jpg?v=1786357172",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/fleur-royale-moissanite-danglers?variant=gid://shopify/ProductVariant/53370051199273",
     "stock": -1
   },
@@ -86362,7 +86365,7 @@
     "amount": 37500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0072.jpg?v=1786352432",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/elaris-moissanite-chandbali?variant=gid://shopify/ProductVariant/53374108827945",
     "stock": -1
   },
@@ -86532,7 +86535,7 @@
     "amount": 25000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July06901.jpg?v=1786344587",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/roshanara-pearl-moissanite-choker-set?variant=gid://shopify/ProductVariant/53374301208873",
     "stock": 1
   },
