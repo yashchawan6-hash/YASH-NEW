@@ -3680,7 +3680,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_2613.jpg?v=1687353067",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-maang-tika-52?variant=gid://shopify/ProductVariant/45462708125996",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45462708224300": {
     "product_title": "Jadau Kundan Pendant",
@@ -6193,7 +6194,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1400_3.jpg?v=1692612640",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-ear-cuffs-1?variant=gid://shopify/ProductVariant/46477113622828",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/46477133021484": {
     "product_title": "Jadau Kundan Ear Cuffs",
@@ -10160,8 +10162,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1800-min.jpg?v=1706268694",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-accessories-1?variant=gid://shopify/ProductVariant/47854162149676",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/47854171488556": {
     "product_title": "Jadau Kundan Choker",
