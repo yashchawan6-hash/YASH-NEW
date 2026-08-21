@@ -4042,6 +4042,23 @@
     "url": "https://www.mortantra.com/products/ms1831m-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/43919428845791",
     "stock": 1
   },
+  "gid://shopify/ProductVariant/43919530492127": {
+    "product_title": "White Color Gold Plated Jadau Kundan Maangteeka - MT432",
+    "product_handle": "mt432-jadau-kundan-maangteeka",
+    "variant_id": "gid://shopify/ProductVariant/43919530492127",
+    "global_id": "gid://shopify/ProductVariant/43919530492127",
+    "variant_title": "Default Title",
+    "sku": "MT432",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/MT432.jpg?v=1673868837",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mt432-jadau-kundan-maangteeka?variant=gid://shopify/ProductVariant/43919530492127",
+    "stock": 2
+  },
   "gid://shopify/ProductVariant/43945745481951": {
     "product_title": "Dark Green Gold-Plated Jadau Kundan Choker Necklace Set with Floral Kundan Motifs - MS1768YA",
     "product_handle": "ms1768ya-jadau-kundan-necklace-set",
@@ -6945,6 +6962,24 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-s449-mishr-necklace-set?variant=gid://shopify/ProductVariant/44391051591903",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/44391654326495": {
+    "product_title": "Dual-Tone Tribal Pendant Necklace with Lotus and Floral Motifs - EK-SFNECK468",
+    "product_handle": "ek-sfneck468-tribal-necklaces",
+    "variant_id": "gid://shopify/ProductVariant/44391654326495",
+    "global_id": "gid://shopify/ProductVariant/44391654326495",
+    "variant_title": "Default Title",
+    "sku": "EK-SFNECK468",
+    "price": 4000.0,
+    "variant_price": 4000.0,
+    "product_price": 4000.0,
+    "amount": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK468_1.jpg?v=1726642333",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/ek-sfneck468-tribal-necklaces?variant=gid://shopify/ProductVariant/44391654326495",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44394327900383": {
     "product_title": "Grey Silver-Plated Tribal Hair Bun with Flower Motif - EK-SFHA4SL",
@@ -100295,23 +100330,6 @@
     "url": "https://www.mortantra.com/products/multicolor-tribal-earrings-ek-sfear491ma?variant=gid://shopify/ProductVariant/50067207782623",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/50067687801055": {
-    "product_title": "White Dual-Tone Tribal Long Necklace with Moon Motif - EK-SFNECK5",
-    "product_handle": "white-color-tribal-necklace-ek-sfneck5",
-    "variant_id": "gid://shopify/ProductVariant/50067687801055",
-    "global_id": "gid://shopify/ProductVariant/50067687801055",
-    "variant_title": "Default Title",
-    "sku": "EK-SFNECK5",
-    "price": 6000.0,
-    "variant_price": 6000.0,
-    "product_price": 6000.0,
-    "amount": 6000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK5.jpg?v=1780736075",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-tribal-necklace-ek-sfneck5?variant=gid://shopify/ProductVariant/50067687801055",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/50067813761247": {
     "product_title": "Multicolor Dual-Tone Tribal Statement Necklace with Jadau Kundan - EK-SFNECK449",
     "product_handle": "multicolor-tribal-necklace-ek-sfneck449",
@@ -113660,21 +113678,21 @@
     "url": "https://www.mortantra.com/products/green-color-gold-plated-moissanite-necklace-set-mo-s159wgr?variant=gid://shopify/ProductVariant/51231192711391",
     "stock": -1
   },
-  "gid://shopify/ProductVariant/43919530492127": {
-    "product_title": "White Color Gold Plated Jadau Kundan Maangteeka - MT432",
-    "product_handle": "mt432-jadau-kundan-maangteeka",
-    "variant_id": "gid://shopify/ProductVariant/43919530492127",
-    "global_id": "gid://shopify/ProductVariant/43919530492127",
+  "gid://shopify/ProductVariant/50067687801055": {
+    "product_title": "White Dual-Tone Tribal Long Necklace with Moon Motif - EK-SFNECK5",
+    "product_handle": "white-color-tribal-necklace-ek-sfneck5",
+    "variant_id": "gid://shopify/ProductVariant/50067687801055",
+    "global_id": "gid://shopify/ProductVariant/50067687801055",
     "variant_title": "Default Title",
-    "sku": "MT432",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
+    "sku": "EK-SFNECK5",
+    "price": 6000.0,
+    "variant_price": 6000.0,
+    "product_price": 6000.0,
+    "amount": 6000.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/MT432.jpg?v=1673868837",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK5.jpg?v=1780736075",
     "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/mt432-jadau-kundan-maangteeka?variant=gid://shopify/ProductVariant/43919530492127",
+    "url": "https://www.mortantra.com/products/white-color-tribal-necklace-ek-sfneck5?variant=gid://shopify/ProductVariant/50067687801055",
     "stock": 1
   },
   "gid://shopify/ProductVariant/45872091889887": {
@@ -118533,20 +118551,6 @@
     "url": "https://www.mortantra.com/products/tj-e36-thappa-jadau-kundan-earrings?variant=gid://shopify/ProductVariant/43301644009695",
     "stock": 2,
     "last_alerted_stock": 2
-  },
-  "gid://shopify/ProductVariant/44391654326495": {
-    "product_title": "Dual-Tone Tribal Pendant Necklace with Lotus and Floral Motifs - EK-SFNECK468",
-    "product_handle": "ek-sfneck468-tribal-necklaces",
-    "variant_id": "gid://shopify/ProductVariant/44391654326495",
-    "global_id": "gid://shopify/ProductVariant/44391654326495",
-    "variant_title": "Default Title",
-    "sku": "EK-SFNECK468",
-    "price": 2800.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK468_1.jpg?v=1726642333",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/ek-sfneck468-tribal-necklaces?variant=gid://shopify/ProductVariant/44391654326495",
-    "stock": 2
   },
   "gid://shopify/ProductVariant/45562295025887": {
     "product_title": "Pink Color Gold Plated Contemporary Necklace Set with Kundan - CC-S18",
