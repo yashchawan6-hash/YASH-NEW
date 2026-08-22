@@ -9775,7 +9775,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/18kt-gold-plated-floral-brass-bangle-style-bracelet-bracelet-36232225259694.jpg?v=1767509185",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/18kt-gold-plated-floral-brass-bangle-style-bracelet?variant=gid://shopify/ProductVariant/45246595072174",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45246602379438": {
@@ -9914,8 +9914,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS406552-Model.jpg?v=1765202332",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22kt-gold-plated-stone-studded-jewellery-set?variant=gid://shopify/ProductVariant/46081022623918",
-    "stock": 15,
-    "last_alerted_stock": 13
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/45315713532078": {
     "product_title": "Ruby-Studded Long Golden Necklace Set",
@@ -52929,7 +52929,7 @@
     "amount": 1224.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410601.jpg?v=1769074444",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/traditional-kundan-necklace-set-re10ns410601?variant=gid://shopify/ProductVariant/47186305351854",
     "stock": 1
   },
