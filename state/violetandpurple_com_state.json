@@ -10941,10 +10941,10 @@
     "amount": 2795.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0269/0554/2755/files/2.0_12_24156b89-8378-4691-8be9-392ed3a5025c.jpg?v=1751542960",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.violetandpurple.com/products/designer-zirconia-royal-ruby-beads-necklace-set?variant=gid://shopify/ProductVariant/50691855483173",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50691967615269": {
     "product_title": "Designer Zirconia Royal Devi Temple Kempu Necklace Set",
