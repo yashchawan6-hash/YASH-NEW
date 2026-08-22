@@ -1393,9 +1393,10 @@
     "amount": 182.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/FNL0680x_5990582d-8a2f-4792-b723-b81fee6f3573.jpg?v=1762531067",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/rani-antique-long-necklace-set?variant=gid://shopify/ProductVariant/13860056203330",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/13883347697730": {
     "product_title": "Kalya Nakshatra CZ Black Beads Necklace Set",
