@@ -8054,10 +8054,10 @@
     "amount": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeenia-diamond-chandelier-earrings-attrangi-1.jpg?v=1739814327",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/zeenia-diamond-chandelier-earrings?variant=gid://shopify/ProductVariant/43459422191828",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43501958332628": {
     "product_title": "Diamond Pacheli | Gokhru Bangle Set",
@@ -11040,7 +11040,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/angoori-diamond-openable-kada-with-pearls-or-bangle-attrangi-1.jpg?v=1739815288",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/angoori-diamond-openable-kada-with-pearls-bangle?variant=gid://shopify/ProductVariant/48379711258836",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48379711291604": {
     "product_title": "Angoori Diamond Openable Kada with Pearls | Bangle",
