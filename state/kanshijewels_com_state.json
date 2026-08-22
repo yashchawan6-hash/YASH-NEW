@@ -936,7 +936,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_0192.jpg?v=1686915799",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-necklace-19?variant=gid://shopify/ProductVariant/45426029134124",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45426031624492": {
     "product_title": "Jadau Kundan Necklace",
@@ -26374,7 +26375,7 @@
     "amount": 3999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3999_2.jpg?v=1787032512",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-10?variant=gid://shopify/ProductVariant/53714404213036",
     "stock": 10
   },
@@ -26665,7 +26666,7 @@
     "amount": 3999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_3.jpg?v=1787036294",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-27?variant=gid://shopify/ProductVariant/53714550849836",
     "stock": 10
   },
