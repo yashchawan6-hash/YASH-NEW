@@ -520,5 +520,41 @@
     "curr_stock": 4,
     "url": "https://www.daivik.in/products/a-48?variant=gid://shopify/ProductVariant/48353993392350",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/59082F60-A80C-4E6A-9C88-498AA0A3FBD1.jpg?v=1782062160"
+  },
+  {
+    "timestamp_ist": "2026-08-23 04:02:37",
+    "product_title": "AD Stone Ruby Bangles (Price for a Pair)",
+    "variant_title": "2.6",
+    "variant_id": "gid://shopify/ProductVariant/46401149763806",
+    "sku": "1576",
+    "price": 1499.0,
+    "variant_price": 1499.0,
+    "product_price": 1499.0,
+    "amount": 1499.0,
+    "total_price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 51,
+    "curr_stock": 50,
+    "url": "https://www.daivik.in/products/ad-stone-ruby-bangles-price-for-a-pair?variant=gid://shopify/ProductVariant/46401149763806",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3682.heic?v=1742104825"
+  },
+  {
+    "timestamp_ist": "2026-08-23 04:02:37",
+    "product_title": "Lotus Ruby Pearl Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/46511776989406",
+    "sku": "601",
+    "price": 599.0,
+    "variant_price": 599.0,
+    "product_price": 599.0,
+    "amount": 599.0,
+    "total_price": 1797.0,
+    "currency": "INR",
+    "qty_sold": 3,
+    "prev_stock": 40,
+    "curr_stock": 37,
+    "url": "https://www.daivik.in/products/lotus-ruby-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/46511776989406",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1DC5F738-495A-403E-8ABF-3EC8D8BF5505.jpg?v=1743401266"
   }
 ]
