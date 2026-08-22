@@ -7855,9 +7855,9 @@
     "amount": 31700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-8_4c3d97ce-6434-4884-9d1c-3253dc5c5219.jpg?v=1754027174",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ganapati-ratna-necklace?variant=gid://shopify/ProductVariant/50648922685737",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50649020530985": {
     "product_title": "Kamala Ranjani Pendant",
@@ -8408,7 +8408,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-12_c157e474-2b08-440a-bc39-fcf4828029f5.jpg?v=1754979938",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/27?variant=gid://shopify/ProductVariant/51472862249257",
-    "stock": 2
+    "stock": 3
   },
   "gid://shopify/ProductVariant/50711987257641": {
     "product_title": "Gulsheen CZ Stud Earrings",
@@ -9142,9 +9142,9 @@
     "amount": 31600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_07Aug1665.jpg?v=1756190390",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/floryn-cz-jhumki?variant=gid://shopify/ProductVariant/50749461037353",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50749489578281": {
     "product_title": "Petalora Drop Jhumki",
@@ -11296,7 +11296,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2490.jpg?v=1756539022",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/eterna-ovaluxe-studs?variant=gid://shopify/ProductVariant/50809413927209",
-    "stock": 1
+    "stock": 2
   },
   "gid://shopify/ProductVariant/50816770572585": {
     "product_title": "Queen of Navaratna Short Necklace",

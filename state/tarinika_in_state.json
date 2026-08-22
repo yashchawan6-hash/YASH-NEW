@@ -767,7 +767,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/ZNX0994XC.jpg?v=1581751410",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/tiah-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40850906382372",
-    "stock": 13
+    "stock": 14
   },
   "gid://shopify/ProductVariant/40850906120228": {
     "product_title": "Deval Nakshatra CZ Long Necklace Set",
@@ -12151,7 +12151,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/products/3O9A6094.jpg?v=1677223502",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/azba-leafy-floral-antique-necklace?variant=gid://shopify/ProductVariant/40253816111140",
-    "stock": 8,
+    "stock": 9,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/40254206017572": {
@@ -14619,7 +14619,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/theme0696copycopy.jpg?v=1682761620",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/shriya-antique-filigree-choker-set?variant=gid://shopify/ProductVariant/40650788274212",
-    "stock": 14
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/40650860101668": {
     "product_title": "Sadya Antique Choker Set",
@@ -18895,8 +18896,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TNX0318X_0d4f99c3-424d-4f62-ab5a-5bf922b7b939.jpg?v=1722228068",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/simple-antique-red-green-kempu-necklace-set?variant=gid://shopify/ProductVariant/41327095709732",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/41327099084836": {
     "product_title": "Simple Antique Navaratna Necklace Set",
@@ -19083,7 +19084,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TEX0292XHY.jpg?v=1724750770",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/aaravi-antique-red-green-kempu-chandbali-earrings?variant=gid://shopify/ProductVariant/41802810916900",
-    "stock": 6,
+    "stock": 5,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/41802818453540": {
@@ -22046,7 +22047,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0003XD5.jpg?v=1752149511",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/vasanta-cz-rakhi?variant=gid://shopify/ProductVariant/52393410658672",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/52393474490736": {
@@ -22080,9 +22081,9 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0001XAY.jpg?v=1752149529",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.in/products/ritu-antique-rakhi?variant=gid://shopify/ProductVariant/52393499787632",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52393501720944": {
@@ -22100,7 +22101,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0012XGY_38a90562-91a6-42c5-8591-ed8625d41b87.jpg?v=1752149537",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/vira-antique-rakhi?variant=gid://shopify/ProductVariant/52393501720944",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/52394159833456": {
@@ -22133,9 +22134,9 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0014XGY_b000107b-17a1-43b2-8fc6-dd3ab1fae5c1.jpg?v=1752149559",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.in/products/mayura-heritage-antique-rakhi?variant=gid://shopify/ProductVariant/52394175332720",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52394176250224": {
