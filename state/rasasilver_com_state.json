@@ -21507,9 +21507,10 @@
     "amount": 10710.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2459_resized.jpg?v=1761564365",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/liora-rose-studs?variant=gid://shopify/ProductVariant/51409019207977",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51412361609513": {
     "product_title": "Mayuk Oval Hip Belt",
@@ -68343,7 +68344,7 @@
     "amount": 100300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00294.jpg?v=1775731306",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shrinelle-antique-necklace?variant=gid://shopify/ProductVariant/52912157950249",
     "stock": -1
   },
@@ -88107,7 +88108,7 @@
     "amount": 3500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38745.jpg?v=1786695395",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/moissanite-ring?variant=gid://shopify/ProductVariant/53408394117417",
     "stock": 0
   },
