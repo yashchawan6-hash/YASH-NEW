@@ -13714,8 +13714,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
-    "stock": 19,
-    "last_alerted_stock": 19
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/43971136225507": {
     "product_title": "Pragin Jhumkhas",
@@ -22089,9 +22089,10 @@
     "amount": 85695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6294.jpg?v=1719733547",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/aldora-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/45208042406115",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45208191336675": {
     "product_title": "Sterling Victorian Necklace Set",
@@ -36936,7 +36937,7 @@
     "amount": 80990.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-8429-_2_bc709131-08db-46e4-ab35-005a4197273c.jpg?v=1742472995",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/amaze-short-necklace?variant=gid://shopify/ProductVariant/45993912631523",
     "stock": 1
   },
@@ -67794,7 +67795,7 @@
     "amount": 79125.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-10368_fb3ea0b4-b0dd-47d8-8b6d-d21b493f3857.jpg?v=1765606609",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/radha-nagas-long-necklace?variant=gid://shopify/ProductVariant/47036661792995",
     "stock": 1
   },
@@ -107281,7 +107282,7 @@
     "amount": 20260.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-11235.jpg?v=1763538307",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/grandeur-nagas-jhumkas-3?variant=gid://shopify/ProductVariant/47581331718371",
     "stock": 1
   },

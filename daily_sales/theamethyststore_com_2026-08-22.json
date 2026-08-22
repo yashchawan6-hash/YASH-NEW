@@ -376,5 +376,41 @@
     "curr_stock": 13,
     "url": "https://www.theamethyststore.com/products/aspecious-silver-rakhi?variant=gid://shopify/ProductVariant/43930245300451",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-116-0059.jpg?v=1690711827"
+  },
+  {
+    "timestamp_ist": "2026-08-22 20:13:25",
+    "product_title": "Fish Hook Back Chain",
+    "variant_title": "9 Inches",
+    "variant_id": "gid://shopify/ProductVariant/43970730000611",
+    "sku": "AMS-119-0001-ML",
+    "price": 4800.0,
+    "variant_price": 4800.0,
+    "product_price": 4800.0,
+    "amount": 4800.0,
+    "total_price": 9600.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "prev_stock": 19,
+    "curr_stock": 17,
+    "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
+  },
+  {
+    "timestamp_ist": "2026-08-22 20:13:25",
+    "product_title": "Aldora Victorian Long Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45208042406115",
+    "sku": "AMS-102-6294",
+    "price": 85695.0,
+    "variant_price": 85695.0,
+    "product_price": 85695.0,
+    "amount": 85695.0,
+    "total_price": 85695.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/aldora-victorian-long-necklace-set?variant=gid://shopify/ProductVariant/45208042406115",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6294.jpg?v=1719733547"
   }
 ]
