@@ -65,10 +65,10 @@
     "amount": 1200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/c336934d-625e-415c-adcf-e923da5c0dea.webp?v=1768383934",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-lotus-studs?variant=gid://shopify/ProductVariant/52626125062460",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52626130207036": {
     "product_title": "jadau kundan Peacock studs",
