@@ -6419,9 +6419,10 @@
     "amount": 83200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R5854.jpg?v=1751291340",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rani-darbar-necklace-set?variant=gid://shopify/ProductVariant/50544948674857",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50545066770729": {
     "product_title": "Tropical Muse Necklace Set",
