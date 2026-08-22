@@ -14315,7 +14315,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept0247.jpg?v=1759149565",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-blumea-danglers?variant=gid://shopify/ProductVariant/51205494702377",
-    "stock": 2,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51205503484201": {
@@ -20487,7 +20487,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2321_resized.jpg?v=1761549898",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/squivva-bangles?variant=gid://shopify/ProductVariant/51368176091433",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52273482137897": {
     "product_title": "Squivva Gems Bangles",
@@ -20504,7 +20505,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2321_resized.jpg?v=1761549898",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/squivva-bangles?variant=gid://shopify/ProductVariant/52273482137897",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52273391436073": {
     "product_title": "Squivva Gems Bangles",
@@ -26522,7 +26524,7 @@
     "amount": 42000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0340copy_resized_1.jpg?v=1762943405",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shukamayi-bangles?variant=gid://shopify/ProductVariant/52263649181993",
     "stock": 1
   },
@@ -84332,7 +84334,7 @@
     "amount": 6800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0161_resized.jpg?v=1785931302",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/panna-pushpa-moissanite-ring?variant=gid://shopify/ProductVariant/53408343130409",
     "stock": 1
   },
