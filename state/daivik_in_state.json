@@ -6847,9 +6847,9 @@
     "amount": 21499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_fb93a3b5-da99-4c18-851d-b2f26b25434b.heic?v=1651330138",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-25?variant=gid://shopify/ProductVariant/42757499289822",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/45963428561118": {
     "product_title": "Simple Kemp Mattals in 2 colours",
