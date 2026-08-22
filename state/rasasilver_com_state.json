@@ -1420,7 +1420,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05605_copy.jpg?v=1743660656",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pachai-ratnam-studs?variant=gid://shopify/ProductVariant/50074586120489",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50869189050665": {
     "product_title": "Raghukul Ratnaraj Studs",
@@ -1472,8 +1473,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP05460_copy.jpg?v=1743511206",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/flowery-ruby-studs?variant=gid://shopify/ProductVariant/50082055651625",
-    "stock": 16,
-    "last_alerted_stock": 14
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/51473463935273": {
     "product_title": "Bhagyashree Triple Strand Short Necklace",
@@ -1594,8 +1595,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/8_b088a12e-cc0e-475b-ae70-603aa2d9cf35.jpg?v=1743489289",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/saanjh-earring?variant=gid://shopify/ProductVariant/50869131313449",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/50098662113577": {
     "product_title": "ShriAditi Morni Short Necklace",
@@ -6006,8 +6007,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot2025-04-20145843_119af41a-4086-405f-be19-59f97a7bb520.png?v=1749455078",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/green-whisper-studs-1?variant=gid://shopify/ProductVariant/50478674411817",
-    "stock": 28,
-    "last_alerted_stock": 27
+    "stock": 23,
+    "last_alerted_stock": 23
   },
   "gid://shopify/ProductVariant/50513222533417": {
     "product_title": "Pankhudi Mani Necklace",
@@ -8457,8 +8458,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
-    "stock": 14,
-    "last_alerted_stock": 12
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50712092999977": {
     "product_title": "Teja Valli Danglers",
@@ -88763,6 +88764,40 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_42_51Pics0639.jpg?v=1786971911",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/saubhagya-temple-necklace?variant=gid://shopify/ProductVariant/53411222618409",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411227369769": {
+    "product_title": "Shree Samriddhi Temple Necklace",
+    "product_handle": "shree-samriddhi-temple-necklace",
+    "variant_id": "gid://shopify/ProductVariant/53411227369769",
+    "global_id": "gid://shopify/ProductVariant/53411227369769",
+    "variant_title": "Ruby Pink",
+    "sku": "R33496",
+    "price": 89200.0,
+    "variant_price": 89200.0,
+    "product_price": 89200.0,
+    "amount": 89200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56780F.jpg?v=1787385274",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227369769",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/53411227402537": {
+    "product_title": "Shree Samriddhi Temple Necklace",
+    "product_handle": "shree-samriddhi-temple-necklace",
+    "variant_id": "gid://shopify/ProductVariant/53411227402537",
+    "global_id": "gid://shopify/ProductVariant/53411227402537",
+    "variant_title": "GREEN",
+    "sku": "R33497",
+    "price": 89200.0,
+    "variant_price": 89200.0,
+    "product_price": 89200.0,
+    "amount": 89200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_10Aug56789F.jpg?v=1787385274",
+    "available_for_sale": false,
+    "url": "https://www.rasasilver.com/products/shree-samriddhi-temple-necklace?variant=gid://shopify/ProductVariant/53411227402537",
     "stock": -1
   },
   "gid://shopify/ProductVariant/53411230155049": {
