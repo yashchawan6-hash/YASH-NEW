@@ -106,5 +106,41 @@
     "curr_stock": 15,
     "url": "https://www.kanshijewels.com/products/elegant-jadau-bridesmaids-chokar?variant=gid://shopify/ProductVariant/53420202950956",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/1450_-elegantjadaubridesmaidschokar.jpg?v=1783572635"
+  },
+  {
+    "timestamp_ist": "2026-08-22 20:29:38",
+    "product_title": "Jadau Kundan haram",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52022461464876",
+    "sku": "NK77",
+    "price": 7339.5,
+    "variant_price": 7339.5,
+    "product_price": 7339.5,
+    "amount": 7339.5,
+    "total_price": 7339.5,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.kanshijewels.com/products/jadau-kundan-long-harams-30?variant=gid://shopify/ProductVariant/52022461464876",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_2798.jpg?v=1758881698"
+  },
+  {
+    "timestamp_ist": "2026-08-22 20:29:38",
+    "product_title": "Jadau tika",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52445307601196",
+    "sku": "MT02",
+    "price": 1200.0,
+    "variant_price": 1200.0,
+    "product_price": 1200.0,
+    "amount": 1200.0,
+    "total_price": 1200.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-tika-6?variant=gid://shopify/ProductVariant/52445307601196",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3119.jpg?v=1766141843"
   }
 ]

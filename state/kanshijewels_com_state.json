@@ -20545,7 +20545,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_2798.jpg?v=1758881698",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-kundan-long-harams-30?variant=gid://shopify/ProductVariant/52022461464876",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/52022468051244": {
     "product_title": "Jadau Kundan Long haram",
@@ -22342,10 +22343,10 @@
     "amount": 1200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/IMG_3119.jpg?v=1766141843",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-tika-6?variant=gid://shopify/ProductVariant/52445307601196",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52445324738860": {
     "product_title": "Mossanite earrings",
