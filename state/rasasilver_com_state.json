@@ -7522,9 +7522,9 @@
     "amount": 3145.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4323ca21-3eae-4af3-b3e1-b2673a52a4f5.jpg?v=1754033262",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/pannika-glow-studs?variant=gid://shopify/ProductVariant/50635184406825",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50635190305065": {
@@ -7665,7 +7665,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-2_9d00c181-eb9e-464c-bd8a-0afd9468581b.jpg?v=1754311253",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153",
-    "stock": 5,
+    "stock": 6,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/51471916826921": {
@@ -73433,7 +73433,7 @@
     "amount": 22015.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_8May0524_resized.jpg?v=1780901316",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/linea-luxe-cz-necklace-set-copy?variant=gid://shopify/ProductVariant/53161286467881",
     "stock": 0
   },
