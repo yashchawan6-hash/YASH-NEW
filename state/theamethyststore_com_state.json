@@ -2216,9 +2216,9 @@
     "amount": 3600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-2105_0ccb3cf2-e789-4672-8cca-0e61161d5054.jpg?v=1703849566",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/pearl-studs?variant=gid://shopify/ProductVariant/42018690695395",
-    "stock": 0,
+    "stock": 10,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42073113264355": {
