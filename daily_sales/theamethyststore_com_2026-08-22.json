@@ -160,5 +160,41 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/taahira-nagas-pendant?variant=gid://shopify/ProductVariant/47806529732835",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-3142_ae4b10e8-a335-494b-96c0-f20476f09ab5.jpg?v=1778312850"
+  },
+  {
+    "timestamp_ist": "2026-08-22 13:57:59",
+    "product_title": "Sheila Kundan Studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/45478885294307",
+    "sku": "AMS-106-6616",
+    "price": 11795.0,
+    "variant_price": 11795.0,
+    "product_price": 11795.0,
+    "amount": 11795.0,
+    "total_price": 11795.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.theamethyststore.com/products/sheila-kundan-studs?variant=gid://shopify/ProductVariant/45478885294307",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-6616_1.jpg?v=1725447602"
+  },
+  {
+    "timestamp_ist": "2026-08-22 13:57:59",
+    "product_title": "Elisha Short Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47570760007907",
+    "sku": "AMS-102-12847",
+    "price": 84613.0,
+    "variant_price": 84613.0,
+    "product_price": 84613.0,
+    "amount": 84613.0,
+    "total_price": 84613.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/elisha-short-necklace-1?variant=gid://shopify/ProductVariant/47570760007907",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-12847_10e0833a-af3d-4256-9fa4-e01a9c996b23.jpg?v=1768908543"
   }
 ]
