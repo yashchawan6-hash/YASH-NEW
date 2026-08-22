@@ -13710,8 +13710,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
-    "stock": 24,
-    "last_alerted_stock": 24
+    "stock": 20,
+    "last_alerted_stock": 20
   },
   "gid://shopify/ProductVariant/43971136225507": {
     "product_title": "Pragin Jhumkhas",
@@ -17300,9 +17300,10 @@
     "amount": 114444.9,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5477-_2.jpg?v=1742653761",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/kaynee-long-necklace?variant=gid://shopify/ProductVariant/44352254312675",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44352546373859": {
     "product_title": "Rupani Nagas Pair Bangle",
@@ -20959,9 +20960,10 @@
     "amount": 73612.8,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6010-_3.jpg?v=1742453553",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/rutvin-short-necklace?variant=gid://shopify/ProductVariant/45005721600227",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45005836648675": {
     "product_title": "Petunia Nagas Short Necklace",
