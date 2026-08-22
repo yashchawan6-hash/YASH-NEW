@@ -3205,9 +3205,10 @@
     "amount": 54000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-2549.jpg?v=1645376860",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/devi-bead-choker-1?variant=gid://shopify/ProductVariant/42509785530595",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42509796016355": {
     "product_title": "Prakasha Kundan Necklace",
@@ -18815,9 +18816,10 @@
     "amount": 15488.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/106-5560.jpg?v=1751890652",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/pranith-avikam-earrings?variant=gid://shopify/ProductVariant/44461947289827",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44470376497379": {
     "product_title": "Angana Oxidized Choker",
@@ -44046,7 +44048,7 @@
     "amount": 16007.66,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8063.jpg?v=1745309236",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/grand-look-oxidised-earrings?variant=gid://shopify/ProductVariant/46291178062051",
     "stock": 1
   },
@@ -117006,7 +117008,7 @@
     "amount": 9350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1915.jpg?v=1767705456",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/vaishakha-kundan-ring?variant=gid://shopify/ProductVariant/47798722986211",
     "stock": 1
   },
@@ -135160,7 +135162,7 @@
     "amount": 7760.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12960.jpg?v=1770699977",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dhishya-kundan-studs?variant=gid://shopify/ProductVariant/48095258738915",
     "stock": 1
   },

@@ -250,5 +250,41 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/rutvin-short-necklace?variant=gid://shopify/ProductVariant/45005721600227",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-6010-_3.jpg?v=1742453553"
+  },
+  {
+    "timestamp_ist": "2026-08-22 15:43:17",
+    "product_title": "Devi Bead Choker",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42509785530595",
+    "sku": "AMS-102-2549",
+    "price": 54000.0,
+    "variant_price": 54000.0,
+    "product_price": 54000.0,
+    "amount": 54000.0,
+    "total_price": 54000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/devi-bead-choker-1?variant=gid://shopify/ProductVariant/42509785530595",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-102-2549.jpg?v=1645376860"
+  },
+  {
+    "timestamp_ist": "2026-08-22 15:43:17",
+    "product_title": "Pranith Avikam Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44461947289827",
+    "sku": "AMS-106-5560",
+    "price": 15488.0,
+    "variant_price": 15488.0,
+    "product_price": 15488.0,
+    "amount": 15488.0,
+    "total_price": 15488.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/pranith-avikam-earrings?variant=gid://shopify/ProductVariant/44461947289827",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/106-5560.jpg?v=1751890652"
   }
 ]
