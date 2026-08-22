@@ -45509,7 +45509,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/NR-EAR1A.jpg?v=1747991474",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-navratna-earrings-nr-ear1?variant=gid://shopify/ProductVariant/47003759313119",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47013528600799": {
     "product_title": "Gold-Plated Navratna Jadau Kundan Circular Stud Earrings - NR-EAR1",
@@ -45561,7 +45561,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/NR-EAR4LGR.jpg?v=1748260392",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-navratna-earrings-nr-ear4?variant=gid://shopify/ProductVariant/47011332849887",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47000125145311": {
     "product_title": "Gold-Plated Faux Polki Kundan Stud Earrings - PK-E118",
@@ -45578,7 +45578,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E118M.jpg?v=1747901506",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e118?variant=gid://shopify/ProductVariant/47000125145311",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47000127045855": {
     "product_title": "Gold-Plated Faux Polki Kundan Stud Earrings - PK-E118",
@@ -45612,7 +45612,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E118MA.jpg?v=1748259948",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e118?variant=gid://shopify/ProductVariant/47011322724575",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47013532991711": {
     "product_title": "Gold-Plated Faux Polki Kundan Stud Earrings - PK-E118",
@@ -45716,7 +45716,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-E139A.jpg?v=1748603433",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-thappa-jadau-kundan-earrings-tj-e139gr?variant=gid://shopify/ProductVariant/47024766091487",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47000149917919": {
     "product_title": "Green Color Gold Plated Temple Nosering with Kundan - TMPNTH40GRA",
@@ -46297,7 +46297,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2488Y-2.jpg?v=1749883173",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/maroon-color-gold-plated-jadau-kundan-necklace-set-ms2488m?variant=gid://shopify/ProductVariant/47058719768799",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47003681554655": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Necklace Set with Peacock and Flower Motifs - MS2491M",
@@ -83246,7 +83246,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-T63GR.jpg?v=1774332649",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-maangteeka-pk-t63?variant=gid://shopify/ProductVariant/48676540743903",
-    "stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/48679795097823": {
     "product_title": "Dark Green & Dark Pink Gold-Plated Faux Polki Small Maang Teeka - PK-T63",
@@ -83263,7 +83264,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-T63R.jpg?v=1774440610",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-maangteeka-pk-t63?variant=gid://shopify/ProductVariant/48679795097823",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48676551655647": {
     "product_title": "White Gold-Plated Faux Polki Kundan Braid Hair Accessory - PK-HA10",
@@ -83677,7 +83679,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB268WP-2.jpg?v=1774352977",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pink-color-gold-plated-jadau-kundan-bangles-set-of-6-mb268wp?variant=gid://shopify/ProductVariant/48677275533535",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48677275566303": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Bangle Set of 6 - MB268WP",
@@ -84057,8 +84060,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E174.jpg?v=1774434003",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e174?variant=gid://shopify/ProductVariant/48679707574495",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48679708950751": {
     "product_title": "Gold-Plated Faux-Polki Kundan Dangler Earrings with Flower Motif and Pearl Drop - PK-E175",
@@ -87530,7 +87533,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB273MA.jpg?v=1775197657",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bangle-1-piece-mb273?variant=gid://shopify/ProductVariant/48786012897503",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48786025054431": {
     "product_title": "Gold-Plated Jadau Kundan Bangle (1 Piece) with Screw Fastening - MB273",
@@ -87581,7 +87585,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB273W.jpg?v=1775197657",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bangle-1-piece-mb273?variant=gid://shopify/ProductVariant/48786083709151",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48786099142879": {
     "product_title": "Gold-Plated Jadau Kundan Bangle (1 Piece) with Screw Fastening - MB273",
@@ -87649,7 +87654,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S218WP-2.jpg?v=1775206847",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s218?variant=gid://shopify/ProductVariant/48786223923423",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/48786366103775": {
     "product_title": "Multicolor Gold-Plated Mishr Princess Necklace Set with Jadau Kundan, Flower and Lotus Motifs - MR-S1071",
@@ -91640,7 +91646,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZEAR641RG.jpg?v=1776433005",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/white-color-faux-diamond-earrings-czear641?variant=gid://shopify/ProductVariant/48946214207711",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48946231738591": {
     "product_title": "White Color Faux Diamond Earrings with Diamante - CZEAR641",
@@ -101596,7 +101602,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2950-2.jpg?v=1780906342",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2950?variant=gid://shopify/ProductVariant/50088580415711",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50088594931935": {
     "product_title": "Gold-Plated Jadau Kundan Choker Necklace Set with Moon Motif - MS2950",
@@ -103199,7 +103205,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2951M-2.jpg?v=1781522837",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2951?variant=gid://shopify/ProductVariant/50117076091103",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50542042022111": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motifs - MS2951",
@@ -103233,8 +103239,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-RNG32_3457622e-7ecc-4c22-a110-cab70465b563.jpg?v=1781523976",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-ring-mo-rng32?variant=gid://shopify/ProductVariant/50117115183327",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50117173248223": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Adjustable Ring - MRNG281MA",
@@ -103269,8 +103275,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG284M.jpg?v=1781524550",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-ring-mrng284m?variant=gid://shopify/ProductVariant/50117208375519",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50117236687071": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Ring - MRNG285M",
@@ -103377,7 +103383,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG286ME.jpg?v=1781524992",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng286?variant=gid://shopify/ProductVariant/50117335220447",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50123201675487": {
     "product_title": "Gold-Plated Jadau Kundan Adjustable Ring with Floral Kundan Setting - MRNG286",
@@ -103428,7 +103435,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG288MA.jpg?v=1781526681",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng288?variant=gid://shopify/ProductVariant/50117469798623",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50117469765855": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Adjustable Ring with Kundan Stone Setting - MRNG288",
@@ -103463,7 +103470,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG288MC.jpg?v=1781526681",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng288?variant=gid://shopify/ProductVariant/50117469831391",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50117469864159": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Adjustable Ring with Kundan Stone Setting - MRNG288",
@@ -103497,7 +103505,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG289M.jpg?v=1781526969",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng289?variant=gid://shopify/ProductVariant/50117473272031",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50117473304799": {
     "product_title": "Gold-Plated Jadau Kundan Adjustable Ring with Silver-Foiled Stone Setting - MRNG289",
@@ -103514,7 +103522,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG289MA.jpg?v=1781526970",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng289?variant=gid://shopify/ProductVariant/50117473304799",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50117473370335": {
     "product_title": "Gold-Plated Jadau Kundan Adjustable Ring with Silver-Foiled Stone Setting - MRNG289",
@@ -103600,7 +103608,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG290M.jpg?v=1781527393",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng290?variant=gid://shopify/ProductVariant/50117507154143",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50117507186911": {
     "product_title": "Gold-Plated Jadau Kundan Adjustable Ring - MRNG290",
@@ -103706,7 +103714,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG291MA.jpg?v=1781527717",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng291?variant=gid://shopify/ProductVariant/50117510267103",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50117510299871": {
     "product_title": "Gold-Plated Jadau Kundan Ring - MRNG291",
@@ -103811,7 +103819,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBR22M-2.jpg?v=1781677597",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mbr22?variant=gid://shopify/ProductVariant/50123012735199",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50123013718239": {
     "product_title": "Gold-Plated Jadau Kundan Borla Maang Tikka with Floral Kundan Setting - MBR22",
