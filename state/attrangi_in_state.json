@@ -352,8 +352,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/cluster-of-marquise-with-pearl-drop-attrangi-1.jpg?v=1739812501",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/cluster-of-marquise-with-pearl-drop?variant=gid://shopify/ProductVariant/40411662319785",
-    "stock": 5,
-    "last_alerted_stock": 0
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40411662516393": {
     "product_title": "Pearl Drop Floral Diamond Studs",
@@ -956,10 +956,10 @@
     "amount": 2450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-03-13at12.11.47AM.jpg?v=1739812566",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/tania-diamond-kadha?variant=gid://shopify/ProductVariant/43106541863124",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411672576169": {
     "product_title": "10 Cent Staple Diamond Tennis Bracelet | 3mm",
@@ -59601,23 +59601,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM.jpg?v=1787312880",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788988116",
-    "stock": -1
-  },
-  "gid://shopify/ProductVariant/48512788955348": {
-    "product_title": "Selfridge Diamond Coloured Studs",
-    "product_handle": "selfridge-diamond-coloured-studs",
-    "variant_id": "gid://shopify/ProductVariant/48512788955348",
-    "global_id": "gid://shopify/ProductVariant/48512788955348",
-    "variant_title": "Blue",
-    "sku": "SM6750B-ER",
-    "price": 2350.0,
-    "variant_price": 2350.0,
-    "product_price": 2350.0,
-    "amount": 2350.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-21at1.08.10AM_1.jpg?v=1787312880",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48512788955348",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48518327894228": {
