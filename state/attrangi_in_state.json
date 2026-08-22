@@ -350,9 +350,9 @@
     "amount": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/cluster-of-marquise-with-pearl-drop-attrangi-1.jpg?v=1739812501",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/cluster-of-marquise-with-pearl-drop?variant=gid://shopify/ProductVariant/40411662319785",
-    "stock": 0,
+    "stock": 5,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411662516393": {
@@ -1603,9 +1603,9 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/uncut-polki-rudra-ruby-and-emerald-ring-attrangi-1.jpg?v=1739812807",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/uncut-polki-ruby-and-emerald-ring?variant=gid://shopify/ProductVariant/40411692433577",
-    "stock": 0,
+    "stock": 5,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411692761257": {
@@ -59482,7 +59482,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.27.25_PM.jpg?v=1786969581",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404508372",
     "stock": 9
   },
