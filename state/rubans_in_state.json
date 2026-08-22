@@ -9859,9 +9859,9 @@
     "amount": 938.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE57MS404255-model.jpg?v=1767159674",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rose-gold-plated-cubic-zirconia-studded-mangalsutra?variant=gid://shopify/ProductVariant/45315713433774",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45315728146606": {
@@ -34142,7 +34142,7 @@
     "amount": 1516.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-emerald-green-white-cubic-zirconia-studded-leaf-motif-necklace-set-for-women-jewellery-set-1203270173.jpg?v=1770208402",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-emerald-green-white-cubic-zirconia-studded-dual-layered-necklace-set-for-women-copy?variant=gid://shopify/ProductVariant/46395006877870",
     "stock": 1,
     "last_alerted_stock": 0
