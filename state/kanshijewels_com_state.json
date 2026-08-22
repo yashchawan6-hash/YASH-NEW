@@ -21432,9 +21432,9 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaupendant2650.jpg?v=1766064218",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-pendant-6?variant=gid://shopify/ProductVariant/52441958940972",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/52441959596332": {
     "product_title": "Jadau pendant",
@@ -24386,7 +24386,7 @@
     "amount": 3600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Jadaugandaberundapendant3100.jpg?v=1778133779",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/jadau-gandaberunda-pendant?variant=gid://shopify/ProductVariant/53180547465516",
     "stock": 0,
     "last_alerted_stock": 0
