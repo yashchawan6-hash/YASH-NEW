@@ -2830,7 +2830,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP02168copy.jpg?v=1746169054",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mani-bandha-bangles?variant=gid://shopify/ProductVariant/52263721697577",
-    "stock": 9,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50282935583017": {
@@ -21591,9 +21591,9 @@
     "amount": 22015.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2249_resized.jpg?v=1769154660",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ovalmera-bangles?variant=gid://shopify/ProductVariant/52263740440873",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52290947580201": {
@@ -76806,7 +76806,7 @@
     "amount": 24140.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_29May1696_resized.jpg?v=1782199769",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/curve-stone-bangles?variant=gid://shopify/ProductVariant/53283925917993",
     "stock": 1
   },
