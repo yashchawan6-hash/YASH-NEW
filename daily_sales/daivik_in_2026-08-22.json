@@ -484,5 +484,41 @@
     "curr_stock": 8,
     "url": "https://www.daivik.in/products/simple-ghungroo-box-anklets?variant=gid://shopify/ProductVariant/44626224054494",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_d775e362-7320-45bd-a85a-ee87fd54d9d1.jpg?v=1703433466"
+  },
+  {
+    "timestamp_ist": "2026-08-22 11:17:53",
+    "product_title": "Ghungroo Hipbelt in 2 variants",
+    "variant_title": "White pearl",
+    "variant_id": "gid://shopify/ProductVariant/42121213542622",
+    "sku": "967",
+    "price": 2099.0,
+    "variant_price": 2099.0,
+    "product_price": 2099.0,
+    "amount": 2099.0,
+    "total_price": 2099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.daivik.in/products/ghungroo-hipbelt-in-2-variants?variant=gid://shopify/ProductVariant/42121213542622",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_efab9419-4484-40ab-9847-0bac9e77167f.jpg?v=1638111829"
+  },
+  {
+    "timestamp_ist": "2026-08-22 11:17:53",
+    "product_title": "AD Antique Gold Finish Lakshmi Hipbelt",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/43057931223262",
+    "sku": "581",
+    "price": 5999.0,
+    "variant_price": 5999.0,
+    "product_price": 5999.0,
+    "amount": 5999.0,
+    "total_price": 5999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.daivik.in/products/a-144?variant=gid://shopify/ProductVariant/43057931223262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_89a651cf-4620-421f-9548-1b0208432112.heic?v=1656949035"
   }
 ]

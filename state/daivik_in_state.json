@@ -4320,10 +4320,10 @@
     "amount": 2099.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_efab9419-4484-40ab-9847-0bac9e77167f.jpg?v=1638111829",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ghungroo-hipbelt-in-2-variants?variant=gid://shopify/ProductVariant/42121213542622",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42121223176414": {
     "product_title": "Ghungroo Hipbelt in 2 variants",
@@ -8083,8 +8083,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_89a651cf-4620-421f-9548-1b0208432112.heic?v=1656949035",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-144?variant=gid://shopify/ProductVariant/43057931223262",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/43057984766174": {
     "product_title": "Antique Gold Finish Lakshmi Hipbelt",
@@ -23887,7 +23887,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG-7171.heic?v=1723817414",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ganesha-textured-hipbelt?variant=gid://shopify/ProductVariant/45813241708766",
-    "stock": 6,
+    "stock": 15,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/45813244985566": {
@@ -24608,7 +24608,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/1BFD7312-DC7F-4913-8069-C828D5725142.jpg?v=1726894974",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-with-studs?variant=gid://shopify/ProductVariant/45905761435870",
-    "stock": 0,
+    "stock": 41,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45906896847070": {
@@ -34830,7 +34830,7 @@
     "amount": 1299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/rn-image_picker_lib_temp_5df87eca-eb77-47a2-bf7a-d5abb9272ce3.jpg?v=1745770753",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/simple-antique-thin-hipchain-in-5-variants-price-for-each?variant=gid://shopify/ProductVariant/46643685261534",
     "stock": 1,
     "last_alerted_stock": 1
@@ -47709,7 +47709,7 @@
     "amount": 249.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_7495.heic?v=1763301107",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/real-look-alike-foam-handmade-malli-pink-shade-u-pin-price-for-1-pc?variant=gid://shopify/ProductVariant/47686674022622",
     "stock": 0
   },
@@ -49212,7 +49212,7 @@
     "amount": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0552_04a5edd7-a391-4a36-9175-6525cd25db9c.jpg?v=1766939592",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/elegant-jasmine-mullai-flower-artificial-gajra-4-inch?variant=gid://shopify/ProductVariant/47787811897566",
     "stock": -1
   },
@@ -50961,7 +50961,7 @@
     "amount": 1399.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_3103.heic?v=1770826395",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/mullai-with-kanakamaram-flower-reusable-gajra?variant=gid://shopify/ProductVariant/47892001521886",
     "stock": 0
   },
