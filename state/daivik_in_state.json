@@ -19489,9 +19489,10 @@
     "amount": 3099.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DB2A28C0-E0A4-4E85-8E8A-0A6AB5A372A0.jpg?v=1707145842",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/flower-antique-rubygreen-necklace-with-earrings?variant=gid://shopify/ProductVariant/44759762174174",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44759762206942": {
     "product_title": "Flower Antique RubyGreen Necklace with Earrings",
