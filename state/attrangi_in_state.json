@@ -4681,9 +4681,10 @@
     "amount": 5650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/haathi-gold-kada-attrangi-3.jpg?v=1739813433",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/haathi-gold-kada?variant=gid://shopify/ProductVariant/48355270459604",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42753327890644": {
     "product_title": "Haathi Gold Kada",
