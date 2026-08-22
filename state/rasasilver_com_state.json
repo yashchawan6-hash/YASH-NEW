@@ -5403,9 +5403,9 @@
     "amount": 3485.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.12.30PM.jpg?v=1785758522",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/viraasat-manglsutra-set?variant=gid://shopify/ProductVariant/50388444119337",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50389424734505": {
@@ -7591,8 +7591,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-4_fa47e820-d992-4a21-9676-4bf4a013aa89.jpg?v=1754311672",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ovalor-ring?variant=gid://shopify/ProductVariant/51472177692969",
-    "stock": 10,
-    "last_alerted_stock": 7
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/51472177725737": {
     "product_title": "Ovalor Stone Ring",
@@ -7663,8 +7663,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-2_9d00c181-eb9e-464c-bd8a-0afd9468581b.jpg?v=1754311253",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/51471916826921": {
     "product_title": "Smaragda Spark Ring",
@@ -7681,8 +7681,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot_2025-11-04_at_12.38.37_PM_e50c5348-a1a4-4aed-9415-cbbae481ad08.png?v=1769155216",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916826921",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/50635383046441": {
     "product_title": "Phool Patra Ring",
@@ -18491,9 +18491,10 @@
     "amount": 1700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0073_copy.jpg?v=1761283433",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ring-21?variant=gid://shopify/ProductVariant/52291044311337",
-    "stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51350170435881": {
     "product_title": "Ruvanya Stone Ring",
@@ -79382,7 +79383,7 @@
     "amount": 2635.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0694_resized.jpg?v=1783590985",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/stone-gleam-ring?variant=gid://shopify/ProductVariant/53290729341225",
     "stock": 1,
     "last_alerted_stock": 0
