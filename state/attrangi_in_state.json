@@ -11006,7 +11006,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/angoori-diamond-openable-kada-with-pearls-or-bangle-attrangi-3.jpg?v=1739815290",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/angoori-diamond-openable-kada-with-pearls-bangle?variant=gid://shopify/ProductVariant/44071252984020",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44071253377236": {
     "product_title": "Angoori Diamond Openable Kada with Pearls | Bangle",
@@ -15853,9 +15854,10 @@
     "amount": 4950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/snowlyn-pearl-and-diamond-choker-attrangi-1.jpg?v=1739816388",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/snowlyn-pearl-and-diamond-choker?variant=gid://shopify/ProductVariant/45005934526676",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45017228148948": {
     "product_title": "Free Bird Indo Western Diamond Earrings",
