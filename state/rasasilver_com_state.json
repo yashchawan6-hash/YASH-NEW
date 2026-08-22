@@ -4092,9 +4092,10 @@
     "amount": 95000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP03694copy.jpg?v=1750154970",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ere?variant=gid://shopify/ProductVariant/50325061927209",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52290992013609": {
     "product_title": "Infinity Twins Bangles",
@@ -58235,7 +58236,7 @@
     "amount": 26945.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_21Feb5325_resized.jpg?v=1772543565",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pearika-kundan-necklace?variant=gid://shopify/ProductVariant/52752695197993",
     "stock": 1
   },
