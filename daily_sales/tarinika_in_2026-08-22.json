@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp_ist": "2026-08-22 08:41:57",
+    "product_title": "Ritu Antique Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52393499787632",
+    "sku": "TER0001XCC",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.in/products/ritu-antique-rakhi?variant=gid://shopify/ProductVariant/52393499787632",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0001XAY.jpg?v=1752149529"
+  },
+  {
+    "timestamp_ist": "2026-08-22 08:41:57",
+    "product_title": "Vira Antique Rakhi",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52393501720944",
+    "sku": "TER0012XGC",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.tarinika.in/products/vira-antique-rakhi?variant=gid://shopify/ProductVariant/52393501720944",
+    "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0012XGY_38a90562-91a6-42c5-8591-ed8625d41b87.jpg?v=1752149537"
+  }
+]

@@ -22082,7 +22082,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0001XAY.jpg?v=1752149529",
     "available_for_sale": false,
     "url": "https://www.tarinika.in/products/ritu-antique-rakhi?variant=gid://shopify/ProductVariant/52393499787632",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52393501720944": {
     "product_title": "Vira Antique Rakhi",
@@ -22099,7 +22100,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0232/5737/files/TER0012XGY_38a90562-91a6-42c5-8591-ed8625d41b87.jpg?v=1752149537",
     "available_for_sale": true,
     "url": "https://www.tarinika.in/products/vira-antique-rakhi?variant=gid://shopify/ProductVariant/52393501720944",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/52394159833456": {
     "product_title": "Shrishti Beaded Antique Rakhi",
