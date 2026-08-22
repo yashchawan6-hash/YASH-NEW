@@ -55374,7 +55374,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRAC36FP.jpg?v=1784542635",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bracelet-1-piece-mhp188?variant=gid://shopify/ProductVariant/47081893036255",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47081894576351": {
     "product_title": "Gold-Plated Jadau Kundan Gold Belt Bracelet in Six Colourways - MBRAC36",
@@ -80233,7 +80233,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT559M.jpg?v=1772018902",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-maangteeka-mt559?variant=gid://shopify/ProductVariant/48545942307039",
-    "stock": -1
+    "stock": 10
   },
   "gid://shopify/ProductVariant/48545945288927": {
     "product_title": "Dark Green Gold-Plated Faux Polki Bridal Necklace Set with Kundan Setting - PK-S157GR",
@@ -81555,7 +81555,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MKS109.jpg?v=1773044116",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-silver-plated-earchains-mks109?variant=gid://shopify/ProductVariant/48575987581151",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/48575996985567": {
     "product_title": "White Gold-Plated Jadau Kundan Earchains - MKS110",
@@ -81640,7 +81641,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC67BL-2.jpg?v=1774008953",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-faux-diamond-brooch-mbrc67bl?variant=gid://shopify/ProductVariant/48670203216095",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48670209310943": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC68",
@@ -81657,7 +81659,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC68_2.jpg?v=1775287093",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc68?variant=gid://shopify/ProductVariant/48670209310943",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670212063455": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC68",
@@ -81742,7 +81744,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC78GR_2.jpg?v=1775293228",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc78?variant=gid://shopify/ProductVariant/48670216519903",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48807192592607": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC78",
@@ -81793,7 +81795,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC78-2.jpg?v=1775293096",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc78?variant=gid://shopify/ProductVariant/48807265403103",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670226645215": {
     "product_title": "White Color Gold Plated Faux Diamond Men's Brooch - MBRC70",
@@ -81827,7 +81829,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC71-2.jpg?v=1774010703",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc71?variant=gid://shopify/ProductVariant/48670227431647",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670227398879": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC71",
@@ -81844,7 +81846,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC71BL_2.jpg?v=1775290920",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc71?variant=gid://shopify/ProductVariant/48670227398879",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670227464415": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC71",
@@ -81861,7 +81863,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC71GR_1.jpg?v=1775291029",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc71?variant=gid://shopify/ProductVariant/48670227464415",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670231560415": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC71",
@@ -81878,7 +81880,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC71LP_2.jpg?v=1775291280",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc71?variant=gid://shopify/ProductVariant/48670231560415",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670231724255": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC71",
@@ -81929,7 +81931,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC73GR_2.jpg?v=1775291644",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc73?variant=gid://shopify/ProductVariant/48670255546591",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48806787547359": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC73",
@@ -81963,7 +81965,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC74GR.jpg?v=1775291904",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc74?variant=gid://shopify/ProductVariant/48670258659551",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670259544287": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC74",
@@ -81980,7 +81982,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC74R-2.jpg?v=1775291904",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc74?variant=gid://shopify/ProductVariant/48670259544287",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48806872219871": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC74",
@@ -82031,7 +82033,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC75R.jpg?v=1776754143",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc75?variant=gid://shopify/ProductVariant/48670260592863",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50013542252767": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC75",
@@ -82065,7 +82067,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC77-2.jpg?v=1775292621",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/faux-diamond-brooch-mbrc77?variant=gid://shopify/ProductVariant/48670270882015",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48807031570655": {
     "product_title": "Faux Diamond Men's Brooch - MBRC77",
@@ -82099,7 +82101,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC79GR.jpg?v=1775295381",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc79?variant=gid://shopify/ProductVariant/48670272848095",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670272880863": {
     "product_title": "Gold Plated Faux Diamond Men's Brooch - MBRC79",
@@ -82133,7 +82135,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MBRC79-2.jpg?v=1775556373",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-brooch-mbrc79?variant=gid://shopify/ProductVariant/48808077754591",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/48670276255967": {
     "product_title": "Faux Diamond Brooch - MBRC80",
@@ -82372,7 +82374,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CZEAR634LGR.jpg?v=1774245471",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-diamond-earrings-czear634?variant=gid://shopify/ProductVariant/48674685616351",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48674686468319": {
     "product_title": "Gold Plated Faux Diamond Earrings with Mixed - CZEAR634",
@@ -96165,7 +96168,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2925MA-2.jpg?v=1778761265",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2925?variant=gid://shopify/ProductVariant/49175419191519",
-    "stock": 0
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/49175423221983": {
     "product_title": "Dark Green Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motif - MS2934",
@@ -96182,7 +96185,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS2934WGR-2.jpg?v=1778761868",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-set-ms2934?variant=gid://shopify/ProductVariant/49175423221983",
-    "stock": 0
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/49175453008095": {
     "product_title": "Multicolor Gold-Plated Mishr Dangler Earrings with Kundan and Meenakari - MR-E341",
@@ -96199,7 +96202,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-E341M.jpg?v=1778762940",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-mishr-earrings-mr-e341?variant=gid://shopify/ProductVariant/49175453008095",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49176789123295": {
@@ -96217,7 +96220,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC202M.jpg?v=1778821183",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-mishr-bracelet-1-piece-mr-brac202?variant=gid://shopify/ProductVariant/49176789123295",
-    "stock": 0,
+    "stock": 4,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49217679458527": {
@@ -96235,7 +96238,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-BRAC202MA.png?v=1779104191",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-mishr-bracelet-1-piece-mr-brac202?variant=gid://shopify/ProductVariant/49217679458527",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49176797872351": {
@@ -105058,8 +105061,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB286.jpg?v=1782891431",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-bangles-one-pair-mb286?variant=gid://shopify/ProductVariant/50509203472607",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/50509255114975": {
     "product_title": "Gold Plated Temple Bangles (One Pair) - MB286",
@@ -105146,7 +105149,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB288.jpg?v=1782892883",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/pink-color-gold-plated-jadau-kundan-bangles-one-pair-mb288?variant=gid://shopify/ProductVariant/50509262684383",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50509262717151": {
     "product_title": "Gold-Plated Pearl Gajra Bangle Pair with Pink Kundan Accent - MB288",
@@ -105370,8 +105373,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MHP303M.jpg?v=1782897532",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-hathphool-1-piece-mhp303m?variant=gid://shopify/ProductVariant/50509513031903",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/50509533872351": {
     "product_title": "Multicolor Gold Plated Jadau Kundan Hathphool (1 Piece) - MHP303YP",
@@ -108248,7 +108251,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG306.jpg?v=1783614742",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng306?variant=gid://shopify/ProductVariant/50544417571039",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50544420487391": {
@@ -108266,7 +108269,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG307.jpg?v=1783614861",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng307?variant=gid://shopify/ProductVariant/50544420487391",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/50544425074911": {
     "product_title": "Gold-Plated Jadau Kundan Ring with Red Meenakari Centre - MRNG308",
@@ -108283,7 +108287,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG308.jpg?v=1783615023",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng308?variant=gid://shopify/ProductVariant/50544425074911",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50544426942687": {
     "product_title": "Red Meenakari Heart Ring with Jadau Kundan - MRNG309",
@@ -108318,8 +108323,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG310M.jpg?v=1783615272",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-ring-mrng310m?variant=gid://shopify/ProductVariant/50544431104223",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50544437952735": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Passa with Floral Motif and Pearl Drops - MP102M",
@@ -108506,7 +108511,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/ME1588M.jpg?v=1784110977",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-earring-me1588m?variant=gid://shopify/ProductVariant/50571316625631",
-    "stock": 3,
+    "stock": 4,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50571327406303": {
@@ -108541,7 +108546,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MN695R.jpg?v=1784111398",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-mala-mn695?variant=gid://shopify/ProductVariant/50571327504607",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50571327602911": {
     "product_title": "Gold-Plated Jadau Kundan Necklace/Mala - MN695",
@@ -108558,7 +108563,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MN695M.jpg?v=1784111398",
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-necklace-mala-mn695?variant=gid://shopify/ProductVariant/50571327602911",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/50571356209375": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Choker Necklace Set with Floral Motif - MS2393M",
@@ -110816,7 +110821,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3017YBL-2.jpg?v=1784629084",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/blue-color-gold-plated-jadau-kundan-necklace-set-ms3017ybl?variant=gid://shopify/ProductVariant/50588746776799",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50588748775647": {
     "product_title": "Green Color Gold Plated Jadau Kundan Necklace Set - MS3017YGR",
@@ -110833,7 +110838,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3017YGR-2.jpg?v=1784629199",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-necklace-set-ms3017ygr?variant=gid://shopify/ProductVariant/50588748775647",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50588748972255": {
     "product_title": "Orange Color Gold Plated Jadau Kundan Necklace Set - MS3017YOR",
@@ -110850,7 +110855,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3017YOR-2.jpg?v=1784629328",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/orange-color-gold-plated-jadau-kundan-necklace-set-ms3017yor?variant=gid://shopify/ProductVariant/50588748972255",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50588749955295": {
     "product_title": "Green Color Gold Plated Jadau Kundan Maangteeka - MT434",
@@ -110867,7 +110872,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT434.jpg?v=1784629560",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-jadau-kundan-maangteeka-mt434?variant=gid://shopify/ProductVariant/50588749955295",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50588751364319": {
     "product_title": "Multicolor Gold Plated Jadau Kundan Maangteeka - MT585M",
@@ -110884,7 +110889,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT585M.jpg?v=1784629849",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-maangteeka-mt585m?variant=gid://shopify/ProductVariant/50588751364319",
-    "stock": -1
+    "stock": 4
   },
   "gid://shopify/ProductVariant/50588753232095": {
     "product_title": "Multicolor Gold Plated Jadau Kundan Maangteeka - MT589M",
@@ -110901,7 +110906,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT589M-1.jpg?v=1785042126",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-maangteeka-mt589m?variant=gid://shopify/ProductVariant/50588753232095",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50588753821919": {
     "product_title": "White Color Gold Plated Jadau Kundan Maangteeka - MT593",
@@ -110918,7 +110923,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MT593.jpg?v=1784630321",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-maangteeka-mt593?variant=gid://shopify/ProductVariant/50588753821919",
-    "stock": -1
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50588757885151": {
     "product_title": "White Color Gold Plated Jadau Kundan Waist Belt / Kamarbandh - MWB40Y",
@@ -110935,7 +110940,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MWB40Y-2.jpg?v=1784630597",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-waist-belt-kamarbandh-mwb40y?variant=gid://shopify/ProductVariant/50588757885151",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50588786819295": {
     "product_title": "Multicolor Gold Plated Temple Necklace - TMPNK26",
@@ -110952,7 +110957,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPNK26.jpg?v=1784632049",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-temple-necklace-tmpnk26?variant=gid://shopify/ProductVariant/50588786819295",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50588795371743": {
     "product_title": "Multicolor Gold-Plated Pichwai Inspired Necklace Set - TN-S26M",
@@ -110969,7 +110974,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TN-S26M.jpg?v=1784633425",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-pichwai-inspired-necklace-set-tn-s26m?variant=gid://shopify/ProductVariant/50588795371743",
-    "stock": -1
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/50588798484703": {
     "product_title": "Green Gold-Plated Victorian Necklace Set with Kundan Pendant and Bead Strands - VC-S6GR",
