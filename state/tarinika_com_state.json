@@ -18275,9 +18275,10 @@
     "amount": 84.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0006N.jpg?v=1700658694",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/helia-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40548246618178",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40617116467266": {
     "product_title": "Aatreyi Nakshatra CZ Jhumka Earrings",
