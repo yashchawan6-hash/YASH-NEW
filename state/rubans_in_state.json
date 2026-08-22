@@ -10535,9 +10535,9 @@
     "amount": 1078.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-emerald-green-stone-studded-traditional-handcrafted-bangle-bangles-bracelets-1151970256.jpg?v=1767509253",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/22k-gold-plated-emerald-stone-studded-set-of-2-bangles?variant=gid://shopify/ProductVariant/47084618940590",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084618973358": {
@@ -11023,8 +11023,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13V404943_1d2bda79-6ff6-4e4b-a7bc-b9348d02e86d.jpg?v=1774856727",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-premium-22k-gold-plated-ad-zirconia-studded-openable-bangle-style-bracelet-with-charms?variant=gid://shopify/ProductVariant/45608533950638",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45649082745006": {
     "product_title": "Pink American Diamond Zirconia Studded Necklace Set",
@@ -13477,7 +13477,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02HB404482_Amzon_Model.jpg?v=1785244521",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-kundan-studded-pearl-beaded-hair-choti-braid-jewelry?variant=gid://shopify/ProductVariant/45782205497518",
-    "stock": 9,
+    "stock": 10,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/45782211330222": {
@@ -13651,8 +13651,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rhodium-plated-blue-sapphire-cubic-zirconia-studded-premium-jewelry-set-jewellery-set-37193448685742.jpg?v=1755717251",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rhodium-plated-blue-sapphire-cubic-zirconia-studded-premium-jewelry-set?variant=gid://shopify/ProductVariant/45786528743598",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46076922855598": {
     "product_title": "Chic Saphire Blue Necklace Set",
