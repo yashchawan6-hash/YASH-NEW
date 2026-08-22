@@ -5508,9 +5508,9 @@
     "amount": 1988.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-premium-aaa-crystal-cubic-zirconia-studded-triangular-drop-earrings-earrings-1151970246.jpg?v=1767159616",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-baugget-studded-baguette-earrings?variant=gid://shopify/ProductVariant/46074102677678",
-    "stock": 0
+    "stock": 10
   },
   "gid://shopify/ProductVariant/44090775404718": {
     "product_title": "Elegant Red Heart Charm Chain Necklace",
@@ -6027,8 +6027,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-aurora-s-golden-brilliance-zircon-jewellery-set-jewellery-sets-34471669072046.jpg?v=1755717759",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-auroras-golden-brilliance-zircon-jewellery-set-1?variant=gid://shopify/ProductVariant/44170651402414",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44170673389742": {
     "product_title": "Heritage Peacock Temple Jhumka",
