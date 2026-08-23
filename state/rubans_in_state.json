@@ -8029,7 +8029,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-6-antique-bangle-pearl-beaded-classy-bangles-bangles-bracelets-34874855784622.jpg?v=1774934011",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-6-antique-bangle-pearl-beaded-classy-bangles?variant=gid://shopify/ProductVariant/47084620087470",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/47084620120238": {
     "product_title": "Rubans Set of 6 Gold Plated Pearl & Stone Studded Traditional Handcrafted Bangles",
@@ -8169,7 +8170,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-artisan-crafted-oxidized-silver-plated-bangles-bangles-bracelets-35101509943470.jpg?v=1755721427",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-artisan-crafted-oxidized-silver-plated-bangles?variant=gid://shopify/ProductVariant/47084619759790",
-    "stock": 12,
+    "stock": 13,
     "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/47084619792558": {
@@ -9670,8 +9671,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22kt-gold-plated-stylish-pearl-studded-oval-link-design-choker-necklace-set-jewellery-set-1151160642.jpg?v=1765202342",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22kt-gold-plated-stylish-pearl-studded-oval-link-design-choker-necklace-set?variant=gid://shopify/ProductVariant/45173480521902",
-    "stock": 20,
-    "last_alerted_stock": 6
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/46076937732270": {
     "product_title": "Charming White Gold Plated Short Necklace Set",
@@ -45074,7 +45075,7 @@
     "amount": 1516.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE16NS409035_1.jpg?v=1769594380",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-lakshmi-motif-temple-choker-necklace-set-with-red-green-stones-and-golden-beads?variant=gid://shopify/ProductVariant/46937884754094",
     "stock": 4,
     "last_alerted_stock": 4
