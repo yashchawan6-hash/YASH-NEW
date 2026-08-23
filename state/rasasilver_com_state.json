@@ -42730,7 +42730,7 @@
     "amount": 31280.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan2960_resized.jpg?v=1769601020",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ovaria-cz-bangles?variant=gid://shopify/ProductVariant/52519813284137",
     "stock": 1
   },
@@ -80661,7 +80661,7 @@
     "amount": 14620.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun41324_resized.jpg?v=1783603213",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/temple-mop-chain?variant=gid://shopify/ProductVariant/53302493905193",
     "stock": -1
   },
