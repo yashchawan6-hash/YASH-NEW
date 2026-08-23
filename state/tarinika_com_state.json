@@ -1225,9 +1225,10 @@
     "amount": 29.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A6078A_copy_copy.jpg?v=1762531047",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/risva-nakshatra-cz-black-beads-necklace-set?variant=gid://shopify/ProductVariant/13853706158146",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/13856043401282": {
     "product_title": "Gitali Kundan Jhumka Earrings",
