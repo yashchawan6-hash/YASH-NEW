@@ -394,5 +394,41 @@
     "curr_stock": 3,
     "url": "https://www.theamethyststore.com/products/acacia-diamond-look-jhumkas?variant=gid://shopify/ProductVariant/44987778466019",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5871.jpg?v=1716018649"
+  },
+  {
+    "timestamp_ist": "2026-08-23 16:48:07",
+    "product_title": "Nishtha Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/43964187115747",
+    "sku": "AMS-102-4801",
+    "price": 49266.9,
+    "variant_price": 49266.9,
+    "product_price": 49266.9,
+    "amount": 49266.9,
+    "total_price": 49266.9,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/nishtha-necklace?variant=gid://shopify/ProductVariant/43964187115747",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4801.jpg?v=1692965090"
+  },
+  {
+    "timestamp_ist": "2026-08-23 16:48:07",
+    "product_title": "Fish Hook Back Chain",
+    "variant_title": "9 Inches",
+    "variant_id": "gid://shopify/ProductVariant/43970730000611",
+    "sku": "AMS-119-0001-ML",
+    "price": 4800.0,
+    "variant_price": 4800.0,
+    "product_price": 4800.0,
+    "amount": 4800.0,
+    "total_price": 4800.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 15,
+    "curr_stock": 14,
+    "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844"
   }
 ]

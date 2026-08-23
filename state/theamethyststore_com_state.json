@@ -13559,9 +13559,10 @@
     "amount": 49266.9,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-4801.jpg?v=1692965090",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/nishtha-necklace?variant=gid://shopify/ProductVariant/43964187115747",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43964189343971": {
     "product_title": "Nihari Necklace",
@@ -13715,8 +13716,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
-    "stock": 15,
-    "last_alerted_stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/43971136225507": {
     "product_title": "Pragin Jhumkhas",
