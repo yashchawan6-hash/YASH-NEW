@@ -26603,7 +26603,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_7.jpg?v=1787035578",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-23?variant=gid://shopify/ProductVariant/53714523455788",
-    "stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53714527289644": {
     "product_title": "Classic Jadau Earrings",
@@ -26620,7 +26621,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_6.jpg?v=1787035815",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-24?variant=gid://shopify/ProductVariant/53714527289644",
-    "stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53714530828588": {
     "product_title": "Classic Jadau Earrings",
@@ -26637,7 +26639,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_5.jpg?v=1787035950",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-25?variant=gid://shopify/ProductVariant/53714530828588",
-    "stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53714540364076": {
     "product_title": "Classic Jadau Earrings",
@@ -26654,7 +26657,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_4.jpg?v=1787036162",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-26?variant=gid://shopify/ProductVariant/53714540364076",
-    "stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53714550849836": {
     "product_title": "Classic Jadau Earrings",
@@ -26671,7 +26675,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_3.jpg?v=1787036294",
     "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-27?variant=gid://shopify/ProductVariant/53714550849836",
-    "stock": 10
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53714561499436": {
     "product_title": "Classic Jadau Earrings",
@@ -26688,7 +26693,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/4599_5.jpg?v=1787036658",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-28?variant=gid://shopify/ProductVariant/53714561499436",
-    "stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53714565955884": {
     "product_title": "Classic Jadau Earrings",
@@ -26705,7 +26711,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_2_d352d44c-8fba-43dc-9a73-9dc71e8b0d9f.jpg?v=1787036899",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-29?variant=gid://shopify/ProductVariant/53714565955884",
-    "stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53714571755820": {
     "product_title": "Classic Jadau Earrings",
@@ -26722,8 +26729,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3999.jpg?v=1787036986",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-30?variant=gid://shopify/ProductVariant/53714571755820",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/53714575294764": {
     "product_title": "Classic Jadau Earrings",
@@ -26740,6 +26747,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Kanshijewels_17.jpg?v=1787037261",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/classic-jadau-earrings-31?variant=gid://shopify/ProductVariant/53714575294764",
-    "stock": 10
+    "stock": 1,
+    "last_alerted_stock": 1
   }
 }
