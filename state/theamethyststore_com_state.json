@@ -16896,9 +16896,10 @@
     "amount": 16774.46,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0962.jpg?v=1705736225",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/ayshi-stone-maatal?variant=gid://shopify/ProductVariant/44318869684451",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44321531396323": {
     "product_title": "Kaalin Bracelet With Ring",
@@ -20748,7 +20749,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5871.jpg?v=1716018649",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/acacia-diamond-look-jhumkas?variant=gid://shopify/ProductVariant/44987778466019",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/44989150363875": {
     "product_title": "Bridal Nagas Long Necklace",

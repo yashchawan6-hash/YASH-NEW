@@ -358,5 +358,41 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/dhishya-kundan-studs?variant=gid://shopify/ProductVariant/48095258738915",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12960.jpg?v=1770699977"
+  },
+  {
+    "timestamp_ist": "2026-08-23 16:38:14",
+    "product_title": "Ayshi Stone Maatal",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44318869684451",
+    "sku": "AMS-109-0962",
+    "price": 16774.46,
+    "variant_price": 16774.46,
+    "product_price": 16774.46,
+    "amount": 16774.46,
+    "total_price": 16774.46,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/ayshi-stone-maatal?variant=gid://shopify/ProductVariant/44318869684451",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0962.jpg?v=1705736225"
+  },
+  {
+    "timestamp_ist": "2026-08-23 16:38:14",
+    "product_title": "Acacia Diamond Look Jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44987778466019",
+    "sku": "AMS-106-5871",
+    "price": 14000.0,
+    "variant_price": 14000.0,
+    "product_price": 14000.0,
+    "amount": 14000.0,
+    "total_price": 14000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 4,
+    "curr_stock": 3,
+    "url": "https://www.theamethyststore.com/products/acacia-diamond-look-jhumkas?variant=gid://shopify/ProductVariant/44987778466019",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5871.jpg?v=1716018649"
   }
 ]
