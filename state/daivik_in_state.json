@@ -1344,7 +1344,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/golden-pearl-peacock-balis-earrings-519.jpg?v=1602599466",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/golden-pearl-peacock-balis?variant=gid://shopify/ProductVariant/36692498677913",
-    "stock": 13
+    "stock": 12,
+    "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/36733660725401": {
     "product_title": "Ruby Green Peacock cluster pearl jhumkas",
@@ -58326,7 +58327,7 @@
     "amount": 1599.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_56122.jpg?v=1785659230",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/diamond-look-alike-hasli-necklace-with-earrings-2?variant=gid://shopify/ProductVariant/48542646599902",
     "stock": 1,
     "last_alerted_stock": 1
