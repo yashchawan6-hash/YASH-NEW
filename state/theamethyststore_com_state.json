@@ -1328,7 +1328,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/ams-106-1978.jpg?v=1623215335",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/pretty-charm-earrings?variant=gid://shopify/ProductVariant/40018776359062",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40028933914774": {
     "product_title": "Warm White",
@@ -41759,7 +41760,7 @@
     "amount": 10350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-7948_8284d3f5-3dcc-4447-8084-5e85ef5343f2.jpg?v=1748341752",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/cute-green-studs?variant=gid://shopify/ProductVariant/46196361036003",
     "stock": 1
   },
