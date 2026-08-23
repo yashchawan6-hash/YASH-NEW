@@ -5701,8 +5701,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-pearlescent-perfection-exquisite-beaded-necklace-set-jewellery-sets-34434802090158.jpg?v=1755717822",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-pearlescent-perfection-exquisite-beaded-necklace-set?variant=gid://shopify/ProductVariant/44151670898862",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44151683317934": {
     "product_title": "Luxe Ocean Pearl Necklace Set",
@@ -83412,7 +83412,7 @@
     "amount": 988.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56BB413621-Model.jpg?v=1779882457",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re56bb413621?variant=gid://shopify/ProductVariant/47914246144174",
     "stock": 3,
     "last_alerted_stock": 3
