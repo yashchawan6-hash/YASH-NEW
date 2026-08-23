@@ -52,5 +52,41 @@
     "curr_stock": 3,
     "url": "https://www.tarinika.com/products/antique-gold-plated-neera-choker-earrings-set?variant=gid://shopify/ProductVariant/40216369856578",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANX1403XM1.jpg?v=1677239798"
+  },
+  {
+    "timestamp_ist": "2026-08-24 03:52:30",
+    "product_title": "Azba Leafy Floral Antique Necklace",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/39803384594498",
+    "sku": "US-TNX0163XGCI",
+    "price": 39.99,
+    "variant_price": 39.99,
+    "product_price": 39.99,
+    "amount": 39.99,
+    "total_price": 39.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.tarinika.com/products/azba-leafy-floral-antique-necklace?variant=gid://shopify/ProductVariant/39803384594498",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMG_5633.jpg?v=1656273911"
+  },
+  {
+    "timestamp_ist": "2026-08-24 03:52:30",
+    "product_title": "Jalaja Floral Drop Finger Ring",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40382345052226",
+    "sku": "US-TRX0074XWH",
+    "price": 21.24,
+    "variant_price": 21.24,
+    "product_price": 21.24,
+    "amount": 21.24,
+    "total_price": 21.24,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/jalaja-floral-drop-finger-ring?variant=gid://shopify/ProductVariant/40382345052226",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TRX0074X_3.jpg?v=1691144630"
   }
 ]
