@@ -5857,8 +5857,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3842copycopy.jpg?v=1640780599",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/aashi-antique-earrings?variant=gid://shopify/ProductVariant/41483278975042",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/32674484977730": {
     "product_title": "Shuchi Antique Earrings",
@@ -18380,9 +18380,10 @@
     "amount": 69.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ZNX2320X.jpg?v=1703312535",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/floral-opulence-cz-necklace-set?variant=gid://shopify/ProductVariant/40629422391362",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40629423833154": {
     "product_title": "Yamuna Temple Antique Necklace Set",
