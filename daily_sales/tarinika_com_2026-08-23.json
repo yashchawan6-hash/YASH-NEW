@@ -124,5 +124,41 @@
     "curr_stock": 1,
     "url": "https://www.tarinika.com/products/inaya-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/14246108823618",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/Studio_Session-7423_copy_copy.jpg?v=1762532195"
+  },
+  {
+    "timestamp_ist": "2026-08-23 12:27:19",
+    "product_title": "Anmol Antique Bracelet",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40291488366658",
+    "sku": "US-ABX2795XMC",
+    "price": 29.99,
+    "variant_price": 29.99,
+    "product_price": 29.99,
+    "amount": 29.99,
+    "total_price": 29.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/anmol-antique-bracelet?variant=gid://shopify/ProductVariant/40291488366658",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX2795XM.jpg?v=1730109567"
+  },
+  {
+    "timestamp_ist": "2026-08-23 12:27:19",
+    "product_title": "Simple Antique Red Green Kempu Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/41133115867202",
+    "sku": "TNX0318XHC",
+    "price": 59.49,
+    "variant_price": 59.49,
+    "product_price": 59.49,
+    "amount": 59.49,
+    "total_price": 59.49,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/simple-antique-red-green-kempu-necklace-set?variant=gid://shopify/ProductVariant/41133115867202",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0318X.jpg?v=1722407420"
   }
 ]

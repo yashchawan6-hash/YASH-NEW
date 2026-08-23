@@ -15030,9 +15030,10 @@
     "amount": 29.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX2795XM.jpg?v=1730109567",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/anmol-antique-bracelet?variant=gid://shopify/ProductVariant/40291488366658",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40298751950914": {
     "product_title": "Neetu Antique Chandbali Earrings",
@@ -19550,10 +19551,10 @@
     "amount": 59.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0318X.jpg?v=1722407420",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/simple-antique-red-green-kempu-necklace-set?variant=gid://shopify/ProductVariant/41133115867202",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41133133070402": {
     "product_title": "Simple Antique Navaratna Necklace Set",
