@@ -3555,7 +3555,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-princess-cut-daily-wear-ring-attrangi-3.jpg?v=1739813175",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-princess-cut-daily-wear-ring?variant=gid://shopify/ProductVariant/40846418608297",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48436158005460": {
     "product_title": "Multi Slim Band Ring",
@@ -49368,7 +49369,7 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/AP_01155_1.jpg?v=1775562460",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/niki-multi-solitaire-mixed-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/47768843714772",
     "stock": 1,
     "last_alerted_stock": 1
