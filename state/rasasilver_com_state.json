@@ -906,9 +906,10 @@
     "amount": 37400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-3_154ea0f2-055a-4017-adb4-cb33a070da59.jpg?v=1741861957",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/padma-gajeshwari-short-necklace?variant=gid://shopify/ProductVariant/50028308693289",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50028438126889": {
     "product_title": "Aasana Lakshmi Short Necklace",
@@ -74999,7 +75000,7 @@
     "amount": 23460.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_May_262118_resized.jpg?v=1781589990",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/panna-gulabika-stone-matil?variant=gid://shopify/ProductVariant/53269137555753",
     "stock": 1
   },
