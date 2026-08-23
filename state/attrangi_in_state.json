@@ -5169,10 +5169,10 @@
     "amount": 4650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/navratna-jadaau-bangle-set-attrangi-1.jpg?v=1739813642",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/navratna-jadaau-bangle-set?variant=gid://shopify/ProductVariant/42338816491732",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42338816524500": {
     "product_title": "Navratna Jadaau Bangle Set",
@@ -54774,7 +54774,7 @@
     "amount": 3650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at6.56.43PM_2.jpg?v=1784357827",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/chidiya-ear-to-ear-polki-cuffs-with-hair-chains?variant=gid://shopify/ProductVariant/48324166975700",
     "stock": 0,
     "last_alerted_stock": 0
@@ -58073,7 +58073,7 @@
     "amount": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-03_at_4.12.17_PM.jpg?v=1785758222",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403554894036",
     "stock": 0,
     "last_alerted_stock": 0
