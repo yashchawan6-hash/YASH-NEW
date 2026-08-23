@@ -40612,23 +40612,6 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
-  "gid://shopify/ProductVariant/46838994960607": {
-    "product_title": "Multicolor Gold Plated Temple Earrings with Kundan - TMPEAR91M",
-    "product_handle": "multicolor-gold-plated-temple-earrings-tmpear91m",
-    "variant_id": "gid://shopify/ProductVariant/46838994960607",
-    "global_id": "gid://shopify/ProductVariant/46838994960607",
-    "variant_title": "Default Title",
-    "sku": "TMPEAR91M",
-    "price": 3500.0,
-    "variant_price": 3500.0,
-    "product_price": 3500.0,
-    "amount": 3500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPEAR91M.jpg?v=1742280958",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-temple-earrings-tmpear91m?variant=gid://shopify/ProductVariant/46838994960607",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/46838999089375": {
     "product_title": "Multicolor Gold Plated Temple Earrings with Kundan - TMPEAR92",
     "product_handle": "multicolor-gold-plated-temple-earrings-tmpear92",
@@ -113990,6 +113973,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2953m?variant=gid://shopify/ProductVariant/51250507022559",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46838994960607": {
+    "product_title": "Multicolor Gold Plated Temple Earrings with Kundan - TMPEAR91M",
+    "product_handle": "multicolor-gold-plated-temple-earrings-tmpear91m",
+    "variant_id": "gid://shopify/ProductVariant/46838994960607",
+    "global_id": "gid://shopify/ProductVariant/46838994960607",
+    "variant_title": "Default Title",
+    "sku": "TMPEAR91M",
+    "price": 3500.0,
+    "variant_price": 3500.0,
+    "product_price": 3500.0,
+    "amount": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPEAR91M.jpg?v=1742280958",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-temple-earrings-tmpear91m?variant=gid://shopify/ProductVariant/46838994960607",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/50067687801055": {
     "product_title": "White Dual-Tone Tribal Long Necklace with Moon Motif - EK-SFNECK5",
