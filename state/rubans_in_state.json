@@ -20128,10 +20128,10 @@
     "amount": 850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-oxidized-silver-plated-statement-beaded-necklace-earrings-set-necklaces-necklace-sets-chains-mangalsutra-37931824447662.jpg?v=1755716130",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-oxidized-silver-plated-beaded-threaded-statement-long-necklace-copy?variant=gid://shopify/ProductVariant/46090939859118",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46090948313262": {
     "product_title": "Two Toned Beaded Long Necklace Set",
