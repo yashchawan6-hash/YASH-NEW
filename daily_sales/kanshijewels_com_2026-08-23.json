@@ -304,5 +304,41 @@
     "curr_stock": 5,
     "url": "https://www.kanshijewels.com/products/pearl-necklace-1?variant=gid://shopify/ProductVariant/50702732788012",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/2200_-pearlsnecklace.jpg?v=1741257363"
+  },
+  {
+    "timestamp_ist": "2026-08-23 21:37:05",
+    "product_title": "Elegant sheek jadau necklace and earring set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53368929255724",
+    "sku": "NK913",
+    "price": 1699.0,
+    "variant_price": 1699.0,
+    "product_price": 1699.0,
+    "amount": 1699.0,
+    "total_price": 1699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.kanshijewels.com/products/elegant-sheek-jadau-necklace-and-earring-set?variant=gid://shopify/ProductVariant/53368929255724",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/Elegantsheekjadaunecklaceandearringset1199.jpg?v=1782216299"
+  },
+  {
+    "timestamp_ist": "2026-08-23 21:37:05",
+    "product_title": "Gold look jadau jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/53369039618348",
+    "sku": "ER530",
+    "price": 2400.0,
+    "variant_price": 2400.0,
+    "product_price": 2400.0,
+    "amount": 2400.0,
+    "total_price": 2400.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.kanshijewels.com/products/gold-look-jadau-jhumkas?variant=gid://shopify/ProductVariant/53369039618348",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/KJ20.3.jpg?v=1782218844"
   }
 ]
