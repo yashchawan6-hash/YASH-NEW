@@ -8462,8 +8462,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
-    "stock": 14,
-    "last_alerted_stock": 8
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/50712092999977": {
     "product_title": "Teja Valli Danglers",
@@ -48668,7 +48668,7 @@
     "amount": 7650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0348copy_resized_d70cbcb2-7c04-46b5-b134-440a89789041.jpg?v=1770097002",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mayurini-antique-studs?variant=gid://shopify/ProductVariant/52527116943657",
     "stock": 1
   },
