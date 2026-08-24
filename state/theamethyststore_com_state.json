@@ -13118,9 +13118,10 @@
     "amount": 35640.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-0966.jpg?v=1691733659",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/sparkler-pair-bangles?variant=gid://shopify/ProductVariant/43944452260067",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43944598569187": {
     "product_title": "Isvari Pair Bangles",
