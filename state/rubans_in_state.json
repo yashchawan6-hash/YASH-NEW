@@ -3480,9 +3480,9 @@
     "amount": 1000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-ruby-pink-emerald-green-stone-studded-bangles-bangles-bracelets-1171024628.jpg?v=1774252411",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-handcrafted-pink-green-stone-studded-bangle?variant=gid://shopify/ProductVariant/42389818736814",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46604615352494": {
@@ -8033,8 +8033,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-6-antique-bangle-pearl-beaded-classy-bangles-bangles-bracelets-34874855784622.jpg?v=1774934011",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-6-antique-bangle-pearl-beaded-classy-bangles?variant=gid://shopify/ProductVariant/47084620087470",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/47084620120238": {
     "product_title": "Rubans Set of 6 Gold Plated Pearl & Stone Studded Traditional Handcrafted Bangles",
@@ -8174,7 +8174,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-artisan-crafted-oxidized-silver-plated-bangles-bangles-bracelets-35101509943470.jpg?v=1755721427",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-artisan-crafted-oxidized-silver-plated-bangles?variant=gid://shopify/ProductVariant/47084619759790",
-    "stock": 17,
+    "stock": 18,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/47084619792558": {
