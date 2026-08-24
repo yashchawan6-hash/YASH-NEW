@@ -9032,7 +9032,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S652-2.jpg?v=1705148890",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-s652-multicolor-mishr-short-necklace-set?variant=gid://shopify/ProductVariant/44714473521375",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44729478643935": {
     "product_title": "Multicolor Antique Gold-Plated Mishr Ranihaar Necklace Set with Jadau Kundan - MR-S630M",
@@ -9050,23 +9051,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-s630m-multicolor-mishr-necklace-set?variant=gid://shopify/ProductVariant/44729478643935",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/44729711624415": {
-    "product_title": "Multicolor Antique Gold-Plated Mishr Necklace Set with Jadau Kundan, Flower and Moon Motifs - MR-S646M",
-    "product_handle": "mr-s646m-multicolor-gold-plated-mishr-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/44729711624415",
-    "global_id": "gid://shopify/ProductVariant/44729711624415",
-    "variant_title": "Default Title",
-    "sku": "MR-S646M",
-    "price": 14500.0,
-    "variant_price": 14500.0,
-    "product_price": 14500.0,
-    "amount": 14500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S646M_3.jpg?v=1731672048",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/mr-s646m-multicolor-gold-plated-mishr-necklace-set?variant=gid://shopify/ProductVariant/44729711624415",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/44729731317983": {
     "product_title": "Multicolor Antique Gold-Plated Mishr Necklace Set with Jadau Kundan, Peacock and Elephant Motifs - MR-S649M",
@@ -9391,7 +9375,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S629WGR_2_copy.jpg?v=1706172257",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-s629wgr-mishr-choker-necklace-set?variant=gid://shopify/ProductVariant/44757271970015",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44757295857887": {
     "product_title": "Dark Green Gold-Plated Mishr Choker Necklace Set with Jadau Kundan Floral Motifs - MR-S629WGRA",
@@ -16457,8 +16442,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N90_1.jpg?v=1717679132",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-n90-white-color-mishr-necklace?variant=gid://shopify/ProductVariant/45939130925279",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45939157532895": {
     "product_title": "Multicolor Dual-Tone Mishr Necklace with Jadau Kundan and Peacock Motif - MR-N91",
@@ -16475,8 +16460,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N91_1.jpg?v=1717679262",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-n91-multicolor-mishr-necklace?variant=gid://shopify/ProductVariant/45939157532895",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45939169624287": {
     "product_title": "Multicolor Dual-Tone Mishr Statement Necklace with Jadau Kundan - MR-N92M",
@@ -16510,8 +16495,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-N93M_2.jpg?v=1717679673",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-n93m-multicolor-mishr-necklace?variant=gid://shopify/ProductVariant/45939188203743",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45939197968607": {
     "product_title": "Multicolor Dual-Tone Mishr Necklace with Kundan Floral Motif - MR-N94M",
@@ -19217,7 +19202,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S739M_1.jpg?v=1720101050",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-s739m-multicolor-gold-plated-mishr-necklace-set?variant=gid://shopify/ProductVariant/46082491220191",
-    "stock": 3
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46084975853791": {
     "product_title": "Green Gold-Plated Polki Moissanite Choker Necklace Set with Kundan and Green Bead Drops - MO-S91",
@@ -113961,6 +113947,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms2953m?variant=gid://shopify/ProductVariant/51250507022559",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/44729711624415": {
+    "product_title": "Multicolor Antique Gold-Plated Mishr Necklace Set with Jadau Kundan, Flower and Moon Motifs - MR-S646M",
+    "product_handle": "mr-s646m-multicolor-gold-plated-mishr-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/44729711624415",
+    "global_id": "gid://shopify/ProductVariant/44729711624415",
+    "variant_title": "Default Title",
+    "sku": "MR-S646M",
+    "price": 14500.0,
+    "variant_price": 14500.0,
+    "product_price": 14500.0,
+    "amount": 14500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S646M_3.jpg?v=1731672048",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mr-s646m-multicolor-gold-plated-mishr-necklace-set?variant=gid://shopify/ProductVariant/44729711624415",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/44275664650463": {
     "product_title": "Multicolor Dual-Tone Tribal Choker Necklace Set with Kundan - EK-SFSET249",
