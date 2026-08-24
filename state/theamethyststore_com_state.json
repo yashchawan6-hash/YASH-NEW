@@ -22216,9 +22216,10 @@
     "amount": 84968.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0425.jpg?v=1719929517",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/modern-look-avikam-oddiyanam?variant=gid://shopify/ProductVariant/45214609375459",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45214626316515": {
     "product_title": "Wedding style Avikam Oddiyanam",
