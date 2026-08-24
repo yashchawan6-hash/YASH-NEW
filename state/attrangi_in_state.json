@@ -5514,7 +5514,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/super-tiny-round-double-solitaires-in-screwback-attrangi-3.jpg?v=1739813826",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/super-tiny-round-double-solitaires-in-screwback?variant=gid://shopify/ProductVariant/42692200399060",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/48350237327572": {
@@ -6140,9 +6140,10 @@
     "amount": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sunsign-necklace-attrangi-3.jpg?v=1739814012",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sunsign-necklace?variant=gid://shopify/ProductVariant/42902554280148",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42902551298260": {
     "product_title": "Sunsign Necklace",
