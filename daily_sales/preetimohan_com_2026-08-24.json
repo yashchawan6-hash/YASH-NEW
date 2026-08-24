@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp_ist": "2026-08-24 18:39:04",
+    "product_title": "ISHWARI KUNDAN CHANDBALI",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/48804887265473",
+    "sku": "WERSRG300",
+    "price": 12000.0,
+    "variant_price": 12000.0,
+    "product_price": 12000.0,
+    "amount": 12000.0,
+    "total_price": 12000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.preetimohan.com/products/ishwari-kundan-chandbali?variant=gid://shopify/ProductVariant/48804887265473",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/170.png?v=1756141575"
+  },
+  {
+    "timestamp_ist": "2026-08-24 18:39:04",
+    "product_title": "NISHA RED KUNDAN BANGLES",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/49144226578625",
+    "sku": "WBLRPJ168",
+    "price": 7500.0,
+    "variant_price": 7500.0,
+    "product_price": 7500.0,
+    "amount": 7500.0,
+    "total_price": 15000.0,
+    "currency": "INR",
+    "qty_sold": 2,
+    "prev_stock": 4,
+    "curr_stock": 2,
+    "url": "https://www.preetimohan.com/products/nisha-red-kundan-bangles?variant=gid://shopify/ProductVariant/49144226578625",
+    "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/136.png?v=1756141293"
+  }
+]
