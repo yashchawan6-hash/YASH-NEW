@@ -1618,7 +1618,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/275398.jpg?v=1765287333",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-oxidised-filigree-silver-plated-ruby-stone-handcrafted-peacock-bracelet?variant=gid://shopify/ProductVariant/43043757752494",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43043757686958": {
     "product_title": "Rubans Oxidised Filigree Silver Plated Handcrafted Durga Bracelet",
@@ -13481,7 +13482,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02HB404482_Amzon_Model.jpg?v=1785244521",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-kundan-studded-pearl-beaded-hair-choti-braid-jewelry?variant=gid://shopify/ProductVariant/45782205497518",
-    "stock": 9,
+    "stock": 8,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/45782211330222": {
@@ -13655,7 +13656,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rhodium-plated-blue-sapphire-cubic-zirconia-studded-premium-jewelry-set-jewellery-set-37193448685742.jpg?v=1755717251",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rhodium-plated-blue-sapphire-cubic-zirconia-studded-premium-jewelry-set?variant=gid://shopify/ProductVariant/45786528743598",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46076922855598": {
@@ -25259,8 +25260,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04EH407756.jpg?v=1770380194",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-sparkling-cubic-zirconia-studded-hoop-earrings-rw04eh407756?variant=gid://shopify/ProductVariant/46194501583022",
-    "stock": 18,
-    "last_alerted_stock": 18
+    "stock": 17,
+    "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/46194501812398": {
     "product_title": "Runway Ready Statenent Earrings",
@@ -25689,7 +25690,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-18k-gold-plated-stainless-steel-tarnishfree-waterproof-filigree-blue-stone-bracelet-wristwear-1203249876.jpg?v=1770379087",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-stainless-steel-tarnishfree-waterproof-filigree-blue-stone-bracelet-rw30v408321?variant=gid://shopify/ProductVariant/46197311439022",
-    "stock": 8,
+    "stock": 9,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084596494510": {
@@ -61202,7 +61203,7 @@
     "amount": 937.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30N410780_2.jpg?v=1768824405",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rv30n410780?variant=gid://shopify/ProductVariant/47206074876078",
     "stock": 0
   },
