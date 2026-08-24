@@ -193,7 +193,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-06-25_at_6.27.28_PM.jpg?v=1782393597",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/48172004442324",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411659632809": {
@@ -1339,7 +1339,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-1.jpg?v=1739812667",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/41492438712489",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41492438745257": {
@@ -7110,7 +7110,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/single-line-ruby-and-emerald-mala-attrangi-1.jpg?v=1739814058",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/single-line-ruby-emerald-mala?variant=gid://shopify/ProductVariant/43078071156948",
-    "stock": 3,
+    "stock": 7,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43146974757076": {
@@ -7905,24 +7905,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zainab-navratna-hasli-set?variant=gid://shopify/ProductVariant/43390518886612",
     "stock": 3
-  },
-  "gid://shopify/ProductVariant/43390646157524": {
-    "product_title": "Jharoka Small Polki Chandbali",
-    "product_handle": "jharoka-small-chandbali",
-    "variant_id": "gid://shopify/ProductVariant/43390646157524",
-    "global_id": "gid://shopify/ProductVariant/43390646157524",
-    "variant_title": "Default Title",
-    "sku": "SM0814",
-    "price": 2650.0,
-    "variant_price": 2650.0,
-    "product_price": 2650.0,
-    "amount": 2650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/jharoka-small-chandbali-attrangi-1.jpg?v=1739814271",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/jharoka-small-chandbali?variant=gid://shopify/ProductVariant/43390646157524",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43403625398484": {
     "product_title": "Tizora Gajra Bracelet",
@@ -9353,7 +9335,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sharda-maangtika-attrangi.jpg?v=1739814753",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sharda-maangtika?variant=gid://shopify/ProductVariant/43843915940052",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43855905784020": {
