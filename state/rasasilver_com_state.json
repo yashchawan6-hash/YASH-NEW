@@ -5960,8 +5960,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/w12e12.jpg?v=1749287456",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sakshi-2?variant=gid://shopify/ProductVariant/50444092637481",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50448857727273": {
     "product_title": "Ivy Frame Stone Choker",
@@ -43911,7 +43911,7 @@
     "amount": 6885.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0445copy.jpg?v=1768631559",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/spring-leaf-chain-pendant-set?variant=gid://shopify/ProductVariant/52446854119721",
     "stock": 0
   },
@@ -70196,7 +70196,7 @@
     "amount": 23300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_04May0078_resized.jpg?v=1781854579",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/morina-kundan-jhumka-copy?variant=gid://shopify/ProductVariant/53102968930601",
     "stock": 1
   },
