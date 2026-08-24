@@ -13736,8 +13736,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sirisha-openable-gold-kada-or-sone-pe-suhaga-collection-attrangi-4.jpg?v=1739815836",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sirisha-openable-gold-kada-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44504305270996",
-    "stock": 3,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44504305303764": {
     "product_title": "Sirisha Openable Gold Kada | Sone Pe Suhaga Collection",
@@ -13752,10 +13752,10 @@
     "amount": 4650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sirisha-openable-gold-kada-or-sone-pe-suhaga-collection-attrangi-4.jpg?v=1739815836",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sirisha-openable-gold-kada-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44504305303764",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48355278258388": {
     "product_title": "Swarna Rajputana Gokhru Bangle | Sone Pe Suhaga Collection",
@@ -15307,7 +15307,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/diana-band-ring-with-diamond-floral-motif-attrangi-1.jpg?v=1739816236",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diana-band-ring-with-diamond-floral-motif?variant=gid://shopify/ProductVariant/46000120594644",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46000120627412": {
@@ -58070,24 +58070,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/pragya-gold-thick-traditional-indian-kada-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403180421332",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/48403554894036": {
-    "product_title": "Ghadi Sone Ki Traditioanl Indian Watch | Sone Pe Suhaga",
-    "product_handle": "ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga",
-    "variant_id": "gid://shopify/ProductVariant/48403554894036",
-    "global_id": "gid://shopify/ProductVariant/48403554894036",
-    "variant_title": "Default Title",
-    "sku": "ST92617-BN",
-    "price": 4850.0,
-    "variant_price": 4850.0,
-    "product_price": 4850.0,
-    "amount": 4850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-03_at_4.12.17_PM.jpg?v=1785758222",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/ghadi-sone-ki-traditioanl-indian-watch-sone-pe-suhaga?variant=gid://shopify/ProductVariant/48403554894036",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48403565969620": {
     "product_title": "HaraLaal Slim Red Green Gold Tradtional Indian Bangle Set | Sone Pe Suhaga",
