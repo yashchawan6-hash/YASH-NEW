@@ -12015,7 +12015,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/CC-BRAC5N_2.jpg?v=1714556241",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/cc-brac5n-navratna-gold-plated-contemporary-bracelet?variant=gid://shopify/ProductVariant/45561731580127",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45561784828127": {
     "product_title": "Blue Color Gold Plated Contemporary Earrings with Kundan - CC-EAR16BL",
@@ -60104,24 +60105,6 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
-  "gid://shopify/ProductVariant/47109586780383": {
-    "product_title": "White Gold-Plated Faux Polki Haath Phool with Kundan Setting (Single Piece) - PK-HP5",
-    "product_handle": "white-color-gold-plated-faux-polki-hathphool-1-piece-pk-hp5",
-    "variant_id": "gid://shopify/ProductVariant/47109586780383",
-    "global_id": "gid://shopify/ProductVariant/47109586780383",
-    "variant_title": "Default Title",
-    "sku": "PK-HP5",
-    "price": 4500.0,
-    "variant_price": 4500.0,
-    "product_price": 4500.0,
-    "amount": 4500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-HP5.jpg?v=1751801826",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-hathphool-1-piece-pk-hp5?variant=gid://shopify/ProductVariant/47109586780383",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/47109618499807": {
     "product_title": "Multicolor Gold-Plated Faux Polki Small Maang Teeka with Kundan Setting - PK-T50MB",
     "product_handle": "multicolor-gold-plated-faux-polki-maangteeka-pk-t50mb",
@@ -60242,23 +60225,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-earrings-pk-e134pr?variant=gid://shopify/ProductVariant/47113599221983",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/47113619079391": {
-    "product_title": "Multicolor Light Green Gold-Plated Faux Polki Dangler Earrings with Kundan Setting - PK-E136LGRA",
-    "product_handle": "multicolor-gold-plated-faux-polki-earrings-pk-e136lgra",
-    "variant_id": "gid://shopify/ProductVariant/47113619079391",
-    "global_id": "gid://shopify/ProductVariant/47113619079391",
-    "variant_title": "Default Title",
-    "sku": "PK-E136LGRA",
-    "price": 4500.0,
-    "variant_price": 4500.0,
-    "product_price": 4500.0,
-    "amount": 4500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E136LGRA.jpg?v=1751877504",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-earrings-pk-e136lgra?variant=gid://shopify/ProductVariant/47113619079391",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/47113622716639": {
     "product_title": "Multicolor Gold-Plated Faux Polki Dangler Earrings with Kundan Setting - PK-E136R",
@@ -71884,24 +71850,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e166?variant=gid://shopify/ProductVariant/48379997978847",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/48380005122271": {
-    "product_title": "White Gold-Plated Faux Polki Dangler Earrings with Flower Motif - PK-E167",
-    "product_handle": "gold-plated-faux-polki-earrings-pk-e167",
-    "variant_id": "gid://shopify/ProductVariant/48380005122271",
-    "global_id": "gid://shopify/ProductVariant/48380005122271",
-    "variant_title": "White",
-    "sku": "PK-E167",
-    "price": 3500.0,
-    "variant_price": 3500.0,
-    "product_price": 3500.0,
-    "amount": 3500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E167.jpg?v=1768914473",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e167?variant=gid://shopify/ProductVariant/48380005122271",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/48385081180383": {
     "product_title": "Pichwai Inspired Bangle with Miniature Portrait and Kundan Rosettes - TN-BRAC1",
@@ -114112,6 +114060,59 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset1121?variant=gid://shopify/ProductVariant/51257773588703",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47109586780383": {
+    "product_title": "White Gold-Plated Faux Polki Haath Phool with Kundan Setting (Single Piece) - PK-HP5",
+    "product_handle": "white-color-gold-plated-faux-polki-hathphool-1-piece-pk-hp5",
+    "variant_id": "gid://shopify/ProductVariant/47109586780383",
+    "global_id": "gid://shopify/ProductVariant/47109586780383",
+    "variant_title": "Default Title",
+    "sku": "PK-HP5",
+    "price": 4500.0,
+    "variant_price": 4500.0,
+    "product_price": 4500.0,
+    "amount": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-HP5.jpg?v=1751801826",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-hathphool-1-piece-pk-hp5?variant=gid://shopify/ProductVariant/47109586780383",
+    "stock": 1,
+    "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/47113619079391": {
+    "product_title": "Multicolor Light Green Gold-Plated Faux Polki Dangler Earrings with Kundan Setting - PK-E136LGRA",
+    "product_handle": "multicolor-gold-plated-faux-polki-earrings-pk-e136lgra",
+    "variant_id": "gid://shopify/ProductVariant/47113619079391",
+    "global_id": "gid://shopify/ProductVariant/47113619079391",
+    "variant_title": "Default Title",
+    "sku": "PK-E136LGRA",
+    "price": 4500.0,
+    "variant_price": 4500.0,
+    "product_price": 4500.0,
+    "amount": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E136LGRA.jpg?v=1751877504",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-earrings-pk-e136lgra?variant=gid://shopify/ProductVariant/47113619079391",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/48380005122271": {
+    "product_title": "White Gold-Plated Faux Polki Dangler Earrings with Flower Motif - PK-E167",
+    "product_handle": "gold-plated-faux-polki-earrings-pk-e167",
+    "variant_id": "gid://shopify/ProductVariant/48380005122271",
+    "global_id": "gid://shopify/ProductVariant/48380005122271",
+    "variant_title": "White",
+    "sku": "PK-E167",
+    "price": 3500.0,
+    "variant_price": 3500.0,
+    "product_price": 3500.0,
+    "amount": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E167.jpg?v=1768914473",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e167?variant=gid://shopify/ProductVariant/48380005122271",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46097388339423": {
     "product_title": "White Moissanite Victorian-Plated Choker Necklace Set with Kundan - MO-S121",
