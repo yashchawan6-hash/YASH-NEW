@@ -113990,9 +113990,26 @@
     "product_price": 7500.0,
     "amount": 7500.0,
     "currency": "INR",
-    "image_url": null,
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3077M-2.jpg?v=1787550073",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms3077m?variant=gid://shopify/ProductVariant/51257622135007",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/51257629999327": {
+    "product_title": "Multicolor Gold Plated Jadau Kundan Necklace Set - MS3077YR",
+    "product_handle": "multicolor-gold-plated-jadau-kundan-necklace-set-ms3077yr",
+    "variant_id": "gid://shopify/ProductVariant/51257629999327",
+    "global_id": "gid://shopify/ProductVariant/51257629999327",
+    "variant_title": "Default Title",
+    "sku": "MS3077YR",
+    "price": 7500.0,
+    "variant_price": 7500.0,
+    "product_price": 7500.0,
+    "amount": 7500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MS3077YR-2.jpg?v=1787550285",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-necklace-set-ms3077yr?variant=gid://shopify/ProductVariant/51257629999327",
     "stock": -1
   },
   "gid://shopify/ProductVariant/45001349857503": {
