@@ -7432,7 +7432,7 @@
     "amount": 899.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_394dcb17-665b-48f2-9136-5c58098a0971.heic?v=1653831005",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877367550174",
     "stock": 2
   },
@@ -7449,7 +7449,7 @@
     "amount": 899.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b784ce71-de4a-4be7-9fa7-2744857147d5.heic?v=1653830499",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877369647326",
     "stock": 0,
     "last_alerted_stock": 0
@@ -20633,8 +20633,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/58434AA7-CE46-4464-82BC-A7E246516ADA.jpg?v=1713105126",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-pendant-long-chain-with-earrings?variant=gid://shopify/ProductVariant/45167765881054",
-    "stock": 22,
-    "last_alerted_stock": 22
+    "stock": 21,
+    "last_alerted_stock": 21
   },
   "gid://shopify/ProductVariant/45204086194398": {
     "product_title": "Victorian AD Pendant Choker with Earrings",
@@ -21609,8 +21609,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/73640A6C-0F87-42ED-B352-8260278D875B.jpg?v=1754321906",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ruby-guttapusalu-necklace-with-earrings?variant=gid://shopify/ProductVariant/47292618768606",
-    "stock": 35,
-    "last_alerted_stock": 35
+    "stock": 34,
+    "last_alerted_stock": 34
   },
   "gid://shopify/ProductVariant/47292618801374": {
     "product_title": "Ruby Guttapusalu Necklace with earrings (Price for Combo, Short and Long)",
