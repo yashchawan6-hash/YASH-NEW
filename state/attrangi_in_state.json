@@ -13409,7 +13409,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kaamini-openable-indian-bangle-or-sone-pe-suhaga-collection-attrangi-5.jpg?v=1739815810",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kaamini-openable-indian-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/45275870101716",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45275870134484": {
@@ -19611,8 +19611,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-10-16at12.19.32AM_1.jpg?v=1750783082",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/urmi-crystal-polki-long-mala?variant=gid://shopify/ProductVariant/45778502779092",
-    "stock": 4,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45778513002708": {
     "product_title": "Rasriti Indian Gold Ring | Sone Pe Suhaga Collection",
@@ -59368,7 +59368,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-21_at_5.32.42_PM_1.jpg?v=1787385879",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48518327894228",
     "stock": -1
   },
