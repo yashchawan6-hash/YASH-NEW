@@ -6785,9 +6785,10 @@
     "amount": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IMGL2607copy_71487533-c51c-4c8d-9201-e1bc3042bf26.jpg?v=1702892080",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/glittering-simple-baguette-cz-bracelet?variant=gid://shopify/ProductVariant/39652711235650",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39652711301186": {
     "product_title": "Glittering Simple Baguette CZ Bracelet",
@@ -18266,7 +18267,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0006N_daa62999-6db9-4e13-a751-67f6e8aa24c0.jpg?v=1700548123",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/helia-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40548246585410",
-    "stock": 2,
+    "stock": 1,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40548246618178": {
