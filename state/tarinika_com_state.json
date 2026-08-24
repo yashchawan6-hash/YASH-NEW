@@ -2630,7 +2630,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9647_copy_copy.jpg?v=1762533503",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/samyukta-nakshatra-cz-long-necklace?variant=gid://shopify/ProductVariant/14964266565698",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/14964263649346": {
     "product_title": "Samyukta Nakshatra CZ Waistband",
@@ -2715,7 +2716,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9654_copy_copy.jpg?v=1762533517",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/samyukta-nakshatra-cz-earrings?variant=gid://shopify/ProductVariant/14964255555650",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/14947619471426": {
     "product_title": "Malavika Antique Hair Brooch",
@@ -22563,8 +22565,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX1854XM1_4.jpg?v=1745575969",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-latika-necklace-earrings-set?variant=gid://shopify/ProductVariant/42118722388034",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/42370757034050": {
     "product_title": "Dazzle CZ 925 Silver Mangalsutra Drop Earrings",
