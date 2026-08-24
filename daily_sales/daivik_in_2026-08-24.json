@@ -1204,5 +1204,41 @@
     "curr_stock": 24,
     "url": "https://www.daivik.in/products/42?variant=gid://shopify/ProductVariant/32600742723643",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_ae83b031-205e-453b-8bb4-cd73dcec54c8.jpg?v=1598451549"
+  },
+  {
+    "timestamp_ist": "2026-08-24 23:33:21",
+    "product_title": "Antique Gold Green Stone Necklace with Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44639703204062",
+    "sku": "456",
+    "price": 2199.0,
+    "variant_price": 2199.0,
+    "product_price": 2199.0,
+    "amount": 2199.0,
+    "total_price": 2199.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 26,
+    "curr_stock": 25,
+    "url": "https://www.daivik.in/products/antique-gold-green-stone-necklace-with-earrings?variant=gid://shopify/ProductVariant/44639703204062",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D0F6DCAA-B255-49C4-9863-A600A31FA66C.heic?v=1704034629"
+  },
+  {
+    "timestamp_ist": "2026-08-24 23:33:21",
+    "product_title": "Two Layered Stone Necklace with Earrings",
+    "variant_title": "Turquoise",
+    "variant_id": "gid://shopify/ProductVariant/44875433050334",
+    "sku": "244",
+    "price": 2499.0,
+    "variant_price": 2499.0,
+    "product_price": 2499.0,
+    "amount": 2499.0,
+    "total_price": 2499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 36,
+    "curr_stock": 35,
+    "url": "https://www.daivik.in/products/two-layered-stone-necklace-with-earrings?variant=gid://shopify/ProductVariant/44875433050334",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/732D68B1-8458-4EB1-B586-489CEF46CFC3.jpg?v=1709999617"
   }
 ]
