@@ -7434,7 +7434,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_394dcb17-665b-48f2-9136-5c58098a0971.heic?v=1653831005",
     "available_for_sale": false,
     "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877367550174",
-    "stock": 0
+    "stock": 2
   },
   "gid://shopify/ProductVariant/42877369647326": {
     "product_title": "AD Small Teekas in 2 colours",
@@ -7451,8 +7451,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b784ce71-de4a-4be7-9fa7-2744857147d5.heic?v=1653830499",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-102?variant=gid://shopify/ProductVariant/42877369647326",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42882816606430": {
     "product_title": "Kemp Brass Guttaspusalu Necklace with earrings",
@@ -57832,7 +57832,7 @@
     "amount": 3299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374378206",
     "stock": 3,
     "last_alerted_stock": 0
@@ -58843,7 +58843,7 @@
     "amount": 7499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "stock": -1
   },
