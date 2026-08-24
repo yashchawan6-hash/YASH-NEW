@@ -13281,7 +13281,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET235MB-2.jpg?v=1748088883",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfset235ma-multicolor-tribal-necklace-set?variant=gid://shopify/ProductVariant/47007269880031",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45727511216351": {
     "product_title": "Multicolor Dual-Tone Tribal Princess Necklace Set with Kundan and Floral Motifs - EK-SFSET228MA",
@@ -17573,7 +17574,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFSET286M-1.jpg?v=1719480816",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfset286m-multicolor-tribal-necklace-set?variant=gid://shopify/ProductVariant/47007302811871",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47007326699743": {
     "product_title": "Multicolor Dual-Tone Tribal Kundan Necklace Set with Peacock and Flower Motifs - EK-SFSET286M",
@@ -50875,23 +50877,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S153-2.jpg?v=1749894421",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/green-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s153?variant=gid://shopify/ProductVariant/47058921324767",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/47058922275039": {
-    "product_title": "Purple Gold-Plated Thappa Jadau Kundan Princess Necklace Set with Flower and Moon Motifs - TJ-S159",
-    "product_handle": "purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s159",
-    "variant_id": "gid://shopify/ProductVariant/47058922275039",
-    "global_id": "gid://shopify/ProductVariant/47058922275039",
-    "variant_title": "Purple",
-    "sku": "TJ-S159",
-    "price": 27500.0,
-    "variant_price": 27500.0,
-    "product_price": 27500.0,
-    "amount": 27500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S159-2.jpg?v=1749894753",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s159?variant=gid://shopify/ProductVariant/47058922275039",
     "stock": 1
   },
   "gid://shopify/ProductVariant/47058933547231": {
@@ -113358,6 +113343,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset1121?variant=gid://shopify/ProductVariant/51257773588703",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47058922275039": {
+    "product_title": "Purple Gold-Plated Thappa Jadau Kundan Princess Necklace Set with Flower and Moon Motifs - TJ-S159",
+    "product_handle": "purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s159",
+    "variant_id": "gid://shopify/ProductVariant/47058922275039",
+    "global_id": "gid://shopify/ProductVariant/47058922275039",
+    "variant_title": "Purple",
+    "sku": "TJ-S159",
+    "price": 27500.0,
+    "variant_price": 27500.0,
+    "product_price": 27500.0,
+    "amount": 27500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S159-2.jpg?v=1749894753",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/purple-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s159?variant=gid://shopify/ProductVariant/47058922275039",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/42655997788383": {
     "product_title": "Purple Gold-Plated Thappa Jadau Kundan Bridal Necklace Set with Floral Motif - TJ-S15",
