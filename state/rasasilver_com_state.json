@@ -5960,7 +5960,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/w12e12.jpg?v=1749287456",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sakshi-2?variant=gid://shopify/ProductVariant/50444092637481",
-    "stock": 8,
+    "stock": 9,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50448857727273": {
@@ -7672,7 +7672,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2-2_9d00c181-eb9e-464c-bd8a-0afd9468581b.jpg?v=1754311253",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916794153",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/51471916826921": {
@@ -7690,7 +7690,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Screenshot_2025-11-04_at_12.38.37_PM_e50c5348-a1a4-4aed-9415-cbbae481ad08.png?v=1769155216",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/smaragda-spark-ring?variant=gid://shopify/ProductVariant/51471916826921",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50635383046441": {
@@ -11198,7 +11198,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2616.jpg?v=1756543638",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/navarya-ring?variant=gid://shopify/ProductVariant/50809191727401",
-    "stock": 8,
+    "stock": 9,
     "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/50809221775657": {
@@ -17918,9 +17918,9 @@
     "amount": 1700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS465.jpg?v=1760419064",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/eterni-link-bracelet?variant=gid://shopify/ProductVariant/51345272832297",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51345524883753": {
@@ -54299,7 +54299,7 @@
     "amount": 17510.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4102.jpg?v=1771394910",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/hariyali-stone-bangles?variant=gid://shopify/ProductVariant/52707622256937",
     "stock": 0
   },
@@ -54316,7 +54316,7 @@
     "amount": 17510.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4102.jpg?v=1771394910",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/hariyali-stone-bangles?variant=gid://shopify/ProductVariant/52707622289705",
     "stock": 0
   },
@@ -54333,7 +54333,7 @@
     "amount": 17510.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_11Feb4102.jpg?v=1771394910",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/hariyali-stone-bangles?variant=gid://shopify/ProductVariant/52707622322473",
     "stock": 0
   },
@@ -56271,7 +56271,7 @@
     "amount": 10285.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00204copy_resized.jpg?v=1772196280",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ivory-spark-cz-necklace?variant=gid://shopify/ProductVariant/52712569962793",
     "stock": 1,
     "last_alerted_stock": 1
@@ -67857,7 +67857,7 @@
     "amount": 17085.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20371_resized.jpg?v=1775543857",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/rajtilika-matil?variant=gid://shopify/ProductVariant/52898554249513",
     "stock": -1
   },

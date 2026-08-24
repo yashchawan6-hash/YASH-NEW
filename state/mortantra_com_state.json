@@ -12610,8 +12610,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK503A_1.jpg?v=1715236698",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfneck503a-multicolor-tribal-necklace?variant=gid://shopify/ProductVariant/45609100181727",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45609411936479": {
     "product_title": "Multicolor Dual-Tone Tribal Necklace with Kundan, Elephant and Peacock Motifs - EK-SFNECK512",
@@ -25572,7 +25572,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK421A.jpg?v=1726655499",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfneck421a-multicolor-tribal-necklace?variant=gid://shopify/ProductVariant/46320598450399",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46320620208351": {
     "product_title": "Grey Silver-Plated Tribal Adjustable Ring - EK-SFRNG192",
@@ -26376,7 +26377,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFNECK547A.jpg?v=1727339615",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/ek-sfneck547a-multicolor-tribal-necklace?variant=gid://shopify/ProductVariant/46339439919327",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46339442114783": {
     "product_title": "Multicolor Dual-Tone Tribal Long Necklace with Kundan and Peacock Motif - EK-SFNECK551A",
@@ -50861,40 +50863,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-bridal-necklace-set-pk-s331?variant=gid://shopify/ProductVariant/47068161016031",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/47058921324767": {
-    "product_title": "Dark Green Gold-Plated Thappa Jadau Kundan Necklace Set with Floral and Moon Motifs - TJ-S153",
-    "product_handle": "green-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s153",
-    "variant_id": "gid://shopify/ProductVariant/47058921324767",
-    "global_id": "gid://shopify/ProductVariant/47058921324767",
-    "variant_title": "Dark Green",
-    "sku": "TJ-S153",
-    "price": 32000.0,
-    "variant_price": 32000.0,
-    "product_price": 32000.0,
-    "amount": 32000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S153-2.jpg?v=1749894421",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/green-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s153?variant=gid://shopify/ProductVariant/47058921324767",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/47058933547231": {
-    "product_title": "Green Color Gold Plated Temple Necklace Set with Kundan - TMPSET237WGR",
-    "product_handle": "green-color-gold-plated-temple-necklace-set-tmpset237wgr",
-    "variant_id": "gid://shopify/ProductVariant/47058933547231",
-    "global_id": "gid://shopify/ProductVariant/47058933547231",
-    "variant_title": "Default Title",
-    "sku": "TMPSET237WGR",
-    "price": 15000.0,
-    "variant_price": 15000.0,
-    "product_price": 15000.0,
-    "amount": 15000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPSET237WGR-2_9afcb81a-90ba-4b72-88e3-626c54d48236.jpg?v=1785148916",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/green-color-gold-plated-temple-necklace-set-tmpset237wgr?variant=gid://shopify/ProductVariant/47058933547231",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/47058946425055": {
     "product_title": "Dual-Tone Faux Polki Medium Maang Teeka with Zircon Accents - PK-T9",
@@ -94426,7 +94394,7 @@
     "amount": 6500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPSET229B.jpg?v=1778664149",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset229?variant=gid://shopify/ProductVariant/49167284666591",
     "stock": 0,
     "last_alerted_stock": 0
@@ -113343,6 +113311,40 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset1121?variant=gid://shopify/ProductVariant/51257773588703",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47058921324767": {
+    "product_title": "Dark Green Gold-Plated Thappa Jadau Kundan Necklace Set with Floral and Moon Motifs - TJ-S153",
+    "product_handle": "green-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s153",
+    "variant_id": "gid://shopify/ProductVariant/47058921324767",
+    "global_id": "gid://shopify/ProductVariant/47058921324767",
+    "variant_title": "Dark Green",
+    "sku": "TJ-S153",
+    "price": 32000.0,
+    "variant_price": 32000.0,
+    "product_price": 32000.0,
+    "amount": 32000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TJ-S153-2.jpg?v=1749894421",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/green-color-gold-plated-thappa-jadau-kundan-necklace-set-tj-s153?variant=gid://shopify/ProductVariant/47058921324767",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/47058933547231": {
+    "product_title": "Green Color Gold Plated Temple Necklace Set with Kundan - TMPSET237WGR",
+    "product_handle": "green-color-gold-plated-temple-necklace-set-tmpset237wgr",
+    "variant_id": "gid://shopify/ProductVariant/47058933547231",
+    "global_id": "gid://shopify/ProductVariant/47058933547231",
+    "variant_title": "Default Title",
+    "sku": "TMPSET237WGR",
+    "price": 15000.0,
+    "variant_price": 15000.0,
+    "product_price": 15000.0,
+    "amount": 15000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/TMPSET237WGR-2_9afcb81a-90ba-4b72-88e3-626c54d48236.jpg?v=1785148916",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/green-color-gold-plated-temple-necklace-set-tmpset237wgr?variant=gid://shopify/ProductVariant/47058933547231",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47058922275039": {
     "product_title": "Purple Gold-Plated Thappa Jadau Kundan Princess Necklace Set with Flower and Moon Motifs - TJ-S159",
