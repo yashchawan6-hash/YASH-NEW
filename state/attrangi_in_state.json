@@ -1339,7 +1339,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-1.jpg?v=1739812667",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/41492438712489",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41492438745257": {
@@ -9353,7 +9353,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sharda-maangtika-attrangi.jpg?v=1739814753",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sharda-maangtika?variant=gid://shopify/ProductVariant/43843915940052",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43855905784020": {
@@ -47439,7 +47439,7 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-03-24at4.49.12PM.jpg?v=1774606970",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lacy-50-cent-soltiiare-ring-with-band?variant=gid://shopify/ProductVariant/47727303459028",
     "stock": 1,
     "last_alerted_stock": 0
@@ -58292,24 +58292,6 @@
     "url": "https://www.attrangi.in/products/colourful-gemstone-hasli-western-necklace-set?variant=gid://shopify/ProductVariant/48403806748884",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/48408272896212": {
-    "product_title": "Holdali Gold Sone Pe Suhaga Traditional Indian Watch",
-    "product_handle": "holdali-gold-sone-pe-suhaga-traditional-indian-watch",
-    "variant_id": "gid://shopify/ProductVariant/48408272896212",
-    "global_id": "gid://shopify/ProductVariant/48408272896212",
-    "variant_title": "Default Title",
-    "sku": "ST62823-BR",
-    "price": 5450.0,
-    "variant_price": 5450.0,
-    "product_price": 5450.0,
-    "amount": 5450.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-03at4.39.13PM_1.jpg?v=1785758679",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/holdali-gold-sone-pe-suhaga-traditional-indian-watch?variant=gid://shopify/ProductVariant/48408272896212",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/48408360386772": {
     "product_title": "Diamond Wrap Designer Hand Cuff",
     "product_handle": "diamond-wrap-designer-hand-cuff",
@@ -59406,6 +59388,24 @@
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48518327894228",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/48408272896212": {
+    "product_title": "Holdali Gold Sone Pe Suhaga Traditional Indian Watch",
+    "product_handle": "holdali-gold-sone-pe-suhaga-traditional-indian-watch",
+    "variant_id": "gid://shopify/ProductVariant/48408272896212",
+    "global_id": "gid://shopify/ProductVariant/48408272896212",
+    "variant_title": "Default Title",
+    "sku": "ST62823-BR",
+    "price": 5450.0,
+    "variant_price": 5450.0,
+    "product_price": 5450.0,
+    "amount": 5450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-03at4.39.13PM_1.jpg?v=1785758679",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/holdali-gold-sone-pe-suhaga-traditional-indian-watch?variant=gid://shopify/ProductVariant/48408272896212",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46984450801876": {
     "product_title": "Oscar Winner Diamond C Style Stud Earrings",
