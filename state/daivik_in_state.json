@@ -4917,8 +4917,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c920ba8f-3819-41cb-8d62-09fae78769ef.jpg?v=1642085779",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/pure-kemp-brass-teeka?variant=gid://shopify/ProductVariant/42338491891934",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42348479578334": {
     "product_title": "Party wear Necklaces in 4 styles with earrings",
@@ -15330,8 +15330,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DC18AED0-2376-4F2F-AFE9-D6C2CD2A73FF.jpg?v=1695483926",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ruby-ad-jhumkas-with-attached-mattal?variant=gid://shopify/ProductVariant/44358526632158",
-    "stock": 25,
-    "last_alerted_stock": 25
+    "stock": 24,
+    "last_alerted_stock": 24
   },
   "gid://shopify/ProductVariant/44359362347230": {
     "product_title": "Simple Heart shaped AD Necklace with Studs",
@@ -16971,8 +16971,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/E3D36B20-6DEA-499C-98C3-F132B1E57C0E.jpg?v=1697558833",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/antique-lakshmi-choker-with-earrings?variant=gid://shopify/ProductVariant/44418498101470",
-    "stock": 26,
-    "last_alerted_stock": 26
+    "stock": 25,
+    "last_alerted_stock": 25
   },
   "gid://shopify/ProductVariant/44425261187294": {
     "product_title": "Mossonite Brass Kadas",
@@ -58842,7 +58842,7 @@
     "amount": 7499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F1292F7-1238-4DCB-B513-CCB1A7D8A251.jpg?v=1787331525",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/balaji-haram?variant=gid://shopify/ProductVariant/48624208937182",
     "stock": -1
   },
