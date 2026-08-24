@@ -11160,8 +11160,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2606.jpg?v=1756541009",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/emerovia-pendant?variant=gid://shopify/ProductVariant/50809107087657",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50809158959401": {
     "product_title": "Rosvara Pendant Set",
@@ -78378,7 +78378,7 @@
     "amount": 1275.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17Jun5714_resized.jpg?v=1782368636",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rose-prestige-ring?variant=gid://shopify/ProductVariant/53288195916073",
     "stock": -1
   },
