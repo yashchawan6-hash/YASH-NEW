@@ -178,5 +178,41 @@
     "curr_stock": 2,
     "url": "https://www.attrangi.in/products/soltiaire-pendant-set?variant=gid://shopify/ProductVariant/45951995707604",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-11-02_at_6.22.20_PM.jpg?v=1739816998"
+  },
+  {
+    "timestamp_ist": "2026-08-24 12:12:29",
+    "product_title": "Aarushi Mid-Sized Chandbali",
+    "variant_title": "Pink",
+    "variant_id": "gid://shopify/ProductVariant/47104469434580",
+    "sku": "SS0144P",
+    "price": 2650.0,
+    "variant_price": 2650.0,
+    "product_price": 2650.0,
+    "amount": 2650.0,
+    "total_price": 2650.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.attrangi.in/products/aarushi-mid-sized-chandbali?variant=gid://shopify/ProductVariant/47104469434580",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/aarushi-mid-sized-chandbali-attrangi-4_c4e1496b-5959-433b-aede-b303ee25c0c0.jpg?v=1760445999"
+  },
+  {
+    "timestamp_ist": "2026-08-24 12:12:29",
+    "product_title": "Aarushi Mid-Sized Chandbali",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/47104469467348",
+    "sku": "SS0144GR",
+    "price": 2650.0,
+    "variant_price": 2650.0,
+    "product_price": 2650.0,
+    "amount": 2650.0,
+    "total_price": 2650.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.attrangi.in/products/aarushi-mid-sized-chandbali?variant=gid://shopify/ProductVariant/47104469467348",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/aarushi-mid-sized-chandbali-attrangi-6_5608079b-4b42-4f0f-9d82-183379fcb3ca.jpg?v=1760445999"
   }
 ]

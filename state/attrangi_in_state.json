@@ -1709,9 +1709,10 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/aarushi-mid-sized-chandbali-attrangi-4_c4e1496b-5959-433b-aede-b303ee25c0c0.jpg?v=1760445999",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/aarushi-mid-sized-chandbali?variant=gid://shopify/ProductVariant/47104469434580",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47104469467348": {
     "product_title": "Aarushi Mid-Sized Chandbali",
@@ -1726,9 +1727,10 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/aarushi-mid-sized-chandbali-attrangi-6_5608079b-4b42-4f0f-9d82-183379fcb3ca.jpg?v=1760445999",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/aarushi-mid-sized-chandbali?variant=gid://shopify/ProductVariant/47104469467348",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42579661095124": {
     "product_title": "Falak Nose Ring | Nath",
