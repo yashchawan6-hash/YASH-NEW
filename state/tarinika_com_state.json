@@ -202,10 +202,10 @@
     "amount": 84.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SRP3556.jpg?v=1747379410",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/premal-antique-necklace-set?variant=gid://shopify/ProductVariant/12161095467116",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40826621689922": {
     "product_title": "Premal Antique Necklace Set",
@@ -5860,8 +5860,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3842copycopy.jpg?v=1640780599",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/aashi-antique-earrings?variant=gid://shopify/ProductVariant/41483278975042",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/32674484977730": {
     "product_title": "Shuchi Antique Earrings",
@@ -27985,7 +27985,7 @@
     "amount": 25.5,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0005XE6.jpg?v=1766136299",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/mihita-nakshatra-sea-blue-cz-pendant-set?variant=gid://shopify/ProductVariant/42778125172802",
     "stock": 1
   },

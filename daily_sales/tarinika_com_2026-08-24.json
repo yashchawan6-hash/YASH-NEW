@@ -358,5 +358,41 @@
     "curr_stock": 1,
     "url": "https://www.tarinika.com/products/ratna-antique-bangles?variant=gid://shopify/ProductVariant/41590955081794",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0496copycopy.jpg?v=1683010333"
+  },
+  {
+    "timestamp_ist": "2026-08-24 22:27:33",
+    "product_title": "Premal Antique Necklace Set",
+    "variant_title": "White Red Green",
+    "variant_id": "gid://shopify/ProductVariant/12161095467116",
+    "sku": "US-FNX0150XMC",
+    "price": 84.99,
+    "variant_price": 84.99,
+    "product_price": 84.99,
+    "amount": 84.99,
+    "total_price": 84.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/premal-antique-necklace-set?variant=gid://shopify/ProductVariant/12161095467116",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/SRP3556.jpg?v=1747379410"
+  },
+  {
+    "timestamp_ist": "2026-08-24 22:27:33",
+    "product_title": "Aashi Antique Earrings",
+    "variant_title": "Antique Finish With Red Enamel",
+    "variant_id": "gid://shopify/ProductVariant/41483278975042",
+    "sku": "US-1EX0196XWCF",
+    "price": 34.99,
+    "variant_price": 34.99,
+    "product_price": 34.99,
+    "amount": 34.99,
+    "total_price": 34.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.tarinika.com/products/aashi-antique-earrings?variant=gid://shopify/ProductVariant/41483278975042",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL3842copycopy.jpg?v=1640780599"
   }
 ]
