@@ -1919,9 +1919,10 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-03-07_at_5.36.55_PM.jpg?v=1744966648",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/izzatwali-maangtika?variant=gid://shopify/ProductVariant/46126164967636",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46781253484756": {
     "product_title": "Naila Diamond Set",
@@ -5604,8 +5605,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/bhakti-maangtika-attrangi-1.jpg?v=1739813869",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bhakti-maangtika?variant=gid://shopify/ProductVariant/46070128017620",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44004906926292": {
     "product_title": "Zeba Oversized Earrings",
@@ -14755,7 +14756,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-27_at_12.48.50_AM.jpg?v=1750781787",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/dulhaniya-uncut-diamond-dramatic-jhumkas-with-kannauti?variant=gid://shopify/ProductVariant/44861724623060",
-    "stock": 6
+    "stock": 7
   },
   "gid://shopify/ProductVariant/44753999888596": {
     "product_title": "Seeta Diamond Rim | CNC Gold Plated Bangle Set",
@@ -16915,9 +16916,9 @@
     "amount": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/evil-eye-monogram-daily-bracelet-attrangi-3.jpg?v=1739816793",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/evil-eye-monogram-daily-bracelet?variant=gid://shopify/ProductVariant/45442725347540",
-    "stock": 0,
+    "stock": 10,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45442902917332": {
@@ -18721,7 +18722,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-10-06at12.45.20AM_1.jpg?v=1750782837",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/heer-kannauti-indian-polki-earrings?variant=gid://shopify/ProductVariant/45698326757588",
-    "stock": 5,
+    "stock": 6,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45698502099156": {
@@ -56609,7 +56610,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.06PM.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379713847508",
     "stock": 0,
     "last_alerted_stock": 0
@@ -57131,7 +57132,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714994388",
     "stock": 0,
     "last_alerted_stock": 0

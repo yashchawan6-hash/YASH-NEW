@@ -1308,8 +1308,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/C737AC2D-4625-48B3-A0E8-1A1FD009E918.jpg?v=1737636280",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/pure-uncut-kemp-vintage-necklace-with-earrings?variant=gid://shopify/ProductVariant/44178228478174",
-    "stock": 27,
-    "last_alerted_stock": 27
+    "stock": 26,
+    "last_alerted_stock": 26
   },
   "gid://shopify/ProductVariant/36673302921369": {
     "product_title": "Meenakari Peacock Necklace With Earrings",
@@ -2894,8 +2894,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_e1727bec-c36a-44dd-a14d-4d43574316b4.jpg?v=1626534532",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-short-haram-with-earrings?variant=gid://shopify/ProductVariant/40591824093337",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/40599688642713": {
     "product_title": "Kemp bangles",
@@ -9603,9 +9603,9 @@
     "amount": 8999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8af01ff1-2673-4ff5-bfcb-21d5ecc1963f.jpg?v=1665756494",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/a-312?variant=gid://shopify/ProductVariant/43529346580702",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43531407884510": {
@@ -10435,7 +10435,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f7e937a6-296a-4f9e-b5f9-3f262bebfd9c.heic?v=1669384716",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-365?variant=gid://shopify/ProductVariant/43698798887134",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43698803638494": {
     "product_title": "Kemp Brass Pearl Haram with earrings",
@@ -10656,7 +10657,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_b39cabde-de04-43d6-8d67-460cff0f1ca2.heic?v=1671371759",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-277?variant=gid://shopify/ProductVariant/43772970107102",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/43784807907550": {
     "product_title": "Victorian zirconium Necklace with studs in 2 colours",
@@ -52594,7 +52596,7 @@
     "amount": 9499.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_4149.jpg?v=1774764324",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/lakshmi-pendant-floral-long-haram-with-arrings?variant=gid://shopify/ProductVariant/48042486333662",
     "stock": 1
   },
