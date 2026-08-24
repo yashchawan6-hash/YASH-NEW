@@ -14725,10 +14725,10 @@
     "amount": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0723copycopy.jpg?v=1682745428",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/sreeja-antique-nakshi-choker-set?variant=gid://shopify/ProductVariant/40285694459970",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40285694853186": {
     "product_title": "Madhav Antique Temple Pendant Set",
