@@ -157,7 +157,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-round-solitaire-attrangi-1.jpg?v=1739812459",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-round-solitaire?variant=gid://shopify/ProductVariant/40411659501737",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40411659567273": {
@@ -1375,8 +1375,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-2.jpg?v=1739812669",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/42145342324948",
-    "stock": 10,
-    "last_alerted_stock": 0
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/40411688501417": {
     "product_title": "Blooming Ring",
@@ -9825,10 +9825,10 @@
     "amount": 2950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.09_PM_1.jpg?v=1764682059",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/5-line-multi-polish-diamond-tennis-bracelet?variant=gid://shopify/ProductVariant/43891226673364",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48267152621780": {
     "product_title": "Just Tiny Pear Diamond Tennis Bracelet",
@@ -41463,7 +41463,7 @@
     "amount": 3250.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-01-07at7.36.20PM.jpg?v=1767854900",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/lopamudra-gold-full-finger-3-level-adjustable-ring-sone-pe-suhaga?variant=gid://shopify/ProductVariant/47424944505044",
     "stock": 1,
     "last_alerted_stock": 1
