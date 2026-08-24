@@ -286,5 +286,41 @@
     "curr_stock": 8,
     "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7b2d0a3f-57f6-4b02-90e0-6cb541445113.heic?v=1667830084"
+  },
+  {
+    "timestamp_ist": "2026-08-24 13:17:31",
+    "product_title": "Kemp studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44284806037726",
+    "sku": "253",
+    "price": 699.0,
+    "variant_price": 699.0,
+    "product_price": 699.0,
+    "amount": 699.0,
+    "total_price": 699.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 15,
+    "curr_stock": 14,
+    "url": "https://www.daivik.in/products/kemp-studs?variant=gid://shopify/ProductVariant/44284806037726",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_b83c4f76-0848-4121-b34f-3e288b272ee0.heic?v=1690386065"
+  },
+  {
+    "timestamp_ist": "2026-08-24 13:17:31",
+    "product_title": "AD Premium Stone Mangalsutra with Rice pearl - 18 Inch in 2 Colors (Price for each)",
+    "variant_title": "Ruby",
+    "variant_id": "gid://shopify/ProductVariant/44610372960478",
+    "sku": "467",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 14,
+    "curr_stock": 13,
+    "url": "https://www.daivik.in/products/ad-pendant-mangalsutra-in-2-colors-price-for-each?variant=gid://shopify/ProductVariant/44610372960478",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/56F3F07C-3706-4D2A-94FB-D655F161128D.heic?v=1702815226"
   }
 ]

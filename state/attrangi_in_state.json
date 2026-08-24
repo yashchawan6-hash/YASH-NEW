@@ -24907,7 +24907,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-28at12.47.31PM.jpg?v=1741072768",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/adbhut-moissanite-uncut-diamond-polki-bangles-antique-gold?variant=gid://shopify/ProductVariant/46110061068500",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46110061101268": {
     "product_title": "Adbhut Moissanite Uncut Diamond Polki Bangles | Antique Gold",
@@ -56819,7 +56820,7 @@
     "amount": 650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-28at3.25.05PM_2.jpg?v=1785241370",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/colour-burst-daily-wear-rakhi-bracelet-alphabet-customised?variant=gid://shopify/ProductVariant/48379714339028",
     "stock": 1,
     "last_alerted_stock": 1
