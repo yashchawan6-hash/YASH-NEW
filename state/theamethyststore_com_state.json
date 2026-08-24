@@ -6250,7 +6250,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-0290.jpg?v=1687506940",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/glitzy-dual-tone-ring?variant=gid://shopify/ProductVariant/43312126132451",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43312134553827": {
     "product_title": "Cutie Look Ring",
@@ -13718,8 +13719,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/1_21dbdd2e-d30a-4019-816f-52833d641d9a.jpg?v=1693456844",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/fish-hook-back-chain?variant=gid://shopify/ProductVariant/43970730000611",
-    "stock": 12,
-    "last_alerted_stock": 12
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/43971136225507": {
     "product_title": "Pragin Jhumkhas",

@@ -306,9 +306,10 @@
     "amount": 78500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS_P621.jpg?v=1757402009",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/lily-two-strand-necklace?variant=gid://shopify/ProductVariant/51178838032681",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49866172268841": {
     "product_title": "Sharmika Victorian Necklace",
