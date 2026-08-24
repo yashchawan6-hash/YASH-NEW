@@ -268,5 +268,23 @@
     "curr_stock": 21,
     "url": "https://www.daivik.in/products/a-125?variant=gid://shopify/ProductVariant/42912489242846",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_4f27822f-5096-4f3a-a921-c63a25ff937f.heic?v=1654524848"
+  },
+  {
+    "timestamp_ist": "2026-08-24 13:13:51",
+    "product_title": "Tikka (Price for each )",
+    "variant_title": "3.",
+    "variant_id": "gid://shopify/ProductVariant/43630214349022",
+    "sku": "1023",
+    "price": 1099.0,
+    "variant_price": 1099.0,
+    "product_price": 1099.0,
+    "amount": 1099.0,
+    "total_price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 9,
+    "curr_stock": 8,
+    "url": "https://www.daivik.in/products/a-349?variant=gid://shopify/ProductVariant/43630214349022",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_7b2d0a3f-57f6-4b02-90e0-6cb541445113.heic?v=1667830084"
   }
 ]
