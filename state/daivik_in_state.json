@@ -4430,7 +4430,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_23324bb1-7a9c-4d89-abfe-bc46ed0194fa.jpg?v=1640157624",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/pure-kemp-midlength-haram?variant=gid://shopify/ProductVariant/42180674420958",
-    "stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/42180921229534": {
     "product_title": "Set of 6 AD Bangles",
@@ -12769,8 +12770,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
-    "stock": 26,
-    "last_alerted_stock": 26
+    "stock": 25,
+    "last_alerted_stock": 25
   },
   "gid://shopify/ProductVariant/44212589330654": {
     "product_title": "Victorian AD Green pearl necklace with earrings",
@@ -21020,8 +21021,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/04C62364-AC44-464C-832A-7961F21C18D7.jpg?v=1714322428",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-doublet-stone-designer-earrings?variant=gid://shopify/ProductVariant/45291773722846",
-    "stock": 15,
-    "last_alerted_stock": 15
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/45291773755614": {
     "product_title": "AD Doublet stone Designer Earrings",
@@ -56552,7 +56553,7 @@
     "amount": 299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_5358.jpg?v=1781711079",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-non-piercing-nosepin-in-3-colors-price-for-each?variant=gid://shopify/ProductVariant/48341912453342",
     "stock": 2,
     "last_alerted_stock": 2
