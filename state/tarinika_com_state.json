@@ -25270,7 +25270,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ANX3871XMC_adfd73d9-2a1b-46a5-87dd-a91269e5559d.jpg?v=1757401204",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/mira-antique-necklace-set?variant=gid://shopify/ProductVariant/42417391534146",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42417391566914": {
@@ -30086,23 +30086,6 @@
     "url": "https://www.tarinika.com/products/dhira-delicate-antique-necklace?variant=gid://shopify/ProductVariant/43652296507458",
     "stock": 11
   },
-  "gid://shopify/ProductVariant/43652298965058": {
-    "product_title": "Auric Sleek Antique Chain",
-    "product_handle": "pdh0007xtc",
-    "variant_id": "gid://shopify/ProductVariant/43652298965058",
-    "global_id": "gid://shopify/ProductVariant/43652298965058",
-    "variant_title": "Default Title",
-    "sku": "PDH0007XTC",
-    "price": 19.99,
-    "variant_price": 19.99,
-    "product_price": 19.99,
-    "amount": 19.99,
-    "currency": "USD",
-    "image_url": null,
-    "available_for_sale": true,
-    "url": "https://www.tarinika.com/products/pdh0007xtc?variant=gid://shopify/ProductVariant/43652298965058",
-    "stock": 3
-  },
   "gid://shopify/ProductVariant/43652299522114": {
     "product_title": "Elira Dual Line Antique Chain",
     "product_handle": "elira-dual-line-antique-chain",
@@ -31286,6 +31269,23 @@
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/gehna-kundan-nose-ring?variant=gid://shopify/ProductVariant/44681723969602",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/43652298965058": {
+    "product_title": "Auric Sleek Antique Chain",
+    "product_handle": "pdh0007xtc",
+    "variant_id": "gid://shopify/ProductVariant/43652298965058",
+    "global_id": "gid://shopify/ProductVariant/43652298965058",
+    "variant_title": "Default Title",
+    "sku": "PDH0007XTC",
+    "price": 19.99,
+    "variant_price": 19.99,
+    "product_price": 19.99,
+    "amount": 19.99,
+    "currency": "USD",
+    "image_url": null,
+    "available_for_sale": true,
+    "url": "https://www.tarinika.com/products/pdh0007xtc?variant=gid://shopify/ProductVariant/43652298965058",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/43652296769602": {
     "product_title": "Suhani Delicate Antique Necklace",
