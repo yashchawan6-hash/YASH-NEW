@@ -532,9 +532,9 @@
     "amount": 64.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANL0551XM.jpg?v=1762526581",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/hami-antique-long-necklace-set?variant=gid://shopify/ProductVariant/12216667897964",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/12216676581484": {
