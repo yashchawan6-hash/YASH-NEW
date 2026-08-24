@@ -4620,7 +4620,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-luxury-22k-pure-gold-plated-finely-detailed-temple-statement-ring-rings-33405629628590.jpg?v=1751572601",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-luxury-22k-pure-gold-plated-finely-detailed-temple-statement-ring-1?variant=gid://shopify/ProductVariant/43740382003374",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/43762228396206": {
     "product_title": "Minimal Elegance Kundan Maang Tikka",
@@ -4723,7 +4724,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones-necklace-set-33573510480046.jpg?v=1755718556",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones?variant=gid://shopify/ProductVariant/43813884493998",
-    "stock": 4,
+    "stock": 5,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43814258573486": {
@@ -10469,8 +10470,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/women-rose-gold-plated-cubic-zirconia-studded-mangalsutra-mangalsutra-36454484639918.jpg?v=1755720263",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/women-rose-gold-plated-cubic-zirconia-studded-mangalsutra?variant=gid://shopify/ProductVariant/45405725982894",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45411761946798": {
     "product_title": "Ruby Studded Choker Set with Gold Beads",
@@ -10733,7 +10734,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R404731_-Model.jpg?v=1774857358",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18kt-gold-plated-crystal-studded-beaded-peacock-motif-ring?variant=gid://shopify/ProductVariant/45604278599854",
-    "stock": 8,
+    "stock": 7,
     "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/45604278665390": {
