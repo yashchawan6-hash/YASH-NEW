@@ -19762,9 +19762,10 @@
     "amount": 25.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TEX0293XRY.jpg?v=1724754275",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/riva-antique-red-kempu-chandbali-earrings?variant=gid://shopify/ProductVariant/41605178130498",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41605302026306": {
     "product_title": "Amara Red CZ Necklace Set",
