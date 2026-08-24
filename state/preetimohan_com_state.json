@@ -18280,9 +18280,10 @@
     "amount": 28000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/177_b04a2454-fa2d-476a-b966-928324fb0442.png?v=1762782815",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/rishika-red-green-kundan-choker?variant=gid://shopify/ProductVariant/49644828295361",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49644828426433": {
     "product_title": "SAUMYA GREEN POLKI NECKLACE SET",
@@ -18878,7 +18879,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/177_10c51606-35fe-47b6-a3fa-d7f5efceeac0.png?v=1762839743",
     "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/srividiya-red-kundan-jhumka?variant=gid://shopify/ProductVariant/49656719900865",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/49656720654529": {
     "product_title": "TEJSHRI RED & GREEN KUNDAN JHUMKA",
