@@ -2519,7 +2519,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S13R-2_83476323-cca7-468c-ba81-8d3479273b9f.jpg?v=1787396682",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-s13r-faux-diamond-necklace-set?variant=gid://shopify/ProductVariant/42855343653087",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/42855365279967": {
     "product_title": "Green Color Gold Plated Faux Polki Necklace Set - PK-S14A",
@@ -2536,7 +2537,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S14A_2_copy_1a22b489-5bce-4e9f-b71f-7baca7f7625f.jpg?v=1712559049",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-s14a-faux-diamond-necklace-set?variant=gid://shopify/ProductVariant/42855365279967",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42855367901407": {
     "product_title": "Multicolor Gold Plated Faux Polki Necklace Set - PK-S14B",
@@ -5880,7 +5882,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S41_3_copy.jpg?v=1711633504",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-s41-faux-diamond-necklace-set?variant=gid://shopify/ProductVariant/44264788132063",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44264825520351": {
     "product_title": "Multicolor Gold-Plated Thappa Jadau Kundan Aadh Necklace Set with Peacock and Floral Motifs - TJ-S110M",
@@ -7684,7 +7687,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S115_2.jpg?v=1715953220",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-s115-white-color-faux-polki-necklace-set?variant=gid://shopify/ProductVariant/44646236717279",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44648835252447": {
     "product_title": "Green Color Gold Plated Mishr Bracelet (1 Piece) - CC-BRAC5GR",
@@ -15895,7 +15899,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S139GR-1.jpg?v=1717226576",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-s139gr-green-color-gold-plated-faux-polki-necklace-set?variant=gid://shopify/ProductVariant/45908026228959",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45908059291871": {
     "product_title": "Maroon Gold-Plated Faux Polki Long Pendant Necklace Set with Tassel Earrings - PK-S139P",
@@ -17373,7 +17378,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S189PR-2.jpg?v=1782967446",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-s189pr-purple-color-faux-polki-necklace-set?variant=gid://shopify/ProductVariant/46014282498271",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46014731256031": {
     "product_title": "Green Color Gold Plated Faux Polki Necklace Set - PK-S159GR",
@@ -18044,9 +18050,10 @@
     "amount": 8500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S253LP_1.jpg?v=1719915877",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/pk-s253-gold-plated-faux-polki-necklace-set?variant=gid://shopify/ProductVariant/46055743258847",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46082150170847": {
     "product_title": "Gold-Plated Faux Polki Pendant Necklace Set with Zircon Halo - PK-S253",
@@ -18384,9 +18391,9 @@
     "amount": 9000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S202BL_2.jpg?v=1719818027",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/pk-s202-gold-plated-faux-polki-necklace-set?variant=gid://shopify/ProductVariant/46064290660575",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46064290726111": {
@@ -31158,24 +31165,6 @@
     "url": "https://www.mortantra.com/products/green-color-gold-plated-faux-polki-necklace-set-pk-s286gr?variant=gid://shopify/ProductVariant/46599165968607",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/46599214596319": {
-    "product_title": "Multicolor Gold-Plated Faux Polki Princess Necklace Set with Kundan Setting - PK-S288M",
-    "product_handle": "multicolor-gold-plated-faux-polki-necklace-set-pk-s288m",
-    "variant_id": "gid://shopify/ProductVariant/46599214596319",
-    "global_id": "gid://shopify/ProductVariant/46599214596319",
-    "variant_title": "Default Title",
-    "sku": "PK-S288M",
-    "price": 9500.0,
-    "variant_price": 9500.0,
-    "product_price": 9500.0,
-    "amount": 9500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S288M-2.jpg?v=1735200460",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-necklace-set-pk-s288m?variant=gid://shopify/ProductVariant/46599214596319",
-    "stock": 1,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/46599234420959": {
     "product_title": "Gold-Plated Faux Polki Pendant Necklace Set with Kundan Setting - PK-S289",
     "product_handle": "gold-plated-faux-polki-necklace-set-pk-s289",
@@ -35532,7 +35521,7 @@
     "amount": 9500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S213BL-2.jpg?v=1737180535",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s213?variant=gid://shopify/ProductVariant/46696931885279",
     "stock": 1,
     "last_alerted_stock": 0
@@ -56766,108 +56755,6 @@
     "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s390?variant=gid://shopify/ProductVariant/47096673632479",
     "stock": 0
-  },
-  "gid://shopify/ProductVariant/47096736317663": {
-    "product_title": "Gold-Plated Faux Polki Kundan Choker and Pearl Belt Necklace Set - PK-S391",
-    "product_handle": "gold-plated-faux-polki-necklace-set-pk-s391",
-    "variant_id": "gid://shopify/ProductVariant/47096736317663",
-    "global_id": "gid://shopify/ProductVariant/47096736317663",
-    "variant_title": "White",
-    "sku": "PK-S391",
-    "price": 7000.0,
-    "variant_price": 7000.0,
-    "product_price": 7000.0,
-    "amount": 7000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S391.jpg?v=1751372090",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s391?variant=gid://shopify/ProductVariant/47096736317663",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47096736383199": {
-    "product_title": "Gold-Plated Faux Polki Kundan Choker and Pearl Belt Necklace Set - PK-S391",
-    "product_handle": "gold-plated-faux-polki-necklace-set-pk-s391",
-    "variant_id": "gid://shopify/ProductVariant/47096736383199",
-    "global_id": "gid://shopify/ProductVariant/47096736383199",
-    "variant_title": "Dark Green",
-    "sku": "PK-S391GR",
-    "price": 7000.0,
-    "variant_price": 7000.0,
-    "product_price": 7000.0,
-    "amount": 7000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S391GR-2.jpg?v=1751372840",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s391?variant=gid://shopify/ProductVariant/47096736383199",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47096736481503": {
-    "product_title": "Gold-Plated Faux Polki Kundan Choker and Pearl Belt Necklace Set - PK-S391",
-    "product_handle": "gold-plated-faux-polki-necklace-set-pk-s391",
-    "variant_id": "gid://shopify/ProductVariant/47096736481503",
-    "global_id": "gid://shopify/ProductVariant/47096736481503",
-    "variant_title": "Multicolor",
-    "sku": "PK-S391PGR",
-    "price": 7000.0,
-    "variant_price": 7000.0,
-    "product_price": 7000.0,
-    "amount": 7000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S391PGR-2.jpg?v=1751372840",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s391?variant=gid://shopify/ProductVariant/47096736481503",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47096736350431": {
-    "product_title": "Gold-Plated Faux Polki Kundan Choker and Pearl Belt Necklace Set - PK-S391",
-    "product_handle": "gold-plated-faux-polki-necklace-set-pk-s391",
-    "variant_id": "gid://shopify/ProductVariant/47096736350431",
-    "global_id": "gid://shopify/ProductVariant/47096736350431",
-    "variant_title": "Multicolor A",
-    "sku": "PK-S391PLGR",
-    "price": 7000.0,
-    "variant_price": 7000.0,
-    "product_price": 7000.0,
-    "amount": 7000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S391PLGR-2.jpg?v=1751372840",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s391?variant=gid://shopify/ProductVariant/47096736350431",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47096736415967": {
-    "product_title": "Gold-Plated Faux Polki Kundan Choker and Pearl Belt Necklace Set - PK-S391",
-    "product_handle": "gold-plated-faux-polki-necklace-set-pk-s391",
-    "variant_id": "gid://shopify/ProductVariant/47096736415967",
-    "global_id": "gid://shopify/ProductVariant/47096736415967",
-    "variant_title": "Red",
-    "sku": "PK-S391R",
-    "price": 7000.0,
-    "variant_price": 7000.0,
-    "product_price": 7000.0,
-    "amount": 7000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S391R-2.jpg?v=1751372840",
-    "available_for_sale": false,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s391?variant=gid://shopify/ProductVariant/47096736415967",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/47096736514271": {
-    "product_title": "Gold-Plated Faux Polki Kundan Choker and Pearl Belt Necklace Set - PK-S391",
-    "product_handle": "gold-plated-faux-polki-necklace-set-pk-s391",
-    "variant_id": "gid://shopify/ProductVariant/47096736514271",
-    "global_id": "gid://shopify/ProductVariant/47096736514271",
-    "variant_title": "Dark Pink",
-    "sku": "PK-S391WP",
-    "price": 7000.0,
-    "variant_price": 7000.0,
-    "product_price": 7000.0,
-    "amount": 7000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S391WP-2.jpg?v=1751372840",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s391?variant=gid://shopify/ProductVariant/47096736514271",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/47099087683807": {
     "product_title": "Red Gold-Plated Jadau Kundan Bangle Pair with Floral Kundan Setting - MB228",
@@ -114060,6 +113947,41 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset1121?variant=gid://shopify/ProductVariant/51257773588703",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/46599214596319": {
+    "product_title": "Multicolor Gold-Plated Faux Polki Princess Necklace Set with Kundan Setting - PK-S288M",
+    "product_handle": "multicolor-gold-plated-faux-polki-necklace-set-pk-s288m",
+    "variant_id": "gid://shopify/ProductVariant/46599214596319",
+    "global_id": "gid://shopify/ProductVariant/46599214596319",
+    "variant_title": "Default Title",
+    "sku": "PK-S288M",
+    "price": 9500.0,
+    "variant_price": 9500.0,
+    "product_price": 9500.0,
+    "amount": 9500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S288M-2.jpg?v=1735200460",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-necklace-set-pk-s288m?variant=gid://shopify/ProductVariant/46599214596319",
+    "stock": 1,
+    "last_alerted_stock": 0
+  },
+  "gid://shopify/ProductVariant/47096736514271": {
+    "product_title": "Gold-Plated Faux Polki Kundan Choker and Pearl Belt Necklace Set - PK-S391",
+    "product_handle": "gold-plated-faux-polki-necklace-set-pk-s391",
+    "variant_id": "gid://shopify/ProductVariant/47096736514271",
+    "global_id": "gid://shopify/ProductVariant/47096736514271",
+    "variant_title": "Dark Pink",
+    "sku": "PK-S391WP",
+    "price": 7000.0,
+    "variant_price": 7000.0,
+    "product_price": 7000.0,
+    "amount": 7000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S391WP-2.jpg?v=1751372840",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-necklace-set-pk-s391?variant=gid://shopify/ProductVariant/47096736514271",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47109586780383": {
     "product_title": "White Gold-Plated Faux Polki Haath Phool with Kundan Setting (Single Piece) - PK-HP5",
