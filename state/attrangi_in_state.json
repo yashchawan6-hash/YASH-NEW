@@ -21564,9 +21564,10 @@
     "amount": 2350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-13at10.16.41PM.jpg?v=1774264747",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/romania-diamond-colour-blob-cocktail-ring?variant=gid://shopify/ProductVariant/45911374102740",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48188018950356": {
     "product_title": "Romania Diamond Colour Blob Cocktail Ring",
