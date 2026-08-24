@@ -12937,9 +12937,9 @@
     "amount": 6450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/holdali-choker-set-with-gold-and-polki-attrangi-6.jpg?v=1739815700",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/holdali-choker-set-with-gold-polki?variant=gid://shopify/ProductVariant/44412966338772",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44418983919828": {
@@ -59248,7 +59248,7 @@
     "amount": 695.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-17_at_3.29.09_PM.jpg?v=1786970732",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/polki-gold-indian-kurta-shirt-buttons-detachable?variant=gid://shopify/ProductVariant/48485404672212",
     "stock": 4
   },
