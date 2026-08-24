@@ -24444,9 +24444,10 @@
     "amount": 1699.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/72BF5E15-1BC7-41A4-A20E-B253A4DC20C7.jpg?v=1727017441",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/b?variant=gid://shopify/ProductVariant/45908637909214",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45908637941982": {
     "product_title": "Lakshmi Peacock Coral Red Bangles/Kada (Prices for 2 Bangles)",
