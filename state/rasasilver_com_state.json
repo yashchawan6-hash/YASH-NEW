@@ -5906,9 +5906,9 @@
     "amount": 1955.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/21e21e2.jpg?v=1749289518",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ritu?variant=gid://shopify/ProductVariant/50443962089769",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50443982635305": {
@@ -8468,7 +8468,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_723b0375-1d76-4ccb-a761-ebd44e7148dd.jpg?v=1754916327",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/35?variant=gid://shopify/ProductVariant/50712002330921",
-    "stock": 13,
+    "stock": 16,
     "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/50712092999977": {
@@ -10953,7 +10953,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_33pc_18Aug2542.jpg?v=1756538914",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ovalika-danglers?variant=gid://shopify/ProductVariant/50808249778473",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/50808688967977": {
@@ -54473,7 +54473,7 @@
     "amount": 2805.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0025copy_1.jpg?v=1771164178",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/temple-studs?variant=gid://shopify/ProductVariant/52677489787177",
     "stock": 0
   },
@@ -80051,7 +80051,7 @@
     "amount": 2550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun2240_resized.jpg?v=1782894549",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kasu-sundari-temple-studs?variant=gid://shopify/ProductVariant/53296571384105",
     "stock": 0
   },
@@ -83754,7 +83754,7 @@
     "amount": 26010.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-07-21at3.31.29PM.jpg?v=1784628789",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/padmavibhuti-temple-necklace?variant=gid://shopify/ProductVariant/53346506244393",
     "stock": -1
   },
@@ -83771,7 +83771,7 @@
     "amount": 40290.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-07-21at2.09.28PM.jpg?v=1784628028",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/padmanidhi-temple-necklace?variant=gid://shopify/ProductVariant/53346524954921",
     "stock": -1
   },
@@ -87335,7 +87335,7 @@
     "amount": 1100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38665.jpg?v=1786712936",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/heart-stone-buggadi?variant=gid://shopify/ProductVariant/53398610116905",
     "stock": -1
   },
@@ -87386,7 +87386,7 @@
     "amount": 87600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver__7Aug18361.jpg?v=1786713074",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/zivara-peacock-cz-necklace-set?variant=gid://shopify/ProductVariant/53398653436201",
     "stock": -1
   },
@@ -87454,7 +87454,7 @@
     "amount": 82100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at4.40.30PM.jpg?v=1785760109",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/hiranya-temple-necklace?variant=gid://shopify/ProductVariant/53399077093673",
     "stock": -1
   },
@@ -87471,7 +87471,7 @@
     "amount": 48500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at4.44.05PM.jpg?v=1785756430",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/charita-temple-necklace-set?variant=gid://shopify/ProductVariant/53399092494633",
     "stock": -1
   },
@@ -87488,7 +87488,7 @@
     "amount": 22100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM.jpg?v=1785757273",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sharvika-temple-necklace?variant=gid://shopify/ProductVariant/53399096951081",
     "stock": 0
   },
@@ -87505,7 +87505,7 @@
     "amount": 32400.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.01.09PM_1.jpg?v=1785757932",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/aaradhya-temple-necklace?variant=gid://shopify/ProductVariant/53399103734057",
     "stock": 0
   },
@@ -87522,7 +87522,7 @@
     "amount": 3700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-03at5.12.30PM_1.jpg?v=1785758898",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vivah-glow-manglsutra?variant=gid://shopify/ProductVariant/53399130669353",
     "stock": 0
   },
@@ -87794,7 +87794,7 @@
     "amount": 1100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-04at1.36.52PM.jpg?v=1785831085",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/trishul-bracelet?variant=gid://shopify/ProductVariant/53403322777897",
     "stock": 0
   },
@@ -87811,7 +87811,7 @@
     "amount": 1100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-04at1.36.52PM_1.jpg?v=1785831273",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/silver-bracelet?variant=gid://shopify/ProductVariant/53403323433257",
     "stock": 0
   },
@@ -87828,7 +87828,7 @@
     "amount": 1100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/WhatsAppImage2026-08-04at1.36.52PM_2.jpg?v=1785831715",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/black-blet-silver-bracelet?variant=gid://shopify/ProductVariant/53403326447913",
     "stock": 0
   },
@@ -89202,7 +89202,7 @@
     "amount": 65100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_16May0423_resized.jpg?v=1787551825",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vallari-reverse-kundan-necklace?variant=gid://shopify/ProductVariant/53411343991081",
     "stock": -1
   },
@@ -89882,7 +89882,7 @@
     "amount": 108970.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_16May0169_resized.jpg?v=1787550314",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shritara-temple-necklace-copy?variant=gid://shopify/ProductVariant/53419171971369",
     "stock": -1
   },
