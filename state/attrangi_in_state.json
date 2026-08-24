@@ -1674,9 +1674,10 @@
     "amount": 4850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/QS0229W_101900.jpg?v=1783510941",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/ubeida-jadaau-choker-set?variant=gid://shopify/ProductVariant/48229338906836",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411693908137": {
     "product_title": "Aarushi Mid-Sized Chandbali",
@@ -5261,7 +5262,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/uncut-polki-studs-attrangi-1.jpg?v=1739813695",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/moissanite-uncut-polki-studs?variant=gid://shopify/ProductVariant/42695489061076",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42550829514964": {
@@ -5537,7 +5538,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/b476143e-6227-420e-a584-ab893b938dd2.jpg?v=1784803092",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/super-tiny-round-double-solitaires-in-screwback?variant=gid://shopify/ProductVariant/48350237327572",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42692211998932": {

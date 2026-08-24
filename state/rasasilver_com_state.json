@@ -2145,7 +2145,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/R2675.jpg?v=1769672524",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/meadow-muse-pendant?variant=gid://shopify/ProductVariant/52485476843817",
-    "stock": 15,
+    "stock": 16,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/52518560825641": {
@@ -7934,7 +7934,7 @@
     "amount": 2465.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-2_928e8bea-6e9b-4e97-b676-c136630dcbe2.jpg?v=1753349345",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rudraksha-rakhi?variant=gid://shopify/ProductVariant/50680487412009",
     "stock": 0,
     "last_alerted_stock": 0
@@ -17646,9 +17646,10 @@
     "amount": 2040.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS419.jpg?v=1760351502",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/error-1?variant=gid://shopify/ProductVariant/51317532852521",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51317542158633": {
     "product_title": "Rosalita Chain Pendant",
@@ -18044,7 +18045,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS488.jpg?v=1760361136",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/chain-pendant-10?variant=gid://shopify/ProductVariant/51345625153833",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/51345679515945": {
     "product_title": "Liora Loop Chain Pendant",
@@ -77202,7 +77204,7 @@
     "amount": 1700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13229_resized.jpg?v=1782218475",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/eternal-luxe-bracelet?variant=gid://shopify/ProductVariant/53284736205097",
     "stock": 1
   },
@@ -83137,7 +83139,7 @@
     "amount": 16915.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_25Jun0771_resized.jpg?v=1784184121",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/queen-s-moissanite-tikka-1?variant=gid://shopify/ProductVariant/53333233434921",
     "stock": 0
   },
