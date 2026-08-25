@@ -376,5 +376,41 @@
     "curr_stock": 0,
     "url": "https://www.tarinika.com/products/valeria-statement-cz-choker-set?variant=gid://shopify/ProductVariant/40715239391298",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX3481B.jpg?v=1706594947"
+  },
+  {
+    "timestamp_ist": "2026-08-25 23:43:02",
+    "product_title": "Bloom CZ Pearl Tassel Choker",
+    "variant_title": "White Mint",
+    "variant_id": "gid://shopify/ProductVariant/40726061580354",
+    "sku": "TNX0304XW6Z",
+    "price": 62.99,
+    "variant_price": 62.99,
+    "product_price": 62.99,
+    "amount": 62.99,
+    "total_price": 62.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 13,
+    "curr_stock": 12,
+    "url": "https://www.tarinika.com/products/bloom-cz-pearl-tassel-choker?variant=gid://shopify/ProductVariant/40726061580354",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0304X.jpg?v=1738393910"
+  },
+  {
+    "timestamp_ist": "2026-08-25 23:43:02",
+    "product_title": "Mihita Nakshatra Black CZ Pendant Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42778125140034",
+    "sku": "US-VPS0005XF6",
+    "price": 25.5,
+    "variant_price": 25.5,
+    "product_price": 25.5,
+    "amount": 25.5,
+    "total_price": 25.5,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.tarinika.com/products/mihita-nakshatra-black-cz-pendant-set?variant=gid://shopify/ProductVariant/42778125140034",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VPS0005XF6.jpg?v=1766136098"
   }
 ]

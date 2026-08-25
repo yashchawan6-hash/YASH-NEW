@@ -189,8 +189,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/5e50c4d0-2fa2-4ca7-8a1d-670fe3e4736a.webp?v=1768392420",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-studs-1?variant=gid://shopify/ProductVariant/52626236309820",
-    "stock": 6,
-    "last_alerted_stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/52626385240380": {
     "product_title": "Jadau kundan peacock Jhumkas with pearls and natural strawberry beads",
@@ -728,24 +728,6 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-necklace-with-pearl-and-natural-strawberry-beads-dropsno-earrings?variant=gid://shopify/ProductVariant/52632338759996",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/52632507679036": {
-    "product_title": "Diamond finish Bottumala short necklace(With Earrings)",
-    "product_handle": "diamond-finish-bottumala-short-necklacewith-earrings",
-    "variant_id": "gid://shopify/ProductVariant/52632507679036",
-    "global_id": "gid://shopify/ProductVariant/52632507679036",
-    "variant_title": "Default Title",
-    "sku": "",
-    "price": 1600.0,
-    "variant_price": 1600.0,
-    "product_price": 1600.0,
-    "amount": 1600.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/cc4bc348-daa9-4717-9358-42b20cb2399e.webp?v=1768579181",
-    "available_for_sale": false,
-    "url": "https://www.muskanjewel.com/products/diamond-finish-bottumala-short-necklacewith-earrings?variant=gid://shopify/ProductVariant/52632507679036",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52632522064188": {
     "product_title": "Diamond finish bottumala mango necklace (With Earrings)",
