@@ -466,5 +466,23 @@
     "curr_stock": 5,
     "url": "https://www.daivik.in/products/a-57?variant=gid://shopify/ProductVariant/44223917195486",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_a9e26bf6-c2b4-4d87-8902-3d07b9cbd758.heic?v=1686452578"
+  },
+  {
+    "timestamp_ist": "2026-08-25 11:12:43",
+    "product_title": "Pure kemp Nagasi hipbelt",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42396464087262",
+    "sku": "617",
+    "price": 5999.0,
+    "variant_price": 5999.0,
+    "product_price": 5999.0,
+    "amount": 5999.0,
+    "total_price": 5999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.daivik.in/products/pure-kemp-nagasi-hipbelt?variant=gid://shopify/ProductVariant/42396464087262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d57c40ff-8652-4482-aecb-c7d1af2fb01e.jpg?v=1643209132"
   }
 ]
