@@ -1339,7 +1339,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-1.jpg?v=1739812667",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/41492438712489",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/41492438745257": {
@@ -1357,7 +1357,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-4.jpg?v=1739812671",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/41492438745257",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42145342324948": {
@@ -31599,7 +31599,7 @@
     "amount": 3850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_11.52.28_PM.jpg?v=1757500677",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/moissanite-niti-indo-western-choker-set?variant=gid://shopify/ProductVariant/46536684044500",
     "stock": 0,
     "last_alerted_stock": 0
@@ -32436,24 +32436,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sundari-moissanite-bridal-choker-set?variant=gid://shopify/ProductVariant/46770902728916",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/46771079413972": {
-    "product_title": "Crescent Multi Soltiaire Diamond Studs | 30 cent",
-    "product_handle": "crescent-multi-soltiaire-diamond-studs-30-cent",
-    "variant_id": "gid://shopify/ProductVariant/46771079413972",
-    "global_id": "gid://shopify/ProductVariant/46771079413972",
-    "variant_title": "Default Title",
-    "sku": "SM3648S-ER",
-    "price": 1950.0,
-    "variant_price": 1950.0,
-    "product_price": 1950.0,
-    "amount": 1950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.36.57_PM_1.jpg?v=1764669258",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/crescent-multi-soltiaire-diamond-studs-30-cent?variant=gid://shopify/ProductVariant/46771079413972",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46773766455508": {
     "product_title": "Shivani Polki Fluorite Ruby Indian Choker Set",
