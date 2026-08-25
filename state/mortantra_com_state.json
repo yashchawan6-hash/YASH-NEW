@@ -42391,6 +42391,23 @@
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-earrings-me1397y?variant=gid://shopify/ProductVariant/46954618585311",
     "stock": 3
   },
+  "gid://shopify/ProductVariant/46954669277407": {
+    "product_title": "Dark Pink Gold-Plated Moissanite Floral Stud Earrings with Kundan Setting - MO-EAR49P",
+    "product_handle": "pink-color-gold-plated-moissanite-earrings-mo-ear49p",
+    "variant_id": "gid://shopify/ProductVariant/46954669277407",
+    "global_id": "gid://shopify/ProductVariant/46954669277407",
+    "variant_title": "Default Title",
+    "sku": "MO-EAR49P",
+    "price": 4500.0,
+    "variant_price": 4500.0,
+    "product_price": 4500.0,
+    "amount": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-EAR49P.jpg?v=1746790676",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/pink-color-gold-plated-moissanite-earrings-mo-ear49p?variant=gid://shopify/ProductVariant/46954669277407",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/46957299794143": {
     "product_title": "Multicolor Gold-Plated Mishr Danglers with Kundan, Peacock and Lotus Motifs - MR-E280M",
     "product_handle": "multicolor-gold-plated-mishr-earrings-mr-e280m",
@@ -58767,23 +58784,6 @@
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-bangle-1-piece-pk-ban23?variant=gid://shopify/ProductVariant/47109288296671",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/47109296685279": {
-    "product_title": "Multicolor Gold-Plated Faux Polki Kundan Bangle with Pearl Accents - PK-BAN26MA",
-    "product_handle": "multicolor-gold-plated-faux-polki-bangle-1-piece-pk-ban26ma",
-    "variant_id": "gid://shopify/ProductVariant/47109296685279",
-    "global_id": "gid://shopify/ProductVariant/47109296685279",
-    "variant_title": "2.4",
-    "sku": "PK-BAN26MA|2.4",
-    "price": 4000.0,
-    "variant_price": 4000.0,
-    "product_price": 4000.0,
-    "amount": 4000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BAN26MA.jpg?v=1751790075",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-bangle-1-piece-pk-ban26ma?variant=gid://shopify/ProductVariant/47109296685279",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47109328961759": {
     "product_title": "White Gold-Plated Faux Polki Kundan Bracelet with Zircons - PK-BRAC22",
     "product_handle": "white-color-gold-plated-faux-polki-bracelet-single-piece-pk-brac22",
@@ -61958,7 +61958,7 @@
     "amount": 2500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/EK-SFBANGLE78B.jpg?v=1757934035",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/multicolor-tribal-bangle-1-piece-ek-sfbangle78?variant=gid://shopify/ProductVariant/47416189583583",
     "stock": 1,
     "last_alerted_stock": 1
@@ -112704,6 +112704,23 @@
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset1121?variant=gid://shopify/ProductVariant/51257773588703",
     "stock": -1
   },
+  "gid://shopify/ProductVariant/47109296685279": {
+    "product_title": "Multicolor Gold-Plated Faux Polki Kundan Bangle with Pearl Accents - PK-BAN26MA",
+    "product_handle": "multicolor-gold-plated-faux-polki-bangle-1-piece-pk-ban26ma",
+    "variant_id": "gid://shopify/ProductVariant/47109296685279",
+    "global_id": "gid://shopify/ProductVariant/47109296685279",
+    "variant_title": "2.4",
+    "sku": "PK-BAN26MA|2.4",
+    "price": 4000.0,
+    "variant_price": 4000.0,
+    "product_price": 4000.0,
+    "amount": 4000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BAN26MA.jpg?v=1751790075",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/multicolor-gold-plated-faux-polki-bangle-1-piece-pk-ban26ma?variant=gid://shopify/ProductVariant/47109296685279",
+    "stock": 1
+  },
   "gid://shopify/ProductVariant/47898274398431": {
     "product_title": "Victorian Bracelet (1 Piece) with Kundan - VC-BRAC3",
     "product_handle": "victorian-bracelet-1-piece-vc-brac3",
@@ -121245,20 +121262,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MRNG234M.jpg?v=1747400931",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/multicolor-gold-plated-jadau-kundan-ring-mrng234m?variant=gid://shopify/ProductVariant/46983473103071",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/46954669277407": {
-    "product_title": "Dark Pink Gold-Plated Moissanite Floral Stud Earrings with Kundan Setting - MO-EAR49P",
-    "product_handle": "pink-color-gold-plated-moissanite-earrings-mo-ear49p",
-    "variant_id": "gid://shopify/ProductVariant/46954669277407",
-    "global_id": "gid://shopify/ProductVariant/46954669277407",
-    "variant_title": "Default Title",
-    "sku": "MO-EAR49P",
-    "price": 3150.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-EAR49P.jpg?v=1746790676",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/pink-color-gold-plated-moissanite-earrings-mo-ear49p?variant=gid://shopify/ProductVariant/46954669277407",
     "stock": 1
   },
   "gid://shopify/ProductVariant/47387896283359": {
