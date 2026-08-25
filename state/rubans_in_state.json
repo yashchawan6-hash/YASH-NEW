@@ -3480,9 +3480,9 @@
     "amount": 1000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-ruby-pink-emerald-green-stone-studded-bangles-bangles-bracelets-1171024628.jpg?v=1774252411",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-handcrafted-pink-green-stone-studded-bangle?variant=gid://shopify/ProductVariant/42389818736814",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46604615352494": {
@@ -18789,10 +18789,10 @@
     "amount": 840.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/re20r404687-1.jpg?v=1774605382",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-high-quality-cubic-zirconia-finger-ring-copy?variant=gid://shopify/ProductVariant/46037105017006",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46037137621166": {
     "product_title": "Pink Studded American Diamond Zirconia Ring",
@@ -64898,7 +64898,7 @@
     "amount": 874.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B411420-model-2.jpg?v=1767782797",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/temple-glow-ruby-emerald-bangles?variant=gid://shopify/ProductVariant/47334320111790",
     "stock": 2,
     "last_alerted_stock": 2
@@ -67732,7 +67732,7 @@
     "amount": 3353.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE02NS412013-Model.jpg?v=1769684512",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re02ns412013?variant=gid://shopify/ProductVariant/47302900744366",
     "stock": 0,
     "last_alerted_stock": 0
