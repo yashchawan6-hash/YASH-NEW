@@ -2821,7 +2821,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/6df9995f-dcf7-4bb0-8977-c8274cc41a8e1657521832350RubansRoseGoldPlatedWhiteCZStuddedHandcraftedJewellerySet1.jpg?v=1765520022",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-zirconia-stone-studded-handcrafted-necklace-set-1?variant=gid://shopify/ProductVariant/43043687694510",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43043687104686": {
@@ -2945,8 +2945,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-gold-plated-red-enamelled-bangles-bangles-bracelets-35074453012654.jpg?v=1776255079",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-plated-red-enamel-set-of-2-bangles?variant=gid://shopify/ProductVariant/43043681239214",
-    "stock": 4,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45983064555694": {
     "product_title": "Rubans Set of 2 18K Gold Plated Ruby Studded Geru Polish Finish Traditional Bangles",
@@ -59409,7 +59409,7 @@
     "amount": 1102.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS410254.jpg?v=1768902570",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re10ns410254?variant=gid://shopify/ProductVariant/47198879809710",
     "stock": 20,
     "last_alerted_stock": 0
@@ -73500,7 +73500,7 @@
     "amount": 755.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE54N412094-Model.jpg?v=1772099677",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re54n412094?variant=gid://shopify/ProductVariant/47556499865774",
     "stock": 0,
     "last_alerted_stock": 0
@@ -77051,7 +77051,7 @@
     "amount": 969.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30V414063-Model.jpg?v=1776948981",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rw30v414063?variant=gid://shopify/ProductVariant/47769372164270",
     "stock": 20
   },
@@ -80110,7 +80110,7 @@
     "amount": 969.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30PC414193Model.jpg?v=1777023902",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rw30pc414193?variant=gid://shopify/ProductVariant/47774762401966",
     "stock": 20
   },

@@ -9605,9 +9605,9 @@
     "amount": 8999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_8af01ff1-2673-4ff5-bfcb-21d5ecc1963f.jpg?v=1665756494",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-312?variant=gid://shopify/ProductVariant/43529346580702",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43531407884510": {
