@@ -6496,7 +6496,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_fc2e575d-66e2-4505-a73c-bdd47a1f7fd0.jpg?v=1751449396",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/nav-rang-darpan-necklace-set?variant=gid://shopify/ProductVariant/50545568284969",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50549122957609": {
     "product_title": "Shinebelle Cz Necklace",
@@ -36540,7 +36541,7 @@
     "amount": 4505.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0029copy_resized_cadf1c64-528c-4d83-82aa-bf3461c4b619.jpg?v=1763976041",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emera-bud-ring?variant=gid://shopify/ProductVariant/52166999998761",
     "stock": 1
   },
@@ -38250,7 +38251,7 @@
     "amount": 34850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0115copy_resized_d2312280-4ad3-4667-945d-1c0d4fc5463e.jpg?v=1764668133",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/gemhalo-bangles?variant=gid://shopify/ProductVariant/52210196775209",
     "stock": 1
   },
@@ -84282,7 +84283,7 @@
     "amount": 50575.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0677.jpg?v=1786345252",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/petal-veil-moissanite-necklace-set?variant=gid://shopify/ProductVariant/53349155668265",
     "stock": 1
   },

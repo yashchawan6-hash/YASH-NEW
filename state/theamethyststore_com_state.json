@@ -16394,7 +16394,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-5249_c1a3e6e0-26fa-4d07-981e-f11f0c1ffb2e.jpg?v=1752236185",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/elena-earrings?variant=gid://shopify/ProductVariant/44274876023011",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44280781668579": {
     "product_title": "Tovuq Kundan Choker",
@@ -90227,7 +90228,7 @@
     "amount": 157564.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-11624.jpg?v=1759058610",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/divine-nagas-long-necklace?variant=gid://shopify/ProductVariant/47214935474403",
     "stock": 1
   },
