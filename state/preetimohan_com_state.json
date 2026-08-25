@@ -18349,9 +18349,9 @@
     "amount": 34000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/168_4ec295e3-3596-4e6d-ab8b-4c8c49a6995d.png?v=1762783311",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.preetimohan.com/products/adita-red-green-kundan-long-necklace?variant=gid://shopify/ProductVariant/49644972966081",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/49644975161537": {
     "product_title": "TARANNUM RED & GREEN KUNDAN CHOKER",

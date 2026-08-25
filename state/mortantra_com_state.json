@@ -5477,7 +5477,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S26WR_5.jpg?v=1720701980",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mo-s26wgr-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/46109379297503",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44250411958495": {
     "product_title": "Multicolor Gold-Plated Jadau Kundan Bridal Necklace Set with Moon Motif - MO-S27M",
@@ -7075,23 +7076,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MR-S507MB_7.jpg?v=1714136030",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mr-s507mb-multicolor-jadau-mishr-choker-necklace-set?variant=gid://shopify/ProductVariant/44458101407967",
-    "stock": 1
-  },
-  "gid://shopify/ProductVariant/44502119022815": {
-    "product_title": "Gold-Plated Polki Moissanite Layered Long Necklace Set with Kundan Setting - PK-S90P",
-    "product_handle": "pk-s90p-green-color-gold-plated-faux-polki-long-necklace-set",
-    "variant_id": "gid://shopify/ProductVariant/44502119022815",
-    "global_id": "gid://shopify/ProductVariant/44502119022815",
-    "variant_title": "Default Title",
-    "sku": "PK-S90P",
-    "price": 11500.0,
-    "variant_price": 11500.0,
-    "product_price": 11500.0,
-    "amount": 11500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S90P.jpg?v=1699606415",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/pk-s90p-green-color-gold-plated-faux-polki-long-necklace-set?variant=gid://shopify/ProductVariant/44502119022815",
     "stock": 1
   },
   "gid://shopify/ProductVariant/44508017393887": {
@@ -8945,7 +8929,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S71GRA-2.jpg?v=1784011567",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mo-s71gra-multicolor-jadau-kundan-necklace-set?variant=gid://shopify/ProductVariant/44713939632351",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44714473521375": {
     "product_title": "Multicolor Gold-Plated Mishr Choker Necklace Set with Jadau Kundan and Peacock Motif - MR-S652M",
@@ -9253,8 +9238,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S69GR_2_copy.jpg?v=1712734442",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mo-s69gr-dark-green-color-bridal-faux-polki-long-necklace-set?variant=gid://shopify/ProductVariant/44757049966815",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/44757228912863": {
     "product_title": "Dark Pink Gold-Plated Mishr Choker Necklace Set with Jadau Kundan Floral Motifs - MR-S629PA",
@@ -57427,23 +57412,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-moissanite-necklace-set-mo-s145?variant=gid://shopify/ProductVariant/47106638905567",
     "stock": 9999
-  },
-  "gid://shopify/ProductVariant/47106668822751": {
-    "product_title": "White Color Gold Plated Moissanite Bridal Necklace Set - MO-S147",
-    "product_handle": "white-color-gold-plated-moissanite-bridal-necklace-set-mo-s147",
-    "variant_id": "gid://shopify/ProductVariant/47106668822751",
-    "global_id": "gid://shopify/ProductVariant/47106668822751",
-    "variant_title": "Default Title",
-    "sku": "MO-S147",
-    "price": 22000.0,
-    "variant_price": 22000.0,
-    "product_price": 22000.0,
-    "amount": 22000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S147.jpg?v=1751635784",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-moissanite-bridal-necklace-set-mo-s147?variant=gid://shopify/ProductVariant/47106668822751",
-    "stock": 1
   },
   "gid://shopify/ProductVariant/47106672296159": {
     "product_title": "Gold-Plated Jadau Kundan Choker and Pearl Belt Necklace Set - MS2624",
@@ -112819,6 +112787,40 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset1121?variant=gid://shopify/ProductVariant/51257773588703",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/44502119022815": {
+    "product_title": "Gold-Plated Polki Moissanite Layered Long Necklace Set with Kundan Setting - PK-S90P",
+    "product_handle": "pk-s90p-green-color-gold-plated-faux-polki-long-necklace-set",
+    "variant_id": "gid://shopify/ProductVariant/44502119022815",
+    "global_id": "gid://shopify/ProductVariant/44502119022815",
+    "variant_title": "Default Title",
+    "sku": "PK-S90P",
+    "price": 11500.0,
+    "variant_price": 11500.0,
+    "product_price": 11500.0,
+    "amount": 11500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-S90P.jpg?v=1699606415",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/pk-s90p-green-color-gold-plated-faux-polki-long-necklace-set?variant=gid://shopify/ProductVariant/44502119022815",
+    "stock": 1
+  },
+  "gid://shopify/ProductVariant/47106668822751": {
+    "product_title": "White Color Gold Plated Moissanite Bridal Necklace Set - MO-S147",
+    "product_handle": "white-color-gold-plated-moissanite-bridal-necklace-set-mo-s147",
+    "variant_id": "gid://shopify/ProductVariant/47106668822751",
+    "global_id": "gid://shopify/ProductVariant/47106668822751",
+    "variant_title": "Default Title",
+    "sku": "MO-S147",
+    "price": 22000.0,
+    "variant_price": 22000.0,
+    "product_price": 22000.0,
+    "amount": 22000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MO-S147.jpg?v=1751635784",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-moissanite-bridal-necklace-set-mo-s147?variant=gid://shopify/ProductVariant/47106668822751",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/44680914960607": {
     "product_title": "Burgundy Gold-Plated Polki Moissanite Danglers with Kundan Accents - MO-EAR15P",
