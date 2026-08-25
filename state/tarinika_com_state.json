@@ -13736,8 +13736,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANX1403XM1.jpg?v=1677239798",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-neera-choker-earrings-set?variant=gid://shopify/ProductVariant/40216369856578",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40216405803074": {
     "product_title": "Antique Gold Plated Floral Small Stud Earrings",
@@ -18113,9 +18113,10 @@
     "amount": 83.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/VNS0001N.jpg?v=1700652716",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/aine-nakshatra-cz-necklace-set?variant=gid://shopify/ProductVariant/40528492724290",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40528493051970": {
     "product_title": "Aine Nakshatra CZ Necklace Set",
@@ -20809,10 +20810,10 @@
     "amount": 14.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FEX0812XH1.jpg?v=1731994516",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/antique-gold-plated-geetu-earrings?variant=gid://shopify/ProductVariant/41814554640450",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41814609002562": {
     "product_title": "Antique Gold Plated Sana Jhumka Earrings",
@@ -20948,10 +20949,10 @@
     "amount": 55.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX1313XMP.jpg?v=1741695839",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/antique-gold-plated-ram-parivar-idol-choker-earrings-set?variant=gid://shopify/ProductVariant/41833883041858",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41975837655106": {
     "product_title": "Gajini Antique Coin Necklace Set",

@@ -809,7 +809,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/272052-01937.jpg?v=1765285189",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-plated-handcrafted-kundan-maangtikka?variant=gid://shopify/ProductVariant/43043831185582",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/43043830333614": {
     "product_title": "Rubans 22K Gold Plated Traditional Kamarbandh",
@@ -4726,7 +4727,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones-necklace-set-33573510480046.jpg?v=1755718556",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones?variant=gid://shopify/ProductVariant/43813884493998",
-    "stock": 6,
+    "stock": 7,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/43814258573486": {
@@ -5154,8 +5155,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-24k-gold-plated-white-red-and-green-kundan-cubic-zirconia-studded-bangles-bangles-bracelets-1151970234.jpg?v=1774848025",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-24k-gold-plated-red-green-zircons-minimal-bangles?variant=gid://shopify/ProductVariant/47084620578990",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47084620611758": {
     "product_title": "Rubans Set of 2 24K Gold Plated White Red and Green Kundan & Cubic Zirconia Studded Floral Bangles",
@@ -90878,7 +90879,7 @@
     "amount": 629.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE56B413788.jpg?v=1784889603",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/re56b413788?variant=gid://shopify/ProductVariant/48236275138734",
     "stock": 0,
     "last_alerted_stock": 0
