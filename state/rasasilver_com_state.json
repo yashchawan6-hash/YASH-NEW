@@ -273,8 +273,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/1-34_d498d6ad-5c3a-4fdf-b147-520b19be8a5a.jpg?v=1739427458",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/kundan-nath?variant=gid://shopify/ProductVariant/49855900451113",
-    "stock": 11,
-    "last_alerted_stock": 11
+    "stock": 10,
+    "last_alerted_stock": 10
   },
   "gid://shopify/ProductVariant/49856597590313": {
     "product_title": "Mirnali Victorian Danglers",
@@ -10027,9 +10027,10 @@
     "amount": 75000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47050_1_-2.jpg?v=1756797033",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/petal-paisley-hip-belt?variant=gid://shopify/ProductVariant/50758334972201",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50758387106089": {
     "product_title": "Fiorelle Short Necklace Set",
@@ -10044,9 +10045,10 @@
     "amount": 48800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-5_0994240a-a177-4506-a91f-5efd687f0fd6.jpg?v=1755687949",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/fiorelle-short-necklace-set?variant=gid://shopify/ProductVariant/50758387106089",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50758458933545": {
     "product_title": "Jasmine Jive Danglers",
@@ -12972,9 +12974,9 @@
     "amount": 19200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug47002.jpg?v=1756817920",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/dazzlonite-bangles?variant=gid://shopify/ProductVariant/50905980600617",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51412278772009": {
@@ -34460,7 +34462,7 @@
     "amount": 39185.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_123Pics_13Nov2290_resized.jpg?v=1769750153",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/emerald-quadline-necklace-set?variant=gid://shopify/ProductVariant/51866778796329",
     "stock": 1
   },
@@ -62268,7 +62270,7 @@
     "amount": 55590.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_12Mar02541.jpg?v=1773994217",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/avira-cz-matil?variant=gid://shopify/ProductVariant/52825120637225",
     "stock": 1
   },
@@ -63890,7 +63892,7 @@
     "amount": 41650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16178_resized.jpg?v=1774347657",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/aurelina-moissanite-bangles?variant=gid://shopify/ProductVariant/52832229556521",
     "stock": 1
   },
@@ -74121,7 +74123,7 @@
     "amount": 16235.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_195_Pics_7May11559_resized.jpg?v=1780841635",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/oval-pannara-cz-bangles?variant=gid://shopify/ProductVariant/53163682038057",
     "stock": 1
   },
@@ -83039,7 +83041,7 @@
     "amount": 16320.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun42563_resized.jpg?v=1784186650",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/dwi-pear-polki-kada?variant=gid://shopify/ProductVariant/53333198635305",
     "stock": 1,
     "last_alerted_stock": 0
@@ -83865,7 +83867,7 @@
     "amount": 17765.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0970.jpg?v=1786104096",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/luxe-waterfall-cuff-bracelet?variant=gid://shopify/ProductVariant/53346704064809",
     "stock": -1
   },
@@ -84329,7 +84331,7 @@
     "amount": 7565.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_Cat_40_180Pics0143_resized.jpg?v=1785933570",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/vintage-elegance-victorian-ring?variant=gid://shopify/ProductVariant/53349274353961",
     "stock": 1
   },
@@ -85110,7 +85112,7 @@
     "amount": 40120.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2550_resized.jpg?v=1785242269",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/rose-radiance-cz-bangles?variant=gid://shopify/ProductVariant/53362218271017",
     "stock": 1
   },
@@ -85315,7 +85317,7 @@
     "amount": 10285.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0113.jpg?v=1786369253",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/raga-pearl-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362555388201",
     "stock": 1
   },
@@ -85707,7 +85709,7 @@
     "amount": 28135.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2529_resized.jpg?v=1785244940",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/imperial-rose-moissanite-kada?variant=gid://shopify/ProductVariant/53365608481065",
     "stock": -1
   },
@@ -85911,7 +85913,7 @@
     "amount": 15130.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0156.jpg?v=1786350545",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/cz-ear-cuff?variant=gid://shopify/ProductVariant/53365651865897",
     "stock": -1
   },
