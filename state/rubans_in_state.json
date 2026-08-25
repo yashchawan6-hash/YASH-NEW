@@ -2822,7 +2822,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/6df9995f-dcf7-4bb0-8977-c8274cc41a8e1657521832350RubansRoseGoldPlatedWhiteCZStuddedHandcraftedJewellerySet1.jpg?v=1765520022",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-zirconia-stone-studded-handcrafted-necklace-set-1?variant=gid://shopify/ProductVariant/43043687694510",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43043687104686": {
@@ -2980,10 +2980,10 @@
     "amount": 1173.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-gold-plated-red-enamelled-bangles-bangles-bracelets-35074453012654.jpg?v=1776255079",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-gold-plated-red-enamel-set-of-2-bangles?variant=gid://shopify/ProductVariant/46649595068590",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43043656466606": {
     "product_title": "Rubans Voguish Antique Polish Coin Necklace.",
@@ -5153,10 +5153,10 @@
     "amount": 1551.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-24k-gold-plated-white-red-and-green-kundan-cubic-zirconia-studded-bangles-bangles-bracelets-1151970234.jpg?v=1774848025",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-2-24k-gold-plated-red-green-zircons-minimal-bangles?variant=gid://shopify/ProductVariant/47084620578990",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084620611758": {
     "product_title": "Rubans Set of 2 24K Gold Plated White Red and Green Kundan & Cubic Zirconia Studded Floral Bangles",

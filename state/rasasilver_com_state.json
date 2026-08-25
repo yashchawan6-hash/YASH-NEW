@@ -9771,9 +9771,10 @@
     "amount": 41100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_fb28b86c-52e9-459d-ab2d-1341fd6a6f1a.jpg?v=1761387228",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/butterblush-necklace-set?variant=gid://shopify/ProductVariant/50757640192297",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50757658706217": {
     "product_title": "Twist Amora Necklace Set",
