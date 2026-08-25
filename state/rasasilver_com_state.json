@@ -7955,7 +7955,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_4c902a52-9723-4e62-b14e-12f8f355af31.jpg?v=1754912871",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/ruby-rohini-studs?variant=gid://shopify/ProductVariant/50711198564649",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51472832201001": {
     "product_title": "Sparsh Hanging Earrings",
@@ -13058,9 +13059,9 @@
     "amount": 41600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46635.jpg?v=1756884646",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/aurora-amethyst-necklace-set?variant=gid://shopify/ProductVariant/50839896883497",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50839924015401": {
