@@ -1373,10 +1373,10 @@
     "amount": 1750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/1-carat-cushion-cut-bali-attrangi-2.jpg?v=1739812669",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/1-carat-cushion-cut-bali?variant=gid://shopify/ProductVariant/42145342324948",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411688501417": {
     "product_title": "Blooming Ring",
