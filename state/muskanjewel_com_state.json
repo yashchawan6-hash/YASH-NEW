@@ -1108,24 +1108,6 @@
     "stock": 1,
     "last_alerted_stock": 1
   },
-  "gid://shopify/ProductVariant/52737323106620": {
-    "product_title": "jadau kundan bridal tika with pearl and natural strawberry beads drop",
-    "product_handle": "jadau-kundan-bridal-tika-with-pearl-and-natural-strawberry-beads-drop",
-    "variant_id": "gid://shopify/ProductVariant/52737323106620",
-    "global_id": "gid://shopify/ProductVariant/52737323106620",
-    "variant_title": "Default Title",
-    "sku": "",
-    "price": 1200.0,
-    "variant_price": 1200.0,
-    "product_price": 1200.0,
-    "amount": 1200.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260129_194903_9055f4f6-aaf7-4572-af44-3a8b7f36e68f.webp?v=1770886838",
-    "available_for_sale": true,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-bridal-tika-with-pearl-and-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52737323106620",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/52737338212668": {
     "product_title": "Jadau kundan tika with pearl and natural strawberry beads drop",
     "product_handle": "jadau-kundan-tika-with-pearl-and-natural-strawberry-beads-drop-3",
@@ -4813,6 +4795,24 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-floral-pendant-with-pearl-and-natural-strawberry-beads-1?variant=gid://shopify/ProductVariant/54018590736700",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/52737323106620": {
+    "product_title": "jadau kundan bridal tika with pearl and natural strawberry beads drop",
+    "product_handle": "jadau-kundan-bridal-tika-with-pearl-and-natural-strawberry-beads-drop",
+    "variant_id": "gid://shopify/ProductVariant/52737323106620",
+    "global_id": "gid://shopify/ProductVariant/52737323106620",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 1200.0,
+    "variant_price": 1200.0,
+    "product_price": 1200.0,
+    "amount": 1200.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260129_194903_9055f4f6-aaf7-4572-af44-3a8b7f36e68f.webp?v=1770886838",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-bridal-tika-with-pearl-and-natural-strawberry-beads-drop?variant=gid://shopify/ProductVariant/52737323106620",
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/52991079186748": {
     "product_title": "Jadau kundan 2 line necklace with pearl and natural strawberry beads drop(No Earrings)",
