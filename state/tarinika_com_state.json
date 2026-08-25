@@ -7132,9 +7132,10 @@
     "amount": 51.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0393X_f6ad651f-9e4c-4fd0-8e3f-5a66843666ef.jpg?v=1646223693",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/lakshana-antique-bangles?variant=gid://shopify/ProductVariant/39534454079554",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39534454112322": {
     "product_title": "Lakshana Antique Bangles",
@@ -27649,7 +27650,7 @@
     "amount": 46.74,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/ABX0109XH1_e1e2c89a-146b-42ad-a981-a181fa4f86bc.jpg?v=1757581266",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/antique-gold-plated-mariya-bangles?variant=gid://shopify/ProductVariant/42445698465858",
     "stock": 1
   },
