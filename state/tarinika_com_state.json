@@ -6727,14 +6727,14 @@
     "variant_id": "gid://shopify/ProductVariant/39530153443394",
     "global_id": "gid://shopify/ProductVariant/39530153443394",
     "variant_title": "White Rhodium polish with White variant",
-    "sku": "US-TBX0005XW6",
+    "sku": "TBX0005XW6",
     "price": 29.99,
     "variant_price": 29.99,
     "product_price": 29.99,
     "amount": 29.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/TBX0005X_b409d317-fd59-4fbd-985f-aef9920a604c.jpg?v=1739611574",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/glittering-delicate-cz-bracelet?variant=gid://shopify/ProductVariant/39530153443394",
     "stock": 9999,
     "last_alerted_stock": 0
@@ -6779,16 +6779,16 @@
     "variant_id": "gid://shopify/ProductVariant/39652711235650",
     "global_id": "gid://shopify/ProductVariant/39652711235650",
     "variant_title": "Yellow Gold polish with White variant / 2.6",
-    "sku": "US-TBX0006XW2",
+    "sku": "TBX0006XW2",
     "price": 19.99,
     "variant_price": 19.99,
     "product_price": 19.99,
     "amount": 19.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/IMGL2607copy_71487533-c51c-4c8d-9201-e1bc3042bf26.jpg?v=1702892080",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/glittering-simple-baguette-cz-bracelet?variant=gid://shopify/ProductVariant/39652711235650",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39652711301186": {
@@ -12247,10 +12247,10 @@
     "amount": 39.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMG_5633.jpg?v=1656273911",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/azba-leafy-floral-antique-necklace?variant=gid://shopify/ProductVariant/39803384594498",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40910134214722": {
     "product_title": "Azba Leafy Floral Antique Necklace",
@@ -13736,8 +13736,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ANX1403XM1.jpg?v=1677239798",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/antique-gold-plated-neera-choker-earrings-set?variant=gid://shopify/ProductVariant/40216369856578",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/40216405803074": {
     "product_title": "Antique Gold Plated Floral Small Stud Earrings",
@@ -14721,16 +14721,16 @@
     "variant_id": "gid://shopify/ProductVariant/40285694459970",
     "global_id": "gid://shopify/ProductVariant/40285694459970",
     "variant_title": "Default Title",
-    "sku": "US-ANX1518XHC",
+    "sku": "ANX1518XHC",
     "price": 59.99,
     "variant_price": 59.99,
     "product_price": 59.99,
     "amount": 59.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0723copycopy.jpg?v=1682745428",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.tarinika.com/products/sreeja-antique-nakshi-choker-set?variant=gid://shopify/ProductVariant/40285694459970",
-    "stock": 0,
+    "stock": 9999,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40285694853186": {
