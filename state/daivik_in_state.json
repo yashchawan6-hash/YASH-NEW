@@ -4430,8 +4430,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_23324bb1-7a9c-4d89-abfe-bc46ed0194fa.jpg?v=1640157624",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/pure-kemp-midlength-haram?variant=gid://shopify/ProductVariant/42180674420958",
-    "stock": 8,
-    "last_alerted_stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/42180921229534": {
     "product_title": "Set of 6 AD Bangles",
@@ -4918,10 +4918,10 @@
     "amount": 2199.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c920ba8f-3819-41cb-8d62-09fae78769ef.jpg?v=1642085779",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/pure-kemp-brass-teeka?variant=gid://shopify/ProductVariant/42338491891934",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42348479578334": {
     "product_title": "Party wear Necklaces in 4 styles with earrings",

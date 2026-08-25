@@ -322,5 +322,41 @@
     "curr_stock": 32,
     "url": "https://www.daivik.in/products/lakshmi-brass-bangles?variant=gid://shopify/ProductVariant/43531407884510",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1d0b38d2-e247-4c9e-bd17-4ada9d3aa425.heic?v=1665809545"
+  },
+  {
+    "timestamp_ist": "2026-08-25 09:22:37",
+    "product_title": "Pure Kemp Midlength haram",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42180674420958",
+    "sku": "452",
+    "price": 4199.0,
+    "variant_price": 4199.0,
+    "product_price": 4199.0,
+    "amount": 4199.0,
+    "total_price": 4199.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 8,
+    "curr_stock": 7,
+    "url": "https://www.daivik.in/products/pure-kemp-midlength-haram?variant=gid://shopify/ProductVariant/42180674420958",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_23324bb1-7a9c-4d89-abfe-bc46ed0194fa.jpg?v=1640157624"
+  },
+  {
+    "timestamp_ist": "2026-08-25 09:22:37",
+    "product_title": "Pure kemp brass teeka",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42338491891934",
+    "sku": "375",
+    "price": 2199.0,
+    "variant_price": 2199.0,
+    "product_price": 2199.0,
+    "amount": 2199.0,
+    "total_price": 2199.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-brass-teeka?variant=gid://shopify/ProductVariant/42338491891934",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_c920ba8f-3819-41cb-8d62-09fae78769ef.jpg?v=1642085779"
   }
 ]
