@@ -3957,10 +3957,10 @@
     "amount": 4950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/zeenat-jadaau-oversized-earrings-with-kannauti-attrangi-1.jpg?v=1739813299",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/zeenat-jadaau-oversized-earrings-with-kannauti?variant=gid://shopify/ProductVariant/43752778891476",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43752778858708": {
     "product_title": "Zeenat Jadaau Oversized Earrings with Kannauti",
