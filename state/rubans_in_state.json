@@ -8922,10 +8922,10 @@
     "amount": 731.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/22k-gold-plated-beaded-sleek-anklets-accessories-35506839060654.jpg?v=1774869412",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/copy-of-22k-gold-plated-pearl-beaded-sleek-anklets?variant=gid://shopify/ProductVariant/44692732510382",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44692755972270": {
     "product_title": "Rubans Rhodium Plated Pave Cubic Zirconia Stone Studded Triple Layer Premium Chain Bracelet",
@@ -24549,7 +24549,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30ES407447_1fc0f878-1474-45e3-9e73-e28df6ba55f0.jpg?v=1770637933",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18k-gold-plated-curved-crystal-statement-stud-earrings-rw30es407447?variant=gid://shopify/ProductVariant/46187629609134",
-    "stock": 14
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/46187629740206": {
     "product_title": "Crystal Embellished Gold Toned Dangler Earrings",
