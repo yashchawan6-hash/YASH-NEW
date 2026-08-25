@@ -8264,8 +8264,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_f6b01fa0-137c-4333-b8ec-463d4542e32a.heic?v=1659180660",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-225?variant=gid://shopify/ProductVariant/43212378439902",
-    "stock": 48,
-    "last_alerted_stock": 48
+    "stock": 47,
+    "last_alerted_stock": 47
   },
   "gid://shopify/ProductVariant/43216826269918": {
     "product_title": "Antique Nagasi Lakshmi Short Haram with earrings",
@@ -12770,8 +12770,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/image_8b415e5f-a762-4a7e-b286-dcb2b1ac28ec.heic?v=1685632032",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/3-line-multicolour-mala-with-earrings?variant=gid://shopify/ProductVariant/44212089585886",
-    "stock": 25,
-    "last_alerted_stock": 25
+    "stock": 24,
+    "last_alerted_stock": 24
   },
   "gid://shopify/ProductVariant/44212589330654": {
     "product_title": "Victorian AD Green pearl necklace with earrings",
@@ -58972,6 +58972,40 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1461.jpg?v=1787656910",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/kemp-ruby-green-jhumka-with-mattal-combo?variant=gid://shopify/ProductVariant/48635760181470",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48640261947614": {
+    "product_title": "Triple Pendant Mesh Adigai Necklace with Earrings",
+    "product_handle": "triple-pendant-mesh-adigai-necklace-with-earrings",
+    "variant_id": "gid://shopify/ProductVariant/48640261947614",
+    "global_id": "gid://shopify/ProductVariant/48640261947614",
+    "variant_title": "Default Title",
+    "sku": "232",
+    "price": 2499.0,
+    "variant_price": 2499.0,
+    "product_price": 2499.0,
+    "amount": 2499.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1327.jpg?v=1787674466",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/triple-pendant-mesh-adigai-necklace-with-earrings?variant=gid://shopify/ProductVariant/48640261947614",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48640299466974": {
+    "product_title": "Hanging Pendant Mesh Adigai Necklace with Earrings",
+    "product_handle": "hanging-pendant-mesh-adigai-necklace-with-earrings",
+    "variant_id": "gid://shopify/ProductVariant/48640299466974",
+    "global_id": "gid://shopify/ProductVariant/48640299466974",
+    "variant_title": "Default Title",
+    "sku": "346",
+    "price": 2299.0,
+    "variant_price": 2299.0,
+    "product_price": 2299.0,
+    "amount": 2299.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1333.jpg?v=1787674944",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/hanging-pendant-mesh-adigai-necklace-with-earrings?variant=gid://shopify/ProductVariant/48640299466974",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47736604426462": {
