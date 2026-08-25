@@ -6924,9 +6924,10 @@
     "amount": 49.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ABX0401X.jpg?v=1640780009",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/kangna-antique-bangles?variant=gid://shopify/ProductVariant/40865159905346",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40791541416002": {
     "product_title": "Kangna Antique Bangles",
@@ -17859,8 +17860,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0293X_409b54bc-b37d-413a-8665-11e1f04fe48a.jpg?v=1697197089",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/amira-nakshatra-cz-necklace?variant=gid://shopify/ProductVariant/40468390740034",
-    "stock": 4,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40468692893762": {
     "product_title": "Classic Beads Floral Earrings",
