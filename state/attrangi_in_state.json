@@ -119,9 +119,9 @@
     "amount": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/small-round-solitaires-halo-attrangi-4.jpg?v=1739812458",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/small-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659337897",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411659370665": {
@@ -139,8 +139,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/small-round-solitaires-halo-attrangi-2.jpg?v=1739812457",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/small-round-solitaires-halo?variant=gid://shopify/ProductVariant/40411659370665",
-    "stock": 5,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40411659501737": {
     "product_title": "2 Carat Round Solitaire Earring | 8mm",
@@ -36618,7 +36618,7 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.17.55_PM.jpg?v=1764417520",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/godavari-pink-mint-gold-pearl-hairchain-mattel?variant=gid://shopify/ProductVariant/47011851239636",
     "stock": 0,
     "last_alerted_stock": 0
@@ -58246,7 +58246,7 @@
     "amount": 11850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-04at12.03.21PM.jpg?v=1785829479",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/morni-in-baagh-gold-polki-designer-necklace-set-with-jhumka?variant=gid://shopify/ProductVariant/48421237850324",
     "stock": 0,
     "last_alerted_stock": 0
