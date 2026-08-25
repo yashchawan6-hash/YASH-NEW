@@ -1014,23 +1014,6 @@
     "stock": 0,
     "last_alerted_stock": 0
   },
-  "gid://shopify/ProductVariant/35852607586457": {
-    "product_title": "Dashavatar Hipbelt",
-    "product_handle": "dashavatar-hipbelt",
-    "variant_id": "gid://shopify/ProductVariant/35852607586457",
-    "global_id": "gid://shopify/ProductVariant/35852607586457",
-    "variant_title": "Default Title",
-    "sku": "346",
-    "price": 4999.0,
-    "variant_price": 4999.0,
-    "product_price": 4999.0,
-    "amount": 4999.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/dashavatar-hipbelt-hipbelts-742.jpg?v=1598701701",
-    "available_for_sale": false,
-    "url": "https://www.daivik.in/products/dashavatar-hipbelt?variant=gid://shopify/ProductVariant/35852607586457",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/35854738849945": {
     "product_title": "Pure Kemp Earcuffs",
     "product_handle": "pure-kemp-earcuffs",
@@ -1118,23 +1101,6 @@
     "url": "https://www.daivik.in/products/uncut-kemp-guttapusalu-short-long-haram-with-earrings?variant=gid://shopify/ProductVariant/36131243655321",
     "stock": 1,
     "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/36150289072281": {
-    "product_title": "Lakshmi Bridal Hipbelt",
-    "product_handle": "lakshmi-bridal-hipbelt",
-    "variant_id": "gid://shopify/ProductVariant/36150289072281",
-    "global_id": "gid://shopify/ProductVariant/36150289072281",
-    "variant_title": "Default Title",
-    "sku": "373",
-    "price": 4899.0,
-    "variant_price": 4899.0,
-    "product_price": 4899.0,
-    "amount": 4899.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/lakshmi-bridal-hipbelt-hipbelts-250.jpg?v=1601407961",
-    "available_for_sale": false,
-    "url": "https://www.daivik.in/products/lakshmi-bridal-hipbelt?variant=gid://shopify/ProductVariant/36150289072281",
-    "stock": 0
   },
   "gid://shopify/ProductVariant/36285323378841": {
     "product_title": "AD Stone Leaf Motif Necklace With Earrings",
@@ -15666,23 +15632,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_99e036c3-feea-4fe9-a023-9ef5c7d82059.heic?v=1696676258",
     "available_for_sale": false,
     "url": "https://www.daivik.in/products/ad-simple-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/44389530370270",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/44391901266142": {
-    "product_title": "Premium Victorian AD Hipbelt with Pearl Hangings",
-    "product_handle": "premium-victorian-ad-hipbelt-with-pearl-hangings",
-    "variant_id": "gid://shopify/ProductVariant/44391901266142",
-    "global_id": "gid://shopify/ProductVariant/44391901266142",
-    "variant_title": "Default Title",
-    "sku": "232",
-    "price": 8999.0,
-    "variant_price": 8999.0,
-    "product_price": 8999.0,
-    "amount": 8999.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_9064.heic?v=1696780839",
-    "available_for_sale": false,
-    "url": "https://www.daivik.in/products/premium-victorian-ad-hipbelt-with-pearl-hangings?variant=gid://shopify/ProductVariant/44391901266142",
     "stock": 0
   },
   "gid://shopify/ProductVariant/44401061822686": {
@@ -59006,6 +58955,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1333.jpg?v=1787674944",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/hanging-pendant-mesh-adigai-necklace-with-earrings?variant=gid://shopify/ProductVariant/48640299466974",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48640380109022": {
+    "product_title": "Traditional Flower Mesh Adigai Necklace with Earrings",
+    "product_handle": "traditional-flower-mesh-adigai-necklace-with-earrings",
+    "variant_id": "gid://shopify/ProductVariant/48640380109022",
+    "global_id": "gid://shopify/ProductVariant/48640380109022",
+    "variant_title": "Default Title",
+    "sku": "373",
+    "price": 1999.0,
+    "variant_price": 1999.0,
+    "product_price": 1999.0,
+    "amount": 1999.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1202.jpg?v=1787675125",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/traditional-flower-mesh-adigai-necklace-with-earrings?variant=gid://shopify/ProductVariant/48640380109022",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47736604426462": {

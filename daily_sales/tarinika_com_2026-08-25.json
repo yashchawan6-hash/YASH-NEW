@@ -340,5 +340,41 @@
     "curr_stock": 3,
     "url": "https://www.tarinika.com/products/amira-nakshatra-cz-necklace?variant=gid://shopify/ProductVariant/40468390740034",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/TNX0293X_409b54bc-b37d-413a-8665-11e1f04fe48a.jpg?v=1697197089"
+  },
+  {
+    "timestamp_ist": "2026-08-25 22:03:24",
+    "product_title": "Prema Antique Bangles",
+    "variant_title": "Antique Silver / 2.8",
+    "variant_id": "gid://shopify/ProductVariant/40863770280002",
+    "sku": "US-1BX0030XT38",
+    "price": 42.49,
+    "variant_price": 42.49,
+    "product_price": 42.49,
+    "amount": 42.49,
+    "total_price": 42.49,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/prema-antique-bangles?variant=gid://shopify/ProductVariant/40863770280002",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2335copycopy.jpg?v=1738054245"
+  },
+  {
+    "timestamp_ist": "2026-08-25 22:03:24",
+    "product_title": "Valeria Statement CZ Choker Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40715239391298",
+    "sku": "US-FNX3481BPD",
+    "price": 208.24,
+    "variant_price": 208.24,
+    "product_price": 208.24,
+    "amount": 208.24,
+    "total_price": 208.24,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/valeria-statement-cz-choker-set?variant=gid://shopify/ProductVariant/40715239391298",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX3481B.jpg?v=1706594947"
   }
 ]

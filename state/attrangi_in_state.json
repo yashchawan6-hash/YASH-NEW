@@ -1800,7 +1800,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002S_101900_2026031640119.jpg?v=1779884845",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992166711508",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47992150261972": {
@@ -1818,8 +1818,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002G_101900_2026031640115.jpg?v=1779884617",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992150261972",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43098510754004": {
     "product_title": "4 Carat Round Solitaires | 10mm",
@@ -11228,10 +11228,10 @@
     "amount": 3450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/simar-uncut-diamond-choker-set-attrangi-5.jpg?v=1739815323",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/simar-uncut-diamond-choker-set?variant=gid://shopify/ProductVariant/46126159102164",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46257666261204": {
     "product_title": "Simar Uncut Diamond Choker Set",

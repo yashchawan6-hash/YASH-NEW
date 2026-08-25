@@ -5587,9 +5587,10 @@
     "amount": 42.49,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMGL2335copycopy.jpg?v=1738054245",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/prema-antique-bangles?variant=gid://shopify/ProductVariant/40863770280002",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/32651962941506": {
     "product_title": "Lishi Antique Necklace Set",
@@ -18738,9 +18739,10 @@
     "amount": 208.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX3481B.jpg?v=1706594947",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/valeria-statement-cz-choker-set?variant=gid://shopify/ProductVariant/40715239391298",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40722123292738": {
     "product_title": "Hannah Delicate CZ Ring",
