@@ -4267,9 +4267,9 @@
     "amount": 2750.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-25_at_6.21.39_PM.jpg?v=1750781280",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sanober-multi-colour-traditional-mala?variant=gid://shopify/ProductVariant/41018510999721",
-    "stock": 0,
+    "stock": 2,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/41031358742697": {
@@ -4340,7 +4340,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/multi-gem-stone-navratna-bracelet-attrangi-1.jpg?v=1739813338",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/multi-gem-stone-navratna-bracelet?variant=gid://shopify/ProductVariant/43596338004180",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47454672945364": {
