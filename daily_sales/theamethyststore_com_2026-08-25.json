@@ -70,5 +70,41 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/stryna-stone-necklace?variant=gid://shopify/ProductVariant/44347319550179",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5442_966b614c-895c-4ccb-83c6-3c51226f6080.jpg?v=1727089670"
+  },
+  {
+    "timestamp_ist": "2026-08-25 17:54:13",
+    "product_title": "Navarathna kaasu Pendant",
+    "variant_title": "Only Pendant",
+    "variant_id": "gid://shopify/ProductVariant/46235933180131",
+    "sku": "AMS-104-0793",
+    "price": 8600.0,
+    "variant_price": 8600.0,
+    "product_price": 8600.0,
+    "amount": 8600.0,
+    "total_price": 8600.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.theamethyststore.com/products/navarathna-kaasu-pendant?variant=gid://shopify/ProductVariant/46235933180131",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-104-0793.jpg?v=1749195083"
+  },
+  {
+    "timestamp_ist": "2026-08-25 17:54:13",
+    "product_title": "Laydia Avikam Pendant Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44985352749283",
+    "sku": "AMS-104-1635",
+    "price": 14700.0,
+    "variant_price": 14700.0,
+    "product_price": 14700.0,
+    "amount": 14700.0,
+    "total_price": 14700.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 2,
+    "curr_stock": 1,
+    "url": "https://www.theamethyststore.com/products/laydia-avikam-pendant-set?variant=gid://shopify/ProductVariant/44985352749283",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-1635.jpg?v=1715950539"
   }
 ]

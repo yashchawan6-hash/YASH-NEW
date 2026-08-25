@@ -7710,7 +7710,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1_b8e63f25-e347-47bc-a5b4-f852ef78fb3c.jpg?v=1754312394",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/phool-patra-ring?variant=gid://shopify/ProductVariant/50635383046441",
-    "stock": 4,
+    "stock": 3,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/50635383079209": {
@@ -11825,7 +11825,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESSP290.jpg?v=1756542039",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/gaurangi-phool-studs?variant=gid://shopify/ProductVariant/51472911106345",
-    "stock": 7,
+    "stock": 6,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/51472911139113": {
@@ -18544,9 +18544,9 @@
     "amount": 2890.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/COMPRESS583.jpg?v=1769154746",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ring-22?variant=gid://shopify/ProductVariant/51350170468649",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52291042574633": {
@@ -21524,9 +21524,9 @@
     "amount": 10710.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_79_Pics_15Oct2459_resized.jpg?v=1761564365",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/liora-rose-studs?variant=gid://shopify/ProductVariant/51409019207977",
-    "stock": 1,
+    "stock": 0,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51412361609513": {
@@ -36828,7 +36828,7 @@
     "amount": 35445.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0116copy_resized.jpg?v=1764060695",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/flora-crimson-pear-necklace-set?variant=gid://shopify/ProductVariant/52170147823913",
     "stock": 0
   },
@@ -41410,7 +41410,7 @@
     "amount": 23885.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0194_copy_resized.jpg?v=1767418620",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/hexa-victorian-necklace-set?variant=gid://shopify/ProductVariant/52377912377641",
     "stock": 0
   },
@@ -51298,7 +51298,7 @@
     "amount": 34510.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_30_Jan3862.jpg?v=1770359528",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/floral-five-antique-set?variant=gid://shopify/ProductVariant/52553957835049",
     "stock": 1
   },
@@ -58537,7 +58537,7 @@
     "amount": 14280.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK00222copy_resized_1.jpg?v=1772782825",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/moissanite-kada?variant=gid://shopify/ProductVariant/52759309418793",
     "stock": 0
   },
@@ -59697,7 +59697,7 @@
     "amount": 83300.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36658_resized.jpg?v=1773725231",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/swarna-peacock-kundan-oddiyanam?variant=gid://shopify/ProductVariant/52797624975657",
     "stock": 1
   },
@@ -59714,7 +59714,7 @@
     "amount": 91460.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/RasaSiver_115_Pics_6Mar36654_resized.jpg?v=1773725410",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/mahalakshmi-temple-oddiyanam?variant=gid://shopify/ProductVariant/52797773840681",
     "stock": 0
   },
@@ -64371,7 +64371,7 @@
     "amount": 111350.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20708_resized.jpg?v=1775028929",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/varna-gowri-oddiyanam?variant=gid://shopify/ProductVariant/52866227667241",
     "stock": 0
   },
@@ -67663,7 +67663,7 @@
     "amount": 9775.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24_Mar20448_resized_1d5273c4-fb5a-4736-b4c5-34adefcf80c2.jpg?v=1775484676",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/maathang-matil?variant=gid://shopify/ProductVariant/52897910685993",
     "stock": 0,
     "last_alerted_stock": 0
@@ -68108,7 +68108,7 @@
     "amount": 30175.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_21_Mar20273_resized.jpg?v=1775547755",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ovalora-victorian-kada?variant=gid://shopify/ProductVariant/52911255093545",
     "stock": -1
   },
@@ -76457,7 +76457,7 @@
     "amount": 2380.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1874_resized.jpg?v=1782128447",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/matsyika-stone-ring?variant=gid://shopify/ProductVariant/53282906341673",
     "stock": 0
   },
@@ -76508,7 +76508,7 @@
     "amount": 2125.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_1May1891_resized.jpg?v=1782129728",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/stone-lumina-ring?variant=gid://shopify/ProductVariant/53282916565289",
     "stock": 0
   },
@@ -77384,7 +77384,7 @@
     "amount": 1360.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_108_Pics_17Jun13270_resized.jpg?v=1782223220",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/evil-eye-bracelet-1?variant=gid://shopify/ProductVariant/53284830413097",
     "stock": -1
   },
@@ -84764,7 +84764,7 @@
     "amount": 4845.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0900.jpg?v=1786346922",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/oval-amethyst-gemstone-ring?variant=gid://shopify/ProductVariant/53350506332457",
     "stock": 0
   },
@@ -88231,7 +88231,7 @@
     "amount": 2700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38737.jpg?v=1786696070",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/duchess-pink-victorian-ring?variant=gid://shopify/ProductVariant/53426674237737",
     "stock": 0
   },
@@ -88499,7 +88499,7 @@
     "amount": 4200.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38721.jpg?v=1786700671",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/lotus-legacy-victorian-ring?variant=gid://shopify/ProductVariant/53426841714985",
     "stock": 0
   },
@@ -88516,7 +88516,7 @@
     "amount": 3800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38741.jpg?v=1786701382",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/lady-arabella-victorian-ring?variant=gid://shopify/ProductVariant/53426863931689",
     "stock": 0
   },
@@ -88550,7 +88550,7 @@
     "amount": 4000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38716.jpg?v=1786701650",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/duchess-of-blue-victorian-ring?variant=gid://shopify/ProductVariant/53426868584745",
     "stock": 0
   },
@@ -88567,7 +88567,7 @@
     "amount": 5000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38725.jpg?v=1786701877",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/navaratna-empress-victorian-ring?variant=gid://shopify/ProductVariant/53409996308777",
     "stock": 0
   },
