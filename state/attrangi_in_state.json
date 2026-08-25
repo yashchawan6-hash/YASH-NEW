@@ -314,9 +314,9 @@
     "amount": 1650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/double-solitaire-earrings-attrangi-2.jpg?v=1739812490",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/double-solitaire-earrings?variant=gid://shopify/ProductVariant/40411661205673",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411661566121": {
@@ -20292,24 +20292,6 @@
     "stock": 0,
     "last_alerted_stock": 0
   },
-  "gid://shopify/ProductVariant/45860523180244": {
-    "product_title": "Drizella Beaded Diamond Pastel Kada | Lala Land Collection",
-    "product_handle": "drizella-beaded-diamond-pastel-bracelet-lala-land-collection",
-    "variant_id": "gid://shopify/ProductVariant/45860523180244",
-    "global_id": "gid://shopify/ProductVariant/45860523180244",
-    "variant_title": "Pink & Purple / This kada comes in one size that fits most people from size 2.2 to 2.6",
-    "sku": "RP6514PU-PI-BR",
-    "price": 3250.0,
-    "variant_price": 3250.0,
-    "product_price": 3250.0,
-    "amount": 3250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-11-27at6.44.49PM.jpg?v=1750783360",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/drizella-beaded-diamond-pastel-bracelet-lala-land-collection?variant=gid://shopify/ProductVariant/45860523180244",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/45860599333076": {
     "product_title": "Shira Pastel Ring | Lala Land Collection",
     "product_handle": "shira-pastel-ring-lala-land-collection",
@@ -20745,24 +20727,6 @@
     "url": "https://www.attrangi.in/products/polki-minimal-floral-indian-polki-ring?variant=gid://shopify/ProductVariant/45889233060052",
     "stock": 3,
     "last_alerted_stock": 2
-  },
-  "gid://shopify/ProductVariant/45889358692564": {
-    "product_title": "Sushmita Moissanite Polki Maangtika in Antique Gold",
-    "product_handle": "sushmita-moissanite-polki-maangtika-in-antique-gold",
-    "variant_id": "gid://shopify/ProductVariant/45889358692564",
-    "global_id": "gid://shopify/ProductVariant/45889358692564",
-    "variant_title": "Default Title",
-    "sku": "RP9612R-MG",
-    "price": 2950.0,
-    "variant_price": 2950.0,
-    "product_price": 2950.0,
-    "amount": 2950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2024-12-05at4.16.45PM_1.jpg?v=1750783471",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/sushmita-moissanite-polki-maangtika-in-antique-gold?variant=gid://shopify/ProductVariant/45889358692564",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45889359216852": {
     "product_title": "Shanaya Moissanite Polki Maangtika In Antique Gold",
@@ -21535,24 +21499,6 @@
     "url": "https://www.attrangi.in/products/eisha-polki-moissanite-pendant-set?variant=gid://shopify/ProductVariant/45909229240532",
     "stock": 3,
     "last_alerted_stock": 2
-  },
-  "gid://shopify/ProductVariant/46018058584276": {
-    "product_title": "Debby Oversized Coloured Diamond Dangler Earrings",
-    "product_handle": "debby-oversized-coloured-diamond-dangler-earrings",
-    "variant_id": "gid://shopify/ProductVariant/46018058584276",
-    "global_id": "gid://shopify/ProductVariant/46018058584276",
-    "variant_title": "Purple",
-    "sku": "RP16718PU-ER",
-    "price": 4050.0,
-    "variant_price": 4050.0,
-    "product_price": 4050.0,
-    "amount": 4050.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-02-07_at_1.16.30_PM_1.jpg?v=1739817922",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/debby-oversized-coloured-diamond-dangler-earrings?variant=gid://shopify/ProductVariant/46018058584276",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45911374102740": {
     "product_title": "Romania Diamond Colour Blob Cocktail Ring",
