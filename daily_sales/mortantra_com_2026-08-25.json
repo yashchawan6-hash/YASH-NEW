@@ -412,5 +412,41 @@
     "curr_stock": 1,
     "url": "https://www.mortantra.com/products/pk-brac17-white-color-gold-plated-faux-polki-bangles?variant=gid://shopify/ProductVariant/46090482581727",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-BRAC17_2_1a548e8f-836f-4bed-97e5-478c6bc6e59c.jpg?v=1720877806"
+  },
+  {
+    "timestamp_ist": "2026-08-25 11:58:01",
+    "product_title": "White Gold-Plated Faux Polki Kundan Stud Earrings - PK-E10",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42878458396895",
+    "sku": "PK-E10",
+    "price": 3500.0,
+    "variant_price": 3500.0,
+    "product_price": 3500.0,
+    "amount": 3500.0,
+    "total_price": 3500.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.mortantra.com/products/pk-e10-faux-diamond-earrings?variant=gid://shopify/ProductVariant/42878458396895",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/PK-E10_15fe51d9-2f39-457e-a7f7-ee2fddbd624d.jpg?v=1656412106"
+  },
+  {
+    "timestamp_ist": "2026-08-25 11:58:01",
+    "product_title": "Gold-Plated Faux Polki Kundan Dangler Earrings with Floral Stone Cluster - PK-E103",
+    "variant_title": "White",
+    "variant_id": "gid://shopify/ProductVariant/46086368690399",
+    "sku": "PK-E103",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "total_price": 3000.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.mortantra.com/products/pk-e103-gold-plated-faux-polki-earrings?variant=gid://shopify/ProductVariant/46086368690399",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E103_1.jpg?v=1720186787"
   }
 ]

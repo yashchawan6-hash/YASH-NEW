@@ -2574,8 +2574,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/products/PK-E10_15fe51d9-2f39-457e-a7f7-ee2fddbd624d.jpg?v=1656412106",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-e10-faux-diamond-earrings?variant=gid://shopify/ProductVariant/42878458396895",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/42897817141471": {
     "product_title": "White Color Gold Plated Jadau Kundan Sheeshphool - MHA81Y",
@@ -19520,7 +19520,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E103_1.jpg?v=1720186787",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/pk-e103-gold-plated-faux-polki-earrings?variant=gid://shopify/ProductVariant/46086368690399",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/46086368723167": {
     "product_title": "Gold-Plated Faux Polki Kundan Dangler Earrings with Floral Stone Cluster - PK-E103",
@@ -31699,7 +31700,7 @@
     "amount": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E113GR.jpg?v=1734952757",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e113?variant=gid://shopify/ProductVariant/46617658458335",
     "stock": 1
   },
@@ -58610,42 +58611,6 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/white-color-gold-plated-jadau-kundan-maangteeka-mt539y?variant=gid://shopify/ProductVariant/47108028268767",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/47108028858591": {
-    "product_title": "White Gold-Plated Faux Polki Kundan Dangler Earrings - PK-E150",
-    "product_handle": "white-color-gold-plated-faux-polki-earrings-pk-e150",
-    "variant_id": "gid://shopify/ProductVariant/47108028858591",
-    "global_id": "gid://shopify/ProductVariant/47108028858591",
-    "variant_title": "Default Title",
-    "sku": "PK-E150",
-    "price": 5500.0,
-    "variant_price": 5500.0,
-    "product_price": 5500.0,
-    "amount": 5500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E150.jpg?v=1751717924",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-earrings-pk-e150?variant=gid://shopify/ProductVariant/47108028858591",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
-  "gid://shopify/ProductVariant/47108030103775": {
-    "product_title": "White Color Gold Plated Faux Polki Earrings - PK-E154",
-    "product_handle": "white-color-gold-plated-faux-polki-earrings-pk-e154",
-    "variant_id": "gid://shopify/ProductVariant/47108030103775",
-    "global_id": "gid://shopify/ProductVariant/47108030103775",
-    "variant_title": "Default Title",
-    "sku": "PK-E154",
-    "price": 3000.0,
-    "variant_price": 3000.0,
-    "product_price": 3000.0,
-    "amount": 3000.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E154.jpg?v=1751718441",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-earrings-pk-e154?variant=gid://shopify/ProductVariant/47108030103775",
-    "stock": 1,
-    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47108040458463": {
     "product_title": "Blue Gold-Plated Faux Polki Kundan Dangler Earrings - PK-E158BL",
@@ -94654,23 +94619,6 @@
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-waist-belt-kamarbandh-mwb30?variant=gid://shopify/ProductVariant/49236833829087",
     "stock": 9999
   },
-  "gid://shopify/ProductVariant/49176871272671": {
-    "product_title": "Dark Green Gold-Plated Faux Polki Kundan Dangler Earrings - PK-E180",
-    "product_handle": "gold-plated-faux-polki-earrings-pk-e180",
-    "variant_id": "gid://shopify/ProductVariant/49176871272671",
-    "global_id": "gid://shopify/ProductVariant/49176871272671",
-    "variant_title": "Dark Green",
-    "sku": "PK-E180GR",
-    "price": 3500.0,
-    "variant_price": 3500.0,
-    "product_price": 3500.0,
-    "amount": 3500.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E180GR.jpg?v=1778827886",
-    "available_for_sale": true,
-    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e180?variant=gid://shopify/ProductVariant/49176871272671",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/49217134428383": {
     "product_title": "White Color Silver Plated Faux Diamond Bracelet (1 Piece) with Diamante - CZBRAC189",
     "product_handle": "white-color-silver-plated-faux-diamond-bracelet-1-piece-czbrac189",
@@ -112396,6 +112344,59 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-temple-necklace-set-tmpset1121?variant=gid://shopify/ProductVariant/51257773588703",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47108028858591": {
+    "product_title": "White Gold-Plated Faux Polki Kundan Dangler Earrings - PK-E150",
+    "product_handle": "white-color-gold-plated-faux-polki-earrings-pk-e150",
+    "variant_id": "gid://shopify/ProductVariant/47108028858591",
+    "global_id": "gid://shopify/ProductVariant/47108028858591",
+    "variant_title": "Default Title",
+    "sku": "PK-E150",
+    "price": 5500.0,
+    "variant_price": 5500.0,
+    "product_price": 5500.0,
+    "amount": 5500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E150.jpg?v=1751717924",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-earrings-pk-e150?variant=gid://shopify/ProductVariant/47108028858591",
+    "stock": 1,
+    "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/47108030103775": {
+    "product_title": "White Color Gold Plated Faux Polki Earrings - PK-E154",
+    "product_handle": "white-color-gold-plated-faux-polki-earrings-pk-e154",
+    "variant_id": "gid://shopify/ProductVariant/47108030103775",
+    "global_id": "gid://shopify/ProductVariant/47108030103775",
+    "variant_title": "Default Title",
+    "sku": "PK-E154",
+    "price": 3000.0,
+    "variant_price": 3000.0,
+    "product_price": 3000.0,
+    "amount": 3000.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E154.jpg?v=1751718441",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/white-color-gold-plated-faux-polki-earrings-pk-e154?variant=gid://shopify/ProductVariant/47108030103775",
+    "stock": 1,
+    "last_alerted_stock": 1
+  },
+  "gid://shopify/ProductVariant/49176871272671": {
+    "product_title": "Dark Green Gold-Plated Faux Polki Kundan Dangler Earrings - PK-E180",
+    "product_handle": "gold-plated-faux-polki-earrings-pk-e180",
+    "variant_id": "gid://shopify/ProductVariant/49176871272671",
+    "global_id": "gid://shopify/ProductVariant/49176871272671",
+    "variant_title": "Dark Green",
+    "sku": "PK-E180GR",
+    "price": 3500.0,
+    "variant_price": 3500.0,
+    "product_price": 3500.0,
+    "amount": 3500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/PK-E180GR.jpg?v=1778827886",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-faux-polki-earrings-pk-e180?variant=gid://shopify/ProductVariant/49176871272671",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/47039150817503": {
     "product_title": "White Gold-Plated Jadau Kundan Brooch with Flower Motif - MBRC23",
