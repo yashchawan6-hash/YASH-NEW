@@ -7451,24 +7451,6 @@
     "stock": 3,
     "last_alerted_stock": 0
   },
-  "gid://shopify/ProductVariant/43288915149012": {
-    "product_title": "Masama Tribal Necklace | Gold Plated",
-    "product_handle": "masama-tribal-necklace-gold-plated",
-    "variant_id": "gid://shopify/ProductVariant/43288915149012",
-    "global_id": "gid://shopify/ProductVariant/43288915149012",
-    "variant_title": "Default Title",
-    "sku": "GJ0160",
-    "price": 2650.0,
-    "variant_price": 2650.0,
-    "product_price": 2650.0,
-    "amount": 2650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/masama-tribal-necklace-or-gold-plated-attrangi-1.jpg?v=1739814171",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/masama-tribal-necklace-gold-plated?variant=gid://shopify/ProductVariant/43288915149012",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/43856613310676": {
     "product_title": "Evelyn Coloured Drop Diamond Set with Pearls",
     "product_handle": "evelyn-coloured-drop-diamond-set-with-pearls",
@@ -51338,23 +51320,6 @@
     "url": "https://www.attrangi.in/products/oh-dear-mint-polki-designer-brooch-unisex?variant=gid://shopify/ProductVariant/47927933141204",
     "stock": 2
   },
-  "gid://shopify/ProductVariant/47928007262420": {
-    "product_title": "Raathi Diamond Bird Gemstone Brooch | Unisex",
-    "product_handle": "raathi-diamond-bird-gemstone-brooch-unisex",
-    "variant_id": "gid://shopify/ProductVariant/47928007262420",
-    "global_id": "gid://shopify/ProductVariant/47928007262420",
-    "variant_title": "Red",
-    "sku": "SJO6111R-BR",
-    "price": 2950.0,
-    "variant_price": 2950.0,
-    "product_price": 2950.0,
-    "amount": 2950.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-12at4.44.12PM.jpg?v=1778587065",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/raathi-diamond-bird-gemstone-brooch-unisex?variant=gid://shopify/ProductVariant/47928007262420",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/47934493819092": {
     "product_title": "Advani Bird Moissanite Brooch | Unisex",
     "product_handle": "advani-bird-moissanite-brooch-unisex",
@@ -59251,6 +59216,23 @@
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48518327894228",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/47928007262420": {
+    "product_title": "Raathi Diamond Bird Gemstone Brooch | Unisex",
+    "product_handle": "raathi-diamond-bird-gemstone-brooch-unisex",
+    "variant_id": "gid://shopify/ProductVariant/47928007262420",
+    "global_id": "gid://shopify/ProductVariant/47928007262420",
+    "variant_title": "Red",
+    "sku": "SJO6111R-BR",
+    "price": 2950.0,
+    "variant_price": 2950.0,
+    "product_price": 2950.0,
+    "amount": 2950.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-05-12at4.44.12PM.jpg?v=1778587065",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/raathi-diamond-bird-gemstone-brooch-unisex?variant=gid://shopify/ProductVariant/47928007262420",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/48408272896212": {
     "product_title": "Holdali Gold Sone Pe Suhaga Traditional Indian Watch",
