@@ -1156,10 +1156,10 @@
     "amount": 39.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A6194_copy_copy.jpg?v=1762530974",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/sira-antique-bangles?variant=gid://shopify/ProductVariant/40805494095938",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/13874825986114": {
     "product_title": "Sira Antique Bangles",
@@ -3832,9 +3832,10 @@
     "amount": 104.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/SRP_0012_copy2_copy.jpg?v=1762539286",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/apeksha-kundan-choker-set?variant=gid://shopify/ProductVariant/30318980137026",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/31411253641282": {
     "product_title": "Lillian Nakshatra CZ Necklace Set",
