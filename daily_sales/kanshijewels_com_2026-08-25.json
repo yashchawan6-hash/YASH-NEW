@@ -16,5 +16,41 @@
     "curr_stock": 3,
     "url": "https://www.kanshijewels.com/products/elegant-kundan-work-swaroski-pearls-necklace?variant=gid://shopify/ProductVariant/53368863424812",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/DSC08352.jpg?v=1782214177"
+  },
+  {
+    "timestamp_ist": "2026-08-25 18:14:10",
+    "product_title": "Rani Choker",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/50702760575276",
+    "sku": "NK207",
+    "price": 3465.0,
+    "variant_price": 3465.0,
+    "product_price": 3465.0,
+    "amount": 3465.0,
+    "total_price": 3465.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.kanshijewels.com/products/rani-choker-1?variant=gid://shopify/ProductVariant/50702760575276",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3300_-ranichokar.jpg?v=1741257517"
+  },
+  {
+    "timestamp_ist": "2026-08-25 18:14:10",
+    "product_title": "Jadau Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/52737246265644",
+    "sku": "ER27",
+    "price": 1520.0,
+    "variant_price": 1520.0,
+    "product_price": 1520.0,
+    "amount": 1520.0,
+    "total_price": 1520.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.kanshijewels.com/products/jadau-earrings-6?variant=gid://shopify/ProductVariant/52737246265644",
+    "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUEARRINGS1520_30d83a35-528f-49aa-a95f-18c757434ec4.jpg?v=1773121082"
   }
 ]

@@ -17075,8 +17075,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/3300_-ranichokar.jpg?v=1741257517",
     "available_for_sale": true,
     "url": "https://www.kanshijewels.com/products/rani-choker-1?variant=gid://shopify/ProductVariant/50702760575276",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50702778237228": {
     "product_title": "Peacock Choker",
@@ -23247,9 +23247,10 @@
     "amount": 1520.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0780/0592/8236/files/JADAUEARRINGS1520_30d83a35-528f-49aa-a95f-18c757434ec4.jpg?v=1773121082",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.kanshijewels.com/products/jadau-earrings-6?variant=gid://shopify/ProductVariant/52737246265644",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52737249050924": {
     "product_title": "Jadau Earrings",
