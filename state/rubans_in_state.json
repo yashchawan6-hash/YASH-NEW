@@ -10368,9 +10368,9 @@
     "amount": 815.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS404776_Model.jpg?v=1767159599",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/22kt-gold-plated-brass-red-stone-studded-necklace-set?variant=gid://shopify/ProductVariant/46081004503214",
-    "stock": 0
+    "stock": 5
   },
   "gid://shopify/ProductVariant/45331975569582": {
     "product_title": "Ruby Studded Gold Necklace Set",
@@ -10738,7 +10738,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW30R404731_-Model.jpg?v=1774857358",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-18kt-gold-plated-crystal-studded-beaded-peacock-motif-ring?variant=gid://shopify/ProductVariant/45604278599854",
-    "stock": 7,
+    "stock": 20,
     "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45604278665390": {
@@ -11030,8 +11030,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13V404943_1d2bda79-6ff6-4e4b-a7bc-b9348d02e86d.jpg?v=1774856727",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-premium-22k-gold-plated-ad-zirconia-studded-openable-bangle-style-bracelet-with-charms?variant=gid://shopify/ProductVariant/45608533950638",
-    "stock": 17,
-    "last_alerted_stock": 17
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45649082745006": {
     "product_title": "Pink American Diamond Zirconia Studded Necklace Set",
