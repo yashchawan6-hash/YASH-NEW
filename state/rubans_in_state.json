@@ -17608,10 +17608,10 @@
     "amount": 547.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-intricate-green-stone-and-golden-beaded-traditional-jewellery-set-necklace-set-37650558681262.jpg?v=1771228613",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-intricate-green-stone-and-golden-beaded-traditional-jewellery-set-re10ps406606?variant=gid://shopify/ProductVariant/45968052977838",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45968107208878": {
     "product_title": "Pearl Drop American Diamond Zirconia Gold Necklace Set",
