@@ -8735,7 +8735,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3918.jpg?v=1672644676",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/yellow-stone-studs?variant=gid://shopify/ProductVariant/43631199191267",
-    "stock": 6
+    "stock": 5,
+    "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/43631201812707": {
     "product_title": "Llisha Studs",
@@ -17123,9 +17124,10 @@
     "amount": 49984.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5442_966b614c-895c-4ccb-83c6-3c51226f6080.jpg?v=1727089670",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/stryna-stone-necklace?variant=gid://shopify/ProductVariant/44347319550179",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44347381940451": {
     "product_title": "Devi Stone Drops",

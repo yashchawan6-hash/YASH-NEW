@@ -34,5 +34,41 @@
     "curr_stock": 0,
     "url": "https://www.theamethyststore.com/products/yashninka-avikam-necklace-set?variant=gid://shopify/ProductVariant/44025924354275",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5063_436b2fd0-7fd2-4b6d-81e8-51cb106097ab.jpg?v=1787223260"
+  },
+  {
+    "timestamp_ist": "2026-08-25 17:34:11",
+    "product_title": "Yellow Stone Studs",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/43631199191267",
+    "sku": "AMS-106-3918",
+    "price": 4900.0,
+    "variant_price": 4900.0,
+    "product_price": 4900.0,
+    "amount": 4900.0,
+    "total_price": 4900.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 6,
+    "curr_stock": 5,
+    "url": "https://www.theamethyststore.com/products/yellow-stone-studs?variant=gid://shopify/ProductVariant/43631199191267",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-3918.jpg?v=1672644676"
+  },
+  {
+    "timestamp_ist": "2026-08-25 17:34:11",
+    "product_title": "Stryna Stone Necklace",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44347319550179",
+    "sku": "AMS-102-5442",
+    "price": 49984.0,
+    "variant_price": 49984.0,
+    "product_price": 49984.0,
+    "amount": 49984.0,
+    "total_price": 49984.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.theamethyststore.com/products/stryna-stone-necklace?variant=gid://shopify/ProductVariant/44347319550179",
+    "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-5442_966b614c-895c-4ccb-83c6-3c51226f6080.jpg?v=1727089670"
   }
 ]
