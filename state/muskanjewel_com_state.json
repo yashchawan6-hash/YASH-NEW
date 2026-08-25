@@ -189,8 +189,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/5e50c4d0-2fa2-4ca7-8a1d-670fe3e4736a.webp?v=1768392420",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-studs-1?variant=gid://shopify/ProductVariant/52626236309820",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/52626385240380": {
     "product_title": "Jadau kundan peacock Jhumkas with pearls and natural strawberry beads",
@@ -642,6 +642,23 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-bridal-necklace-with-pearl-drop-and-natural-strawberry-beads-no-earrings?variant=gid://shopify/ProductVariant/52628974829884",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/52628982530364": {
+    "product_title": "Jadau kundan bridal necklace with pearl and strawberry beads drops (No earrings)",
+    "product_handle": "jadau-kundan-bridal-necklace-with-pearl-and-strawberry-beads-drops-no-earrings",
+    "variant_id": "gid://shopify/ProductVariant/52628982530364",
+    "global_id": "gid://shopify/ProductVariant/52628982530364",
+    "variant_title": "Default Title",
+    "sku": "",
+    "price": 7400.0,
+    "variant_price": 7400.0,
+    "product_price": 7400.0,
+    "amount": 7400.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/9e19cd2e-a277-4467-8b09-b042cee363cc.webp?v=1768485600",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-bridal-necklace-with-pearl-and-strawberry-beads-drops-no-earrings?variant=gid://shopify/ProductVariant/52628982530364",
+    "stock": 3
   },
   "gid://shopify/ProductVariant/52629002780988": {
     "product_title": "Jadau kundan antique peacock necklace with pearl and natural strawberry beads(No earrings)",
