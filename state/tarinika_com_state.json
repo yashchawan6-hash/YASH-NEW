@@ -6286,9 +6286,10 @@
     "amount": 134.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/IMG_9241.jpg?v=1640780219",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/maithili-antique-choker-set?variant=gid://shopify/ProductVariant/39448383422530",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/39448387846210": {
     "product_title": "Dancing Lady Classic Antique Choker",
