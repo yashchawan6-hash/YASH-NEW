@@ -679,7 +679,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/IMG_4180.jpg?v=1590765434",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/ad-stone-motif-bangles?variant=gid://shopify/ProductVariant/34498045214873",
-    "stock": 20
+    "stock": 19,
+    "last_alerted_stock": 19
   },
   "gid://shopify/ProductVariant/43842126905566": {
     "product_title": "Simple Peacock Necklace With Earrings",
@@ -33380,7 +33381,7 @@
     "amount": 4799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B47015CD-FC5A-4BE6-A615-C24954717B69.jpg?v=1743347272",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/antique-lakshmi-coin-kasumalai-short-and-long-necklace-with-jhumkas-price-for-short-long-and-combo?variant=gid://shopify/ProductVariant/46510768980190",
     "stock": 2
   },
@@ -57773,7 +57774,7 @@
     "amount": 3299.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/B12C84A9-CA55-468E-A8C3-2BA16D904B9F.jpg?v=1784567845",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/victorian-green-bangle-combo?variant=gid://shopify/ProductVariant/48453374345438",
     "stock": 4,
     "last_alerted_stock": 0
