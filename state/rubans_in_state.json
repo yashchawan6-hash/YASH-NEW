@@ -8041,10 +8041,10 @@
     "amount": 999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-6-antique-bangle-pearl-beaded-classy-bangles-bangles-bracelets-34874855784622.jpg?v=1774934011",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-set-of-6-antique-bangle-pearl-beaded-classy-bangles?variant=gid://shopify/ProductVariant/47084620087470",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084620120238": {
     "product_title": "Rubans Set of 6 Gold Plated Pearl & Stone Studded Traditional Handcrafted Bangles",
@@ -8184,7 +8184,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-artisan-crafted-oxidized-silver-plated-bangles-bangles-bracelets-35101509943470.jpg?v=1755721427",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-artisan-crafted-oxidized-silver-plated-bangles?variant=gid://shopify/ProductVariant/47084619759790",
-    "stock": 19,
+    "stock": 20,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/47084619792558": {
