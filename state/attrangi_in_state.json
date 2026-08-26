@@ -9290,7 +9290,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/sasha-antique-gold-studs-and-ring-combo-attrangi-4.jpg?v=1739814740",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sasha-antique-gold-studs-ring-combo?variant=gid://shopify/ProductVariant/43830220783828",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43843915940052": {
     "product_title": "Sharda Polki Maangtika",
@@ -58080,7 +58081,7 @@
     "amount": 3850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-01at10.20.36PM.jpg?v=1785603190",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/colourful-gemstone-hasli-western-necklace-set?variant=gid://shopify/ProductVariant/48403806748884",
     "stock": 9999
   },
