@@ -880,5 +880,41 @@
     "curr_stock": 0,
     "url": "https://www.daivik.in/products/diwali-sale-necklace-d24168?variant=gid://shopify/ProductVariant/45953795260638",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_0864.jpg?v=1728332862"
+  },
+  {
+    "timestamp_ist": "2026-08-27 03:17:28",
+    "product_title": "Navratna Choker With Earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/36578934849689",
+    "sku": "397",
+    "price": 3499.0,
+    "variant_price": 3499.0,
+    "product_price": 3499.0,
+    "amount": 3499.0,
+    "total_price": 3499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 30,
+    "curr_stock": 29,
+    "url": "https://www.daivik.in/products/navratna-choker-with-earrings?variant=gid://shopify/ProductVariant/36578934849689",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/DE712CD5-0693-44F8-9921-D6C72D05737D.jpg?v=1770128233"
+  },
+  {
+    "timestamp_ist": "2026-08-27 03:17:28",
+    "product_title": "Simple Leaf Ad Bangles",
+    "variant_title": "2.8",
+    "variant_id": "gid://shopify/ProductVariant/42576974807262",
+    "sku": "216",
+    "price": 1099.0,
+    "variant_price": 1099.0,
+    "product_price": 1099.0,
+    "amount": 1099.0,
+    "total_price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 26,
+    "curr_stock": 25,
+    "url": "https://www.daivik.in/products/simple-leaf-ad-bangles?variant=gid://shopify/ProductVariant/42576974807262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_1e106faa-24a9-4e7d-a5a1-eaeb4589274e.jpg?v=1647441514"
   }
 ]
