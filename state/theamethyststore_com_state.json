@@ -2953,7 +2953,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-2280.jpg?v=1687241133",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/nivar-earrings?variant=gid://shopify/ProductVariant/42416930848995",
-    "stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/42417234739427": {
     "product_title": "Bhavika Earrings",
@@ -9300,7 +9301,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/products/AMS-106-4017.jpg?v=1673953026",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/sherin-drops?variant=gid://shopify/ProductVariant/43660006654179",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/43660155158755": {
     "product_title": "Anita Stone Drops",
