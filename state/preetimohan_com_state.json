@@ -17941,9 +17941,10 @@
     "amount": 35000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/Gemini_Generated_Image_4xlio84xlio84xli.png?v=1784804429",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/samprati-green-polki-groom-necklace?variant=gid://shopify/ProductVariant/49333087895745",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/49333132034241": {
     "product_title": "RAVYA GOLD PLATED KUNDAN NECKLACE SET",
@@ -26740,7 +26741,7 @@
     "amount": 15000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/1NGP7581A.jpg?v=1784634254",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/kanha-green-polki-kalgi?variant=gid://shopify/ProductVariant/50425453674689",
     "stock": 1
   },
