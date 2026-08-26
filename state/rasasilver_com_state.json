@@ -14372,7 +14372,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_17_Sept01991.jpg?v=1759147678",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/vilasika-moti-danglers?variant=gid://shopify/ProductVariant/51205552242985",
-    "stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/51205608177961": {
     "product_title": "Raj-Kusum Kundan Jhumki",
@@ -28029,7 +28030,7 @@
     "amount": 33660.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_297Pics_07Oct34941_resized.jpg?v=1763553693",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/squarora-necklace-set?variant=gid://shopify/ProductVariant/51500206227753",
     "stock": 1
   },
@@ -88964,7 +88965,7 @@
     "amount": 4700.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Cat_41_107_4Aug38651.jpg?v=1786705003",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/flora-royale-kundan-studs?variant=gid://shopify/ProductVariant/53411231498537",
     "stock": 0
   },
