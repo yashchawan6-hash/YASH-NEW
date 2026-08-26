@@ -69599,24 +69599,6 @@
     "url": "https://www.rasasilver.com/products/inaya-kundan-septum-ring-copy?variant=gid://shopify/ProductVariant/52967670645033",
     "stock": 0
   },
-  "gid://shopify/ProductVariant/53064066040105": {
-    "product_title": "Zirconika Stone Ring",
-    "product_handle": "zirconika-stone-ring-copy",
-    "variant_id": "gid://shopify/ProductVariant/53064066040105",
-    "global_id": "gid://shopify/ProductVariant/53064066040105",
-    "variant_title": "Ruby Pink",
-    "sku": "R25336",
-    "price": 2465.0,
-    "variant_price": 2465.0,
-    "product_price": 2465.0,
-    "amount": 2465.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006",
-    "available_for_sale": true,
-    "url": "https://www.rasasilver.com/products/zirconika-stone-ring-copy?variant=gid://shopify/ProductVariant/53064066040105",
-    "stock": 1,
-    "last_alerted_stock": 1
-  },
   "gid://shopify/ProductVariant/53069942489385": {
     "product_title": "Sitar Kundan Chandbali",
     "product_handle": "sitar-kundan-chandbali",
@@ -90291,5 +90273,23 @@
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ganpati-rakhi-2?variant=gid://shopify/ProductVariant/53439895863593",
     "stock": 0
+  },
+  "gid://shopify/ProductVariant/53064066040105": {
+    "product_title": "Zirconika Stone Ring",
+    "product_handle": "zirconika-stone-ring-copy",
+    "variant_id": "gid://shopify/ProductVariant/53064066040105",
+    "global_id": "gid://shopify/ProductVariant/53064066040105",
+    "variant_title": "Ruby Pink",
+    "sku": "R25336",
+    "price": 2465.0,
+    "variant_price": 2465.0,
+    "product_price": 2465.0,
+    "amount": 2465.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/3-2_a9ca0497-e6ce-4202-a821-dcefc58b6d3c.jpg?v=1754312006",
+    "available_for_sale": true,
+    "url": "https://www.rasasilver.com/products/zirconika-stone-ring-copy?variant=gid://shopify/ProductVariant/53064066040105",
+    "stock": 1,
+    "last_alerted_stock": 1
   }
 }
