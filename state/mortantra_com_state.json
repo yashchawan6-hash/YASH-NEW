@@ -9935,7 +9935,7 @@
     "product_price": 4500.0,
     "amount": 4500.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WPcopy.jpg?v=1708065003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WP-2.jpg?v=1787733639",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mb187wp-pink-color-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/44854271901919",
     "stock": 1
@@ -9952,7 +9952,7 @@
     "product_price": 4500.0,
     "amount": 4500.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WPcopy.jpg?v=1708065003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WP-2.jpg?v=1787733639",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mb187wp-pink-color-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/44854271934687",
     "stock": 9999
@@ -9969,10 +9969,27 @@
     "product_price": 4500.0,
     "amount": 4500.0,
     "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WPcopy.jpg?v=1708065003",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WP-2.jpg?v=1787733639",
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mb187wp-pink-color-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/48859866497247",
     "stock": 3
+  },
+  "gid://shopify/ProductVariant/51268504846559": {
+    "product_title": "Dark Pink Gold-Plated Jadau Kundan Bangle Pair with Floral Kundan Setting - MB187WP",
+    "product_handle": "mb187wp-pink-color-gold-plated-jadau-kundan-bangles",
+    "variant_id": "gid://shopify/ProductVariant/51268504846559",
+    "global_id": "gid://shopify/ProductVariant/51268504846559",
+    "variant_title": "2.8",
+    "sku": "MB187WP|2.8",
+    "price": 4500.0,
+    "variant_price": 4500.0,
+    "product_price": 4500.0,
+    "amount": 4500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WP-2.jpg?v=1787733639",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/mb187wp-pink-color-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/51268504846559",
+    "stock": 9999
   },
   "gid://shopify/ProductVariant/44854397534431": {
     "product_title": "Multicolor Mishr Necklace Set - MR-S431A",
@@ -48409,6 +48426,23 @@
     "available_for_sale": true,
     "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bangles-one-pair-mb225?variant=gid://shopify/ProductVariant/47249258578143",
     "stock": 9999
+  },
+  "gid://shopify/ProductVariant/51268543021279": {
+    "product_title": "Gold-Plated Jadau Kundan Bangle with Floral Stonework, Screw Closure - MB225",
+    "product_handle": "gold-plated-jadau-kundan-bangles-one-pair-mb225",
+    "variant_id": "gid://shopify/ProductVariant/51268543021279",
+    "global_id": "gid://shopify/ProductVariant/51268543021279",
+    "variant_title": "Multicolor / 2.4",
+    "sku": "MB225M|2.4",
+    "price": 12500.0,
+    "variant_price": 12500.0,
+    "product_price": 12500.0,
+    "amount": 12500.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB225M-2.jpg?v=1787733690",
+    "available_for_sale": true,
+    "url": "https://www.mortantra.com/products/gold-plated-jadau-kundan-bangles-one-pair-mb225?variant=gid://shopify/ProductVariant/51268543021279",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/47028846493919": {
     "product_title": "White Gold-Plated Jadau Kundan Jhumka Earrings with Kundan Setting - ME1314Y",
