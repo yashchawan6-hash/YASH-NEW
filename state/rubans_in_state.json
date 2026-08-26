@@ -23601,9 +23601,9 @@
     "amount": 775.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-rhodium-plated-white-cubiczirconia-adjustable-pull-chain-bracelet-elegant-stylish-earrings-1203224050.jpg?v=1770707231",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rhodium-plated-white-cubiczirconia-adjustable-pull-chain-bracelet-elegant-stylish?variant=gid://shopify/ProductVariant/46185668018350",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084598984878": {
@@ -24104,7 +24104,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE20B407612.jpg?v=1770698780",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-4-rhodium-plated-silver-tone-cubic-zirconia-studded-premium-bangles?variant=gid://shopify/ProductVariant/47084597739694",
-    "stock": 4,
+    "stock": 13,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/47084597772462": {
@@ -24243,8 +24243,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B407618_41e71fe0-55cc-433e-9a7c-29e9a5ef3741.jpg?v=1770699135",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-22k-gold-plated-cubic-zirconia-studded-elegant-designer-bangles?variant=gid://shopify/ProductVariant/47084597575854",
-    "stock": 20,
-    "last_alerted_stock": 13
+    "stock": 11,
+    "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/47084597313710": {
     "product_title": "Rubans Set of 2, 22K Gold-Plated & Cubic Zirconia Studded Elegant Bangles",
@@ -34187,7 +34187,7 @@
     "amount": 1516.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-emerald-green-white-cubic-zirconia-studded-leaf-motif-necklace-set-for-women-jewellery-set-1203270173.jpg?v=1770208402",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-emerald-green-white-cubic-zirconia-studded-dual-layered-necklace-set-for-women-copy?variant=gid://shopify/ProductVariant/46395006877870",
     "stock": 1,
     "last_alerted_stock": 0
@@ -65158,7 +65158,7 @@
     "amount": 1091.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10B411744-Model-2.jpg?v=1767782805",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/royal-kundan-glow-gold-bangles?variant=gid://shopify/ProductVariant/47334320636078",
     "stock": 5,
     "last_alerted_stock": 5
