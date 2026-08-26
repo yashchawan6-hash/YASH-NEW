@@ -11793,9 +11793,10 @@
     "amount": 139500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_a34afa41-732c-4fd2-9de2-2bce368c18eb.jpg?v=1755686938",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/floramira-cz-necklace-set?variant=gid://shopify/ProductVariant/50824678375721",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52274241274153": {
     "product_title": "Trilogy of Love Ring",
