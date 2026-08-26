@@ -700,5 +700,41 @@
     "curr_stock": 15,
     "url": "https://www.daivik.in/products/ad-doublet-stone-designer-earrings?variant=gid://shopify/ProductVariant/45291773755614",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/69179894-CD33-4A7A-A315-1945F7D8FBF5.jpg?v=1714322428"
+  },
+  {
+    "timestamp_ist": "2026-08-26 19:58:07",
+    "product_title": "Lakshmi Teeka Collection in 4 Variants (Price for Each)",
+    "variant_title": "4",
+    "variant_id": "gid://shopify/ProductVariant/45752890261726",
+    "sku": "583",
+    "price": 1099.0,
+    "variant_price": 1099.0,
+    "product_price": 1099.0,
+    "amount": 1099.0,
+    "total_price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 3,
+    "curr_stock": 2,
+    "url": "https://www.daivik.in/products/lakshmi-teeka-collection-in-4-variants-price-for-each?variant=gid://shopify/ProductVariant/45752890261726",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/2C46F3ED-2F14-4EAC-A26A-8640CC16891F.jpg?v=1721662726"
+  },
+  {
+    "timestamp_ist": "2026-08-26 19:58:07",
+    "product_title": "AD Floral Anklets",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/47722057924830",
+    "sku": "1750",
+    "price": 1499.0,
+    "variant_price": 1499.0,
+    "product_price": 1499.0,
+    "amount": 1499.0,
+    "total_price": 1499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 12,
+    "curr_stock": 11,
+    "url": "https://www.daivik.in/products/ad-floral-anklets?variant=gid://shopify/ProductVariant/47722057924830",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/50A6EDA6-5F20-4F1F-A47C-E4551A147A1C.jpg?v=1764602160"
   }
 ]
