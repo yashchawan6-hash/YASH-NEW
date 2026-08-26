@@ -9566,9 +9566,9 @@
     "amount": 54000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_9b0470db-723a-4972-9f06-4766317a3522.jpg?v=1755585759",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayura-mosaic-bangles?variant=gid://shopify/ProductVariant/50816097714473",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52273452810537": {
@@ -9584,9 +9584,9 @@
     "amount": 54000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-2_9b0470db-723a-4972-9f06-4766317a3522.jpg?v=1755585759",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/mayura-mosaic-bangles?variant=gid://shopify/ProductVariant/52273452810537",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50816069796137": {
@@ -11793,9 +11793,9 @@
     "amount": 139500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Untitled-1-6_a34afa41-732c-4fd2-9de2-2bce368c18eb.jpg?v=1755686938",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/floramira-cz-necklace-set?variant=gid://shopify/ProductVariant/50824678375721",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52274241274153": {
@@ -13227,7 +13227,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_79_Pc_25Aug0517.jpg?v=1756884179",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/moonbeam-allure-short-necklace-copy?variant=gid://shopify/ProductVariant/50907092615465",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50958827094313": {
@@ -35349,7 +35349,7 @@
     "amount": 66895.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box02_13Nov0678_resized.jpg?v=1763967338",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/emerova-flora-necklace-set?variant=gid://shopify/ProductVariant/52031456477481",
     "stock": 1
   },
@@ -35502,7 +35502,7 @@
     "amount": 148835.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Box02_13Nov0746_resized.jpg?v=1763968589",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/morini-quint-layer-necklace-set?variant=gid://shopify/ProductVariant/52038394183977",
     "stock": 1
   },
@@ -42448,7 +42448,7 @@
     "amount": 75650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3154_resized.jpg?v=1769586669",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/emrald-cz-choker-set?variant=gid://shopify/ProductVariant/52415814107433",
     "stock": 1
   },
@@ -43043,7 +43043,7 @@
     "amount": 64940.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_72Pics_10Jan3062_resized.jpg?v=1769595732",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/sleek-cz-necklace-set?variant=gid://shopify/ProductVariant/52419741679913",
     "stock": 1
   },
@@ -64195,7 +64195,7 @@
     "amount": 98345.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_Mood_19Mar00212_resized.jpg?v=1775217449",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/veloura-cz-choker-necklace?variant=gid://shopify/ProductVariant/52866049605929",
     "stock": 1
   },
