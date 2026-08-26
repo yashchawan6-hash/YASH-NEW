@@ -4506,7 +4506,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-gold-toned-kundan-studded-choker-set-with-pearl-hangings-necklace-set-33269205041326.jpg?v=1751572682",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-toned-kundan-studded-choker-set-with-pearl-hangings?variant=gid://shopify/ProductVariant/43680080691374",
-    "stock": 10
+    "stock": 9,
+    "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/43697379246254": {
     "product_title": "Rubans Silver Brown Beaded Fringe Potli Bag",
@@ -34187,7 +34188,7 @@
     "amount": 1516.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-emerald-green-white-cubic-zirconia-studded-leaf-motif-necklace-set-for-women-jewellery-set-1203270173.jpg?v=1770208402",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-emerald-green-white-cubic-zirconia-studded-dual-layered-necklace-set-for-women-copy?variant=gid://shopify/ProductVariant/46395006877870",
     "stock": 1,
     "last_alerted_stock": 0
