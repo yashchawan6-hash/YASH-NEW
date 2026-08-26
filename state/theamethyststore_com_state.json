@@ -24685,7 +24685,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-107-1312.jpg?v=1722162552",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/aaira-nagas-pair-bangle?variant=gid://shopify/ProductVariant/45340024242403",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45340028469475": {
     "product_title": "Dhitika Nagas Pair Bangle",
