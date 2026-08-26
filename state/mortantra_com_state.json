@@ -9936,9 +9936,9 @@
     "amount": 4500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0473/3314/6791/files/MB187WPcopy.jpg?v=1708065003",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.mortantra.com/products/mb187wp-pink-color-gold-plated-jadau-kundan-bangles?variant=gid://shopify/ProductVariant/44854271901919",
-    "stock": 0
+    "stock": 1
   },
   "gid://shopify/ProductVariant/44854271934687": {
     "product_title": "Dark Pink Gold-Plated Jadau Kundan Bangle Pair with Floral Kundan Setting - MB187WP",
