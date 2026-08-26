@@ -250,5 +250,41 @@
     "curr_stock": 9,
     "url": "https://www.tarinika.com/products/dorothy-kundan-choker-set?variant=gid://shopify/ProductVariant/40406102736962",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/1NX0273X.jpg?v=1693213572"
+  },
+  {
+    "timestamp_ist": "2026-08-26 19:17:44",
+    "product_title": "Anuradha Antique Choker Set",
+    "variant_title": "White Red Green",
+    "variant_id": "gid://shopify/ProductVariant/31732534444098",
+    "sku": "US-ZNX1552XMC",
+    "price": 74.99,
+    "variant_price": 74.99,
+    "product_price": 74.99,
+    "amount": 74.99,
+    "total_price": 74.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.tarinika.com/products/anuradha-antique-choker-set?variant=gid://shopify/ProductVariant/31732534444098",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ZNX1552X_6.jpg?v=1640781724"
+  },
+  {
+    "timestamp_ist": "2026-08-26 19:17:44",
+    "product_title": "Yamuna Temple Antique Necklace Set",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/40629423833154",
+    "sku": "US-FNX3496XMC",
+    "price": 51.99,
+    "variant_price": 51.99,
+    "product_price": 51.99,
+    "amount": 51.99,
+    "total_price": 51.99,
+    "currency": "USD",
+    "qty_sold": 1,
+    "prev_stock": 5,
+    "curr_stock": 4,
+    "url": "https://www.tarinika.com/products/yamuna-temple-antique-necklace-set?variant=gid://shopify/ProductVariant/40629423833154",
+    "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX3496X.jpg?v=1703313461"
   }
 ]

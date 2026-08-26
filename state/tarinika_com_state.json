@@ -4142,9 +4142,10 @@
     "amount": 74.99,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/ZNX1552X_6.jpg?v=1640781724",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/anuradha-antique-choker-set?variant=gid://shopify/ProductVariant/31732534444098",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/31732788265026": {
     "product_title": "Vibhati Antique Earrings",
@@ -18417,8 +18418,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/FNX3496X.jpg?v=1703313461",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/yamuna-temple-antique-necklace-set?variant=gid://shopify/ProductVariant/40629423833154",
-    "stock": 5,
-    "last_alerted_stock": 5
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/40629536784450": {
     "product_title": "Elephant Classic Antique Mangalsutra Set",
