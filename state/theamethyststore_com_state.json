@@ -782,7 +782,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-1594.jpg?v=1716994602",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/striking-long-necklace?variant=gid://shopify/ProductVariant/39432976924822",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/39563688050838": {
     "product_title": "Shuchi Pendant",
