@@ -1519,7 +1519,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/haseena-tri-drop-jhumka-attrangi-2.jpg?v=1739812776",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/haseena-tri-drop-jhumka?variant=gid://shopify/ProductVariant/41567444664489",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/44229698617556": {
     "product_title": "Haseena Tri Drop Jhumka",
@@ -38008,7 +38009,7 @@
     "amount": 2850.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_4.17.56_PM_2_9417d1e8-819b-405c-bd06-a912e10c46d2.jpg?v=1764919437",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/juhi-polki-moissanite-floral-bracrlet?variant=gid://shopify/ProductVariant/47206474842324",
     "stock": 2,
     "last_alerted_stock": 1
