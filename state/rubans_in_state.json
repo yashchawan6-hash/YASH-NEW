@@ -9928,10 +9928,10 @@
     "amount": 1078.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE10NS406552-Model.jpg?v=1765202332",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/22kt-gold-plated-stone-studded-jewellery-set?variant=gid://shopify/ProductVariant/46081022623918",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45315713532078": {
     "product_title": "Ruby-Studded Long Golden Necklace Set",
@@ -11373,7 +11373,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30N405457-Model.jpg?v=1767077412",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/18k-gold-plated-stainless-steel-tarnish-free-waterproof-bow-pendant-necklace-1?variant=gid://shopify/ProductVariant/45649213292718",
-    "stock": 9,
+    "stock": 10,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/45649216110766": {
@@ -11479,7 +11479,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/voguish-rhodium-plated-lavender-emerald-orange-ad-cubic-zirconia-studded-drop-earrings-drop-36880822304942.jpg?v=1772082091",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/voguish-rhodium-plated-lavender-emerald-orange-ad-cubic-zirconia-studded-drop-earrings?variant=gid://shopify/ProductVariant/45668028776622",
-    "stock": 17,
+    "stock": 16,
     "last_alerted_stock": 16
   },
   "gid://shopify/ProductVariant/45668033396910": {
@@ -12879,7 +12879,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/set-of-2-rhodium-plated-cubic-zirconia-studded-designer-bangles-bangles-36995759800494.jpg?v=1755717348",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/set-of-2-rhodium-plated-cubic-zirconia-studded-designer-bangles?variant=gid://shopify/ProductVariant/47084618088622",
-    "stock": 13,
+    "stock": 12,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/47084618121390": {
