@@ -232,5 +232,41 @@
     "curr_stock": 45,
     "url": "https://www.daivik.in/products/a-172?variant=gid://shopify/ProductVariant/42975285182686",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_28802aa8-fbcd-458b-8878-6e93ebb9935a.heic?v=1663671344"
+  },
+  {
+    "timestamp_ist": "2026-08-26 11:52:18",
+    "product_title": "Pure kemp Nagasi hipbelt",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42396464087262",
+    "sku": "617",
+    "price": 5999.0,
+    "variant_price": 5999.0,
+    "product_price": 5999.0,
+    "amount": 5999.0,
+    "total_price": 5999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 1,
+    "curr_stock": 0,
+    "url": "https://www.daivik.in/products/pure-kemp-nagasi-hipbelt?variant=gid://shopify/ProductVariant/42396464087262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d57c40ff-8652-4482-aecb-c7d1af2fb01e.jpg?v=1643209132"
+  },
+  {
+    "timestamp_ist": "2026-08-26 11:52:18",
+    "product_title": "Bridal Brass Kemp Mango Haram with Jhumkas",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/42552079319262",
+    "sku": "173",
+    "price": 11499.0,
+    "variant_price": 11499.0,
+    "product_price": 11499.0,
+    "amount": 11499.0,
+    "total_price": 11499.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 7,
+    "curr_stock": 6,
+    "url": "https://www.daivik.in/products/bridal-brass-kemp-mango-haram-with-jhumkas?variant=gid://shopify/ProductVariant/42552079319262",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_68b0ffd6-91fe-435f-8ccb-6246e03c553f.jpg?v=1646754118"
   }
 ]

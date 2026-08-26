@@ -5337,10 +5337,10 @@
     "amount": 5999.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d57c40ff-8652-4482-aecb-c7d1af2fb01e.jpg?v=1643209132",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/pure-kemp-nagasi-hipbelt?variant=gid://shopify/ProductVariant/42396464087262",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/42401506722014": {
     "product_title": "Set of 6 Golden pearl Bangles",
@@ -5958,8 +5958,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_68b0ffd6-91fe-435f-8ccb-6246e03c553f.jpg?v=1646754118",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/bridal-brass-kemp-mango-haram-with-jhumkas?variant=gid://shopify/ProductVariant/42552079319262",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/42565837455582": {
     "product_title": "Pearl Kemp Long Haram with Jhumkas",
