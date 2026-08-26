@@ -205,9 +205,10 @@
     "amount": 3800.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/9e89f9e2-b2c2-4c28-b210-0aba5d44a6ac_1.webp?v=1768394985",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-peacock-jhumkas-with-pearls-and-natural-strawberry-beads-1?variant=gid://shopify/ProductVariant/52626385240380",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52626387206460": {
     "product_title": "Jadau kundan Antique polish jhumkas with pearl drops and natural strawberry beads",
@@ -725,9 +726,10 @@
     "amount": 6100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/48e68354-4e8f-4dbc-a2be-e00eac1675d9.webp?v=1768565940",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-necklace-with-pearl-and-natural-strawberry-beads-dropsno-earrings?variant=gid://shopify/ProductVariant/52632338759996",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52632522064188": {
     "product_title": "Diamond finish bottumala mango necklace (With Earrings)",
@@ -2593,8 +2595,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260407_201231_f0ad392b-4d70-4341-8e94-216bf754238a.webp?v=1775915541",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-chand-shape-bridal-tika-with-pearls?variant=gid://shopify/ProductVariant/52979685327164",
-    "stock": 7,
-    "last_alerted_stock": 7
+    "stock": 6,
+    "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/52979733266748": {
     "product_title": "Jadau kundan goddess laxmi necklace with pearl and natural strawberry beads drop(No Earrings)",
