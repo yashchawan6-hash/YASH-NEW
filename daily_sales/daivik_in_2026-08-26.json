@@ -520,5 +520,41 @@
     "curr_stock": 0,
     "url": "https://www.daivik.in/products/traditional-teeka-in-2-variants-1?variant=gid://shopify/ProductVariant/40399475277977",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_9928807f-508f-48ed-be0b-efbe84f1556d.jpg?v=1624462258"
+  },
+  {
+    "timestamp_ist": "2026-08-26 17:48:30",
+    "product_title": "Gold Finish Motif necklace with earrings",
+    "variant_title": "Default Title",
+    "variant_id": "gid://shopify/ProductVariant/44338668208350",
+    "sku": "910",
+    "price": 1099.0,
+    "variant_price": 1099.0,
+    "product_price": 1099.0,
+    "amount": 1099.0,
+    "total_price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 27,
+    "curr_stock": 26,
+    "url": "https://www.daivik.in/products/untitled-sep7_21-09?variant=gid://shopify/ProductVariant/44338668208350",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/D54EFA73-AB4B-4A50-8663-86F80E2924BA.jpg?v=1694101215"
+  },
+  {
+    "timestamp_ist": "2026-08-26 17:48:30",
+    "product_title": "Lotus kemp rice pearl Necklace with Earrings",
+    "variant_title": "Green",
+    "variant_id": "gid://shopify/ProductVariant/45036923519198",
+    "sku": "121",
+    "price": 599.0,
+    "variant_price": 599.0,
+    "product_price": 599.0,
+    "amount": 599.0,
+    "total_price": 599.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 55,
+    "curr_stock": 54,
+    "url": "https://www.daivik.in/products/lotus-kemp-rice-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45036923519198",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FA0FB930-06D2-42DA-8EE7-572923D73855.jpg?v=1711981953"
   }
 ]
