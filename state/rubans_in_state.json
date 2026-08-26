@@ -3151,7 +3151,7 @@
     "product_handle": "rubans-24k-gold-plated-stone-studded-pearl-beaded-drop-earrings",
     "variant_id": "gid://shopify/ProductVariant/43043618554030",
     "global_id": "gid://shopify/ProductVariant/43043618554030",
-    "variant_title": "Gold",
+    "variant_title": "Default Title",
     "sku": "RE04ED278347",
     "price": 738.0,
     "variant_price": 738.0,
@@ -29757,7 +29757,7 @@
     "amount": 729.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RTW13ED279276_eb10454d-51e5-46d3-a140-76e9645ee334.jpg?v=1765190399",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/18k-gold-plated-multilayer-cubic-zirconia-studded-tassel-drop-earrings?variant=gid://shopify/ProductVariant/46248280686766",
     "stock": 1,
     "last_alerted_stock": 1
