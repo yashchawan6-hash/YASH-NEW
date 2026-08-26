@@ -12068,8 +12068,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_d5c2980b-bc98-4693-8bbb-0302ee5acacf.heic?v=1681570569",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-56?variant=gid://shopify/ProductVariant/44145944592606",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/44147584631006": {
     "product_title": "AD Kemp Kadas",
@@ -15604,40 +15604,6 @@
     "url": "https://www.daivik.in/products/lakshmi-ruby-green-ad-kada?variant=gid://shopify/ProductVariant/44381628301534",
     "stock": 39
   },
-  "gid://shopify/ProductVariant/44389530337502": {
-    "product_title": "AD simple Necklace with Jhumkas",
-    "product_handle": "ad-simple-necklace-with-jhumkas",
-    "variant_id": "gid://shopify/ProductVariant/44389530337502",
-    "global_id": "gid://shopify/ProductVariant/44389530337502",
-    "variant_title": "Ruby green",
-    "sku": "738",
-    "price": 2499.0,
-    "variant_price": 2499.0,
-    "product_price": 2499.0,
-    "amount": 2499.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_05ad3dfe-d5a2-4ea0-9c26-1d9c610dbca9.heic?v=1696676258",
-    "available_for_sale": false,
-    "url": "https://www.daivik.in/products/ad-simple-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/44389530337502",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/44389530370270": {
-    "product_title": "AD simple Necklace with Jhumkas",
-    "product_handle": "ad-simple-necklace-with-jhumkas",
-    "variant_id": "gid://shopify/ProductVariant/44389530370270",
-    "global_id": "gid://shopify/ProductVariant/44389530370270",
-    "variant_title": "Ruby",
-    "sku": "738",
-    "price": 2499.0,
-    "variant_price": 2499.0,
-    "product_price": 2499.0,
-    "amount": 2499.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/FullSizeRender_99e036c3-feea-4fe9-a023-9ef5c7d82059.heic?v=1696676258",
-    "available_for_sale": false,
-    "url": "https://www.daivik.in/products/ad-simple-necklace-with-jhumkas?variant=gid://shopify/ProductVariant/44389530370270",
-    "stock": 0
-  },
   "gid://shopify/ProductVariant/44401061822686": {
     "product_title": "Diwali sale Necklace 07",
     "product_handle": "diwali-sale-necklace-07",
@@ -17953,8 +17919,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/A31F151D-0A1E-4A1A-8AFA-637CCDED96FA.heic?v=1702565544",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/victorian-peacock-necklace-with-earrings-in-2-colors?variant=gid://shopify/ProductVariant/44605291364574",
-    "stock": 45,
-    "last_alerted_stock": 45
+    "stock": 44,
+    "last_alerted_stock": 44
   },
   "gid://shopify/ProductVariant/44605291397342": {
     "product_title": "Victorian AD Peacock Necklace with Earrings in 2 Colors",
@@ -23117,8 +23083,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/F8D9EC28-3003-4838-A594-D43701BB5328.jpg?v=1721832645",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/designer-ad-necklace-with-earrings?variant=gid://shopify/ProductVariant/45760593232094",
-    "stock": 39,
-    "last_alerted_stock": 39
+    "stock": 38,
+    "last_alerted_stock": 38
   },
   "gid://shopify/ProductVariant/45768317993182": {
     "product_title": "AD Hasli Peacock Necklace with Earrings in two Colors",
@@ -58977,6 +58943,23 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/IMG_1322.jpg?v=1787675125",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/traditional-flower-mesh-adigai-necklace-with-earrings?variant=gid://shopify/ProductVariant/48640380109022",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48645693636830": {
+    "product_title": "Black Beads Jali classic Mala / Chain",
+    "product_handle": "black-beads-jalli-classic-mala-chain",
+    "variant_id": "gid://shopify/ProductVariant/48645693636830",
+    "global_id": "gid://shopify/ProductVariant/48645693636830",
+    "variant_title": "Default Title",
+    "sku": "738",
+    "price": 1399.0,
+    "variant_price": 1399.0,
+    "product_price": 1399.0,
+    "amount": 1399.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/5F282C96-F264-4289-A54D-B92E77D91465.jpg?v=1787762150",
+    "available_for_sale": true,
+    "url": "https://www.daivik.in/products/black-beads-jalli-classic-mala-chain?variant=gid://shopify/ProductVariant/48645693636830",
     "stock": -1
   },
   "gid://shopify/ProductVariant/47736604426462": {
