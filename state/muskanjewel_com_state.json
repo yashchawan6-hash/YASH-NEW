@@ -1244,9 +1244,9 @@
     "amount": 1100.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260226_035747_2a55559c-43a6-4b44-aa16-69df10e5f230.jpg?v=1772108256",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-sun-moon-hair-accessories?variant=gid://shopify/ProductVariant/52801987084604",
-    "stock": 0,
+    "stock": 10,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/52802091811132": {
