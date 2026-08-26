@@ -2065,9 +2065,10 @@
     "amount": 55.24,
     "currency": "USD",
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/products/3O9A9533_copy.jpg?v=1762533295",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.tarinika.com/products/gitika-antique-jhumka-earrings?variant=gid://shopify/ProductVariant/14826752639042",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/14826794451010": {
     "product_title": "Gitika Antique Ear Chain",
@@ -15598,8 +15599,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2026/1561/files/theme0273copycopy.jpg?v=1711630035",
     "available_for_sale": true,
     "url": "https://www.tarinika.com/products/abirami-nakshatra-cz-jhumka-earrings?variant=gid://shopify/ProductVariant/40318220337218",
-    "stock": 2,
-    "last_alerted_stock": 0
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/40318221254722": {
     "product_title": "Abishta Antique Jhumka Earrings",
