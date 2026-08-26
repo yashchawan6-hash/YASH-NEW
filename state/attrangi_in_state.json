@@ -9586,9 +9586,10 @@
     "amount": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/traditional-matte-gold-kada-s-or-indian-openable-bangle-attrangi-6.jpg?v=1739814885",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/fluorite-mint-traditional-matte-gold-kada-s-indian-openable-bangle?variant=gid://shopify/ProductVariant/44507514699988",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43891102777556": {
     "product_title": "Traditional Matte Gold Indian Openable Bangle",
