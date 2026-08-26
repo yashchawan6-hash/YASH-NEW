@@ -333,58 +333,6 @@
     "stock": 3,
     "last_alerted_stock": 3
   },
-  "gid://shopify/ProductVariant/52878921335100": {
-    "product_title": "Jadau kundan Double layer bangles",
-    "product_handle": "jadau-kundan-double-layer-bangles",
-    "variant_id": "gid://shopify/ProductVariant/52878921335100",
-    "global_id": "gid://shopify/ProductVariant/52878921335100",
-    "variant_title": "2.4",
-    "sku": "",
-    "price": 2750.0,
-    "variant_price": 2750.0,
-    "product_price": 2750.0,
-    "amount": 2750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2f52a31d-8be4-40d3-bc52-effd6c96046f.webp?v=1768466552",
-    "available_for_sale": false,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-double-layer-bangles?variant=gid://shopify/ProductVariant/52878921335100",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
-  "gid://shopify/ProductVariant/52878921367868": {
-    "product_title": "Jadau kundan Double layer bangles",
-    "product_handle": "jadau-kundan-double-layer-bangles",
-    "variant_id": "gid://shopify/ProductVariant/52878921367868",
-    "global_id": "gid://shopify/ProductVariant/52878921367868",
-    "variant_title": "2.6",
-    "sku": "",
-    "price": 2750.0,
-    "variant_price": 2750.0,
-    "product_price": 2750.0,
-    "amount": 2750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2f52a31d-8be4-40d3-bc52-effd6c96046f.webp?v=1768466552",
-    "available_for_sale": false,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-double-layer-bangles?variant=gid://shopify/ProductVariant/52878921367868",
-    "stock": 0
-  },
-  "gid://shopify/ProductVariant/52878921400636": {
-    "product_title": "Jadau kundan Double layer bangles",
-    "product_handle": "jadau-kundan-double-layer-bangles",
-    "variant_id": "gid://shopify/ProductVariant/52878921400636",
-    "global_id": "gid://shopify/ProductVariant/52878921400636",
-    "variant_title": "2.8",
-    "sku": "",
-    "price": 2750.0,
-    "variant_price": 2750.0,
-    "product_price": 2750.0,
-    "amount": 2750.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2f52a31d-8be4-40d3-bc52-effd6c96046f.webp?v=1768466552",
-    "available_for_sale": true,
-    "url": "https://www.muskanjewel.com/products/jadau-kundan-double-layer-bangles?variant=gid://shopify/ProductVariant/52878921400636",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/52878914191676": {
     "product_title": "Jadau kundan bangles",
     "product_handle": "jadau-kundan-bangles",
@@ -4336,8 +4284,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/image.webp?v=1785328627",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-jhumkas-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53840822599996",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/53841717264700": {
     "product_title": "Jadau Kundan Bridal Peacock Tika with Pearls and Natural Strawberry Beads",
@@ -4354,7 +4302,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/image_3.webp?v=1785156897",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-bridal-peacock-tika-with-pearls-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53841717264700",
-    "stock": 10
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/53842508579132": {
     "product_title": "Jadau Kundan Floral with Pearls and Natural Strawberry Beads",
@@ -4866,6 +4815,23 @@
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-pendant-with-pearl-and-natural-strawberry-beads-1?variant=gid://shopify/ProductVariant/54023529333052",
     "stock": -1
+  },
+  "gid://shopify/ProductVariant/52878921400636": {
+    "product_title": "Jadau kundan Double layer bangles",
+    "product_handle": "jadau-kundan-double-layer-bangles",
+    "variant_id": "gid://shopify/ProductVariant/52878921400636",
+    "global_id": "gid://shopify/ProductVariant/52878921400636",
+    "variant_title": "2.8",
+    "sku": "",
+    "price": 2750.0,
+    "variant_price": 2750.0,
+    "product_price": 2750.0,
+    "amount": 2750.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/2f52a31d-8be4-40d3-bc52-effd6c96046f.webp?v=1768466552",
+    "available_for_sale": true,
+    "url": "https://www.muskanjewel.com/products/jadau-kundan-double-layer-bangles?variant=gid://shopify/ProductVariant/52878921400636",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/52737323106620": {
     "product_title": "jadau kundan bridal tika with pearl and natural strawberry beads drop",
