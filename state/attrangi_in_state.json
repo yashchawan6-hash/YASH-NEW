@@ -12,10 +12,10 @@
     "amount": 1550.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/triangle-solitaire-studs-attrangi-2.jpg?v=1739812436",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/triangle-solitaire-studs?variant=gid://shopify/ProductVariant/40411657830569",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/40411658879145": {
     "product_title": "90 Cent Round Solitaire Earring | 6mm",
@@ -38563,24 +38563,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bling-me-diamond-band-everyday-wear-ring?variant=gid://shopify/ProductVariant/47272967110868",
     "stock": 2
-  },
-  "gid://shopify/ProductVariant/47273141764308": {
-    "product_title": "Meena Ruby Mint Moissanite Polki Necklace Set with Tika",
-    "product_handle": "meena-ruby-mint-moissanite-polki-necklace-set-with-tika",
-    "variant_id": "gid://shopify/ProductVariant/47273141764308",
-    "global_id": "gid://shopify/ProductVariant/47273141764308",
-    "variant_title": "Default Title",
-    "sku": "RP42690-JS",
-    "price": 19250.0,
-    "variant_price": 19250.0,
-    "product_price": 19250.0,
-    "amount": 19250.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-11-17at11.22.25AM_1.jpg?v=1763377743",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/meena-ruby-mint-moissanite-polki-necklace-set-with-tika?variant=gid://shopify/ProductVariant/47273141764308",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47273145336020": {
     "product_title": "Anita Polki Moissanite Choker Set with Emeralds",
