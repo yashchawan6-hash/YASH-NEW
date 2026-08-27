@@ -19058,9 +19058,9 @@
     "amount": 937.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-24k-gold-plated-emerald-ad-cubic-zirconia-studded-statement-necklace-set-necklace-set-37921223016622.jpg?v=1771411396",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-24k-gold-plated-emerald-ad-cubic-zirconia-studded-statement-necklace-set?variant=gid://shopify/ProductVariant/46085450793134",
-    "stock": 0,
+    "stock": 20,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46086733758638": {
@@ -19450,7 +19450,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-temple-jewellery-set-with-lakshmi-motif-green-cz-floral-accents-necklace-set-37926731645102.jpg?v=1771409683",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-lakshmi-elephant-motifs-temple-jewellery-set-with-green-accents-copy?variant=gid://shopify/ProductVariant/46088568144046",
-    "stock": 4,
+    "stock": 14,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/46088614641838": {
