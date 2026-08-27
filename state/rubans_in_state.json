@@ -5241,7 +5241,7 @@
     "product_handle": "rubans-rhodium-plated-premium-white-zircons-necklace-set",
     "variant_id": "gid://shopify/ProductVariant/43947950637230",
     "global_id": "gid://shopify/ProductVariant/43947950637230",
-    "variant_title": "Silver",
+    "variant_title": "Default Title",
     "sku": "RW06NS402244",
     "price": 1640.0,
     "variant_price": 1640.0,
@@ -5258,7 +5258,7 @@
     "product_handle": "rubans-rhodium-plated-premium-white-emerald-zircons-necklace-set",
     "variant_id": "gid://shopify/ProductVariant/43947969478830",
     "global_id": "gid://shopify/ProductVariant/43947969478830",
-    "variant_title": "Silver::Green",
+    "variant_title": "Default Title",
     "sku": "RW06NS402240",
     "price": 2088.0,
     "variant_price": 2088.0,
@@ -6077,7 +6077,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-and-white-beads-chain-with-gold-toned-stone-pendant-necklace-set-jewellery-sets-34471701643438.jpg?v=1755717755",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-and-white-beads-chain-with-gold-toned-stone-pendant-necklace-set?variant=gid://shopify/ProductVariant/44170697900206",
-    "stock": 12,
+    "stock": 13,
     "last_alerted_stock": 6
   },
   "gid://shopify/ProductVariant/44170840473774": {
@@ -6251,8 +6251,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain-jewellery-sets-34518077079726.jpg?v=1755722304",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain?variant=gid://shopify/ProductVariant/44173336903854",
-    "stock": 9,
-    "last_alerted_stock": 9
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/44174609907886": {
     "product_title": "Kundan & American Diamond Zirconia Traditional Ring",
