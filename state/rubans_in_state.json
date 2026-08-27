@@ -670,7 +670,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE14RC270866.jpg?v=1785511817",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-cz-studded-gold-toned-statement-ring-1?variant=gid://shopify/ProductVariant/43043849371822",
-    "stock": 11,
+    "stock": 12,
     "last_alerted_stock": 11
   },
   "gid://shopify/ProductVariant/43043847733422": {
@@ -3486,9 +3486,9 @@
     "amount": 1000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-22k-gold-plated-ruby-pink-emerald-green-stone-studded-bangles-bangles-bracelets-1171024628.jpg?v=1774252411",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-handcrafted-pink-green-stone-studded-bangle?variant=gid://shopify/ProductVariant/42389818736814",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46604615352494": {
@@ -3574,7 +3574,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE51ES276670_Model.jpg?v=1765520158",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-rose-gold-plated-peacock-shaped-ruby-studded-earrings?variant=gid://shopify/ProductVariant/42758933577902",
-    "stock": 5,
+    "stock": 6,
     "last_alerted_stock": 5
   },
   "gid://shopify/ProductVariant/42758993412270": {
@@ -4231,7 +4231,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-silver-plated-elegant-necklace-set-with-american-diamonds-necklace-set-33546784997550.jpg?v=1755719047",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-toned-cz-necklace-with-earrings?variant=gid://shopify/ProductVariant/43363080208558",
-    "stock": 17,
+    "stock": 18,
     "last_alerted_stock": 17
   },
   "gid://shopify/ProductVariant/43384363483310": {
@@ -6252,7 +6252,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain-jewellery-sets-34518077079726.jpg?v=1755722304",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-gold-toned-lord-krishna-temple-jewellery-with-white-and-red-beads-chain?variant=gid://shopify/ProductVariant/44173336903854",
-    "stock": 7,
+    "stock": 8,
     "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/44174609907886": {
@@ -7879,7 +7879,7 @@
     "product_handle": "rubans-18k-gold-plated-plated-zirconia-studded-chandelier-earrings",
     "variant_id": "gid://shopify/ProductVariant/44326448005294",
     "global_id": "gid://shopify/ProductVariant/44326448005294",
-    "variant_title": "Gold",
+    "variant_title": "Default Title",
     "sku": "RE13ED403027",
     "price": 2311.0,
     "variant_price": 2311.0,
@@ -13719,7 +13719,7 @@
     "product_handle": "rhodium-plated-emerald-cubic-zirconia-studded-circular-link-jewellery-set",
     "variant_id": "gid://shopify/ProductVariant/45786528841902",
     "global_id": "gid://shopify/ProductVariant/45786528841902",
-    "variant_title": "silver",
+    "variant_title": "Default Title",
     "sku": "RE13NS404950",
     "price": 2262.0,
     "variant_price": 2262.0,
@@ -19450,8 +19450,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-temple-jewellery-set-with-lakshmi-motif-green-cz-floral-accents-necklace-set-37926731645102.jpg?v=1771409683",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-lakshmi-elephant-motifs-temple-jewellery-set-with-green-accents-copy?variant=gid://shopify/ProductVariant/46088568144046",
-    "stock": 14,
-    "last_alerted_stock": 4
+    "stock": 13,
+    "last_alerted_stock": 13
   },
   "gid://shopify/ProductVariant/46088614641838": {
     "product_title": "American Diamond Zirconia Floral Necklace Set",
@@ -19789,8 +19789,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-women-brass-cubic-zirconia-handcrafted-rhodium-plated-bangle-style-bracelet-bracelet-37934911422638.jpg?v=1755716171",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-women-brass-cubic-zirconia-handcrafted-rhodium-plated-bangle-style-bracelet-re14v407506?variant=gid://shopify/ProductVariant/46088924463278",
-    "stock": 9,
-    "last_alerted_stock": 7
+    "stock": 8,
+    "last_alerted_stock": 8
   },
   "gid://shopify/ProductVariant/46094357135534": {
     "product_title": "Rubans Women Brass Cubic Zirconia Handcrafted Rhodium-Plated Bangle-Style Bracelet",
