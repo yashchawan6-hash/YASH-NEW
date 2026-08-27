@@ -7223,9 +7223,10 @@
     "amount": 27221.4,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-109-0582-_2.jpg?v=1735561600",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/lovely-kundan-maangtikka?variant=gid://shopify/ProductVariant/43495123845347",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/43501536313571": {
     "product_title": "Amika Nagas Necklace",
@@ -32994,7 +32995,7 @@
     "amount": 126253.62,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-110-0492.jpg?v=1732623101",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/ananya-kundan-oddiyanam?variant=gid://shopify/ProductVariant/45751145136355",
     "stock": 1
   },
@@ -51908,7 +51909,7 @@
     "amount": 41023.8,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-8686.jpg?v=1750397506",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/dhisha-kundan-jhumkhas?variant=gid://shopify/ProductVariant/46734859239651",
     "stock": 1
   },
