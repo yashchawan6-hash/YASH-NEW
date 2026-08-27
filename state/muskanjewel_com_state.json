@@ -3524,9 +3524,10 @@
     "amount": 2500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260430_225831_7c2f26b5-2738-4481-b043-48dd351f65e8.webp?v=1777989678",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.muskanjewel.com/products/temple-antique-goddess-laxmi-combo-necklace-with-pearl-and-natural-strawberry-beadstika-and-earrings?variant=gid://shopify/ProductVariant/53034643161404",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/53034661445948": {
     "product_title": "Temple/Antique goddess laxmi and god balaji combo with pearl and natural strawberry beads(With Earrings)",
@@ -4128,8 +4129,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0938/8861/0620/files/hf_20260725_101734_567c24a0-73e0-4a1a-b114-05a18f41f14e_1.jpg?v=1785157139",
     "available_for_sale": true,
     "url": "https://www.muskanjewel.com/products/jadau-kundan-floral-pandent-pearls-beads-mala-with-rice-pearls-onyx-and-natural-strawberry-beads?variant=gid://shopify/ProductVariant/53828101308732",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/53829728010556": {
     "product_title": "Jadau Kundan + Temple/Antique Necklace Pearls and Natural Strawberry Beads",
