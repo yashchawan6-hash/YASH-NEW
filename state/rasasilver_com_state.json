@@ -81385,23 +81385,6 @@
     "url": "https://www.rasasilver.com/products/divine-temple-pendant?variant=gid://shopify/ProductVariant/53308704063785",
     "stock": -1
   },
-  "gid://shopify/ProductVariant/53308709962025": {
-    "product_title": "Lakshmi-Mandir Temple Pendant",
-    "product_handle": "lakshmi-mandir-temple-pendant",
-    "variant_id": "gid://shopify/ProductVariant/53308709962025",
-    "global_id": "gid://shopify/ProductVariant/53308709962025",
-    "variant_title": "Default Title",
-    "sku": "R30570",
-    "price": 14535.0,
-    "variant_price": 14535.0,
-    "product_price": 14535.0,
-    "amount": 14535.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40231_resized.jpg?v=1783680270",
-    "available_for_sale": true,
-    "url": "https://www.rasasilver.com/products/lakshmi-mandir-temple-pendant?variant=gid://shopify/ProductVariant/53308709962025",
-    "stock": 1
-  },
   "gid://shopify/ProductVariant/53308711633193": {
     "product_title": "Kasu Temple Pendant",
     "product_handle": "kasu-temple-pendant",
@@ -90304,6 +90287,23 @@
     "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ganpati-rakhi-2?variant=gid://shopify/ProductVariant/53439895863593",
     "stock": 0
+  },
+  "gid://shopify/ProductVariant/53308709962025": {
+    "product_title": "Lakshmi-Mandir Temple Pendant",
+    "product_handle": "lakshmi-mandir-temple-pendant",
+    "variant_id": "gid://shopify/ProductVariant/53308709962025",
+    "global_id": "gid://shopify/ProductVariant/53308709962025",
+    "variant_title": "Default Title",
+    "sku": "R30570",
+    "price": 14535.0,
+    "variant_price": 14535.0,
+    "product_price": 14535.0,
+    "amount": 14535.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40231_resized.jpg?v=1783680270",
+    "available_for_sale": true,
+    "url": "https://www.rasasilver.com/products/lakshmi-mandir-temple-pendant?variant=gid://shopify/ProductVariant/53308709962025",
+    "stock": 1
   },
   "gid://shopify/ProductVariant/53064066040105": {
     "product_title": "Zirconika Stone Ring",

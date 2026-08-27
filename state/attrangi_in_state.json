@@ -13198,7 +13198,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/kaamini-openable-indian-bangle-or-sone-pe-suhaga-collection-attrangi-1.jpg?v=1739815807",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/kaamini-openable-indian-bangle-sone-pe-suhaga-collection?variant=gid://shopify/ProductVariant/44487649099988",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44487649132756": {
     "product_title": "Kaamini Openable Indian Bangle | Sone Pe Suhaga Collection",
@@ -23681,10 +23682,10 @@
     "amount": 6450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-07at5.47.25PM.jpg?v=1739818484",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/bijoori-moissanite-uncut-diamond-thick-kada?variant=gid://shopify/ProductVariant/46062146453716",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46062146519252": {
     "product_title": "Bijoori Moissanite Uncut Diamond Thick Kada | Next To Real",
@@ -39865,7 +39866,7 @@
     "amount": 6450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-18at11.28.22AM.jpg?v=1766042201",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/sabhya-bijooriya-multicolour-gemstone-kada-gemz?variant=gid://shopify/ProductVariant/47368749580500",
     "stock": 0,
     "last_alerted_stock": 0
