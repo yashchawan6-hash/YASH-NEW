@@ -11894,8 +11894,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3afeda71-4d33-4f8d-bb7c-5fa3ee7341cd.heic?v=1680874634",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
-    "stock": 44,
-    "last_alerted_stock": 44
+    "stock": 43,
+    "last_alerted_stock": 43
   },
   "gid://shopify/ProductVariant/44131779477726": {
     "product_title": "Temple Teeka in 4 variants",
@@ -20334,8 +20334,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963",
     "available_for_sale": true,
     "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364473566",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/45058364506334": {
     "product_title": "Lakshmi AD RubyGreen Bangles",
@@ -58287,7 +58287,7 @@
     "amount": 799.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/652C9996-8E2A-40F9-87B5-3C976003D04F.jpg?v=1785942584",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.daivik.in/products/simple-ad-green-pendant-necklace-with-earrings?variant=gid://shopify/ProductVariant/48550497583326",
     "stock": 0
   },

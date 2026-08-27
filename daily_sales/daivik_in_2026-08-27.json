@@ -1528,5 +1528,41 @@
     "curr_stock": 29,
     "url": "https://www.daivik.in/products/simple-copper-pearl-necklace-with-earrings?variant=gid://shopify/ProductVariant/45158978093278",
     "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/10FBB2F6-B0C5-408A-BD02-F523E5B50F7E.jpg?v=1713026655"
+  },
+  {
+    "timestamp_ist": "2026-08-27 13:22:42",
+    "product_title": "Temple Teeka in 4 variants",
+    "variant_title": "1.",
+    "variant_id": "gid://shopify/ProductVariant/44131700048094",
+    "sku": "596",
+    "price": 999.0,
+    "variant_price": 999.0,
+    "product_price": 999.0,
+    "amount": 999.0,
+    "total_price": 999.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 44,
+    "curr_stock": 43,
+    "url": "https://www.daivik.in/products/a-44?variant=gid://shopify/ProductVariant/44131700048094",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/products/image_3afeda71-4d33-4f8d-bb7c-5fa3ee7341cd.heic?v=1680874634"
+  },
+  {
+    "timestamp_ist": "2026-08-27 13:22:42",
+    "product_title": "Lakshmi AD RubyGreen Bangles",
+    "variant_title": "2.6",
+    "variant_id": "gid://shopify/ProductVariant/45058364473566",
+    "sku": "542",
+    "price": 1099.0,
+    "variant_price": 1099.0,
+    "product_price": 1099.0,
+    "amount": 1099.0,
+    "total_price": 1099.0,
+    "currency": "INR",
+    "qty_sold": 1,
+    "prev_stock": 16,
+    "curr_stock": 15,
+    "url": "https://www.daivik.in/products/lakshmi-ad-rubygreen-bangles?variant=gid://shopify/ProductVariant/45058364473566",
+    "image_url": "https://cdn.shopify.com/s/files/1/0307/3998/8539/files/20F3EC4C-9A6D-47FB-8DC7-060885742334.jpg?v=1712162963"
   }
 ]
