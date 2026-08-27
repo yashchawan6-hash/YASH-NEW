@@ -1820,7 +1820,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WG002G_101900_2026031640115.jpg?v=1779884617",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/3-carat-round-solitaires?variant=gid://shopify/ProductVariant/47992150261972",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/43098510754004": {
@@ -4343,7 +4343,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/multi-gem-stone-navratna-bracelet-attrangi-1.jpg?v=1739813338",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/multi-gem-stone-navratna-bracelet?variant=gid://shopify/ProductVariant/43596338004180",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47454672945364": {
@@ -5575,9 +5575,9 @@
     "amount": 2150.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/bhakti-maangtika-attrangi-1.jpg?v=1739813869",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.attrangi.in/products/bhakti-maangtika?variant=gid://shopify/ProductVariant/46070128017620",
-    "stock": 0,
+    "stock": 3,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/44004906926292": {
@@ -12451,7 +12451,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/dhanno-moissanite-kada-or-antique-gold-collection-attrangi-1.jpg?v=1739815620",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/dhanno-moissanite-kada-antique-gold-collection?variant=gid://shopify/ProductVariant/46104797905108",
-    "stock": 3
+    "stock": 4
   },
   "gid://shopify/ProductVariant/46104797937876": {
     "product_title": "Dhanno Moissanite Kada | Antique Gold Collection -Green",
@@ -39121,24 +39121,6 @@
     "url": "https://www.attrangi.in/products/firki-polki-moissanite-sleek-choker-set-with-studs?variant=gid://shopify/ProductVariant/47313126883540",
     "stock": 3
   },
-  "gid://shopify/ProductVariant/47313131536596": {
-    "product_title": "Twin Flower Diamond Hasli Set",
-    "product_handle": "twin-flower-diamond-hasli-set",
-    "variant_id": "gid://shopify/ProductVariant/47313131536596",
-    "global_id": "gid://shopify/ProductVariant/47313131536596",
-    "variant_title": "Default Title",
-    "sku": "WG1917S-JS",
-    "price": 3850.0,
-    "variant_price": 3850.0,
-    "product_price": 3850.0,
-    "amount": 3850.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-02at12.46.16AM.jpg?v=1764758996",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/twin-flower-diamond-hasli-set?variant=gid://shopify/ProductVariant/47313131536596",
-    "stock": 0,
-    "last_alerted_stock": 0
-  },
   "gid://shopify/ProductVariant/47313141661908": {
     "product_title": "Gudiya Heavy Polki Moissanite Indian Choker Set",
     "product_handle": "gudiya-heavy-polki-moissanite-indian-choker-set",
@@ -40206,7 +40188,7 @@
     "amount": 1450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-22at12.07.19AM.jpg?v=1766388546",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/rustic-maple-gold-contemporary-earrings?variant=gid://shopify/ProductVariant/47383896555732",
     "stock": 1
   },
@@ -46769,6 +46751,23 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/jaal-diamond-designer-necklace-set-gold-polish?variant=gid://shopify/ProductVariant/47727268626644",
     "stock": 2
+  },
+  "gid://shopify/ProductVariant/48558711111892": {
+    "product_title": "Slim Coloured Moissanite Polki Bangle Set | Antique Gold- Blue",
+    "product_handle": "slim-coloured-moissanite-polki-bangle-set-antique-gold-blue",
+    "variant_id": "gid://shopify/ProductVariant/48558711111892",
+    "global_id": "gid://shopify/ProductVariant/48558711111892",
+    "variant_title": "Blue / 2.4",
+    "sku": "BT01215BZ4",
+    "price": 3450.0,
+    "variant_price": 3450.0,
+    "product_price": 3450.0,
+    "amount": 3450.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/slim-coloured-moissanite-polki-bangle-set-or-antique-gold-attrangi-2_a431e8fb-2958-431e-8ad2-7000080f659c.jpg?v=1774607837",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/slim-coloured-moissanite-polki-bangle-set-antique-gold-blue?variant=gid://shopify/ProductVariant/48558711111892",
+    "stock": -1
   },
   "gid://shopify/ProductVariant/47727296151764": {
     "product_title": "Slim Coloured Moissanite Polki Bangle Set | Antique Gold- Blue",
