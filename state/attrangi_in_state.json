@@ -21633,7 +21633,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-11-29_at_2.37.11_PM_2.jpg?v=1764416348",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/gracy-openable-hasli-diamond-set?variant=gid://shopify/ProductVariant/47290332643540",
-    "stock": 2,
+    "stock": 3,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/45928328724692": {
@@ -59125,6 +59125,40 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-08-21_at_5.32.42_PM_1.jpg?v=1787385879",
     "available_for_sale": false,
     "url": "https://www.attrangi.in/products/selfridge-diamond-coloured-studs?variant=gid://shopify/ProductVariant/48518327894228",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48555177574612": {
+    "product_title": "Nazar Protection Evil Eye Diamond Mangalsutra",
+    "product_handle": "nazar-protection-evil-eye-diamond-mangalsutra",
+    "variant_id": "gid://shopify/ProductVariant/48555177574612",
+    "global_id": "gid://shopify/ProductVariant/48555177574612",
+    "variant_title": "Gold",
+    "sku": "SY01137G-MS",
+    "price": 1650.0,
+    "variant_price": 1650.0,
+    "product_price": 1650.0,
+    "amount": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-26at3.35.26PM.jpg?v=1787813154",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/nazar-protection-evil-eye-diamond-mangalsutra?variant=gid://shopify/ProductVariant/48555177574612",
+    "stock": -1
+  },
+  "gid://shopify/ProductVariant/48555190452436": {
+    "product_title": "Nazar Protection Evil Eye Diamond Mangalsutra",
+    "product_handle": "nazar-protection-evil-eye-diamond-mangalsutra",
+    "variant_id": "gid://shopify/ProductVariant/48555190452436",
+    "global_id": "gid://shopify/ProductVariant/48555190452436",
+    "variant_title": "Rose gold",
+    "sku": "SY01137RG-MS",
+    "price": 1650.0,
+    "variant_price": 1650.0,
+    "product_price": 1650.0,
+    "amount": 1650.0,
+    "currency": "INR",
+    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-08-26at3.35.26PM.jpg?v=1787813154",
+    "available_for_sale": false,
+    "url": "https://www.attrangi.in/products/nazar-protection-evil-eye-diamond-mangalsutra?variant=gid://shopify/ProductVariant/48555190452436",
     "stock": -1
   },
   "gid://shopify/ProductVariant/48421100355796": {
