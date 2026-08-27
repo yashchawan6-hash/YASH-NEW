@@ -8494,9 +8494,10 @@
     "amount": 29000.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0588/9078/0865/files/79_dd9deb0b-bb8a-4f42-ab0c-a850ba743ed7.png?v=1756191654",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.preetimohan.com/products/kaushiki-red-green-sheesh-pech-1?variant=gid://shopify/ProductVariant/48637112123585",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48637131030721": {
     "product_title": "CHITRALI ANTIQUE FINISH RED & GREEN NECKLACE SET",
