@@ -5465,7 +5465,7 @@
     "product_handle": "rubans-rhodium-plated-emerald-green-zirconia-statement-jewellery-set",
     "variant_id": "gid://shopify/ProductVariant/44059314094254",
     "global_id": "gid://shopify/ProductVariant/44059314094254",
-    "variant_title": "SIlver::Green",
+    "variant_title": "Default Title",
     "sku": "RE51NS402537",
     "price": 4640.0,
     "variant_price": 4640.0,
@@ -11377,7 +11377,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30N405457-Model.jpg?v=1767077412",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/18k-gold-plated-stainless-steel-tarnish-free-waterproof-bow-pendant-necklace-1?variant=gid://shopify/ProductVariant/45649213292718",
-    "stock": 11,
+    "stock": 14,
     "last_alerted_stock": 9
   },
   "gid://shopify/ProductVariant/45649216110766": {
@@ -11603,7 +11603,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW06ES405720_03.jpg?v=1767159730",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/voguish-22k-gold-plated-ad-cubic-zirconia-studded-square-stud-earrings?variant=gid://shopify/ProductVariant/46074210025646",
-    "stock": 14,
+    "stock": 20,
     "last_alerted_stock": 12
   },
   "gid://shopify/ProductVariant/45668120068270": {
@@ -29469,7 +29469,7 @@
     "amount": 3770.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-green-pink-stone-cubic-zirconia-temple-jewellery-set-with-pearls-necklace-set-1143857230.jpg?v=1770352310",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-green-pink-stone-cubic-zirconia-temple-jewellery-set-with-pearls?variant=gid://shopify/ProductVariant/46245145378990",
     "stock": 20
   },
