@@ -2654,7 +2654,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-silver-plated-multicoloured-stone-studded-american-diamond-necklace-set-necklace-set-32992750141614.jpg?v=1751575239",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-silver-plated-multicoloured-stone-studded-american-diamond-necklace-set?variant=gid://shopify/ProductVariant/43043694870702",
-    "stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/43043694772398": {
     "product_title": "Rubans Rose Gold Plated White Beads American Diamond Necklace Set.",
@@ -4666,7 +4667,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-gold-plated-beaded-kada-bracelet-bangles-bracelets-33768476541102.jpg?v=1774604268",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-women-gold-plated-handcrafted-elasticated-bracelet?variant=gid://shopify/ProductVariant/43812228858030",
-    "stock": 15,
+    "stock": 14,
     "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/43812266737838": {
@@ -11377,8 +11378,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RV30N405457-Model.jpg?v=1767077412",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/18k-gold-plated-stainless-steel-tarnish-free-waterproof-bow-pendant-necklace-1?variant=gid://shopify/ProductVariant/45649213292718",
-    "stock": 14,
-    "last_alerted_stock": 9
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/45649216110766": {
     "product_title": "Cool Teardrop Pendant Chain",
@@ -11741,7 +11742,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW06PV405701_01.jpg?v=1765189455",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/18k-gold-plated-cubic-zirconia-studded-bracelet-with-round-charm-accents?variant=gid://shopify/ProductVariant/45688107827374",
-    "stock": 1,
+    "stock": 20,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/45688107925678": {
@@ -20245,9 +20246,9 @@
     "amount": 1504.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-oxidized-silver-gold-plated-statement-peacock-motif-chandelier-with-pearl-drops-chandelier-earrings-37935104819374.jpg?v=1771918842",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-dual-tone-oxidized-silver-gold-plated-chandelier-earrings-with-pearl-beaded-drops-copy?variant=gid://shopify/ProductVariant/46094400192686",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/46094404747438": {

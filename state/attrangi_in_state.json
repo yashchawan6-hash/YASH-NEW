@@ -1014,8 +1014,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/staple-tennis-bracelet-attrangi-6.jpg?v=1739812574",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/staple-tennis-bracelet?variant=gid://shopify/ProductVariant/43105495384276",
-    "stock": 4,
-    "last_alerted_stock": 2
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/40411676049577": {
     "product_title": "Rose Shaped Studs",
@@ -14909,7 +14909,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-27_at_12.45.42_AM.jpg?v=1750781804",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/geeta-diamond-studded-cnc-gold-plated-bangle?variant=gid://shopify/ProductVariant/44754376425684",
-    "stock": 8
+    "stock": 7,
+    "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/44754376458452": {
     "product_title": "Geeta Diamond Studded CNC Gold Plated Bangle Set",
@@ -16886,8 +16887,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-09_at_11.15.57_PM_1.jpg?v=1757498400",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/abhilasha-indian-polki-choker-set?variant=gid://shopify/ProductVariant/45453862502612",
-    "stock": 4,
-    "last_alerted_stock": 4
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45453991280852": {
     "product_title": "Tira Dramatic Oversized Diamond Dangler Earrings",
@@ -21366,7 +21367,7 @@
     "product_handle": "sadabahar-bridal-heavy-polki-emerald-set",
     "variant_id": "gid://shopify/ProductVariant/46126108541140",
     "global_id": "gid://shopify/ProductVariant/46126108541140",
-    "variant_title": "Gold",
+    "variant_title": "Green",
     "sku": "NP10197GR-JS",
     "price": 22550.0,
     "variant_price": 22550.0,
@@ -40609,7 +40610,7 @@
     "amount": 3950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-12-24at6.17.38PM_1.jpg?v=1766585118",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/constellation-sabhya-multi-colour-kada-gemz?variant=gid://shopify/ProductVariant/47392922468564",
     "stock": 3
   },
