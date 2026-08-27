@@ -82109,7 +82109,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-103-0915_1.jpg?v=1757230223",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/aavira-victorian-bracelet?variant=gid://shopify/ProductVariant/47142311821539",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47145448210659": {
     "product_title": "Priscilla Chain With Earrings",
@@ -121915,7 +121916,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-12245.jpg?v=1768564392",
     "available_for_sale": false,
     "url": "https://www.theamethyststore.com/products/yashika-hook-jhumkas?variant=gid://shopify/ProductVariant/47842189770979",
-    "stock": -1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/47842197242083": {
     "product_title": "Prinisha Hook Jhumkas",
@@ -122409,7 +122410,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-102-13849.jpg?v=1768638353",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/kshira-nagas-short-necklace-2?variant=gid://shopify/ProductVariant/47848344486115",
-    "stock": 4
+    "stock": 8
   },
   "gid://shopify/ProductVariant/47848555053283": {
     "product_title": "Taruni Kundan Jada Billa",
@@ -122647,7 +122648,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-101-1926.jpg?v=1768652742",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/elisha-diamond-design-ring?variant=gid://shopify/ProductVariant/47848873787619",
-    "stock": 3,
+    "stock": 2,
     "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47848874442979": {
@@ -157538,7 +157539,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-2858_74fbc01e-1e64-4ad1-81e6-ecd3b20bd04e.jpg?v=1780572841",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-29?variant=gid://shopify/ProductVariant/49149900488931",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49150191763683": {
     "product_title": "Thriskhsa 3D Spl Pendant",
@@ -157566,7 +157567,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4237.jpg?v=1780573996",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/cherishing-3d-spl-pendant?variant=gid://shopify/ProductVariant/49150268637411",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49150310285539": {
     "product_title": "Aavanthika 3D Spl Pendant",
@@ -157622,7 +157623,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4242.jpg?v=1780577802",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/3d-spl-pendant-32?variant=gid://shopify/ProductVariant/49150839226595",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49150867439843": {
     "product_title": "Dazzling Nagas Jhumkas",
@@ -157832,7 +157833,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14091.jpg?v=1780728893",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/jashikha-chandhubaali-earrings?variant=gid://shopify/ProductVariant/49161839902947",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49162284859619": {
     "product_title": "Lavisha Long Earrings",
@@ -157888,7 +157889,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-106-14099.jpg?v=1780753324",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/heritage-3d-spl-jhumkas?variant=gid://shopify/ProductVariant/49162335846627",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49162340761827": {
     "product_title": "Grandeur 3D Spl Jhumkas",
@@ -158042,7 +158043,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4214.jpg?v=1781168036",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/vittoria-avikam-pendant-set?variant=gid://shopify/ProductVariant/49250467021027",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49250471477475": {
     "product_title": "Martina Avikam Pendant Set",
@@ -158070,7 +158071,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0494/0510/0182/files/AMS-104-4212.jpg?v=1781168472",
     "available_for_sale": true,
     "url": "https://www.theamethyststore.com/products/chiara-avikam-pendant-set?variant=gid://shopify/ProductVariant/49250471968995",
-    "stock": 1
+    "stock": 0
   },
   "gid://shopify/ProductVariant/49250475573475": {
     "product_title": "Matilde Avikam Pendant Set",
