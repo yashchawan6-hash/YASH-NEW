@@ -5161,9 +5161,9 @@
     "amount": 1551.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-set-of-2-24k-gold-plated-white-red-and-green-kundan-cubic-zirconia-studded-bangles-bangles-bracelets-1151970234.jpg?v=1774848025",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-set-of-2-24k-gold-plated-red-green-zircons-minimal-bangles?variant=gid://shopify/ProductVariant/47084620578990",
-    "stock": 0,
+    "stock": 1,
     "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/47084620611758": {
@@ -16521,7 +16521,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-ruby-emerald-stone-studded-jewellery-set-necklace-set-37543942029486.jpg?v=1755716751",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-emerald-stone-studded-jewellery-set?variant=gid://shopify/ProductVariant/45914947879086",
-    "stock": 1,
+    "stock": 2,
     "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/47130016776366": {
@@ -17022,7 +17022,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/rubans-22k-gold-plated-aqua-green-ad-white-cubic-zirconia-studded-jewellery-set-with-pearl-drops-jewellery-sets-37535794430126.jpg?v=1773821091",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-22k-gold-plated-ruby-pink-emerald-green-white-kundan-studded-pearl-gold-beaded-necklace-set-copy-1?variant=gid://shopify/ProductVariant/45923066282158",
-    "stock": 18,
+    "stock": 19,
     "last_alerted_stock": 18
   },
   "gid://shopify/ProductVariant/45923105341614": {
@@ -85733,7 +85733,7 @@
     "amount": 1308.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE04OP414024_Model.jpg?v=1780556691",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rubans.in/products/re04op414024?variant=gid://shopify/ProductVariant/47942180012206",
     "stock": 0
   },
