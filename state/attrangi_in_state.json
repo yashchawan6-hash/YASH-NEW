@@ -5020,8 +5020,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/ascher-cut-solitaire-ring-attrangi-1.jpg?v=1739813599",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/ascher-cut-solitaire-ring?variant=gid://shopify/ProductVariant/42286872592596",
-    "stock": 2,
-    "last_alerted_stock": 2
+    "stock": 1,
+    "last_alerted_stock": 1
   },
   "gid://shopify/ProductVariant/46511635792084": {
     "product_title": "Navratna Western Ring",
@@ -11164,7 +11164,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2026-01-09_at_2.30.30_AM_1.jpg?v=1768203375",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/diamond-bud-small-studs?variant=gid://shopify/ProductVariant/44116674019540",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/44116674052308": {
     "product_title": "Diamond Bud Small Studs",
@@ -30866,10 +30867,10 @@
     "global_id": "gid://shopify/ProductVariant/46482522833108",
     "variant_title": "Default Title",
     "sku": "BT5129R-JS",
-    "price": 7250.0,
-    "variant_price": 7250.0,
-    "product_price": 7250.0,
-    "amount": 7250.0,
+    "price": 7450.0,
+    "variant_price": 7450.0,
+    "product_price": 7450.0,
+    "amount": 7450.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-07-11at6.09.38PM.jpg?v=1752241042",
     "available_for_sale": true,
@@ -52879,24 +52880,6 @@
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/zoobiya-super-big-chandbalis?variant=gid://shopify/ProductVariant/48250054246612",
     "stock": 1
-  },
-  "gid://shopify/ProductVariant/48250295812308": {
-    "product_title": "Bobby Long Diamond Statement Earrings with Doublets",
-    "product_handle": "bobby-long-diamond-statement-earrings-with-doublets",
-    "variant_id": "gid://shopify/ProductVariant/48250295812308",
-    "global_id": "gid://shopify/ProductVariant/48250295812308",
-    "variant_title": "Default Title",
-    "sku": "SAAJ1025-B",
-    "price": 3650.0,
-    "variant_price": 3650.0,
-    "product_price": 3650.0,
-    "amount": 3650.0,
-    "currency": "INR",
-    "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-10at5.24.25PM.jpg?v=1783752183",
-    "available_for_sale": false,
-    "url": "https://www.attrangi.in/products/bobby-long-diamond-statement-earrings-with-doublets?variant=gid://shopify/ProductVariant/48250295812308",
-    "stock": 0,
-    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/48250448019668": {
     "product_title": "Navya Long Diamond and Pearl Earring",
