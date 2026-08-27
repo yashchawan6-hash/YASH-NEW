@@ -8934,10 +8934,10 @@
     "amount": 1950.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2024-07-26_at_6.21.40_PM_1.jpg?v=1750781418",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/heart-solitaire-diamond-bali?variant=gid://shopify/ProductVariant/43860864073940",
-    "stock": 1,
-    "last_alerted_stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/45445736104148": {
     "product_title": "Heart Solitaire Diamond Bali",
@@ -15447,7 +15447,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/5-carat-round-solitaire-diamond-bali-earrings-attrangi-1.jpg?v=1739816252",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/5-carat-round-solitaire-diamond-bali-earrings?variant=gid://shopify/ProductVariant/47990548037844",
-    "stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/47990610493652": {
     "product_title": "5 Carat Round Solitaire Diamond Bali Earrings",
@@ -20177,8 +20178,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-10_at_12.01.22_AM.jpg?v=1757503545",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/lata-2-line-diamond-hair-chain-mattel?variant=gid://shopify/ProductVariant/46229663842516",
-    "stock": 8,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/45860599333076": {
     "product_title": "Shira Pastel Ring | Lala Land Collection",
@@ -24023,8 +24024,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2025-02-10at7.01.57PM_1.jpg?v=1739818543",
     "available_for_sale": true,
     "url": "https://www.attrangi.in/products/layered-goddess-diamond-3-layered-hairchain-mattel?variant=gid://shopify/ProductVariant/46229619540180",
-    "stock": 6,
-    "last_alerted_stock": 0
+    "stock": 3,
+    "last_alerted_stock": 3
   },
   "gid://shopify/ProductVariant/46069743747284": {
     "product_title": "Bahubali Gold Necklace Set | Sone Pe Suhaga",
@@ -31148,7 +31149,7 @@
     "amount": 1050.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsApp_Image_2025-09-11_at_10.15.45_AM.jpg?v=1757573124",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/sasha-men-s-lapel-pin-antique-gold?variant=gid://shopify/ProductVariant/46518672916692",
     "stock": 3,
     "last_alerted_stock": 0
@@ -54423,7 +54424,7 @@
     "amount": 2650.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0566/1884/4329/files/WhatsAppImage2026-07-17at7.07.44PM_1.jpg?v=1784355459",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.attrangi.in/products/kumari-polki-moissanite-chand-clip-hair-accessory?variant=gid://shopify/ProductVariant/48323477110996",
     "stock": 3,
     "last_alerted_stock": 3
