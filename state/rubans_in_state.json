@@ -4402,9 +4402,9 @@
     "amount": 861.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RW04HC406286.jpg?v=1767159718",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-voguish-silver-shimmery-long-fringe-rubberband?variant=gid://shopify/ProductVariant/43656302690478",
-    "stock": 0
+    "stock": 20
   },
   "gid://shopify/ProductVariant/46074162282670": {
     "product_title": "Rubans Voguish Silver Shimmery Long Fringe Rubberband",
@@ -4665,8 +4665,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-gold-plated-beaded-kada-bracelet-bangles-bracelets-33768476541102.jpg?v=1774604268",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-women-gold-plated-handcrafted-elasticated-bracelet?variant=gid://shopify/ProductVariant/43812228858030",
-    "stock": 20,
-    "last_alerted_stock": 17
+    "stock": 14,
+    "last_alerted_stock": 14
   },
   "gid://shopify/ProductVariant/43812266737838": {
     "product_title": "Rubans Women Gold-Plated Kada Bracelet",
@@ -4734,7 +4734,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones-necklace-set-33573510480046.jpg?v=1755718556",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/rubans-mesmerizing-choker-set-with-wine-coloured-stones?variant=gid://shopify/ProductVariant/43813884493998",
-    "stock": 4,
+    "stock": 20,
     "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/43814258573486": {
@@ -10297,8 +10297,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/2015/7815/files/RE13V404938_Model_1.jpg?v=1774606792",
     "available_for_sale": true,
     "url": "https://www.rubans.in/products/22kt-gold-cubic-zirconia-studded-bangle-style-bracelet-re13v404938?variant=gid://shopify/ProductVariant/45315730342062",
-    "stock": 16,
-    "last_alerted_stock": 16
+    "stock": 15,
+    "last_alerted_stock": 15
   },
   "gid://shopify/ProductVariant/45315730538670": {
     "product_title": "22KT Gold Plated Cubic Zirconia Stylish Slip On Bracelets",
