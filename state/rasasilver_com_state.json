@@ -6496,8 +6496,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/2_fc2e575d-66e2-4505-a73c-bdd47a1f7fd0.jpg?v=1751449396",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/nav-rang-darpan-necklace-set?variant=gid://shopify/ProductVariant/50545568284969",
-    "stock": 3,
-    "last_alerted_stock": 3
+    "stock": 2,
+    "last_alerted_stock": 2
   },
   "gid://shopify/ProductVariant/50549122957609": {
     "product_title": "Shinebelle Cz Necklace",
@@ -12706,9 +12706,10 @@
     "amount": 130600.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_23Aug46603A.jpg?v=1769738056",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/jewels-of-miranova?variant=gid://shopify/ProductVariant/50835833782569",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/50835858227497": {
     "product_title": "Manikya Mandap Necklace Set",
@@ -22049,9 +22050,10 @@
     "amount": 80500.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Silver_140_Pics_24Oct0266_1.jpg?v=1762241448",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/shree-amodini-oddiyanam?variant=gid://shopify/ProductVariant/51428954112297",
-    "stock": 1
+    "stock": 0,
+    "last_alerted_stock": 0
   },
   "gid://shopify/ProductVariant/51428987535657": {
     "product_title": "Kaasumayi Jadau Necklace",
@@ -36975,7 +36977,7 @@
     "amount": 6290.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0043copy_resized-2.jpg?v=1764060808",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/panna-gulmora-ring?variant=gid://shopify/ProductVariant/52290986967337",
     "stock": 1,
     "last_alerted_stock": 0
@@ -63908,7 +63910,7 @@
     "amount": 55930.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_12_Mar16165_resized.jpg?v=1774346856",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/ratnashila-moissanite-bangles?variant=gid://shopify/ProductVariant/52832177717545",
     "stock": 1
   },
@@ -81069,7 +81071,7 @@
     "amount": 15555.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_24Jun40114_resized.jpg?v=1783665913",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/charulata-mor-temple-necklace?variant=gid://shopify/ProductVariant/53305189826857",
     "stock": 1,
     "last_alerted_stock": 0
@@ -85108,7 +85110,7 @@
     "amount": 43520.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July2536_resized.jpg?v=1785242945",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/crimson-crown-moissanite-bangles?variant=gid://shopify/ProductVariant/53351215235369",
     "stock": 1,
     "last_alerted_stock": 0
@@ -85451,7 +85453,7 @@
     "amount": 11560.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_CAT_40_20July0140.jpg?v=1786368571",
-    "available_for_sale": true,
+    "available_for_sale": false,
     "url": "https://www.rasasilver.com/products/pink-aura-peacock-moissanite-maang-tikka?variant=gid://shopify/ProductVariant/53362706710825",
     "stock": 1
   },
