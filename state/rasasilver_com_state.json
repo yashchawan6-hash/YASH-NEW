@@ -2007,8 +2007,8 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/SSP06453_copy.jpg?v=1744184601",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/botanique-studs?variant=gid://shopify/ProductVariant/50158205501737",
-    "stock": 5,
-    "last_alerted_stock": 3
+    "stock": 4,
+    "last_alerted_stock": 4
   },
   "gid://shopify/ProductVariant/50158302298409": {
     "product_title": "Ruby Stone Studs",
@@ -11136,7 +11136,7 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_Sliver_24Pics_20Aug21644.jpg?v=1756537405",
     "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/back-belt?variant=gid://shopify/ProductVariant/50808980635945",
-    "stock": 7,
+    "stock": 8,
     "last_alerted_stock": 7
   },
   "gid://shopify/ProductVariant/50809013010729": {
@@ -46891,7 +46891,7 @@
     "amount": 1615.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/CKK0189copy_resized_dfbd467d-61d9-4364-8581-892d922a9761.jpg?v=1769232915",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/glowra-cz-ring?variant=gid://shopify/ProductVariant/52486743785769",
     "stock": 0
   },
@@ -68245,7 +68245,7 @@
     "amount": 94180.0,
     "currency": "INR",
     "image_url": "https://cdn.shopify.com/s/files/1/0910/9225/5017/files/Rasa_26_Mar20655_resized.jpg?v=1775648266",
-    "available_for_sale": false,
+    "available_for_sale": true,
     "url": "https://www.rasasilver.com/products/seshadri-temple-daab?variant=gid://shopify/ProductVariant/52911502950697",
     "stock": -1
   },
